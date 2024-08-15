@@ -1,0 +1,1181 @@
+<svg id="main-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1760" height="720" viewBox="0 0 1760 720">
+	<defs>
+		<clipPath id="clip-MUSTRA_IN_CW">
+			<rect width="1760" height="720">
+			</rect>
+		</clipPath>
+	</defs>
+	<g id="MUSTRA_IN_CW" data-name="MUSTRA IN CW" clip-path="url(#clip-MUSTRA_IN_CW)">
+		<rect width="1760" height="720" fill="#fff">
+		</rect>
+		<g id="YardLayout">
+			<rect id="BlackCanvas" width="1760" height="720">
+			</rect>
+			<g id="Stationinfo" transform="translate(-4422.5 -41.819)">
+				<text id="Canvas-StationInfo" transform="translate(5372 103)" fill="#fff" font-size="50" font-family="NirmalaUI, Nirmala UI">
+					<tspan x="-61.365" y="0">
+						मुस्तरा
+					</tspan>
+				</text>
+				<line id="DIVIDER" x2="200" transform="translate(5261 129.5)" fill="none" stroke="#fff" stroke-width="3">
+				</line>
+				<text id="Canvas-StationInfo-2" data-name="Canvas-StationInfo" transform="translate(5372 183.5)" fill="#fff" font-size="50" font-family="SegoeUI, Segoe UI">
+					<tspan x="-111.499" y="0">
+						MUSTARA
+					</tspan>
+				</text>
+			</g>
+			<g id="Bitcomm_logo-2" data-name="Bitcomm_logo" transform="translate(45 10)">
+				<g id="Rectangle_4" data-name="Rectangle 4" transform="translate(35.597 0.608) rotate(45)" fill="#0e86d4">
+					<path d="M 50.90496444702148 50.90496444702148 L 1.887659072875977 49.62485504150391 L 0.6075512766838074 0.6075512766838074 L 49.62485504150391 1.887659072875977 L 50.90496444702148 50.90496444702148 Z" stroke="none">
+					</path>
+					<path d="M 1.121135711669922 1.121135711669922 L 2.375099182128906 49.13741683959961 L 50.39138031005859 50.39138031005859 L 49.13741683959961 2.375099182128906 L 1.121135711669922 1.121135711669922 M 0.09396743774414062 0.09396743774414062 L 50.11229705810547 1.400218963623047 L 51.41854858398438 51.41854858398438 L 1.400218963623047 50.11229705810547 L 0.09396743774414062 0.09396743774414062 Z" stroke="none" fill="#0e86d4">
+					</path>
+				</g>
+				<g id="Ellipse_2" data-name="Ellipse 2" transform="translate(19.204 19.74)" fill="none" stroke="#fff" stroke-width="5">
+					<ellipse cx="17.799" cy="18.753" rx="17.799" ry="18.753" stroke="none">
+					</ellipse>
+					<ellipse cx="17.799" cy="18.753" rx="15.299" ry="16.253" fill="none">
+					</ellipse>
+				</g>
+				<path id="Path_1-2" data-name="Path 1" d="M.568-1.031h0s8.95,7.449,10.283,9.924a47.609,47.609,0,0,1,2.316,5.086" transform="translate(9.332 30.117)" fill="none" stroke="#fff" stroke-width="5">
+				</path>
+				<g id="Path_2" data-name="Path 2" transform="translate(16.001 22.307) rotate(45)">
+					<path id="Path_91" data-name="Path 91" d="M.143,5.135.455.013l14.3.812,2.286,4.348L15.152,5.2Z" transform="translate(0.54 0.509)" fill="#0e86d4">
+					</path>
+					<path id="Path_92" data-name="Path 92" d="M1.448,1.027,1.2,5.165l14.469.058L16.8,5.209,15,1.8,1.448,1.027M.542.015,15.58.869l2.778,5.284-2.639.033L.171,6.123Z" transform="translate(0 0)" fill="#0e86d4">
+					</path>
+				</g>
+				<g id="Path_3" data-name="Path 3" transform="matrix(0.616, -0.788, 0.788, 0.616, 7.56, 30.314)">
+					<path id="Path_93" data-name="Path 93" d="M3.893.459-.014.5,0,0,3.893.366Z" transform="translate(0.473 0.526)" fill="#fff">
+					</path>
+					<path id="Path_94" data-name="Path 94" d="M.013,0,4.85.455v1l-4.892.051Z" transform="translate(0 0)" fill="#fff">
+					</path>
+				</g>
+				<path id="Path_4" data-name="Path 4" d="M44,44" transform="translate(-3.719 31.506)" fill="none" stroke="#707070" stroke-width="1">
+				</path>
+				<g id="Group_2" data-name="Group 2" transform="translate(0 1.481)">
+					<line id="Line_2" data-name="Line 2" x2="3.747" y2="3.948" transform="translate(0 31.584)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3" data-name="Line 3" x2="3.747" y2="3.948" transform="translate(4.684 26.649)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4" data-name="Line 4" x2="3.747" y2="3.948" transform="translate(9.368 21.714)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5" data-name="Line 5" x2="3.747" y2="3.948" transform="translate(13.115 17.766)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6" data-name="Line 6" x2="3.747" y2="3.948" transform="translate(17.799 12.831)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_7" data-name="Line 7" x2="3.747" y2="3.948" transform="translate(22.482 7.896)" fill="none" stroke="#707070" stroke-width="1">
+					</line>
+					<line id="Line_8" data-name="Line 8" x2="3.747" y2="3.948" transform="translate(30.913)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9" data-name="Line 9" x2="3.747" y2="3.948" transform="translate(22.482 7.896)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10" data-name="Line 10" x2="3.747" y2="3.948" transform="translate(26.23 3.948)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+				<g id="Group_3" data-name="Group 3" transform="translate(69.789) rotate(90)">
+					<line id="Line_2-2" data-name="Line 2" x2="3.948" y2="3.747" transform="translate(0 29.977)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3-2" data-name="Line 3" x2="3.948" y2="3.747" transform="translate(4.935 25.293)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4-2" data-name="Line 4" x2="3.948" y2="3.747" transform="translate(9.87 20.609)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5-2" data-name="Line 5" x2="3.948" y2="3.747" transform="translate(13.818 16.862)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6-2" data-name="Line 6" x2="3.948" y2="3.747" transform="translate(18.753 12.178)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_7-2" data-name="Line 7" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#707070" stroke-width="1">
+					</line>
+					<line id="Line_8-2" data-name="Line 8" x2="3.948" y2="3.747" transform="translate(32.571 0)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9-2" data-name="Line 9" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10-2" data-name="Line 10" x2="3.948" y2="3.747" transform="translate(27.636 3.747)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+				<g id="Group_4" data-name="Group 4" transform="translate(70.258 73.532) rotate(180)">
+					<line id="Line_2-3" data-name="Line 2" x2="3.747" y2="3.948" transform="translate(0 32.571)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3-3" data-name="Line 3" x2="3.747" y2="3.948" transform="translate(4.684 27.636)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4-3" data-name="Line 4" x2="3.747" y2="3.948" transform="translate(8.431 22.701)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5-3" data-name="Line 5" x2="3.747" y2="3.948" transform="translate(13.115 17.766)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6-3" data-name="Line 6" x2="3.747" y2="3.948" transform="translate(17.799 12.831)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_8-3" data-name="Line 8" x2="3.747" y2="3.948" transform="translate(30.913)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9-3" data-name="Line 9" x2="3.747" y2="3.948" transform="translate(22.482 7.896)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10-3" data-name="Line 10" x2="3.747" y2="3.948" transform="translate(26.23 3.948)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+				<g id="Group_5" data-name="Group 5" transform="translate(34.192 37.506) rotate(90)">
+					<line id="Line_2-4" data-name="Line 2" x2="3.948" y2="3.747" transform="translate(0 29.977)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3-4" data-name="Line 3" x2="3.948" y2="3.747" transform="translate(4.935 25.293)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4-4" data-name="Line 4" x2="3.948" y2="3.747" transform="translate(9.87 20.609)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5-4" data-name="Line 5" x2="3.948" y2="3.747" transform="translate(13.818 16.862)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6-4" data-name="Line 6" x2="3.948" y2="3.747" transform="translate(18.753 12.178)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_7-3" data-name="Line 7" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#707070" stroke-width="1">
+					</line>
+					<line id="Line_8-4" data-name="Line 8" x2="3.948" y2="3.747" transform="translate(32.571 0)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9-4" data-name="Line 9" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10-4" data-name="Line 10" x2="3.948" y2="3.747" transform="translate(27.636 3.747)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+			</g>
+			<g id="TCLegend" transform="translate(525 -428.025)">
+				<text id="TCLegendLabel" transform="translate(898 1032)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+					<tspan x="0" y="0">
+						TRACK CIRCUIT
+					</tspan>
+				</text>
+				<g id="TCFreeLegendGroup" transform="translate(888.5 1040.52)">
+					<line id="TCFreeLegendIndicator" x2="70" transform="translate(-2 10.474)" fill="none" stroke="#fff" stroke-width="6">
+					</line>
+					<text id="TCFreeLegendLabel" transform="translate(75.5 15.974)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							FREE
+						</tspan>
+					</text>
+				</g>
+				<g id="TCOccupiedLegendGroup" transform="translate(897.5 1061.093)">
+					<line id="TCOccupiedLegendIndicator" x2="70" transform="translate(-11 12.846)" fill="none" stroke="#e77e00" stroke-width="6">
+					</line>
+					<text id="TCOccupiedLegendLabel" transform="translate(65.921 18.346)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							OCCUPIED
+						</tspan>
+					</text>
+				</g>
+				<g id="TCFailureLLegendGroup" transform="translate(897.5 1083.744)">
+					<line id="TCFailureLegendIndicator" x2="70" transform="translate(-11 11.296)" fill="none" stroke="red" stroke-width="6">
+					</line>
+					<text id="TCFailureLLegendLabel" transform="translate(68 16.796)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							FAILURE
+						</tspan>
+					</text>
+				</g>
+				<g id="TCLegendCanvas" transform="translate(876 1013)" fill="none" stroke="#fff" stroke-width="2">
+					<rect width="172" height="109" stroke="none">
+					</rect>
+					<rect x="1" y="1" width="172" height="107" fill="none">
+					</rect>
+				</g>
+			</g>
+			<g id="PMLegend" transform="translate(1036 -370.025)">
+				<text id="PMLegendLabel" transform="translate(227 974)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+					<tspan x="0" y="0">
+						POINT MACHINE
+					</tspan>
+				</text>
+				<g id="PMLegendNormal" transform="translate(227 979.768)">
+					<g id="PMLegendNormalIndicator" transform="translate(0 0.232)" fill="none" stroke="#21e074" stroke-width="4">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="8" fill="none">
+						</circle>
+					</g>
+					<text id="PMLegendNormalLabel" transform="translate(32 16.232)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							NORMAL
+						</tspan>
+					</text>
+				</g>
+				<g id="PMLegendReverse" transform="translate(227 1003.584)">
+					<g id="PMLegendReverseIndicator" transform="translate(0 0.416)" fill="none" stroke="#0088d1" stroke-width="4">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="8" fill="none">
+						</circle>
+					</g>
+					<text id="PMLegendReverseLabel" transform="translate(30 15.416)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							REVERSE
+						</tspan>
+					</text>
+				</g>
+				<g id="PMLegendHr" transform="translate(227.929 1024.572)">
+					<path id="PMLegendHr1" d="M10.433,19.646C4.823,15.724,1.881,12.155.675,9.168c-3.232-8,6-11.832,9.758-7.107,3.758-4.725,12.991-.9,9.758,7.107C18.985,12.155,16.043,15.724,10.433,19.646Z" transform="translate(0 3.457)" fill="red">
+					</path>
+					<path id="PMLegendHr2" d="M-.094.01H5.175L7.357-3.307l2.832,6.271L12.232.01,19.327,0" transform="translate(0.807 12.769)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4">
+					</path>
+					<text id="PMLegendFailureLabel" transform="translate(28.702 15)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							FAILURE
+						</tspan>
+					</text>
+				</g>
+				<g id="PMLegendCanvas" transform="translate(216 955)" fill="none" stroke="#fff" stroke-width="2">
+					<rect width="142" height="109" stroke="none">
+					</rect>
+					<rect x="1" y="1" width="142" height="107" fill="none">
+					</rect>
+				</g>
+			</g>
+			<g id="Separator" transform="translate(660.171 280.644)">
+				<g id="SEP4" transform="translate(732.688 440.417)">
+					<g id="SEP4B" transform="translate(-899 -496.917)">
+						<line id="SEP4B2" y2="10" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="3">
+						</line>
+						<line id="SEP4B1" x1="6" transform="translate(0 11)" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="3">
+						</line>
+					</g>
+				</g>
+				<g id="SEP3" transform="translate(869.13 842.627)">
+					<g id="SEP3A" transform="translate(-57.312 1)">
+						<g id="SEP3A2" transform="translate(-899 -608)">
+							<path id="SEP3A2B" d="M3.176-3.375v13.1h7.006" transform="translate(-1 2.5)" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="3">
+							</path>
+						</g>
+					</g>
+				</g>
+				<g id="SEP2" transform="translate(983.517 730.704)">
+					<g id="SEP2K" transform="translate(-1458 -597)">
+						<path id="SEP2K1" d="M2.449,2.954V14.8H8.983" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="3">
+						</path>
+					</g>
+					<g id="SEP2A" transform="translate(22.26 -586.375)">
+						<path id="SEP2A2" d="M7.277,0V12.886H.937" transform="translate(-0.277 -9)" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="3">
+						</path>
+					</g>
+				</g>
+				<g id="SEP1" transform="translate(732.688 625.53)">
+					<g id="SEP1B" transform="translate(-1310 -586.438)">
+						<path id="SEP1B2" d="M3.022,1.624V14.407h6.79" transform="translate(1 -2)" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="3">
+						</path>
+					</g>
+					<g id="SEP1A" transform="translate(274.26 -589)">
+						<path id="SEP1A2" d="M10.448,1.408V15.426H2.55" transform="translate(-4.448 1)" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="3">
+						</path>
+					</g>
+				</g>
+				<g id="SEP4C" transform="matrix(0.999, 0.035, -0.035, 0.999, -693.005, -125.729)">
+					<path id="SEP4C2" d="M3.879,1.315l6.269,11.592L3.406,16.573" transform="translate(1425.096 -17)" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="3">
+					</path>
+				</g>
+			</g>
+			<g id="TrackCircuit" transform="translate(-1706.359 -326.975)">
+				<g id="TC204T" class="tooltip" transform="translate(2285.524 838.619)" edge-id="MSV_TC_204T">
+					<line id="TC204TLine" y1="0.5" x2="90" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_204TLine">
+					</line>
+					<g id="TC204TName" transform="translate(22.274)" edge-id-selector="MSV_TC_204TName">
+						<rect id="TC204TRectangle" width="43.33" height="20" transform="translate(0)" edge-id-selector="MSV_TC_204TRectangle">
+						</rect>
+						<text id="TC204TLable" transform="translate(10 16)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_204TLable">
+							<tspan x="0" y="0">
+								204T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCULT3T" class="tooltip" transform="translate(2378.536 838.619)" edge-id="MSV_TC_ULT3T">
+					<line id="TCULT3TLine" x2="168" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_ULT3TLine">
+					</line>
+					<g id="TCULT3TName" transform="translate(68.9)" edge-id-selector="MSV_TC_ULT3TName">
+						<rect id="TCULT3TRectangle" width="43.33" height="20" transform="translate(0)" edge-id-selector="MSV_TC_ULT3TRectangle">
+						</rect>
+						<text id="TCULT3TLable" transform="translate(6.165 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_ULT3TLable">
+							<tspan x="0" y="0">
+								ULT3
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCULT2T" class="tooltip" transform="translate(2549.536 836.619)" edge-id="MSV_TC_ULT2T">
+					<line id="TCULT2TLine" x2="189" transform="translate(0 12)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_ULT2TLine">
+					</line>
+					<g id="TCULT2TName" transform="translate(75.157)" edge-id-selector="MSV_TC_ULT2TName">
+						<rect id="TCULT2TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_ULT2TRectangle">
+						</rect>
+						<text id="TCULT2TLable" transform="translate(21.665 16)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_ULT2TLable">
+							<tspan x="-15.418" y="0">
+								ULT2
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCULT1T" class="tooltip" transform="translate(2741.536 838.619)" edge-id="MSV_TC_ULT1T">
+					<path id="TCULT1TLine" d="M0,0,119.733.473l10.985,4.954" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_ULT1TLine">
+					</path>
+					<g id="TCULT1TName" transform="translate(37.335)" edge-id-selector="MSV_TC_ULT1TName">
+						<rect id="TCULT1TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_ULT1TRectangle">
+						</rect>
+						<text id="TCULT1TLable" transform="translate(21.665 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_ULT1TLable">
+							<tspan x="-15.418" y="0">
+								ULT1
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCC1T" class="tooltip" transform="translate(1796.379 642.619)" edge-id="MSV_TC_C1T">
+					<line id="TCC1TLine" x2="96.5" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_C1TLine">
+					</line>
+					<g id="TCC1TName" transform="translate(26.169)" edge-id-selector="MSV_TC_C1TName">
+						<rect id="TCC1TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_C1TRectangle">
+						</rect>
+						<text id="TCC1TLable" transform="translate(10.665 15.5)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_TC_C1TLable">
+							<tspan x="0" y="0">
+								C1T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC1T" class="tooltip" transform="translate(1895.879 642.619)" edge-id="MSV_TC_1T">
+					<line id="TC1TLine" x2="236" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_1TLine">
+					</line>
+					<g id="TC1TName" transform="translate(98.484)" edge-id-selector="MSV_TC_1TName">
+						<rect id="TC1TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_1TRectangle">
+						</rect>
+						<text id="TC1TLable" transform="translate(14.665 15.5)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_TC_1TLable">
+							<tspan x="0" y="0">
+								1T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC202T" class="tooltip" transform="translate(2134.879 642.619)" edge-id="MSV_TC_202T">
+					<line id="TC202TLine" x2="156" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_202TLine">
+					</line>
+					<g id="TC202TName" transform="translate(52.249)" edge-id-selector="MSV_TC_202TName">
+						<rect id="TC202TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_202TRectangle">
+						</rect>
+						<text id="TC202TLable" transform="translate(7.665 15.5)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_TC_202TLable">
+							<tspan x="0" y="0">
+								202T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC205T" class="tooltip" transform="translate(2293.879 642.619)" edge-id="MSV_TC_205T">
+					<line id="TC205TLine" x2="90" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_205TLine">
+					</line>
+					<g id="TC205TName" transform="translate(24.884)" edge-id-selector="MSV_TC_205TName">
+						<rect id="TC205TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_205TRectangle">
+						</rect>
+						<text id="TC205TLable" transform="translate(7.665 15.5)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_TC_205TLable">
+							<tspan x="0" y="0">
+								205T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCDMT1T" class="tooltip" transform="translate(2386.879 642.119)" edge-id="MSV_TC_DMT1T">
+					<line id="TCDMT1TLine" x2="118" transform="translate(0 10.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_DMT1TLine">
+					</line>
+					<g id="TCDMT1TName" transform="translate(37.335 0.195)" edge-id-selector="MSV_TC_DMT1TName">
+						<rect id="TCDMT1TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_DMT1TRectangle">
+						</rect>
+						<text id="TCDMT1TLable" transform="translate(4.165 15.5)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_TC_DMT1TLable">
+							<tspan x="0" y="0">
+								DMT1
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCDMT2T" class="tooltip" transform="translate(2507.879 641.819)" edge-id="MSV_TC_DMT2T">
+					<line id="TCDMT2TLine" x2="189" transform="translate(0 10.8)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_DMT2TLine">
+					</line>
+					<g id="TCDMT2TName" transform="translate(64.284 1.8)" edge-id-selector="MSV_TC_DMT2TName">
+						<rect id="TCDMT2TRectangle" width="43.33" height="13.61" edge-id-selector="MSV_TC_DMT2TRectangle">
+						</rect>
+						<text id="TCDMT2TLable" transform="translate(21.665 14)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_DMT2TLable">
+							<tspan x="-17.919" y="0">
+								DMT2
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCDMT3T" class="tooltip" transform="translate(2699.879 642.619)" edge-id="MSV_TC_DMT3T">
+					<line id="TCDMT3TLine" x2="189" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_DMT3TLine">
+					</line>
+					<g id="TCDMT3TName" transform="translate(77.998)" edge-id-selector="MSV_TC_DMT3TName">
+						<rect id="TCDMT3TRectangle" width="43.33" height="13.61" transform="translate(0)" edge-id-selector="MSV_TC_DMT3TRectangle">
+						</rect>
+						<text id="TCDMT3TLable" transform="translate(21.665 14)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_DMT3TLable">
+							<tspan x="-17.919" y="0">
+								DMT3
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC295T" class="tooltip" transform="translate(2891.88 642.619)" edge-id="MSV_TC_295T">
+					<line id="TC295TLine" x2="105" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_295TLine">
+					</line>
+					<g id="TC295TName" transform="translate(30.149)" edge-id-selector="MSV_TC_295TName">
+						<rect id="TC295TRectangle" width="43.33" height="13.61" edge-id-selector="MSV_TC_295TRectangle">
+						</rect>
+						<text id="TC295TLable" transform="translate(21.665 14)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_295TLable">
+							<tspan x="-14.746" y="0">
+								295T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC298T" class="tooltip" transform="translate(2999.881 642.619)" edge-id="MSV_TC_298T">
+					<line id="TC298TLine" x2="115" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_298TLine">
+					</line>
+					<g id="TC298TName" transform="translate(35.228)" edge-id-selector="MSV_TC_298TName">
+						<rect id="TC298TRectangle" width="43.33" height="13.61" edge-id-selector="MSV_TC_298TRectangle">
+						</rect>
+						<text id="TC298TLable" transform="translate(21.665 14)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_298TLable">
+							<tspan x="-14.746" y="0">
+								298T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC17T" class="tooltip" transform="translate(3117.882 642.619)" edge-id="MSV_TC_17T">
+					<line id="TC17TLine" x2="125" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_17TLine">
+					</line>
+					<g id="TC17TName" transform="translate(42.08)" edge-id-selector="MSV_TC_17TName">
+						<rect id="TC17TRectangle" width="43.33" height="13.61" edge-id-selector="MSV_TC_17TRectangle">
+						</rect>
+						<text id="TC17TLable" transform="translate(21.665 16)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_17TLable">
+							<tspan x="-11.029" y="0">
+								17T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC19T" class="tooltip" transform="translate(3245.883 642.619)" edge-id="MSV_TC_19T">
+					<line id="TC19TLine" x2="130" y2="0.125" transform="translate(0 9.75)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_19TLine">
+					</line>
+					<g id="TC19TName" transform="translate(39.97)" edge-id-selector="MSV_TC_19TName">
+						<rect id="TC19TRectangle" width="43.33" height="13.61" edge-id-selector="MSV_TC_19TRectangle">
+						</rect>
+						<text id="TC19TLable" transform="translate(21.665 14)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_19TLable">
+							<tspan x="-11.029" y="0">
+								19T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC4T" class="tooltip" transform="translate(1998.383 739.682)" edge-id="MSV_TC_4T">
+					<line id="TC4TLine" x2="134" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_4TLine">
+					</line>
+					<g id="TC4TName" transform="translate(48.314)" edge-id-selector="MSV_TC_4TName">
+						<rect id="TC4TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_4TRectangle">
+						</rect>
+						<text id="TC4TLable" transform="translate(21.665 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_4TLable">
+							<tspan x="-7.313" y="0">
+								4T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC2T" class="tooltip" transform="translate(1898.883 739.682)" edge-id="MSV_TC_2T">
+					<line id="TC2TLine" x2="96.5" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_2TLine">
+					</line>
+					<g id="TC2TName" transform="translate(25.687)" edge-id-selector="MSV_TC_2TName">
+						<rect id="TC2TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_2TRectangle">
+						</rect>
+						<text id="TC2TLable" transform="translate(14.165 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_2TLable">
+							<tspan x="0" y="0">
+								2T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC201T" class="tooltip" transform="translate(2135.383 739.682)" edge-id="MSV_TC_201T">
+					<line id="TC201TLine" x2="96.5" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_201TLine">
+					</line>
+					<g id="TC201TName" transform="translate(25.395)" edge-id-selector="MSV_TC_201TName">
+						<rect id="TC201TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_201TRectangle">
+						</rect>
+						<text id="TC201TLable" transform="translate(7.165 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_201TLable">
+							<tspan x="0" y="0">
+								201T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC203T" class="tooltip" transform="translate(2195.883 707.682)" edge-id="MSV_TC_203T">
+					<line id="TC203TLine" x2="145" transform="translate(39 42)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_203TLine">
+					</line>
+					<g id="TC203TName" transform="translate(85.773 32)" edge-id-selector="MSV_TC_203TName">
+						<rect id="TC203TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_203TRectangle">
+						</rect>
+						<text id="TC203TLable" transform="translate(7.165 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_203TLable">
+							<tspan x="0" y="0">
+								203T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCUMT3T" class="tooltip" transform="translate(2382.883 739.682)" edge-id="MSV_TC_UMT3T">
+					<line id="TCUMT3TLine" x2="168" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_UMT3TLine">
+					</line>
+					<g id="TCUMT3TName" transform="translate(61.738)" edge-id-selector="MSV_TC_UMT3TName">
+						<rect id="TCUMT3TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_UMT3TRectangle">
+						</rect>
+						<text id="TCUMT3TLable" transform="translate(3.665 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_UMT3TLable">
+							<tspan x="0" y="0">
+								UMT3
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCUMT2T" class="tooltip" transform="translate(2553.883 739.682)" edge-id="MSV_TC_UMT2T">
+					<line id="TCUMT2TLine" x2="189" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_UMT2TLine">
+					</line>
+					<g id="TCUMT2TName" transform="translate(77.688)" edge-id-selector="MSV_TC_UMT2TName">
+						<rect id="TCUMT2TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_UMT2TRectangle">
+						</rect>
+						<text id="TCUMT2TLable" transform="translate(21.665 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_UMT2TLable">
+							<tspan x="-17.913" y="0">
+								UMT2
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCUMT1T" class="tooltip" transform="translate(2745.883 739.682)" edge-id="MSV_TC_UMT1T">
+					<line id="TCUMT1TLine" x2="118" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_UMT1TLine">
+					</line>
+					<g id="TCUMT1TName" transform="translate(38.73)" edge-id-selector="MSV_TC_UMT1TName">
+						<rect id="TCUMT1TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_UMT1TRectangle">
+						</rect>
+						<text id="TCUMT1TLable" transform="translate(21.665 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_UMT1TLable">
+							<tspan x="-17.913" y="0">
+								UMT1
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC293T" class="tooltip" transform="translate(2866.883 739.682)" edge-id="MSV_TC_293T">
+					<line id="TC293TLine" x2="180" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_293TLine">
+					</line>
+					<g id="TC293TName" transform="translate(70.495)" edge-id-selector="MSV_TC_293TName">
+						<rect id="TC293TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_293TRectangle">
+						</rect>
+						<text id="TC293TLable" transform="translate(21.665 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_293TLable">
+							<tspan x="-14.746" y="0">
+								293T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC297T" class="tooltip" transform="translate(3049.883 739.682)" edge-id="MSV_TC_297T">
+					<line id="TC297TLine" x2="110" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_297TLine">
+					</line>
+					<g id="TC297TName" transform="translate(32.857)" edge-id-selector="MSV_TC_297TName">
+						<rect id="TC297TRectangle" width="43.33" height="18" edge-id-selector="MSV_TC_297TRectangle">
+						</rect>
+						<text id="TC297TLable" transform="translate(24 14)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_297TLable">
+							<tspan x="-14.746" y="0">
+								297T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC18T" class="tooltip" transform="translate(3162.883 739.682)" edge-id="MSV_TC_18T">
+					<line id="TC18TLine" x2="110" transform="translate(0 10)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_18TLine">
+					</line>
+					<g id="TC18TName" transform="translate(32.907)" edge-id-selector="MSV_TC_18TName">
+						<rect id="TC18TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_18TRectangle">
+						</rect>
+						<text id="TC18TLable" transform="translate(21.665 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_18TLable">
+							<tspan x="-11.029" y="0">
+								18T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCC18T" class="tooltip" transform="translate(3275.883 709.182)" edge-id="MSV_TC_C18T">
+					<line id="TCC18TLine" x2="100" y2="0.125" transform="translate(0 40.375)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_C18TLine">
+					</line>
+					<g id="TCC18TName" transform="translate(28.335 30.375)" edge-id-selector="MSV_TC_C18TName">
+						<rect id="TCC18TRectangle" width="43.33" height="20" edge-id-selector="MSV_TC_C18TRectangle">
+						</rect>
+						<text id="TCC18TLable" transform="translate(21.665 15)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_C18TLable">
+							<tspan x="-15.13" y="0">
+								C18T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC296T" class="tooltip" transform="translate(2887.518 525.11)" edge-id="MSV_TC_296T">
+					<path id="TC296TLine" d="M0,31.266s50.487-3.372,72.838-5.735,41.846-4.066,55.993-6.238l17.811-2.862L213.753,0" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="3" edge-id-selector="MSV_TC_296TLine">
+					</path>
+					<g id="TC296TName" transform="translate(88.879 17.656)" edge-id-selector="MSV_TC_296TName">
+						<rect id="TC296TRectangle" width="43.33" height="13.61" transform="translate(0 -2.195)" edge-id-selector="MSV_TC_296TRectangle">
+						</rect>
+						<text id="TC296TLable" transform="translate(21.665 9.61)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_296TLable">
+							<tspan x="-14.746" y="0">
+								296T
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCDULT3T" class="tooltip" transform="translate(2694.518 546.93)" edge-id="MSV_TC_DULT3T">
+					<line id="TCDULT3TLine" x2="189" y2="0.5" transform="translate(0 9.281)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_DULT3TLine">
+					</line>
+					<g id="TCDULT3TName" transform="translate(75.102 0.433)" edge-id-selector="MSV_TC_DULT3TName">
+						<path id="TCDULT3TRectangle" d="M.01.021,43.322.01l-.007,13.562L0,13.583Z" transform="translate(0.005 0.033)" edge-id-selector="MSV_TC_DULT3TRectangle">
+						</path>
+						<text id="TCDULT3TLable" transform="translate(21.705 14.013)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_DULT3TLable">
+							<tspan x="-20.157" y="0">
+								UDLT3
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCDULT2T" class="tooltip" transform="translate(2499.53 546.978)" edge-id="MSV_TC_DULT2T">
+					<path id="TCDULT2TLine" d="M0,0H189" transform="translate(3 9.236)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_DULT2TLine">
+					</path>
+					<g id="TCDULT2TName" transform="translate(75 0.022)" edge-id-selector="MSV_TC_DULT2TName">
+						<rect id="TCDULT2TRectangle" width="43.33" height="13.61" edge-id-selector="MSV_TC_DULT2TRectangle">
+						</rect>
+						<text id="TCDULT2TLable" transform="translate(21.665 14)" fill="#fff" font-size="13" font-family="OpenSans, Open Sans" edge-id-selector="MSV_TC_DULT2TLable">
+							<tspan x="-20.157" y="0">
+								UDLT2
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TCDULT1T" class="tooltip" transform="translate(2387.602 544.171)" edge-id="MSV_TC_DULT1T">
+					<path id="TCDULT1TLine" d="M-.06-.282l118,.5" transform="translate(-6 11.61)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MSV_TC_DULT1TLine">
+					</path>
+					<g id="TCDULT1TName" transform="translate(31.275 2.829)" edge-id-selector="MSV_TC_DULT1TName">
+						<rect id="TCUDLT1Rectangle" width="43.33" height="17">
+						</rect>
+						<text id="TCUDLT1Lable" transform="translate(5 14)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								UDLT1
+							</tspan>
+						</text>
+					</g>
+				</g>
+				<g id="TC206T" class="tooltip" transform="translate(2227.53 544.333)" edge-id="MSV_TC_206T">
+					<path id="TC206TLine" d="M-6.148,4.106.77-.377,148.616.337" transform="translate(1.384 10.825)" fill="rgba(0,0,0,0)" stroke="#6c7091" stroke-linecap="square" stroke-width="3" edge-id-selector="MSV_TC_206TLine">
+					</path>
+					<g id="TC206TName" transform="translate(53.298 1.948)" edge-id-selector="MSV_TC_206TName">
+						<rect id="TC206TRectangle" width="43.33" height="14.892" transform="translate(0 1.695)" edge-id-selector="MSV_TC_206TRectangle">
+						</rect>
+						<text id="TC206TLable" transform="translate(7.665 14)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_TC_206TLable">
+							<tspan x="0" y="0">
+								206T
+							</tspan>
+						</text>
+					</g>
+				</g>
+			</g>
+			<g id="ToungeRail" transform="translate(-2855.829 83.521)">
+				<g id="TR07" transform="translate(3390.259 354.575)">
+					<path id="TR07B" d="M-5.732-14.7H2.332L121.292,73.557h10.295" transform="translate(1.455 4.023)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="3">
+					</path>
+				</g>
+				<g id="TR05" transform="translate(3954.47 -62.177)">
+					<path id="TR05B" d="M57.962-37.708l10.177-.912L160.4,49.644l7.98.018" transform="translate(23.482 250.601)" fill="none" stroke="#6c7091" stroke-width="3">
+					</path>
+				</g>
+				<path id="TR04C" d="M-2.776,41.488s3.433.049,6.275,0C26.047,27.6,135.186-43.626,141.554-45.317H149.2" transform="translate(3289.383 293.404)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="3">
+				</path>
+				<path id="TR04A" d="M0,0,13.076,5.822l9.364-1.179" transform="matrix(0.914, -0.407, 0.407, 0.914, 3354.118, 145.262)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<g id="TR03" transform="translate(3418.373 853.37)">
+					<path id="TR03B" d="M-6.187-3.943h8.07L144.622,83.471h8.753" transform="translate(737.301 -603.009)" fill="none" stroke="#6c7091" stroke-width="3">
+					</path>
+				</g>
+				<g id="TR02" transform="translate(3320.243 226.256)">
+					<path id="TR02B" d="M-.45,85.974h9.4L74.275.009h9.979" transform="translate(123.74 -75.89)" fill="none" stroke="#6c7091" stroke-width="3">
+					</path>
+				</g>
+				<g id="TR01" transform="translate(4011.703 423.084)">
+					<path id="TR01B" d="M-10.278,7.971-.37,12.71S134.472-68.405,163.146-81.623c3.876-.054,8.966,0,8.966,0" transform="translate(12.545 2.37)" fill="none" stroke="#6c7091" stroke-width="3">
+					</path>
+				</g>
+			</g>
+			<g id="PointMachine" transform="translate(-2088.704 -1326.571)">
+				<g id="PM297" class="tooltip" transform="translate(3524.75 1755.223)" edge-id="MSV_PM_297">
+					<g id="PM297Hr" transform="translate(25.399 -28.974) rotate(-0.3)" edge-id-selector="MSV_PM_297Hr">
+						<path id="PM297Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_297Hr1">
+						</path>
+						<path id="PM297Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_297Hr2">
+						</path>
+					</g>
+					<g id="PM297Icon" transform="translate(3 -37)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_297Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM297Label" transform="translate(-8 -41)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_297Label">
+						<tspan x="0" y="0">
+							297
+						</tspan>
+					</text>
+				</g>
+				<g id="PM298" class="tooltip" transform="translate(3371 1661.825)" edge-id="MSV_PM_298">
+					<g id="PM298Hr" transform="translate(21.149 19.425) rotate(-0.3)" edge-id-selector="MSV_PM_298Hr">
+						<path id="PM298Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_298Hr1">
+						</path>
+						<path id="PM298Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_298Hr2">
+						</path>
+					</g>
+					<g id="PM298Icon" transform="translate(6)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_298Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM298Label" transform="translate(-20 23)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_298Label">
+						<tspan x="0" y="0">
+							298
+						</tspan>
+					</text>
+				</g>
+				<g id="PM295" class="tooltip" transform="translate(3371 1605.155)" edge-id="MSV_PM_295">
+					<g id="PM295Hr" transform="translate(-10.851 0.095) rotate(-0.3)" edge-id-selector="MSV_PM_295Hr">
+						<path id="PM295Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_295Hr1">
+						</path>
+						<path id="PM295Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_295Hr2">
+						</path>
+					</g>
+					<g id="PM295Icon" transform="translate(-6 16)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_295Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM295Label" transform="translate(17 22)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_295Label">
+						<tspan x="0" y="0">
+							295
+						</tspan>
+					</text>
+				</g>
+				<g id="PM293" class="tooltip" transform="translate(3414 1767.982)" edge-id="MSV_PM_293">
+					<g id="PM293Hr" transform="translate(-6.851 12.268) rotate(-0.3)" edge-id-selector="MSV_PM_293Hr">
+						<path id="PM293Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_293Hr1">
+						</path>
+						<path id="PM293Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_293Hr2">
+						</path>
+					</g>
+					<g id="PM293Icon" transform="translate(0 -8)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_293Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM293Label" transform="translate(20 21)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_293Label">
+						<tspan x="0" y="0">
+							293
+						</tspan>
+					</text>
+				</g>
+				<g id="PM294" class="tooltip" transform="translate(3236.75 1855.43)" edge-id="MSV_PM_294">
+					<g id="PM294Hr" transform="translate(8.399 14.82) rotate(-0.3)" edge-id-selector="MSV_PM_294Hr">
+						<path id="PM294Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_294Hr1">
+						</path>
+						<path id="PM294Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_294Hr2">
+						</path>
+					</g>
+					<g id="PM294Icon" transform="translate(-6 -3)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_294Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM294Label" transform="translate(-30 28)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_294Label">
+						<tspan x="0" y="0">
+							294
+						</tspan>
+					</text>
+				</g>
+				<g id="PM296" class="tooltip" transform="translate(3269.75 1566.325)" edge-id="MSV_PM_296">
+					<g id="PM296Hr" transform="translate(4.399 24.925) rotate(-0.3)" edge-id-selector="MSV_PM_296Hr">
+						<path id="PM296Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_296Hr1">
+						</path>
+						<path id="PM296Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_296Hr2">
+						</path>
+					</g>
+					<g id="PM296Icon" transform="translate(-5 1.5)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_296Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM296Label" transform="translate(-35 17.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_296Label">
+						<tspan x="0" y="0">
+							296
+						</tspan>
+					</text>
+				</g>
+				<g id="PM204" class="tooltip" transform="translate(2746 1856.43)" edge-id="MSV_PM_204">
+					<g id="PM204Hr" transform="translate(-16.851 13.82) rotate(-0.3)" edge-id-selector="MSV_PM_204Hr">
+						<path id="PM204Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_204Hr1">
+						</path>
+						<path id="PM204Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_204Hr2">
+						</path>
+					</g>
+					<g id="PM204Icon" transform="translate(-4 -2)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_204Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM204Label" transform="translate(13 29)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_204Label">
+						<tspan x="0" y="0">
+							204
+						</tspan>
+					</text>
+				</g>
+				<g id="PM203" class="tooltip" transform="translate(2614 1759.396)" edge-id="MSV_PM_203">
+					<g id="PM203Hr" transform="translate(8.149 20.854) rotate(-0.3)" edge-id-selector="MSV_PM_203Hr">
+						<path id="PM203Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_203Hr1">
+						</path>
+						<path id="PM203Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_203Hr2">
+						</path>
+					</g>
+					<g id="PM203Icon" transform="translate(0 -1)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_203Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM203Label" transform="translate(-26 29)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_203Label">
+						<tspan x="0" y="0">
+							203
+						</tspan>
+					</text>
+				</g>
+				<g id="PM202" class="tooltip" transform="translate(2660.75 1664.362)" edge-id="MSV_PM_202">
+					<g id="PM202Hr" transform="translate(18.399 1.888) rotate(-0.3)" edge-id-selector="MSV_PM_202Hr">
+						<path id="PM202Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_202Hr1">
+						</path>
+						<path id="PM202Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_202Hr2">
+						</path>
+					</g>
+					<g id="PM202Icon" transform="translate(-3 -2)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_202Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM202Label" transform="translate(-19 34)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_202Label">
+						<tspan x="0" y="0">
+							202
+						</tspan>
+					</text>
+				</g>
+				<g id="PM205" class="tooltip" transform="translate(2667.75 1596.008)" edge-id="MSV_PM_205">
+					<g id="PM205Hr" transform="translate(-14.601 31.241) rotate(-0.3)" edge-id-selector="MSV_PM_205Hr">
+						<path id="PM205Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_205Hr1">
+						</path>
+						<path id="PM205Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_205Hr2">
+						</path>
+					</g>
+					<g id="PM205Icon" transform="translate(2 25)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_205Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM205Label" transform="translate(2 22)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_205Label">
+						<tspan x="0" y="0">
+							205
+						</tspan>
+					</text>
+				</g>
+				<g id="PM206" class="tooltip" transform="translate(2743 1510)" edge-id="MSV_PM_206">
+					<g id="PM206Hr" transform="translate(-13.851 11.25) rotate(-0.3)" edge-id-selector="MSV_PM_206Hr">
+						<path id="PM206Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_206Hr1">
+						</path>
+						<path id="PM206Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_206Hr2">
+						</path>
+					</g>
+					<g id="PM206Icon" transform="translate(0 20)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_206Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM206Label" transform="translate(20 16)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_206Label">
+						<tspan x="0" y="0">
+							206
+						</tspan>
+					</text>
+				</g>
+				<g id="PM207" class="tooltip" transform="translate(2610 1510)" edge-id="MSV_PM_207">
+					<g id="PM207Hr" transform="translate(21.149 21.25) rotate(-0.3)" edge-id-selector="MSV_PM_207Hr">
+						<path id="PM207Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_207Hr1">
+						</path>
+						<path id="PM207Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_207Hr2">
+						</path>
+					</g>
+					<g id="PM207Icon" transform="translate(0 20)" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_207Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM207Label" transform="translate(-22 18)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_207Label">
+						<tspan x="0" y="0">
+							207
+						</tspan>
+					</text>
+				</g>
+				<g id="PM201" class="tooltip" transform="translate(2517 1755.223)" edge-id="MSV_PM_201">
+					<g id="PM201Hr" transform="translate(14.149 20.026) rotate(-0.3)" edge-id-selector="MSV_PM_201Hr">
+						<path id="PM201Hr1" d="M7.384,12.835C3.414,10.273,1.331,7.941.477,5.99-1.81.761,4.724-1.74,7.384,1.347,10.043-1.74,16.578.761,14.29,5.99,13.436,7.941,11.354,10.273,7.384,12.835Z" transform="translate(0.199 1.057)" edge-id-selector="MSV_PM_201Hr1">
+						</path>
+						<path id="PM201Hr2" d="M0,2.972H3.562L4.744,0,6.933,5.25,8.421,2.972h4.833" transform="translate(0.954 3.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MSV_PM_201Hr2">
+						</path>
+					</g>
+					<g id="PM201Icon" fill="#fff" stroke="#6c7091" stroke-width="5" edge-id-selector="MSV_PM_201Icon">
+						<circle cx="10" cy="10" r="10" stroke="none">
+						</circle>
+						<circle cx="10" cy="10" r="7.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM201Label" transform="translate(-26 23)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MSV_PM_201Label">
+						<tspan x="0" y="0">
+							201
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="Signal" transform="translate(1787.313 -752.121)">
+				<g id="SGC18" class="tooltip" transform="translate(-247.428 1361.03)">
+					<g id="SGC18Aspect1" transform="translate(52 -118)" fill="none" stroke="#6c7091" stroke-width="1">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<text id="SGC18Label" transform="translate(41 -91)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							C18
+						</tspan>
+					</text>
+				</g>
+				<g id="SG18" class="tooltip" transform="translate(-313.428 1357.03)" edge-id="MSV_SG_S18">
+					<g id="SG18Aspect1" transform="translate(156 -116)" fill="none" stroke="#6c7091" stroke-width="1" edge-id-selector="MSV_SG_S18Aspect1">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="7" fill="none">
+						</circle>
+					</g>
+					<g id="SG18Aspect2" transform="translate(141 -116)" fill="none" stroke="#6c7091" stroke-width="1" edge-id-selector="MSV_SG_S18Aspect2">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="7" fill="none">
+						</circle>
+					</g>
+					<text id="SG18Label" transform="translate(156 -87)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_SG_S18Label">
+						<tspan x="0" y="0">
+							18
+						</tspan>
+					</text>
+				</g>
+				<g id="POLES" transform="translate(-206.64 1179.03)">
+					<line id="POLES1" y2="71.5" transform="translate(0 -2)" fill="none" stroke="#6c7091" stroke-width="2.5">
+					</line>
+					<line id="POLES2" x1="11" transform="translate(0 69.5)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2.5">
+					</line>
+					<line id="POLES3" x1="11" transform="translate(22.5 69.5)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="2.5">
+					</line>
+				</g>
+				<g id="SG1" class="tooltip" transform="translate(-1626.5 960.33)" edge-id="MSV_SG_S1">
+					<g id="SG1Aspect1" transform="translate(51.5 62) rotate(180)" fill="none" edge-id-selector="MSV_SG_S1Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SG1Aspect2" transform="translate(66.5 62) rotate(180)" fill="none" edge-id-selector="MSV_SG_S1Aspect2">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SG1Label" transform="translate(49.5 43)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_SG_S1Label">
+						<tspan x="0" y="0">
+							1
+						</tspan>
+					</text>
+					<g id="POLES1-2" data-name="POLES1" transform="translate(3 41.5)">
+						<line id="POLESC12" y2="60" transform="translate(0 13)" fill="none" stroke="#6c7091" stroke-width="2.5">
+						</line>
+						<line id="POLESC11" x2="11" transform="translate(0 13)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2.5">
+						</line>
+						<line id="POLESC13" x2="11" transform="translate(23.5 13)" fill="none" stroke="#6c7091" stroke-width="2.5">
+						</line>
+					</g>
+				</g>
+				<g id="SGC1" class="tooltip" transform="translate(-1614.75 977.33)">
+					<g id="SGC1Aspect1" transform="translate(2 31)" fill="none" stroke="#6c7091" stroke-width="2">
+						<circle cx="6.5" cy="6.5" r="6.5" stroke="none">
+						</circle>
+						<circle cx="6.5" cy="6.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<text id="SGC1Label" transform="translate(2 27)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							C1
+						</tspan>
+					</text>
+				</g>
+				<g id="SG2" class="tooltip" transform="translate(-1625 1187.03)" edge-id="MSV_SG_S2">
+					<g id="SG2Aspect1" transform="translate(118.189 38.224) rotate(180)" fill="none" edge-id-selector="MSV_SG_S2Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SG2Aspect2" transform="translate(103.189 38.224) rotate(180)" fill="none" edge-id-selector="MSV_SG_S2Aspect2">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SG2Label" transform="translate(95.189 54.224)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_SG_S2Label">
+						<tspan x="0" y="0">
+							2
+						</tspan>
+					</text>
+					<g id="POLES2-2" data-name="POLES2" transform="translate(76.5)">
+						<path id="POLES22" d="M0,0V40.724H-20.311" transform="translate(61 -10)" fill="none" stroke="#6c7091" stroke-width="2.5">
+						</path>
+					</g>
+				</g>
+				<g id="SG6" class="tooltip" transform="translate(-933.054 1279.065)">
+					<g id="SG6Aspect1" transform="translate(18.321 26.349) rotate(179)" fill="none">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SG6Label" transform="translate(18.321 32.611)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							6
+						</tspan>
+					</text>
+					<g id="POLES6">
+						<path id="POLES62" d="M0-2.974V18.981H8.062" transform="translate(-4)" fill="none" stroke="#6c7091" stroke-width="2.5">
+						</path>
+					</g>
+				</g>
+				<g id="SG4" class="tooltip" transform="translate(-1158.714 1180.765)">
+					<g id="SG4Aspect1" transform="translate(39.259 28.868) rotate(179)" fill="none">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SG4Label" transform="translate(39.259 34)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							4
+						</tspan>
+					</text>
+					<g id="SG4Aspect1-2" data-name="SG4Aspect1" transform="translate(24 28.868) rotate(179)" fill="none">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="POLES-2" data-name="POLES" transform="translate(-1 -1)">
+						<path id="POLES42" d="M-.377-3.035V22.5H10.639" fill="none" stroke="#6c7091" stroke-width="2.5">
+						</path>
+					</g>
+				</g>
+				<g id="SG12" class="tooltip" transform="translate(-1105.054 987.33)" edge-id="MSV_SG_S12">
+					<g id="SG12Aspect1" transform="translate(21.502 23.243) rotate(179)" fill="none" edge-id-selector="MSV_SG_S12Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SG12Label" transform="translate(21.502 25.5)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_SG_S12Label">
+						<tspan x="0" y="0">
+							12
+						</tspan>
+					</text>
+					<g id="POLES12">
+						<path id="POLES121" d="M-1.9-4.182V15.875H6.781" fill="none" stroke="#6c7091" stroke-width="2.5">
+						</path>
+					</g>
+				</g>
+				<g id="SG17" class="tooltip" transform="translate(-657.641 1028.779)" edge-id="MSV_SG_S17">
+					<g id="SG17Aspect1" transform="translate(21.451 31.673) rotate(179)" fill="none" edge-id-selector="MSV_SG_S17Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.5 1 C 3.915889739990234 1 1 3.915889739990234 1 7.5 C 1 11.08411026000977 3.915889739990234 14 7.5 14 C 11.08411026000977 14 14 11.08411026000977 14 7.5 C 14 3.915889739990234 11.08411026000977 1 7.5 1 M 7.5 0 C 11.64213943481445 0 15 3.35785961151123 15 7.5 C 15 11.64213943481445 11.64213943481445 15 7.5 15 C 3.35785961151123 15 0 11.64213943481445 0 7.5 C 0 3.35785961151123 3.35785961151123 0 7.5 0 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SG17Aspect2" transform="translate(36.71 31.673) rotate(179)" fill="none" edge-id-selector="MSV_SG_S17Aspect2">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.5 1 C 3.915889739990234 1 1 3.915889739990234 1 7.5 C 1 11.08411026000977 3.915889739990234 14 7.5 14 C 11.08411026000977 14 14 11.08411026000977 14 7.5 C 14 3.915889739990234 11.08411026000977 1 7.5 1 M 7.5 0 C 11.64213943481445 0 15 3.35785961151123 15 7.5 C 15 11.64213943481445 11.64213943481445 15 7.5 15 C 3.35785961151123 15 0 11.64213943481445 0 7.5 C 0 3.35785961151123 3.35785961151123 0 7.5 0 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SG17Label" transform="translate(36.711 32.675)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_SG_S17Label">
+						<tspan x="0" y="0">
+							17
+						</tspan>
+					</text>
+					<g id="POLES17" transform="translate(0 15.751)">
+						<path id="POLES79" d="M12.226,9.819H0v22.2" transform="translate(-5 -1.265)" fill="none" stroke="#6c7091" stroke-width="2.5">
+						</path>
+					</g>
+				</g>
+				<g id="SG15" class="tooltip" transform="translate(-621.737 866)" edge-id="MSV_SG_S15">
+					<g id="SG15Aspect1" transform="translate(6.63 62.826)" fill="none" edge-id-selector="MSV_SG_S15Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SG15Aspect2" transform="translate(36.889 77.564) rotate(179)" fill="none" edge-id-selector="MSV_SG_S15Aspect2">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SG15Label" transform="translate(13.63 58.567)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_SG_S15Label">
+						<tspan x="0" y="0">
+							15
+						</tspan>
+					</text>
+					<g id="POLES15" transform="translate(-9.961 63.261)">
+						<path id="POLES1-3" data-name="POLES1" d="M16.961,6.936H0V50.657" fill="none" stroke="#6c7091" stroke-width="2.5">
+						</path>
+					</g>
+				</g>
+				<g id="SG19" class="tooltip" transform="translate(-260.14 961.571)" edge-id="MSV_SG_S19">
+					<g id="SG19Aspect1" transform="translate(7.843 83.46)" fill="none" edge-id-selector="MSV_SG_S19Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SG19Aspect2" transform="translate(22.843 83.46)" fill="none" edge-id-selector="MSV_SG_S19Aspect2">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499999523162842 0.9999990463256836 C 3.915889739990234 0.9999990463256836 0.9999990463256836 3.915889739990234 0.9999990463256836 7.499999523162842 C 0.9999990463256836 11.08410930633545 3.915889739990234 14 7.499999523162842 14 C 11.08410930633545 14 14 11.08410930633545 14 7.499999523162842 C 14 3.915889739990234 11.08410930633545 0.9999990463256836 7.499999523162842 0.9999990463256836 M 7.499999523162842 -9.5367431640625e-07 C 11.64213943481445 -9.5367431640625e-07 15 3.35785961151123 15 7.499999523162842 C 15 11.64213943481445 11.64213943481445 15 7.499999523162842 15 C 3.35785961151123 15 -9.5367431640625e-07 11.64213943481445 -9.5367431640625e-07 7.499999523162842 C -9.5367431640625e-07 3.35785961151123 3.35785961151123 -9.5367431640625e-07 7.499999523162842 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SG19Label" transform="translate(15.343 77)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MSV_SG_S19Label">
+						<tspan x="0" y="0">
+							19
+						</tspan>
+					</text>
+					<g id="POLES19" transform="translate(-3.288 84.73)">
+						<path id="POLES1-4" data-name="POLES1" d="M12.131,6.231H0V29.187" transform="translate(0 0)" fill="none" stroke="#6c7091" stroke-width="2.5">
+						</path>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

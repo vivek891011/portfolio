@@ -1,0 +1,866 @@
+<svg width="230" height="484" viewBox="0 0 230 484" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="LEU RACK 3">
+<rect width="230" height="484" fill="white"/>
+<rect id="LEURACK3_SUBRACK1_S2" x="67.5" y="34.5" width="9" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="LEURACK3_SUBRACK1_S6" x="106.5" y="34.5" width="8" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="LEURACK3_SUBRACK1_S9" x="159.5" y="34.5" width="19" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK1_S8" x="141.5" y="34.5" width="18" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK1_S7" x="120.5" y="34.5" width="14" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK1_S4" x="86.5" y="34.5" width="10" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK1_S3" x="76.5" y="34.5" width="10" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK1_S5" x="96.5" y="34.5" width="10" height="88" fill="#6C6C6C" stroke="black"/>
+<text id="S-5" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="98" y="126.955">S-5</tspan></text>
+<rect id="LEURACK3_SUBRACK1_S1" x="50.5" y="34.5" width="17" height="88" fill="#FF9D9D" stroke="black"/>
+<path id="Vector 275" d="M81 94V89H84.5V90.5H85.5V92.5H84.5V94H81Z" stroke="black" stroke-width="0.5"/>
+<path id="Vector 276" d="M38.5 114.5V114.5C41.2933 113.802 41.3847 109.865 38.627 109.038L38.5 109" stroke="black"/>
+<path id="Vector 277" d="M38.5 49.5V49.5C41.2933 48.8017 41.3847 44.8654 38.627 44.0381L38.5 44" stroke="black"/>
+<path id="Vector 278" d="M38.5 34V43.5V44.5M38.5 49V109.5" stroke="black"/>
+<rect id="Rectangle 401" x="29.5" y="23.5" width="172" height="447" stroke="black"/>
+<path id="Vector 279" d="M38.5 34.5H50V122.5H38.5V114" stroke="black"/>
+<path id="Vector 280" d="M192 107V107C189.291 107.684 189.108 111.463 191.738 112.406L192 112.5" stroke="black"/>
+<path id="Vector 281" d="M192 42V42C189.245 42.7249 189.151 46.6004 191.867 47.4581L192 47.5" stroke="black"/>
+<path id="Vector 282" d="M192 122.5V113V112M192 107.5V47" stroke="black"/>
+<path id="Vector 283" d="M192 122.5H179V78V34.5H192V42.5" stroke="black"/>
+<rect id="Rectangle 402" x="114.5" y="34.5" width="6" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="Rectangle 403" x="134.5" y="34.5" width="7" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="Rectangle 404" x="55.25" y="39.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 405" x="55.25" y="113.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 406" x="62.75" y="109.25" width="6.5" height="3.5" transform="rotate(-90 62.75 109.25)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 407" x="148.25" y="109.75" width="6.5" height="3.5" transform="rotate(-90 148.25 109.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 408" x="148.25" y="92.75" width="6.5" height="3.5" transform="rotate(-90 148.25 92.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 409" x="166.25" y="92.75" width="6.5" height="3.5" transform="rotate(-90 166.25 92.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 410" x="166.25" y="109.75" width="6.5" height="3.5" transform="rotate(-90 166.25 109.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 411" x="91.75" y="109.75" width="12.5" height="3.5" transform="rotate(-90 91.75 109.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 412" x="91.75" y="94.75" width="12.5" height="3.5" transform="rotate(-90 91.75 94.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 413" x="77.75" y="113.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 414" x="87.75" y="113.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 415" x="123.75" y="113.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 416" x="145.75" y="113.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 417" x="164.75" y="113.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 418" x="164.75" y="39.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 419" x="145.75" y="39.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 420" x="123.75" y="39.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 421" x="87.75" y="39.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 422" x="77.75" y="39.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 423" x="186.25" y="60.25" width="1.5" height="36.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 424" x="43.25" y="60.25" width="1.5" height="36.5" stroke="black" stroke-width="0.5"/>
+<g id="Group 319">
+<circle id="Ellipse 127" cx="58.5" cy="36.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427" d="M57.5001 37.5001L59.5 35.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 320">
+<circle id="Ellipse 127_2" cx="58.5" cy="120.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_2" d="M57.5001 121.5L59.5 119.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 321">
+<circle id="Ellipse 127_3" cx="71.5" cy="120.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_3" d="M70.5001 121.5L72.5 119.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 322">
+<circle id="Ellipse 127_4" cx="81.5" cy="120.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_4" d="M80.5001 121.5L82.5 119.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 323">
+<circle id="Ellipse 127_5" cx="91.5" cy="120.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_5" d="M90.5001 121.5L92.5 119.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 324">
+<circle id="Ellipse 127_6" cx="100.5" cy="120.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_6" d="M99.5001 121.5L101.5 119.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 325">
+<circle id="Ellipse 127_7" cx="110.5" cy="120.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_7" d="M109.5 121.5L111.5 119.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 326">
+<circle id="Ellipse 127_8" cx="117.5" cy="120.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_8" d="M116.5 121.5L118.5 119.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 327">
+<circle id="Ellipse 127_9" cx="127.5" cy="120.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_9" d="M126.5 121.5L128.5 119.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 328">
+<circle id="Ellipse 127_10" cx="137.5" cy="120.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_10" d="M136.5 121.5L138.5 119.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 329">
+<circle id="Ellipse 127_11" cx="149.5" cy="120.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_11" d="M148.5 121.5L150.5 119.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 330">
+<circle id="Ellipse 127_12" cx="168.5" cy="120.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_12" d="M167.5 121.5L169.5 119.5" stroke="black" stroke-width="0.5"/>
+</g>
+<text id="DC-PSS" transform="matrix(0 -1 1 0 57.5 81.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DC-PSS</tspan></text>
+<text id="DUMY PLATE" transform="matrix(0 -1 1 0 69.5 85.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_2" transform="matrix(0 -1 1 0 99.5 86.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_3" transform="matrix(0 -1 1 0 108.5 86.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_4" transform="matrix(0 -1 1 0 115.5 86.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_5" transform="matrix(0 -1 1 0 136.5 86.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="NSC3" transform="matrix(0 -1 1 0 79.5 79.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">NSC3</tspan></text>
+<text id="FDIN3" transform="matrix(0 -1 1 0 89.5 79.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">FDIN3</tspan></text>
+<text id="LIFD0" transform="matrix(0 -1 1 0 124.5 79.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFD0</tspan></text>
+<text id="LIFA1" transform="matrix(0 -1 1 0 148.5 78.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFA1</tspan></text>
+<text id="LIFA1_2" transform="matrix(0 -1 1 0 166.5 78.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFA1</tspan></text>
+<text id="CN1" transform="translate(87.5 87.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_2" transform="translate(80.5 85.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_3" transform="translate(62.5 99.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_4" transform="translate(147.5 82.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_5" transform="translate(165.5 82.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="S-1" fill="#8C4242" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="57" y="126.955">S-1</tspan></text>
+<text id="S-2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="69" y="126.955">S-2</tspan></text>
+<text id="S-3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="78" y="126.955">S-3</tspan></text>
+<text id="S-4" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="88" y="126.955">S-4</tspan></text>
+<text id="S-6" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="107" y="126.955">S-6</tspan></text>
+<text id="S-7" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="125" y="126.955">S-7</tspan></text>
+<text id="S-8" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="147" y="126.955">S-8</tspan></text>
+<text id="S-9" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="165" y="126.955">S-9</tspan></text>
+<text id="CN2" transform="translate(147.5 99.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<text id="CN2_2" transform="translate(165.5 99.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<text id="CONSOLE" transform="translate(77.5 58.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="1.5" letter-spacing="0em"><tspan x="0" y="1.54545">CONSOLE</tspan></text>
+<text id="CN2_3" transform="translate(87 101.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<g id="Group 331">
+<circle id="Ellipse 127_13" cx="72.5" cy="36.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 128" cx="81.5" cy="56.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_13" d="M71.5001 37.5001L73.5 35.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 332">
+<circle id="Ellipse 127_14" cx="81.5" cy="36.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_14" d="M80.5001 37.5001L82.5 35.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 333">
+<circle id="Ellipse 127_15" cx="91.5" cy="36.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_15" d="M90.5001 37.5001L92.5 35.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 334">
+<circle id="Ellipse 127_16" cx="101.5" cy="36.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_16" d="M100.5 37.5001L102.5 35.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 335">
+<circle id="Ellipse 127_17" cx="110.5" cy="36.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_17" d="M109.5 37.5001L111.5 35.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 336">
+<circle id="Ellipse 127_18" cx="117.5" cy="36.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_18" d="M116.5 37.5001L118.5 35.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 337">
+<circle id="Ellipse 127_19" cx="127.5" cy="36.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_19" d="M126.5 37.5001L128.5 35.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 338">
+<circle id="Ellipse 127_20" cx="137.5" cy="36.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_20" d="M136.5 37.5001L138.5 35.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 339">
+<circle id="Ellipse 127_21" cx="149.5" cy="36.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_21" d="M148.5 37.5001L150.5 35.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 340">
+<circle id="Ellipse 127_22" cx="168.5" cy="36.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_22" d="M167.5 37.5001L169.5 35.5" stroke="black" stroke-width="0.5"/>
+</g>
+<rect id="LEURACK3_SUBRACK2_S2" x="67" y="145.5" width="9" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="LEURACK3_SUBRACK2_S6" x="106" y="145.5" width="8" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="LEURACK3_SUBRACK2_S9" x="159" y="145.5" width="19" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK2_S8" x="141" y="145.5" width="18" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK2_S7" x="120" y="145.5" width="14" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK2_S4" x="86" y="145.5" width="10" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK2_S3" x="76" y="145.5" width="10" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK2_S5" x="96" y="145.5" width="10" height="88" fill="#6C6C6C" stroke="black"/>
+<text id="S-5_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="97.5" y="237.955">S-5</tspan></text>
+<rect id="LEURACK3_SUBRACK2_S1" x="50" y="145.5" width="17" height="88" fill="#FF9D9D" stroke="black"/>
+<path id="Vector 284" d="M80.5 205V200H84V201.5H85V203.5H84V205H80.5Z" stroke="black" stroke-width="0.5"/>
+<path id="Vector 285" d="M38 225.5V225.5C40.7933 224.802 40.8847 220.865 38.127 220.038L38 220" stroke="black"/>
+<path id="Vector 286" d="M38 160.5V160.5C40.7933 159.802 40.8847 155.865 38.127 155.038L38 155" stroke="black"/>
+<path id="Vector 287" d="M38 145V154.5V155.5M38 160V220.5" stroke="black"/>
+<path id="Vector 288" d="M38 145.5H49.5V233.5H38V225" stroke="black"/>
+<path id="Vector 289" d="M191.5 218V218C188.791 218.684 188.608 222.463 191.238 223.406L191.5 223.5" stroke="black"/>
+<path id="Vector 290" d="M191.5 153V153C188.745 153.725 188.651 157.6 191.367 158.458L191.5 158.5" stroke="black"/>
+<path id="Vector 291" d="M191.5 233.5V224V223M191.5 218.5V158" stroke="black"/>
+<path id="Vector 292" d="M191.5 233.5H178.5V189V145.5H191.5V153.5" stroke="black"/>
+<rect id="Rectangle 425" x="114" y="145.5" width="6" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="Rectangle 426" x="134" y="145.5" width="7" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="Rectangle 427" x="54.75" y="150.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 428" x="54.75" y="224.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 429" x="62.25" y="220.25" width="6.5" height="3.5" transform="rotate(-90 62.25 220.25)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 430" x="147.75" y="220.75" width="6.5" height="3.5" transform="rotate(-90 147.75 220.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 431" x="147.75" y="203.75" width="6.5" height="3.5" transform="rotate(-90 147.75 203.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 432" x="165.75" y="203.75" width="6.5" height="3.5" transform="rotate(-90 165.75 203.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 433" x="165.75" y="220.75" width="6.5" height="3.5" transform="rotate(-90 165.75 220.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 434" x="91.25" y="220.75" width="12.5" height="3.5" transform="rotate(-90 91.25 220.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 435" x="91.25" y="205.75" width="12.5" height="3.5" transform="rotate(-90 91.25 205.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 436" x="77.25" y="224.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 437" x="87.25" y="224.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 438" x="123.25" y="224.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 439" x="145.25" y="224.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 440" x="164.25" y="224.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 441" x="164.25" y="150.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 442" x="145.25" y="150.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 443" x="123.25" y="150.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 444" x="87.25" y="150.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 445" x="77.25" y="150.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 446" x="185.75" y="171.25" width="1.5" height="36.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 447" x="42.75" y="171.25" width="1.5" height="36.5" stroke="black" stroke-width="0.5"/>
+<g id="Group 341">
+<circle id="Ellipse 127_23" cx="58" cy="147.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_23" d="M57.0001 148.5L59 146.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 342">
+<circle id="Ellipse 127_24" cx="58" cy="231.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_24" d="M57.0001 232.5L59 230.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 343">
+<circle id="Ellipse 127_25" cx="71" cy="231.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_25" d="M70.0001 232.5L72 230.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 344">
+<circle id="Ellipse 127_26" cx="81" cy="231.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_26" d="M80.0001 232.5L82 230.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 345">
+<circle id="Ellipse 127_27" cx="91" cy="231.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_27" d="M90.0001 232.5L92 230.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 346">
+<circle id="Ellipse 127_28" cx="100" cy="231.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_28" d="M99.0001 232.5L101 230.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 347">
+<circle id="Ellipse 127_29" cx="110" cy="231.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_29" d="M109 232.5L111 230.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 348">
+<circle id="Ellipse 127_30" cx="117" cy="231.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_30" d="M116 232.5L118 230.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 349">
+<circle id="Ellipse 127_31" cx="127" cy="231.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_31" d="M126 232.5L128 230.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 350">
+<circle id="Ellipse 127_32" cx="137" cy="231.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_32" d="M136 232.5L138 230.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 351">
+<circle id="Ellipse 127_33" cx="149" cy="231.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_33" d="M148 232.5L150 230.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 352">
+<circle id="Ellipse 127_34" cx="168" cy="231.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_34" d="M167 232.5L169 230.5" stroke="black" stroke-width="0.5"/>
+</g>
+<text id="DC-PSS_2" transform="matrix(0 -1 1 0 57 192.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DC-PSS</tspan></text>
+<text id="DUMY PLATE_6" transform="matrix(0 -1 1 0 69 196.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_7" transform="matrix(0 -1 1 0 99 197.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_8" transform="matrix(0 -1 1 0 108 197.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_9" transform="matrix(0 -1 1 0 115 197.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_10" transform="matrix(0 -1 1 0 136 197.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="NSC3_2" transform="matrix(0 -1 1 0 79 190.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">NSC3</tspan></text>
+<text id="FDIN3_2" transform="matrix(0 -1 1 0 89 190.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">FDIN3</tspan></text>
+<text id="LIFD0_2" transform="matrix(0 -1 1 0 124 190.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFD0</tspan></text>
+<text id="LIFA1_3" transform="matrix(0 -1 1 0 148 189.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFA1</tspan></text>
+<text id="LIFA1_4" transform="matrix(0 -1 1 0 166 189.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFA1</tspan></text>
+<text id="CN1_6" transform="translate(87 198.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_7" transform="translate(80 196.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_8" transform="translate(62 210.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_9" transform="translate(147 193.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_10" transform="translate(165 193.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="S-1_2" fill="#8C4242" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="56.5" y="237.955">S-1</tspan></text>
+<text id="S-2_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="68.5" y="237.955">S-2</tspan></text>
+<text id="S-3_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="77.5" y="237.955">S-3</tspan></text>
+<text id="S-4_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="87.5" y="237.955">S-4</tspan></text>
+<text id="S-6_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="106.5" y="237.955">S-6</tspan></text>
+<text id="S-7_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="124.5" y="237.955">S-7</tspan></text>
+<text id="S-8_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="146.5" y="237.955">S-8</tspan></text>
+<text id="S-9_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="164.5" y="237.955">S-9</tspan></text>
+<text id="CN2_4" transform="translate(147 210.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<text id="CN2_5" transform="translate(165 210.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<text id="CONSOLE_2" transform="translate(77 169.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="1.5" letter-spacing="0em"><tspan x="0" y="1.54545">CONSOLE</tspan></text>
+<text id="CN2_6" transform="translate(86.5 212.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<g id="Group 353">
+<circle id="Ellipse 127_35" cx="72" cy="147.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 128_2" cx="81" cy="167.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_35" d="M71.0001 148.5L73 146.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 354">
+<circle id="Ellipse 127_36" cx="81" cy="147.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_36" d="M80.0001 148.5L82 146.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 355">
+<circle id="Ellipse 127_37" cx="91" cy="147.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_37" d="M90.0001 148.5L92 146.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 356">
+<circle id="Ellipse 127_38" cx="101" cy="147.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_38" d="M100 148.5L102 146.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 357">
+<circle id="Ellipse 127_39" cx="110" cy="147.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_39" d="M109 148.5L111 146.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 358">
+<circle id="Ellipse 127_40" cx="117" cy="147.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_40" d="M116 148.5L118 146.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 359">
+<circle id="Ellipse 127_41" cx="127" cy="147.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_41" d="M126 148.5L128 146.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 360">
+<circle id="Ellipse 127_42" cx="137" cy="147.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_42" d="M136 148.5L138 146.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 361">
+<circle id="Ellipse 127_43" cx="149" cy="147.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_43" d="M148 148.5L150 146.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 362">
+<circle id="Ellipse 127_44" cx="168" cy="147.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_44" d="M167 148.5L169 146.5" stroke="black" stroke-width="0.5"/>
+</g>
+<rect id="LEURACK3_SUBRACK3_S2" x="66" y="258.5" width="9" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="LEURACK3_SUBRACK3_S6" x="105" y="258.5" width="8" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="LEURACK3_SUBRACK3_S9" x="158" y="258.5" width="19" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK3_S8" x="140" y="258.5" width="18" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK3_S7" x="119" y="258.5" width="14" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK3_S4" x="85" y="258.5" width="10" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK3_S3" x="75" y="258.5" width="10" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK3_S5" x="95" y="258.5" width="10" height="88" fill="#6C6C6C" stroke="black"/>
+<text id="S-5_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="96.5" y="350.955">S-5</tspan></text>
+<rect id="LEURACK3_SUBRACK3_S1" x="49" y="258.5" width="17" height="88" fill="#FF9D9D" stroke="black"/>
+<path id="Vector 293" d="M79.5 318V313H83V314.5H84V316.5H83V318H79.5Z" stroke="black" stroke-width="0.5"/>
+<path id="Vector 294" d="M37 338.5V338.5C39.7933 337.802 39.8847 333.865 37.127 333.038L37 333" stroke="black"/>
+<path id="Vector 295" d="M37 273.5V273.5C39.7933 272.802 39.8847 268.865 37.127 268.038L37 268" stroke="black"/>
+<path id="Vector 296" d="M37 258V267.5V268.5M37 273V333.5" stroke="black"/>
+<path id="Vector 297" d="M37 258.5H48.5V346.5H37V338" stroke="black"/>
+<path id="Vector 298" d="M190.5 331V331C187.791 331.684 187.608 335.463 190.238 336.406L190.5 336.5" stroke="black"/>
+<path id="Vector 299" d="M190.5 266V266C187.745 266.725 187.651 270.6 190.367 271.458L190.5 271.5" stroke="black"/>
+<path id="Vector 300" d="M190.5 346.5V337V336M190.5 331.5V271" stroke="black"/>
+<path id="Vector 301" d="M190.5 346.5H177.5V302V258.5H190.5V266.5" stroke="black"/>
+<rect id="Rectangle 448" x="113" y="258.5" width="6" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="Rectangle 449" x="133" y="258.5" width="7" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="Rectangle 450" x="53.75" y="263.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 451" x="53.75" y="337.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 452" x="61.25" y="333.25" width="6.5" height="3.5" transform="rotate(-90 61.25 333.25)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 453" x="146.75" y="333.75" width="6.5" height="3.5" transform="rotate(-90 146.75 333.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 454" x="146.75" y="316.75" width="6.5" height="3.5" transform="rotate(-90 146.75 316.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 455" x="164.75" y="316.75" width="6.5" height="3.5" transform="rotate(-90 164.75 316.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 456" x="164.75" y="333.75" width="6.5" height="3.5" transform="rotate(-90 164.75 333.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 457" x="90.25" y="333.75" width="12.5" height="3.5" transform="rotate(-90 90.25 333.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 458" x="90.25" y="318.75" width="12.5" height="3.5" transform="rotate(-90 90.25 318.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 459" x="76.25" y="337.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 460" x="86.25" y="337.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 461" x="122.25" y="337.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 462" x="144.25" y="337.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 463" x="163.25" y="337.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 464" x="163.25" y="263.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 465" x="144.25" y="263.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 466" x="122.25" y="263.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 467" x="86.25" y="263.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 468" x="76.25" y="263.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 469" x="184.75" y="284.25" width="1.5" height="36.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 470" x="41.75" y="284.25" width="1.5" height="36.5" stroke="black" stroke-width="0.5"/>
+<g id="Group 363">
+<circle id="Ellipse 127_45" cx="57" cy="260.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_45" d="M56.0001 261.5L58 259.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 364">
+<circle id="Ellipse 127_46" cx="57" cy="344.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_46" d="M56.0001 345.5L58 343.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 365">
+<circle id="Ellipse 127_47" cx="70" cy="344.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_47" d="M69.0001 345.5L71 343.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 366">
+<circle id="Ellipse 127_48" cx="80" cy="344.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_48" d="M79.0001 345.5L81 343.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 367">
+<circle id="Ellipse 127_49" cx="90" cy="344.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_49" d="M89.0001 345.5L91 343.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 368">
+<circle id="Ellipse 127_50" cx="99" cy="344.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_50" d="M98.0001 345.5L100 343.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 369">
+<circle id="Ellipse 127_51" cx="109" cy="344.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_51" d="M108 345.5L110 343.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 370">
+<circle id="Ellipse 127_52" cx="116" cy="344.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_52" d="M115 345.5L117 343.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 371">
+<circle id="Ellipse 127_53" cx="126" cy="344.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_53" d="M125 345.5L127 343.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 372">
+<circle id="Ellipse 127_54" cx="136" cy="344.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_54" d="M135 345.5L137 343.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 373">
+<circle id="Ellipse 127_55" cx="148" cy="344.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_55" d="M147 345.5L149 343.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 374">
+<circle id="Ellipse 127_56" cx="167" cy="344.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_56" d="M166 345.5L168 343.5" stroke="black" stroke-width="0.5"/>
+</g>
+<text id="DC-PSS_3" transform="matrix(0 -1 1 0 56 305.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DC-PSS</tspan></text>
+<text id="DUMY PLATE_11" transform="matrix(0 -1 1 0 68 309.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_12" transform="matrix(0 -1 1 0 98 310.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_13" transform="matrix(0 -1 1 0 107 310.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_14" transform="matrix(0 -1 1 0 114 310.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_15" transform="matrix(0 -1 1 0 135 310.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="NSC3_3" transform="matrix(0 -1 1 0 78 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">NSC3</tspan></text>
+<text id="FDIN3_3" transform="matrix(0 -1 1 0 88 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">FDIN3</tspan></text>
+<text id="LIFD0_3" transform="matrix(0 -1 1 0 123 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFD0</tspan></text>
+<text id="LIFA1_5" transform="matrix(0 -1 1 0 147 302.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFA1</tspan></text>
+<text id="LIFA1_6" transform="matrix(0 -1 1 0 165 302.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFA1</tspan></text>
+<text id="CN1_11" transform="translate(86 311.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_12" transform="translate(79 309.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_13" transform="translate(61 323.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_14" transform="translate(146 306.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_15" transform="translate(164 306.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="S-1_3" fill="#8C4242" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="55.5" y="350.955">S-1</tspan></text>
+<text id="S-2_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="67.5" y="350.955">S-2</tspan></text>
+<text id="S-3_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="76.5" y="350.955">S-3</tspan></text>
+<text id="S-4_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="86.5" y="350.955">S-4</tspan></text>
+<text id="S-6_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="105.5" y="350.955">S-6</tspan></text>
+<text id="S-7_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="123.5" y="350.955">S-7</tspan></text>
+<text id="S-8_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="145.5" y="350.955">S-8</tspan></text>
+<text id="S-9_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="163.5" y="350.955">S-9</tspan></text>
+<text id="CN2_7" transform="translate(146 323.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<text id="CN2_8" transform="translate(164 323.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<text id="CONSOLE_3" transform="translate(76 282.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="1.5" letter-spacing="0em"><tspan x="0" y="1.54545">CONSOLE</tspan></text>
+<text id="CN2_9" transform="translate(85.5 325.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<g id="Group 375">
+<circle id="Ellipse 127_57" cx="71" cy="260.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 128_3" cx="80" cy="280.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_57" d="M70.0001 261.5L72 259.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 376">
+<circle id="Ellipse 127_58" cx="80" cy="260.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_58" d="M79.0001 261.5L81 259.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 377">
+<circle id="Ellipse 127_59" cx="90" cy="260.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_59" d="M89.0001 261.5L91 259.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 378">
+<circle id="Ellipse 127_60" cx="100" cy="260.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_60" d="M99.0001 261.5L101 259.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 379">
+<circle id="Ellipse 127_61" cx="109" cy="260.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_61" d="M108 261.5L110 259.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 380">
+<circle id="Ellipse 127_62" cx="116" cy="260.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_62" d="M115 261.5L117 259.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 381">
+<circle id="Ellipse 127_63" cx="126" cy="260.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_63" d="M125 261.5L127 259.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 382">
+<circle id="Ellipse 127_64" cx="136" cy="260.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_64" d="M135 261.5L137 259.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 383">
+<circle id="Ellipse 127_65" cx="148" cy="260.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_65" d="M147 261.5L149 259.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 384">
+<circle id="Ellipse 127_66" cx="167" cy="260.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_66" d="M166 261.5L168 259.5" stroke="black" stroke-width="0.5"/>
+</g>
+<rect id="LEURACK3_SUBRACK4_S2" x="66" y="368.5" width="9" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="LEURACK3_SUBRACK4_S6" x="105" y="368.5" width="8" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="LEURACK3_SUBRACK4_S9" x="158" y="368.5" width="19" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK4_S8" x="140" y="368.5" width="18" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK4_S7" x="119" y="368.5" width="14" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK4_S4" x="85" y="368.5" width="10" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK4_S3" x="75" y="368.5" width="10" height="88" fill="#C6EBA1" stroke="black"/>
+<rect id="LEURACK3_SUBRACK4_S5" x="95" y="368.5" width="10" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="LEURACK3_SUBRACK4_S1" x="49" y="368.5" width="17" height="88" fill="#FF9D9D" stroke="black"/>
+<path id="Vector 302" d="M79.5 428V423H83V424.5H84V426.5H83V428H79.5Z" stroke="black" stroke-width="0.5"/>
+<path id="Vector 303" d="M37 448.5V448.5C39.7933 447.802 39.8847 443.865 37.127 443.038L37 443" stroke="black"/>
+<path id="Vector 304" d="M37 383.5V383.5C39.7933 382.802 39.8847 378.865 37.127 378.038L37 378" stroke="black"/>
+<path id="Vector 305" d="M37 368V377.5V378.5M37 383V443.5" stroke="black"/>
+<path id="Vector 306" d="M37 368.5H48.5V456.5H37V448" stroke="black"/>
+<path id="Vector 307" d="M190.5 441V441C187.791 441.684 187.608 445.463 190.238 446.406L190.5 446.5" stroke="black"/>
+<path id="Vector 308" d="M190.5 376V376C187.745 376.725 187.651 380.6 190.367 381.458L190.5 381.5" stroke="black"/>
+<path id="Vector 309" d="M190.5 456.5V447V446M190.5 441.5V381" stroke="black"/>
+<path id="Vector 310" d="M190.5 456.5H177.5V412V368.5H190.5V376.5" stroke="black"/>
+<rect id="Rectangle 471" x="113" y="368.5" width="6" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="Rectangle 472" x="133" y="368.5" width="7" height="88" fill="#6C6C6C" stroke="black"/>
+<rect id="Rectangle 473" x="53.75" y="373.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 474" x="53.75" y="447.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 475" x="61.25" y="443.25" width="6.5" height="3.5" transform="rotate(-90 61.25 443.25)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 476" x="146.75" y="443.75" width="6.5" height="3.5" transform="rotate(-90 146.75 443.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 477" x="146.75" y="426.75" width="6.5" height="3.5" transform="rotate(-90 146.75 426.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 478" x="164.75" y="426.75" width="6.5" height="3.5" transform="rotate(-90 164.75 426.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 479" x="164.75" y="443.75" width="6.5" height="3.5" transform="rotate(-90 164.75 443.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 480" x="90.25" y="443.75" width="12.5" height="3.5" transform="rotate(-90 90.25 443.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 481" x="90.25" y="428.75" width="12.5" height="3.5" transform="rotate(-90 90.25 428.75)" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 482" x="76.25" y="447.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 483" x="86.25" y="447.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 484" x="122.25" y="447.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 485" x="144.25" y="447.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 486" x="163.25" y="447.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 487" x="163.25" y="373.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 488" x="144.25" y="373.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 489" x="122.25" y="373.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 490" x="86.25" y="373.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 491" x="76.25" y="373.25" width="7.5" height="4.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 492" x="184.75" y="394.25" width="1.5" height="36.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 493" x="41.75" y="394.25" width="1.5" height="36.5" stroke="black" stroke-width="0.5"/>
+<g id="Group 385">
+<circle id="Ellipse 127_67" cx="57" cy="370.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_67" d="M56.0001 371.5L58 369.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 386">
+<circle id="Ellipse 127_68" cx="57" cy="454.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_68" d="M56.0001 455.5L58 453.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 387">
+<circle id="Ellipse 127_69" cx="70" cy="454.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_69" d="M69.0001 455.5L71 453.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 388">
+<circle id="Ellipse 127_70" cx="80" cy="454.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_70" d="M79.0001 455.5L81 453.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 389">
+<circle id="Ellipse 127_71" cx="90" cy="454.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_71" d="M89.0001 455.5L91 453.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 390">
+<circle id="Ellipse 127_72" cx="99" cy="454.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_72" d="M98.0001 455.5L100 453.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 391">
+<circle id="Ellipse 127_73" cx="109" cy="454.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_73" d="M108 455.5L110 453.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 392">
+<circle id="Ellipse 127_74" cx="116" cy="454.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_74" d="M115 455.5L117 453.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 393">
+<circle id="Ellipse 127_75" cx="126" cy="454.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_75" d="M125 455.5L127 453.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 394">
+<circle id="Ellipse 127_76" cx="136" cy="454.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_76" d="M135 455.5L137 453.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 395">
+<circle id="Ellipse 127_77" cx="148" cy="454.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_77" d="M147 455.5L149 453.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 396">
+<circle id="Ellipse 127_78" cx="167" cy="454.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_78" d="M166 455.5L168 453.5" stroke="black" stroke-width="0.5"/>
+</g>
+<text id="DC-PSS_4" transform="matrix(0 -1 1 0 56 415.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DC-PSS</tspan></text>
+<text id="DUMY PLATE_16" transform="matrix(0 -1 1 0 68 419.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_17" transform="matrix(0 -1 1 0 98 420.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_18" transform="matrix(0 -1 1 0 107 420.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_19" transform="matrix(0 -1 1 0 114 420.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="DUMY PLATE_20" transform="matrix(0 -1 1 0 135 420.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">DUMY PLATE</tspan></text>
+<text id="NSC3_4" transform="matrix(0 -1 1 0 78 413.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">NSC3</tspan></text>
+<text id="FDIN3_4" transform="matrix(0 -1 1 0 88 413.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">FDIN3</tspan></text>
+<text id="LIFD0_4" transform="matrix(0 -1 1 0 123 413.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFD0</tspan></text>
+<text id="LIFA1_7" transform="matrix(0 -1 1 0 147 412.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFA1</tspan></text>
+<text id="LIFA1_8" transform="matrix(0 -1 1 0 165 412.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="0" y="3.09091">LIFA1</tspan></text>
+<text id="CN1_16" transform="translate(86 421.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_17" transform="translate(79 419.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_18" transform="translate(61 433.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_19" transform="translate(146 416.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN1_20" transform="translate(164 416.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN1</tspan></text>
+<text id="CN2_10" transform="translate(146 433.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<text id="CN2_11" transform="translate(164 433.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<text id="CONSOLE_4" transform="translate(76 392.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="1.5" letter-spacing="0em"><tspan x="0" y="1.54545">CONSOLE</tspan></text>
+<text id="CN2_12" transform="translate(85.5 435.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="2" letter-spacing="0em"><tspan x="0" y="1.72727">CN2</tspan></text>
+<g id="Group 397">
+<circle id="Ellipse 127_79" cx="71" cy="370.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 128_4" cx="80" cy="390.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_79" d="M70.0001 371.5L72 369.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 398">
+<circle id="Ellipse 127_80" cx="80" cy="370.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_80" d="M79.0001 371.5L81 369.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 399">
+<circle id="Ellipse 127_81" cx="90" cy="370.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_81" d="M89.0001 371.5L91 369.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 400">
+<circle id="Ellipse 127_82" cx="100" cy="370.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_82" d="M99.0001 371.5L101 369.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 401">
+<circle id="Ellipse 127_83" cx="109" cy="370.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_83" d="M108 371.5L110 369.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 402">
+<circle id="Ellipse 127_84" cx="116" cy="370.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_84" d="M115 371.5L117 369.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 403">
+<circle id="Ellipse 127_85" cx="126" cy="370.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_85" d="M125 371.5L127 369.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 404">
+<circle id="Ellipse 127_86" cx="136" cy="370.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_86" d="M135 371.5L137 369.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 405">
+<circle id="Ellipse 127_87" cx="148" cy="370.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_87" d="M147 371.5L149 369.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 406">
+<circle id="Ellipse 127_88" cx="167" cy="370.5" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 427_88" d="M166 371.5L168 369.5" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 407">
+<rect id="Rectangle 167" x="29.5" y="354.5" width="172" height="11" stroke="black"/>
+<rect id="Rectangle 168" x="30.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 169" x="32.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 170" x="34.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 171" x="36.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 172" x="38.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 173" x="40.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 174" x="42.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 175" x="44.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 176" x="46.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 177" x="48.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 178" x="50.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 179" x="52.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 180" x="56.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 181" x="58.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 182" x="60.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 183" x="62.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 184" x="64.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 185" x="66.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 186" x="70.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 187" x="72.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 188" x="74.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 189" x="76.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 190" x="78.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 191" x="80.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 192" x="84.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 193" x="86.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 194" x="88.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 195" x="90.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 196" x="92.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 197" x="94.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 198" x="98.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 199" x="100.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 200" x="102.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 201" x="104.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 202" x="106.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 203" x="108.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 204" x="112.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 205" x="114.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 206" x="116.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 207" x="118.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 208" x="120.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 209" x="122.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 210" x="126.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 211" x="128.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 212" x="130.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 213" x="132.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 214" x="134.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 215" x="136.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 216" x="140.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 217" x="144.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 218" x="146.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 219" x="148.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 220" x="150.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 221" x="152.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 222" x="154.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 223" x="158.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 224" x="160.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 225" x="162.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 226" x="164.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 227" x="166.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 228" x="168.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 229" x="172.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 230" x="176.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 231" x="178.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 232" x="180.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 233" x="182.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 234" x="184.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 235" x="186.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 236" x="190.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 237" x="192.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 238" x="194.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 239" x="196.5" y="354.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 240" x="198.5" y="354.5" width="2" height="11" stroke="black"/>
+</g>
+<g id="Group 408">
+<rect id="Rectangle 167_2" x="29.5" y="241.5" width="172" height="11" stroke="black"/>
+<rect id="Rectangle 168_2" x="30.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 169_2" x="32.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 170_2" x="34.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 171_2" x="36.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 172_2" x="38.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 173_2" x="40.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 174_2" x="42.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 175_2" x="44.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 176_2" x="46.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 177_2" x="48.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 178_2" x="50.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 179_2" x="52.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 180_2" x="56.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 181_2" x="58.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 182_2" x="60.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 183_2" x="62.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 184_2" x="64.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 185_2" x="66.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 186_2" x="70.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 187_2" x="72.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 188_2" x="74.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 189_2" x="76.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 190_2" x="78.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 191_2" x="80.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 192_2" x="84.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 193_2" x="86.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 194_2" x="88.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 195_2" x="90.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 196_2" x="92.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 197_2" x="94.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 198_2" x="98.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 199_2" x="100.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 200_2" x="102.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 201_2" x="104.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 202_2" x="106.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 203_2" x="108.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 204_2" x="112.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 205_2" x="114.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 206_2" x="116.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 207_2" x="118.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 208_2" x="120.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 209_2" x="122.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 210_2" x="126.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 211_2" x="128.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 212_2" x="130.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 213_2" x="132.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 214_2" x="134.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 215_2" x="136.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 216_2" x="140.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 217_2" x="144.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 218_2" x="146.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 219_2" x="148.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 220_2" x="150.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 221_2" x="152.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 222_2" x="154.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 223_2" x="158.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 224_2" x="160.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 225_2" x="162.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 226_2" x="164.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 227_2" x="166.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 228_2" x="168.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 229_2" x="172.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 230_2" x="176.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 231_2" x="178.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 232_2" x="180.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 233_2" x="182.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 234_2" x="184.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 235_2" x="186.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 236_2" x="190.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 237_2" x="192.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 238_2" x="194.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 239_2" x="196.5" y="241.5" width="2" height="11" stroke="black"/>
+<rect id="Rectangle 240_2" x="198.5" y="241.5" width="2" height="11" stroke="black"/>
+</g>
+<g id="Group 409">
+<rect id="Rectangle 167_3" x="29.5" y="129.5" width="172" height="10" stroke="black"/>
+<rect id="Rectangle 168_3" x="30.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 169_3" x="32.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 170_3" x="34.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 171_3" x="36.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 172_3" x="38.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 173_3" x="40.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 174_3" x="42.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 175_3" x="44.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 176_3" x="46.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 177_3" x="48.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 178_3" x="50.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 179_3" x="52.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 180_3" x="56.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 181_3" x="58.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 182_3" x="60.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 183_3" x="62.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 184_3" x="64.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 185_3" x="66.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 186_3" x="70.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 187_3" x="72.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 188_3" x="74.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 189_3" x="76.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 190_3" x="78.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 191_3" x="80.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 192_3" x="84.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 193_3" x="86.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 194_3" x="88.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 195_3" x="90.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 196_3" x="92.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 197_3" x="94.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 198_3" x="98.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 199_3" x="100.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 200_3" x="102.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 201_3" x="104.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 202_3" x="106.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 203_3" x="108.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 204_3" x="112.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 205_3" x="114.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 206_3" x="116.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 207_3" x="118.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 208_3" x="120.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 209_3" x="122.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 210_3" x="126.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 211_3" x="128.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 212_3" x="130.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 213_3" x="132.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 214_3" x="134.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 215_3" x="136.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 216_3" x="140.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 217_3" x="144.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 218_3" x="146.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 219_3" x="148.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 220_3" x="150.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 221_3" x="152.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 222_3" x="154.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 223_3" x="158.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 224_3" x="160.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 225_3" x="162.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 226_3" x="164.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 227_3" x="166.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 228_3" x="168.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 229_3" x="172.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 230_3" x="176.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 231_3" x="178.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 232_3" x="180.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 233_3" x="182.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 234_3" x="184.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 235_3" x="186.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 236_3" x="190.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 237_3" x="192.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 238_3" x="194.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 239_3" x="196.5" y="129.5" width="2" height="10" stroke="black"/>
+<rect id="Rectangle 240_3" x="198.5" y="129.5" width="2" height="10" stroke="black"/>
+</g>
+<text id="LEU RACK 3_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="8" letter-spacing="0em"><tspan x="83" y="20.9091">LEU RACK 3</tspan></text>
+<text id="SUBRACK1" transform="matrix(0 -1 1 0 203 101)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="8" letter-spacing="0em"><tspan x="0" y="7.90909">SUBRACK1</tspan></text>
+<text id="SUBRACK2" transform="matrix(0 -1 1 0 203 208)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="8" letter-spacing="0em"><tspan x="0" y="7.90909">SUBRACK2</tspan></text>
+<text id="SUBRACK3" transform="matrix(0 -1 1 0 203 333)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="8" letter-spacing="0em"><tspan x="0" y="7.90909">SUBRACK3</tspan></text>
+<text id="SUBRACK4" transform="matrix(0 -1 1 0 203 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="8" letter-spacing="0em"><tspan x="0" y="7.90909">SUBRACK4</tspan></text>
+</g>
+</svg>

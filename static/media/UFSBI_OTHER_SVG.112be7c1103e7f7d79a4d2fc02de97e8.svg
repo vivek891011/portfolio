@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="811" height="404" viewBox="0 0 811 404" fill="none">
+	<g id="OTHER STATUS">
+		<rect width="811" height="404" fill="white" />
+		<g id="OTHER STATUS_2">
+			<text id="AMCO (AUTO MEDIA CHANGE OVER)" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+				<tspan x="398" y="32.2588">
+					AMCO (AUTO MEDIA CHANGE OVER)
+				</tspan>
+			</text>
+			<text id="SYSTEM STATUS" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+				<tspan x="141" y="32.2588">
+					SYSTEM STATUS
+				</tspan>
+			</text>
+			<g id="Group 909">
+				<g id="Group 911">
+					<text id="MODBOK_LABEL" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+						<tspan x="537.268" y="299.259">
+							LINK B
+						</tspan>
+					</text>
+					<path id="MODBOK" d="M519.25 308.367C519.25 308.118 519.451 307.917 519.7 307.917H607.8C608.325 307.917 608.75 307.491 608.75 306.967V301.426C608.75 300.975 609.34 300.805 609.581 301.187L615.572 310.706C615.658 310.843 615.664 311.015 615.589 311.157L609.597 322.408C609.377 322.821 608.75 322.665 608.75 322.196V317.033C608.75 316.509 608.325 316.083 607.8 316.083H519.7C519.451 316.083 519.25 315.882 519.25 315.633V308.367Z" fill="#D9D9D9" stroke="black" stroke-width="0.5" />
+				</g>
+				<g id="Group 910">
+					<path id="MODAOK" d="M519.25 133.367C519.25 133.118 519.451 132.917 519.7 132.917H607.8C608.325 132.917 608.75 132.491 608.75 131.967V126.426C608.75 125.975 609.34 125.805 609.581 126.187L615.572 135.706C615.658 135.843 615.664 136.015 615.589 136.157L609.597 147.408C609.377 147.821 608.75 147.665 608.75 147.196V142.033C608.75 141.509 608.325 141.083 607.8 141.083H519.7C519.451 141.083 519.25 140.882 519.25 140.633V133.367Z" fill="#D9D9D9" stroke="black" stroke-width="0.5" />
+					<text id="MODAOK_LABEL" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+						<tspan x="537.404" y="124.259">
+							LINK A
+						</tspan>
+					</text>
+				</g>
+				<g id="Group 906">
+					<rect id="MODAACT" x="616.5" y="215.5" width="162" height="94" rx="4.5" transform="rotate(-90 616.5 215.5)" fill="#D6D3D4" stroke="black" />
+					<text id="MODEM A" transform="matrix(0 -1 1 0 638 183)" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+						<tspan x="0.490234" y="21.2588">
+							MODEM A
+						</tspan>
+					</text>
+					<text id="OFC 1" transform="matrix(0 -1 1 0 663 162)" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+						<tspan x="0.431641" y="21.2588">
+							OFC 1
+						</tspan>
+					</text>
+				</g>
+				<g id="Group 907">
+					<rect id="MODBACT" x="616.5" y="393.5" width="162" height="94" rx="4.5" transform="rotate(-90 616.5 393.5)" fill="#D6D3D4" stroke="black" />
+					<text id="MODEM B" transform="matrix(0 -1 1 0 638 361)" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+						<tspan x="0.353516" y="21.2588">
+							MODEM B
+						</tspan>
+					</text>
+					<text id="OFC 2" transform="matrix(0 -1 1 0 663 340)" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+						<tspan x="0.431641" y="21.2588">
+							OFC 2
+						</tspan>
+					</text>
+				</g>
+				<g id="Group 905">
+					<rect id="COVBK" x="424.5" y="393.5" width="340" height="94" rx="4.5" transform="rotate(-90 424.5 393.5)" fill="#D6D3D4" stroke="black" />
+					<text id="AMCO POWER" transform="matrix(0 -1 1 0 458 290)" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+						<tspan x="0" y="21.2588">
+							AMCO POWER
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="Group 798">
+				<rect id="POWER_FAILURE" x="74.5" y="393.5" width="340" height="94" rx="4.5" transform="rotate(-90 74.5 393.5)" fill="#D6D3D4" stroke="black" />
+				<rect id="SYSTEM_FAILURE" x="168.5" y="393.5" width="340" height="94" rx="4.5" transform="rotate(-90 168.5 393.5)" fill="#D6D3D4" stroke="black" />
+				<rect id="SINGLE_CPU_FAILURE" x="262.5" y="393.5" width="340" height="94" rx="4.5" transform="rotate(-90 262.5 393.5)" fill="#D6D3D4" stroke="black" />
+				<text id="DCDC7Label" transform="matrix(0 -1 1 0 108 340)" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+					<tspan x="0" y="21.2588">
+						POWER SUPPLY FAILURE
+					</tspan>
+				</text>
+				<text id="DCDC8Label" transform="matrix(0 -1 1 0 202 302)" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+					<tspan x="0" y="21.2588">
+						SYSTEM FAILURE
+					</tspan>
+				</text>
+				<text id="DCDC8Label_2" transform="matrix(0 -1 1 0 296 324)" fill="black" font-family="Open Sans" font-size="20" letter-spacing="0em">
+					<tspan x="0" y="21.2588">
+						SINGLE CPU FAILURE
+					</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>

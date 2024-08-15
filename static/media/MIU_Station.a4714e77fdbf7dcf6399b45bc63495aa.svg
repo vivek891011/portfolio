@@ -1,0 +1,1584 @@
+<svg id="main-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1856" height="720" viewBox="0 0 1856 720">
+	<defs>
+		<clipPath id="clip-MIU">
+			<rect width="1856" height="720">
+			</rect>
+		</clipPath>
+	</defs>
+	<g id="MIU" clip-path="url(#clip-MIU)">
+		<rect width="1856" height="720" fill="#fff">
+		</rect>
+		<g id="YardLayout" transform="translate(21 -40)">
+			<g id="Canvas" transform="translate(-21 40)" stroke="#707070" stroke-width="1">
+				<rect width="1856" height="720" stroke="none">
+				</rect>
+				<rect x="0.5" y="0.5" width="1855" height="719" fill="none">
+				</rect>
+			</g>
+			<g id="Bitcomm_logo-2" data-name="Bitcomm_logo" transform="translate(45 10)">
+				<g id="Rectangle_4" data-name="Rectangle 4" transform="translate(35.597 0.608) rotate(45)" fill="#0e86d4">
+					<path d="M 50.90496444702148 50.90496444702148 L 1.887659072875977 49.62485504150391 L 0.6075512766838074 0.6075512766838074 L 49.62485504150391 1.887659072875977 L 50.90496444702148 50.90496444702148 Z" stroke="none">
+					</path>
+					<path d="M 1.121135711669922 1.121135711669922 L 2.375099182128906 49.13741683959961 L 50.39138031005859 50.39138031005859 L 49.13741683959961 2.375099182128906 L 1.121135711669922 1.121135711669922 M 0.09396743774414062 0.09396743774414062 L 50.11229705810547 1.400218963623047 L 51.41854858398438 51.41854858398438 L 1.400218963623047 50.11229705810547 L 0.09396743774414062 0.09396743774414062 Z" stroke="none" fill="#0e86d4">
+					</path>
+				</g>
+				<g id="Ellipse_2" data-name="Ellipse 2" transform="translate(19.204 19.74)" fill="none" stroke="#fff" stroke-width="5">
+					<ellipse cx="17.799" cy="18.753" rx="17.799" ry="18.753" stroke="none">
+					</ellipse>
+					<ellipse cx="17.799" cy="18.753" rx="15.299" ry="16.253" fill="none">
+					</ellipse>
+				</g>
+				<path id="Path_1-2" data-name="Path 1" d="M.568-1.031h0s8.95,7.449,10.283,9.924a47.609,47.609,0,0,1,2.316,5.086" transform="translate(9.332 30.117)" fill="none" stroke="#fff" stroke-width="5">
+				</path>
+				<g id="Path_2" data-name="Path 2" transform="translate(16.001 22.307) rotate(45)">
+					<path id="Path_91" data-name="Path 91" d="M.143,5.135.455.013l14.3.812,2.286,4.348L15.152,5.2Z" transform="translate(0.54 0.509)" fill="#0e86d4">
+					</path>
+					<path id="Path_92" data-name="Path 92" d="M1.448,1.027,1.2,5.165l14.469.058L16.8,5.209,15,1.8,1.448,1.027M.542.015,15.58.869l2.778,5.284-2.639.033L.171,6.123Z" transform="translate(0 0)" fill="#0e86d4">
+					</path>
+				</g>
+				<g id="Path_3" data-name="Path 3" transform="matrix(0.616, -0.788, 0.788, 0.616, 7.56, 30.314)">
+					<path id="Path_93" data-name="Path 93" d="M3.893.459-.014.5,0,0,3.893.366Z" transform="translate(0.473 0.526)" fill="#fff">
+					</path>
+					<path id="Path_94" data-name="Path 94" d="M.013,0,4.85.455v1l-4.892.051Z" transform="translate(0 0)" fill="#fff">
+					</path>
+				</g>
+				<path id="Path_4" data-name="Path 4" d="M44,44" transform="translate(-3.719 31.506)" fill="none" stroke="#707070" stroke-width="1">
+				</path>
+				<g id="Group_2" data-name="Group 2" transform="translate(0 1.481)">
+					<line id="Line_2" data-name="Line 2" x2="3.747" y2="3.948" transform="translate(0 31.584)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3" data-name="Line 3" x2="3.747" y2="3.948" transform="translate(4.684 26.649)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4" data-name="Line 4" x2="3.747" y2="3.948" transform="translate(9.368 21.714)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5" data-name="Line 5" x2="3.747" y2="3.948" transform="translate(13.115 17.766)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6" data-name="Line 6" x2="3.747" y2="3.948" transform="translate(17.799 12.831)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_7" data-name="Line 7" x2="3.747" y2="3.948" transform="translate(22.482 7.896)" fill="none" stroke="#707070" stroke-width="1">
+					</line>
+					<line id="Line_8" data-name="Line 8" x2="3.747" y2="3.948" transform="translate(30.913)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9" data-name="Line 9" x2="3.747" y2="3.948" transform="translate(22.482 7.896)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10" data-name="Line 10" x2="3.747" y2="3.948" transform="translate(26.23 3.948)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+				<g id="Group_3" data-name="Group 3" transform="translate(69.789) rotate(90)">
+					<line id="Line_2-2" data-name="Line 2" x2="3.948" y2="3.747" transform="translate(0 29.977)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3-2" data-name="Line 3" x2="3.948" y2="3.747" transform="translate(4.935 25.293)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4-2" data-name="Line 4" x2="3.948" y2="3.747" transform="translate(9.87 20.609)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5-2" data-name="Line 5" x2="3.948" y2="3.747" transform="translate(13.818 16.862)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6-2" data-name="Line 6" x2="3.948" y2="3.747" transform="translate(18.753 12.178)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_7-2" data-name="Line 7" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#707070" stroke-width="1">
+					</line>
+					<line id="Line_8-2" data-name="Line 8" x2="3.948" y2="3.747" transform="translate(32.571 0)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9-2" data-name="Line 9" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10-2" data-name="Line 10" x2="3.948" y2="3.747" transform="translate(27.636 3.747)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+				<g id="Group_4" data-name="Group 4" transform="translate(70.258 73.532) rotate(180)">
+					<line id="Line_2-3" data-name="Line 2" x2="3.747" y2="3.948" transform="translate(0 32.571)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3-3" data-name="Line 3" x2="3.747" y2="3.948" transform="translate(4.684 27.636)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4-3" data-name="Line 4" x2="3.747" y2="3.948" transform="translate(8.431 22.701)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5-3" data-name="Line 5" x2="3.747" y2="3.948" transform="translate(13.115 17.766)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6-3" data-name="Line 6" x2="3.747" y2="3.948" transform="translate(17.799 12.831)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_8-3" data-name="Line 8" x2="3.747" y2="3.948" transform="translate(30.913)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9-3" data-name="Line 9" x2="3.747" y2="3.948" transform="translate(22.482 7.896)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10-3" data-name="Line 10" x2="3.747" y2="3.948" transform="translate(26.23 3.948)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+				<g id="Group_5" data-name="Group 5" transform="translate(34.192 37.506) rotate(90)">
+					<line id="Line_2-4" data-name="Line 2" x2="3.948" y2="3.747" transform="translate(0 29.977)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3-4" data-name="Line 3" x2="3.948" y2="3.747" transform="translate(4.935 25.293)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4-4" data-name="Line 4" x2="3.948" y2="3.747" transform="translate(9.87 20.609)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5-4" data-name="Line 5" x2="3.948" y2="3.747" transform="translate(13.818 16.862)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6-4" data-name="Line 6" x2="3.948" y2="3.747" transform="translate(18.753 12.178)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_7-3" data-name="Line 7" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#707070" stroke-width="1">
+					</line>
+					<line id="Line_8-4" data-name="Line 8" x2="3.948" y2="3.747" transform="translate(32.571 0)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9-4" data-name="Line 9" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10-4" data-name="Line 10" x2="3.948" y2="3.747" transform="translate(27.636 3.747)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+			</g>
+			<g id="TrackCircuit" transform="translate(-31.5 -26)">
+				<g id="DMT" transform="translate(0 101.5)">
+					<g id="Marker">
+						<line id="Line_35" data-name="Line 35" y2="12" transform="translate(198.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_76" data-name="Line 76" y2="12" transform="translate(267.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_78" data-name="Line 78" y2="12" transform="translate(332.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_93" data-name="Line 93" y2="12" transform="translate(386.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_94" data-name="Line 94" y2="12" transform="translate(506.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_95" data-name="Line 95" y2="12" transform="translate(622.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_96" data-name="Line 96" y2="12" transform="translate(738.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_97" data-name="Line 97" y2="12" transform="translate(1011.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_98" data-name="Line 98" y2="12" transform="translate(1105.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_99" data-name="Line 99" y2="12" transform="translate(1308.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_100" data-name="Line 100" y2="12" transform="translate(1414.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_101" data-name="Line 101" y2="12" transform="translate(1469.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_102" data-name="Line 102" y2="12" transform="translate(1543.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_103" data-name="Line 103" y2="12" transform="translate(1607.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_104" data-name="Line 104" y2="12" transform="translate(1696.5 454.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+					</g>
+					<g id="Group_1725" data-name="Group 1725">
+						<line id="Line_34" data-name="Line 34" x1="82" transform="translate(112.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1726" data-name="Group 1726">
+						<line id="Line_36" data-name="Line 36" x1="61" transform="translate(202.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1727" data-name="Group 1727">
+						<line id="Line_77" data-name="Line 77" x1="57" transform="translate(271.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1728" data-name="Group 1728">
+						<line id="Line_79" data-name="Line 79" x1="46" transform="translate(336.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1731" data-name="Group 1731">
+						<line id="Line_89" data-name="Line 89" x1="66" transform="translate(1473.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1732" data-name="Group 1732">
+						<line id="Line_90" data-name="Line 90" x1="56" transform="translate(1547.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1733" data-name="Group 1733">
+						<line id="Line_91" data-name="Line 91" x1="81" transform="translate(1611.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1734" data-name="Group 1734">
+						<line id="Line_92" data-name="Line 92" x1="65" transform="translate(1700.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+				</g>
+				<g id="TCC20">
+					<line id="TCC20Line" x1="47" transform="translate(1418.5 562)" fill="none" stroke="#6c7091" stroke-width="3">
+					</line>
+					<text id="TCC20Label" transform="translate(1424.5 553)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							C20T
+						</tspan>
+					</text>
+				</g>
+				<g id="BT" transform="translate(0 51.5)">
+					<g id="Marker-2" data-name="Marker">
+						<line id="Line_32" data-name="Line 32" y2="12" transform="translate(182.5 388.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_37" data-name="Line 37" y2="12" transform="translate(227.5 388.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_39" data-name="Line 39" y2="12" transform="translate(282.5 388.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_48" data-name="Line 48" y2="12" transform="translate(337.5 388.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_50" data-name="Line 50" y2="12" transform="translate(386.5 388.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_52" data-name="Line 52" y2="12" transform="translate(435.5 388.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_54" data-name="Line 54" y2="12" transform="translate(522.5 388.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_55" data-name="Line 55" y2="12" transform="translate(589.5 388.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_56" data-name="Line 56" y2="12" transform="translate(704.5 388.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_57" data-name="Line 57" y2="12" transform="translate(1057.5 389.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_62" data-name="Line 62" y2="12" transform="translate(1225.5 389.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_64" data-name="Line 64" y2="12" transform="translate(1362.5 389.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_66" data-name="Line 66" y2="12" transform="translate(1438.5 389.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_71" data-name="Line 71" y2="12" transform="translate(1487.5 389.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_72" data-name="Line 72" y2="12" transform="translate(1529.5 389.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_73" data-name="Line 73" y2="12" transform="translate(1574.5 389.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_74" data-name="Line 74" y2="12" transform="translate(1632.5 390.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+					</g>
+					<g id="Group_1712" data-name="Group 1712">
+						<line id="Line_31" data-name="Line 31" x1="66" transform="translate(112.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1713" data-name="Group 1713">
+						<line id="Line_33" data-name="Line 33" x1="37" transform="translate(186.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1714" data-name="Group 1714">
+						<line id="Line_38" data-name="Line 38" x1="47" transform="translate(231.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1715" data-name="Group 1715">
+						<line id="Line_47" data-name="Line 47" x1="47" transform="translate(286.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1716" data-name="Group 1716">
+						<line id="Line" x1="34" transform="translate(1491.5 395.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1717" data-name="Group 1717">
+						<line id="Line-2" data-name="Line" x1="37" transform="translate(1533.5 395.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1718" data-name="Group 1718">
+						<line id="Line-3" data-name="Line" x1="50" transform="translate(1578.5 395.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1719" data-name="Group 1719">
+						<line id="Line-4" data-name="Line" x1="129" transform="translate(1636.5 395.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+				</g>
+				<g id="UMT" transform="translate(0 2.5)">
+					<g id="Marker-3" data-name="Marker">
+						<line id="Line_3" data-name="Line 3" y2="12" transform="translate(174.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<path id="Path_1" data-name="Path 1" d="M0,0V12" transform="translate(263.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_2" data-name="Path 2" d="M0,0V12" transform="translate(349.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_3" data-name="Path 3" d="M0,0V12" transform="translate(404.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_4" data-name="Path 4" d="M0,0V12" transform="translate(639.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_5" data-name="Path 5" d="M0,0V12" transform="translate(719.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_7" data-name="Path 7" d="M0,0V12" transform="translate(798.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_8" data-name="Path 8" d="M0,0V12" transform="translate(1026.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_9" data-name="Path 9" d="M0,0V12" transform="translate(1181.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_10" data-name="Path 10" d="M0,0V12" transform="translate(1349.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_11" data-name="Path 11" d="M0,0V12" transform="translate(1410.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_12" data-name="Path 12" d="M0,0V12" transform="translate(1454.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_13" data-name="Path 13" d="M0,0V12" transform="translate(1665.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_14" data-name="Path 14" d="M0,0V12" transform="translate(1710.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_7-2" data-name="Path 7" d="M0,0V12" transform="translate(867.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_7-3" data-name="Path 7" d="M0,0V12" transform="translate(947.5 323.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+					</g>
+					<g id="Group_1701" data-name="Group 1701">
+						<line id="Line-5" data-name="Line" x1="58" transform="translate(112.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1702" data-name="Group 1702">
+						<line id="Line-6" data-name="Line" x1="81" transform="translate(178.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1703" data-name="Group 1703">
+						<line id="Line-7" data-name="Line" x1="78" transform="translate(267.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Group_1707" data-name="Group 1707">
+						<line id="Line-8" data-name="Line" x1="203" transform="translate(1458.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="TC5T">
+						<line id="Line-9" data-name="Line" x1="37" transform="translate(1669.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="TC5AT">
+						<line id="Line-10" data-name="Line" x1="51" transform="translate(1714.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+				</g>
+				<g id="ULT" transform="translate(-7 -48.5)">
+					<g id="Marker-4" data-name="Marker">
+						<path id="Path_15" data-name="Path 15" d="M0,0V12" transform="translate(838.5 260.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_16" data-name="Path 16" d="M0,0V12" transform="translate(899.5 260.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_17" data-name="Path 17" d="M0,0V12" transform="translate(980.5 260.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_18" data-name="Path 18" d="M0,0V12" transform="translate(1040.5 260.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+						<path id="Path_19" data-name="Path 19" d="M0,0V12" transform="translate(1117.5 260.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</path>
+					</g>
+				</g>
+				<g id="DLT" transform="translate(0 150.5)">
+					<g id="Marker-5" data-name="Marker">
+						<line id="Line_106" data-name="Line 106" y2="12" transform="translate(737.5 519.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_108" data-name="Line 108" y2="12" transform="translate(1011.5 519.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_110" data-name="Line 110" y2="12" transform="translate(637.5 519.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_106-2" data-name="Line 106" y2="12" transform="translate(825.5 519.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_106-3" data-name="Line 106" y2="12" transform="translate(944.5 519.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+					</g>
+					<g id="Group_1735" data-name="Group 1735">
+						<line id="Line_109" data-name="Line 109" x1="27" transform="translate(1015.5 525.5)" fill="none" stroke="#6c7091" stroke-width="3">
+						</line>
+					</g>
+					<g id="Marker-6" data-name="Marker" transform="translate(56 -215)">
+						<line id="Line_106-4" data-name="Line 106" y2="12" transform="translate(737.5 505.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_106-5" data-name="Line 106" y2="12" transform="translate(922.5 505.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+					</g>
+					<g id="Marker-7" data-name="Marker" transform="translate(4 -142)">
+						<line id="Line_106-6" data-name="Line 106" y2="12" transform="translate(822.5 547.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+						<line id="Line_106-7" data-name="Line 106" y2="12" transform="translate(941.5 547.5)" fill="none" stroke="#6c7091" stroke-width="4">
+						</line>
+					</g>
+				</g>
+				<g id="TC20T" transform="translate(0 101.5)" class="tooltip" title="" edge-id="MIU_TC_20T">
+					<line id="TC20TLine" x1="98" transform="translate(1312.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_20TLine">
+					</line>
+					<text id="TC20TLabel" transform="translate(1346 476.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_20TLabel">
+						<tspan x="0" y="0">
+							20T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC4T" transform="translate(0 101.5)" class="tooltip" title="" edge-id="MIU_TC_4T">
+					<line id="TC4TLine" x1="112" transform="translate(390.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_4TLine">
+					</line>
+					<text id="TC4TLabel" transform="translate(437 452.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_4TLabel">
+						<tspan x="0" y="0">
+							4T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC201AT" transform="translate(0 101.5)" class="tooltip" title="" edge-id="MIU_TC_201AT">
+					<line id="TC201ATLine" x1="108" transform="translate(510.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_201ATLine">
+					</line>
+					<text id="TC201ATLabel" transform="translate(545 476.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_201ATLabel">
+						<tspan x="0" y="0">
+							201AT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC202BT" transform="translate(0 101.5)" class="tooltip" title="" edge-id="MIU_TC_202BT">
+					<line id="TC202BTLine" x1="108" transform="translate(626.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_202BTLine">
+					</line>
+					<text id="TC202BTLabel" transform="translate(668 451.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_202BTLabel">
+						<tspan x="0" y="0">
+							202BT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC296T" transform="translate(0 101.5)" class="tooltip" title="" edge-id="MIU_TC_296T">
+					<line id="TC296TLine" x1="86" transform="translate(1015.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_296TLine">
+					</line>
+					<text id="TC296TLabel" transform="translate(1045.5 454.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_296TLabel">
+						<tspan x="0" y="0">
+							296T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC298AT" transform="translate(0 101.5)" class="tooltip" title="" edge-id="MIU_TC_298AT">
+					<line id="TC298ATLine" x1="195" transform="translate(1109.5 460.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_298ATLine">
+					</line>
+					<text id="TC298ATLabel" transform="translate(1197 476.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_298ATLabel">
+						<tspan x="0" y="0">
+							298AT
+						</tspan>
+					</text>
+				</g>
+				<g id="TCC3T" transform="translate(0 51.5)" class="tooltip" title="" edge-id="MIU_TC_C3T">
+					<line id="TCC3TLine" x1="41" transform="translate(341.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_C3TLine">
+					</line>
+					<text id="TCC3TLabel" transform="translate(349 410.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_C3TLabel">
+						<tspan x="0" y="0">
+							C3T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC3T" transform="translate(0 51.5)" class="tooltip" title="" edge-id="MIU_TC_3T">
+					<line id="TC3TLine" x1="41" transform="translate(390.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_3TLine">
+					</line>
+					<text id="TC3TLabel" transform="translate(402.5 390.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_3TLabel">
+						<tspan x="0" y="0">
+							3T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC10T" transform="translate(0 51.5)" class="tooltip" title="" edge-id="MIU_TC_10T">
+					<line id="TC10TLine" x1="79" transform="translate(439.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_10TLine">
+					</line>
+					<text id="TC10TLabel" transform="translate(466.5 390.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_10TLabel">
+						<tspan x="0" y="0">
+							10T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC201BT" transform="translate(1 51.5)" class="tooltip" title="" edge-id="MIU_TC_201BT">
+					<line id="TC201BTLine" x1="59" transform="translate(526 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_201BTLine">
+					</line>
+					<text id="TC201BTLabel" transform="translate(533.5 385.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_201BTLabel">
+						<tspan x="0" y="0">
+							201BT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC203BT" transform="translate(0 51.5)" class="tooltip" title="" edge-id="MIU_TC_203BT">
+					<line id="TC203BTLine" x1="107" transform="translate(593.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_203BTLine">
+					</line>
+					<text id="TC203BTLabel" transform="translate(625.5 410.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_203BTLabel">
+						<tspan x="0" y="0">
+							203BT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC299BT" transform="translate(0 51.5)" class="tooltip" title="" edge-id="MIU_TC_299BT">
+					<line id="TC299BTLine" x1="129" y1="1" transform="translate(1229.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_299BTLine">
+					</line>
+					<text id="TC299BTLabel" transform="translate(1281.5 416.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_299BTLabel">
+						<tspan x="0" y="0">
+							299BT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC298BT" transform="translate(0 51.5)" class="tooltip" title="" edge-id="MIU_TC_298BT">
+					<line id="TC298BTLine" x1="160" transform="translate(1061.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_298BTLine">
+					</line>
+					<text id="TC298BTLabel" transform="translate(1125.5 386.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_298BTLabel">
+						<tspan x="0" y="0">
+							298BT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC11T" transform="translate(0 51.5)" class="tooltip" title="" edge-id="MIU_TC_11T">
+					<line id="TC11TLine" x1="68" transform="translate(1366.5 395.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_11TLine">
+					</line>
+					<text id="TC11TLabel" transform="translate(1390.5 387.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_11TLabel">
+						<tspan x="0" y="0">
+							11T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC13T" transform="translate(0 51.5)" class="tooltip" title="" edge-id="MIU_TC_13T">
+					<line id="TC13TLine" x1="41" transform="translate(1442.5 395.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_13TLine">
+					</line>
+					<text id="TC13TLabel" transform="translate(1445.5 411.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_13TLabel">
+						<tspan x="0" y="0">
+							13T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCC1T" transform="translate(0 2.5)" class="tooltip" title="" edge-id="MIU_TC_C1T">
+					<line id="TCC1TLine" x1="47" transform="translate(353.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_C1TLine">
+					</line>
+					<text id="TCC1Label" transform="translate(364 345.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							C1T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC1T" transform="translate(0 2.5)" class="tooltip" title="" edge-id="MIU_TC_1T">
+					<line id="TC1TLine" x1="227" transform="translate(408.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_1TLine">
+					</line>
+					<text id="TC1TLabel" transform="translate(517.5 322.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_1TLabel">
+						<tspan x="0" y="0">
+							1T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC203AT" transform="translate(0 2.5)" class="tooltip" title="" edge-id="MIU_TC_203AT">
+					<line id="TC203ATLine" x1="72" transform="translate(642.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_203ATLine">
+					</line>
+					<text id="TC203ATLabel" transform="translate(650 325.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_203ATLabel">
+						<tspan x="0" y="0">
+							203AT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC204T" transform="translate(37 2.5)" class="tooltip" title="" edge-id="MIU_TC_204T">
+					<line id="TC204TLine" x1="70" transform="translate(686.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_204TLine">
+					</line>
+					<text id="TC204TLabel" transform="translate(704.5 345.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_204TLabel">
+						<tspan x="0" y="0">
+							204T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC297BT" transform="translate(0 2.5)" class="tooltip" title="" edge-id="MIU_TC_297BT">
+					<line id="TC297BTLine" x1="147" transform="translate(1030.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_297BTLine">
+					</line>
+					<text id="TC297BTLabel" transform="translate(1078 349.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_297BTLabel">
+						<tspan x="0" y="0">
+							297BT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC299AT" transform="translate(0 2.5)" class="tooltip" title="" edge-id="MIU_TC_299AT">
+					<line id="TC299ATLine" x1="160" transform="translate(1185.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_299ATLine">
+					</line>
+					<text id="TC299ATLabel" transform="translate(1265.5 322.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_299ATLabel">
+						<tspan x="0" y="0">
+							299AT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC17T" transform="translate(0 2.5)" class="tooltip" title="" edge-id="MIU_TC_17T">
+					<line id="TC17TLine" x1="53" transform="translate(1353.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_17TLine">
+					</line>
+					<text id="TC17Label" transform="translate(1367.5 345.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							17T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC19T" transform="translate(0 2.5)" class="tooltip" title="" edge-id="MIU_TC_19T">
+					<line id="TC19TLine" x1="36" transform="translate(1415.5 329.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_19TLine">
+					</line>
+					<text id="TC19TLabel" transform="translate(1421 345.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_19TLabel">
+						<tspan x="0" y="0">
+							19T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC297AT" transform="translate(-7 -48.5)" class="tooltip" title="" edge-id="MIU_TC_297AT">
+					<line id="TC297ATLine" x2="69" transform="translate(1044.5 267)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_297ATLine">
+					</line>
+					<text id="TC297ATLabel" transform="translate(1057 258.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_297ATLabel">
+						<tspan x="0" y="0">
+							297AT
+						</tspan>
+					</text>
+				</g>
+				<g id="TCULT3T" transform="translate(-77 -48.5)" class="tooltip" title="" edge-id="MIU_TC_ULT3T">
+					<line id="TCULT3TLine" x2="52" transform="translate(1054.5 266.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_ULT3TLine">
+					</line>
+					<text id="TCULT3TLabel" transform="translate(1062.5 282.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_ULT3TLabel">
+						<tspan x="0" y="0">
+							ULT3
+						</tspan>
+					</text>
+				</g>
+				<g id="TC295T" transform="translate(-147 -48.5)" class="tooltip" title="" edge-id="MIU_TC_295T">
+					<line id="TC295TLine" x2="73" transform="translate(1043.5 266.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_295TLine">
+					</line>
+					<text id="TC295TLabel" transform="translate(1058 260.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_295TLabel">
+						<tspan x="0" y="0">
+							295T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCULT2T" transform="translate(-7 -48.5)" class="tooltip" title="" edge-id="MIU_TC_ULT2T">
+					<line id="TCULT2TLine" x2="53" transform="translate(842.5 266.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_ULT2TLine">
+					</line>
+					<text id="TCULT2TLabel" transform="translate(853 259.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_ULT2TLabel">
+						<tspan x="0" y="0">
+							ULT2
+						</tspan>
+					</text>
+				</g>
+				<g id="TCULT1T" transform="translate(-7 -48.5)" class="tooltip" title="" edge-id="MIU_TC_ULT1T">
+					<line id="TCULT1TLine" x2="18" transform="translate(816.5 266.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_ULT1TLine">
+					</line>
+					<text id="TCULT1TLabel" transform="translate(799 257.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_ULT1TLabel">
+						<tspan x="0" y="0">
+							ULT1
+						</tspan>
+					</text>
+				</g>
+				<g id="TC202AT" transform="translate(0 150.5)" class="tooltip" title="" edge-id="MIU_TC_202AT">
+					<line id="TC202ATLine" x1="94" transform="translate(639.5 525.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_202ATLine">
+					</line>
+					<text id="TC202ATLable" transform="translate(666.5 541.5)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MIU_TC_202ATLable">
+						<tspan x="0" y="0">
+							202AT
+						</tspan>
+					</text>
+				</g>
+				<g id="TCDLT3T" transform="translate(304 281.5)" class="tooltip" title="" edge-id="MIU_TC_DLT3T">
+					<line id="TCDLT3TLine" x1="80" transform="translate(437.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_DLT3TLine">
+					</line>
+					<text id="TCDLT3TLabel" transform="translate(455.5 388.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_DLT3TLabel">
+						<tspan x="0" y="0">
+							DLT3T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCDLT1T" transform="translate(422.676 281.5)" class="tooltip" title="" edge-id="MIU_TC_DLT1T">
+					<line id="TCDLT1TLine" x1="59" transform="translate(526 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_DLT1TLine">
+					</line>
+					<text id="TCDLT1TLabel" transform="translate(533.5 386.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_DLT1TLabel">
+						<tspan x="0" y="0">
+							DLT1T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCDLT2T" transform="translate(237 281.5)" class="tooltip" title="" edge-id="MIU_TC_DLT2T">
+					<line id="TCDLT2TLine" x1="111" transform="translate(592.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_DLT2TLine">
+					</line>
+					<text id="TCDLT2TLabel" transform="translate(634.838 410.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_DLT2TLabel">
+						<tspan x="0" y="0">
+							DLT2T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCBT1T" transform="translate(273.649 53)" class="tooltip" title="" edge-id="MIU_TC_BT1T">
+					<line id="TCBT1TLine" x1="80" transform="translate(435.5 393)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_BT1TLine">
+					</line>
+					<text id="TCBT1TLabel" transform="translate(458 387)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_BT1TLabel">
+						<tspan x="0" y="0">
+							BT1T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCBT3T" transform="translate(468.324 51.5)" class="tooltip" title="" edge-id="MIU_TC_BT3T">
+					<line id="TCBT3TLine" x1="70" transform="translate(515 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_BT3TLine">
+					</line>
+					<text id="TCBT3TLabel" transform="translate(532.5 410.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_BT3TLabel">
+						<tspan x="0" y="0">
+							BT3T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCBT2T" transform="translate(206.649 53)" class="tooltip" title="" edge-id="MIU_TC_BT2T">
+					<line id="TCBT2TLine" x1="177" transform="translate(590.5 393)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_BT2TLine">
+					</line>
+					<text id="TCBT2TLabel" transform="translate(665.5 409)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_BT2TLabel">
+						<tspan x="0" y="0">
+							BT2T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCDMT3T" transform="translate(305 167.5)" class="tooltip" title="" edge-id="MIU_TC_DMT3T">
+					<line id="TCDMT3TLine" x1="80" transform="translate(437.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_DMT3TLine">
+					</line>
+					<text id="TCDMT3TLabel" transform="translate(459 410.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_DMT3TLabel">
+						<tspan x="0" y="0">
+							DMT3
+						</tspan>
+					</text>
+				</g>
+				<g id="TCDMT1T" transform="translate(423.676 167.5)" class="tooltip" title="" edge-id="MIU_TC_DMT1T">
+					<line id="TCDMT1TLine" x1="58" transform="translate(526 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_DMT1TLine">
+					</line>
+					<text id="TCDMT1TLabel" transform="translate(530 388.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_DMT1TLabel">
+						<tspan x="0" y="0">
+							DMT1T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCDMT2T" transform="translate(238 167.5)" class="tooltip" title="" edge-id="MIU_TC_DMT2T">
+					<line id="TCDMT2TLine" x1="111" transform="translate(592.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_DMT2TLine">
+					</line>
+					<text id="TCDMT2TLabel" transform="translate(634.838 412.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_DMT2TLabel">
+						<tspan x="0" y="0">
+							DMT2
+						</tspan>
+					</text>
+				</g>
+				<g id="TCUMT1T" transform="translate(365.412 -62.5)" class="tooltip" title="" edge-id="MIU_TC_UMT1T">
+					<line id="TCUMT1TLine" x1="60" transform="translate(437.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_UMT1TLine">
+					</line>
+					<text id="TCUMT1TLabel" transform="translate(449.013 410.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_UMT1TLabel">
+						<tspan x="0" y="0">
+							UMT1
+						</tspan>
+					</text>
+				</g>
+				<g id="TCUMT3T" transform="translate(432.912 -62.5)" class="tooltip" title="" edge-id="MIU_TC_UMT3T">
+					<line id="TCUMT3TLine" x1="70" transform="translate(520 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_UMT3TLine">
+					</line>
+					<text id="TCUMT3TLabel" transform="translate(534.5 388.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_UMT3TLabel">
+						<tspan x="0" y="0">
+							UMT3
+						</tspan>
+					</text>
+				</g>
+				<g id="TCUMT2T" transform="translate(286.412 -62.5)" class="tooltip" title="" edge-id="MIU_TC_UMT2T">
+					<line id="TCUMT2TLine" x1="70" transform="translate(586.5 394.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="MIU_TC_UMT2TLine">
+					</line>
+					<text id="TCUMT2TLabel" transform="translate(601.088 409.5)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_TC_UMT2TLabel">
+						<tspan x="0" y="0">
+							UMT2
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="PointMachine">
+				<g id="PM202A" transform="translate(680.927 617.811) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_202A">
+					<g id="PM202AHr" transform="translate(33.413 -1.244)" edge-id-selector="MIU_PM_202AHr">
+						<path id="PM202AHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_202AHr1">
+						</path>
+						<path id="PM202AHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_202AHr2">
+						</path>
+					</g>
+					<g id="PM202AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6" edge-id-selector="MIU_PM_202AIcon">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM202ALabel" transform="translate(6.426 -7.717)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_202ALabel">
+						<tspan x="0" y="0">
+							202A
+						</tspan>
+					</text>
+				</g>
+				<g id="PM202B" transform="translate(583.451 552.12) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_202B">
+					<g id="PM202BHr" transform="translate(-21.589 4.258)" edge-id-selector="MIU_PM_202BHr">
+						<path id="PM202BHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_202BHr1">
+						</path>
+						<path id="PM202BHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_202BHr2">
+						</path>
+					</g>
+					<g id="PM202AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM202BLabel" transform="translate(-0.937 41.198)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_202BLabel">
+						<tspan x="0" y="0">
+							202B
+						</tspan>
+					</text>
+				</g>
+				<g id="PM201A" transform="translate(566.451 504.043) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_201A">
+					<g id="PM201AHr" transform="translate(29.593 -8.039)" edge-id-selector="MIU_PM_201AHr">
+						<path id="PM201AHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_201AHr1">
+						</path>
+						<path id="PM201AHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_201AHr2">
+						</path>
+					</g>
+					<g id="PM201AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6" edge-id-selector="MIU_PM_201AIcon">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM201ALabel" transform="translate(-3.523 -7.769)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_201ALabel">
+						<tspan x="0" y="0">
+							201A
+						</tspan>
+					</text>
+				</g>
+				<g id="PM201B" transform="translate(481.451 434.08) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_201B">
+					<g id="PM201BHr" transform="translate(7.452 18.953)" edge-id-selector="MIU_PM_201BHr">
+						<path id="PM201BHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_201BHr1">
+						</path>
+						<path id="PM201BHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_201BHr2">
+						</path>
+					</g>
+					<g id="PM201AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM201BLabel" transform="translate(-32.822 19.186)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_201BLabel">
+						<tspan x="0" y="0">
+							201B
+						</tspan>
+					</text>
+				</g>
+				<g id="PM203A" transform="translate(546.805 390.537) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_203A">
+					<g id="PM203AHr" transform="translate(16.669 -19.999)" edge-id-selector="MIU_PM_203AHr">
+						<path id="PM203AHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_203AHr1">
+						</path>
+						<path id="PM203AHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_203AHr2">
+						</path>
+					</g>
+					<g id="PM203AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6" edge-id-selector="MIU_PM_203AIcon">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM203ALabel" transform="translate(-18.232 -7.846)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_203ALabel">
+						<tspan x="0" y="0">
+							203A
+						</tspan>
+					</text>
+				</g>
+				<g id="PM203B" transform="translate(663.384 318.056) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_203B">
+					<g id="PM203BHr" transform="translate(-8.665 18.88)" edge-id-selector="MIU_PM_203BHr">
+						<path id="PM203BHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_203BHr1">
+						</path>
+						<path id="PM203BHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_203BHr2">
+						</path>
+					</g>
+					<g id="PM203AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM203BLabel" transform="translate(19.082 37.663)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_203BLabel">
+						<tspan x="0" y="0">
+							203B
+						</tspan>
+					</text>
+				</g>
+				<g id="PM204A" transform="translate(674.403 274.056) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_204A">
+					<g id="PM204AHr" transform="translate(19.686 -18.183)" edge-id-selector="MIU_PM_204AHr">
+						<path id="PM204AHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_204AHr1">
+						</path>
+						<path id="PM204AHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_204AHr2">
+						</path>
+					</g>
+					<g id="PM204AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6" edge-id-selector="MIU_PM_204AIcon">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM204ALabel" transform="translate(-19.808 -5.855)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_204ALabel">
+						<tspan x="0" y="0">
+							204A
+						</tspan>
+					</text>
+				</g>
+				<g id="PM204B" transform="translate(761.403 201.056) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_204B">
+					<g id="PM204BHr" transform="translate(30.586 0.891)" edge-id-selector="MIU_PM_204BHr">
+						<path id="PM204BHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_204BHr1">
+						</path>
+						<path id="PM204BHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_204BHr2">
+						</path>
+					</g>
+					<g id="PM204AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM204BLabel" transform="translate(1.965 37.573)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_204BLabel">
+						<tspan x="0" y="0">
+							204B
+						</tspan>
+					</text>
+				</g>
+				<g id="PM297B" transform="translate(992.403 207.159) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_297B">
+					<g id="PM297BHr" transform="translate(-21.57 10.71)" edge-id-selector="MIU_PM_297BHr">
+						<path id="PM297BHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_297BHr1">
+						</path>
+						<path id="PM297BHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_297BHr2">
+						</path>
+					</g>
+					<g id="PM297AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM297BLabel" transform="translate(4.069 37.584)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_297BLabel">
+						<tspan x="0" y="0">
+							297B
+						</tspan>
+					</text>
+				</g>
+				<g id="PM297A" transform="translate(1122.396 274.504)" class="tooltip" title="" edge-id="MIU_PM_297A">
+					<g id="PM297AHr" transform="translate(30.524 -7.018)" edge-id-selector="MIU_PM_297AHr">
+						<path id="PM297AHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_297AHr1">
+						</path>
+						<path id="PM297AHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_297AHr2">
+						</path>
+					</g>
+					<g id="PM297AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6" edge-id-selector="MIU_PM_297AIcon">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM297ALabel" transform="translate(1.306 -7.744)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_297ALabel">
+						<tspan x="0" y="0">
+							297A
+						</tspan>
+					</text>
+				</g>
+				<g id="PM299B" transform="translate(1142.321 317.801)" class="tooltip" title="" edge-id="MIU_PM_299B">
+					<g id="PM299BHr" transform="translate(-21.536 4.258)" edge-id-selector="MIU_PM_299BHr">
+						<path id="PM299BHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_299BHr1">
+						</path>
+						<path id="PM299BHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_299BHr2">
+						</path>
+					</g>
+					<g id="PM299AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM299BLabel" transform="translate(-0.918 37.558)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_299BLabel">
+						<tspan x="0" y="0">
+							299B
+						</tspan>
+					</text>
+				</g>
+				<g id="PM299A" transform="translate(1304.222 390.839) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_299A">
+					<g id="PM299AHr" transform="translate(-19.335 -14.296)" edge-id-selector="MIU_PM_299AHr">
+						<path id="PM299AHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_299AHr1">
+						</path>
+						<path id="PM299AHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_299AHr2">
+						</path>
+					</g>
+					<g id="PM299AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6" edge-id-selector="MIU_PM_299AIcon">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM299ALabel" transform="translate(11.885 -7.689)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_299ALabel">
+						<tspan x="0" y="0">
+							299A
+						</tspan>
+					</text>
+				</g>
+				<g id="PM296B" transform="translate(1053.222 549.507) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_296B">
+					<g id="PM296BHr" transform="translate(29.936 4.528)" edge-id-selector="MIU_PM_296BHr">
+						<path id="PM296BHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_296BHr1">
+						</path>
+						<path id="PM296BHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_296BHr2">
+						</path>
+					</g>
+					<g id="PM296AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM296BLabel" transform="translate(-3.352 37.546)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_296BLabel">
+						<tspan x="0" y="0">
+							296B
+						</tspan>
+					</text>
+				</g>
+				<g id="PM296A" transform="translate(977.222 658.158) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_296A">
+					<g id="PM296AHr" transform="translate(29.936 4.528)" edge-id-selector="MIU_PM_296AHr">
+						<path id="PM296AHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" edge-id-selector="MIU_PM_296AHr1">
+						</path>
+						<path id="PM296AHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_296AHr2">
+						</path>
+					</g>
+					<g id="PM296AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6" edge-id-selector="MIU_PM_296AIcon">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM296ALabel" transform="translate(-3.352 37.546)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_296ALabel">
+						<tspan x="0" y="0">
+							296A
+						</tspan>
+					</text>
+				</g>
+				<g id="PM298A" transform="translate(1065.222 504.067) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_298A">
+					<g id="PM298AHr" transform="translate(29.936 4.528)" edge-id-selector="MIU_PM_298AHr">
+						<path id="PM298AHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_298AHr1">
+						</path>
+						<path id="PM298AHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_298AHr2">
+						</path>
+					</g>
+					<g id="PM298AIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6" edge-id-selector="MIU_PM_298AIcon">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM298ALabel" transform="translate(-0.681 -7.755)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_298ALabel">
+						<tspan x="0" y="0">
+							298A
+						</tspan>
+					</text>
+				</g>
+				<g id="PM298B" transform="translate(1170.222 433.067) rotate(-0.3)" class="tooltip" title="" edge-id="MIU_PM_298B">
+					<g id="PM298BHr" transform="translate(29.936 4.528)" edge-id-selector="MIU_PM_298BHr">
+						<path id="PM298BHr1" d="M10.793,16.092C4.99,12.879,1.946,9.956.7,7.51-2.646.954,6.9-2.182,10.793,1.689,14.68-2.182,24.231.954,20.888,7.51,19.639,9.956,16.6,12.879,10.793,16.092Z" transform="translate(1.898 4.566)" fill="none" edge-id-selector="MIU_PM_298BHr1">
+						</path>
+						<path id="PM298BHr2" d="M0,4.39H5.671L7.551,0l3.485,7.755L13.4,4.39H21.1" transform="translate(1.881 7.733)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4" edge-id-selector="MIU_PM_298BHr2">
+						</path>
+					</g>
+					<g id="PM298BIcon" transform="translate(4.201 -3.598)" fill="#fff" stroke="#6c7091" stroke-width="6" edge-id-selector="MIU_PM_298BIcon">
+						<circle cx="12.5" cy="12.5" r="12.5" stroke="none">
+						</circle>
+						<circle cx="12.5" cy="12.5" r="9.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM298BLabel" transform="translate(-0.918 37.558)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_PM_298BLabel">
+						<tspan x="0" y="0">
+							298B
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="TongueRail" transform="translate(259 345)">
+				<path id="Tongue1" d="M75.173-.5H67.288L-1.3,103h-8.831" transform="translate(735.327 196.5)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="Tongue2" d="M-1.342,0H9.5L92.181,104.5h12.54" transform="translate(337.5 195.5)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="Tongue3" d="M-8.591,3H2.28L69.933,109h12.56" transform="translate(245.327 76.5)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="Tongue4" d="M-.277-.5H10.49l150.195,105H172.5" transform="translate(895.5 -33.5)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="Tongue5" d="M120.468,3.5h-9.077L9.543,109H-.378" transform="translate(303.5 -38.5)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="Tongue6" d="M.5,1H8.711L127.5,104.5h13" transform="translate(746.5 -148.5)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="PM204Tongue" d="M86.533.5H75.961L9.622,110H.545" transform="translate(432.5 -153.5)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="TNG298" d="M100.765-.5H90.514L1.345,104.13h-11.48" transform="translate(829.337 80.711)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+			</g>
+			<g id="StationInfo" transform="translate(-31.5 20)">
+				<g id="CurrentStastion" transform="translate(-22 3)">
+					<line id="Line_1" data-name="Line 1" x2="135" transform="translate(893 85.5)" fill="none" stroke="#fff" stroke-width="3">
+					</line>
+					<text id="Label" transform="translate(897 72)" fill="#fff" font-size="30" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							MARIPAT
+						</tspan>
+					</text>
+				</g>
+				<g id="WestSide" transform="translate(-6 71)">
+					<text id="Label-2" data-name="Label" transform="translate(1535 72)" fill="#fff" font-size="30" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							CHIPIYANA
+						</tspan>
+					</text>
+					<g id="Arrow" transform="translate(114)">
+						<line id="Line_246" data-name="Line 246" x1="64" transform="translate(1583.5 60.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2.5">
+						</line>
+						<g id="Polygon_1" data-name="Polygon 1" transform="translate(1651.5 53.5) rotate(90)">
+							<path id="Path_93" data-name="Path 93" d="M12.977,13.75H2.023L7.5,2.8Z">
+							</path>
+							<path id="Path_94" data-name="Path 94" d="M7.5,5.59,4.045,12.5h6.91L7.5,5.59m0-4.354a.988.988,0,0,1,.894.553l5.882,11.764A1,1,0,0,1,13.382,15H1.618a1,1,0,0,1-.894-1.447L6.606,1.789A.989.989,0,0,1,7.5,1.236Z" fill="#fff">
+							</path>
+						</g>
+					</g>
+				</g>
+				<g id="EastSide" transform="translate(6 71)">
+					<text id="Label-3" data-name="Label" transform="translate(191 72)" fill="#fff" font-size="30" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							DADRI
+						</tspan>
+					</text>
+					<g id="Arrow-2" data-name="Arrow" transform="translate(112.5 53.5)">
+						<line id="Line_246-2" data-name="Line 246" x2="64" transform="translate(4 7)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2.5">
+						</line>
+						<g id="Polygon_1-2" data-name="Polygon 1" transform="translate(0 15) rotate(-90)">
+							<path id="Path_95" data-name="Path 95" d="M12.977,13.75H2.023L7.5,2.8Z">
+							</path>
+							<path id="Path_96" data-name="Path 96" d="M7.5,5.59,4.045,12.5h6.91L7.5,5.59m0-4.354a.988.988,0,0,1,.894.553l5.882,11.764A1,1,0,0,1,13.382,15H1.618a1,1,0,0,1-.894-1.447L6.606,1.789A.989.989,0,0,1,7.5,1.236Z" fill="#fff">
+							</path>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="Signal">
+				<g id="SGS2" transform="translate(307.5 537.87)" class="tooltip" title="" edge-id="MIU_SG_S2">
+					<path id="SGS2POLES_3" d="M-12.015,23.562H0V0" transform="translate(78.5 0)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S2POLES_3">
+					</path>
+					<g id="SGS2Aspect1" transform="translate(52 15.79)" fill="none" edge-id-selector="MIU_SG_S2Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS2Aspect2" transform="translate(37 15.79)" fill="none" edge-id-selector="MIU_SG_S2Aspect2">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS2Aspect3" transform="translate(22 15.79)" fill="none" edge-id-selector="MIU_SG_S2Aspect3">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS2Label" transform="translate(29.5 46.79)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_SG_S2Label">
+						<tspan x="0" y="0">
+							S-2
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS8" transform="translate(345.5 421.87)" class="tooltip" title="" edge-id="MIU_SG_S8">
+					<path id="SGS8POLES_3" d="M-12.015,23.562H0V0" transform="translate(78.5 0)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S8POLES_3">
+					</path>
+					<g id="SGS8Aspect1" transform="translate(52 15.79)" fill="none" edge-id-selector="MIU_SG_S8Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS8Aspect2" transform="translate(37 15.79)" fill="none" edge-id-selector="MIU_SG_S8Aspect2">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS8Aspect3" transform="translate(22 15.79)" fill="none" edge-id-selector="MIU_SG_S8Aspect3">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS8Label" transform="translate(29.5 46.79)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MIU_SG_S8Label">
+						<tspan x="0" y="0">
+							S-8
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS3" transform="translate(314.94 364.87)" class="tooltip" title="" edge-id="MIU_SG_S3">
+					<line id="SGS3POLES_3" x2="0.31" y2="30.29" transform="translate(0 23.63)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S3POLES_3">
+					</line>
+					<line id="SGS3POLES_2" x2="10.56" transform="translate(0 23.63)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2.5" edge-id-selector="MIU_SG_S3POLES_2">
+					</line>
+					<line id="SGS3POLES_1" y1="0.081" x2="12" transform="translate(22.81 23.549)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S3POLES_1">
+					</line>
+					<g id="SGS3Aspect1" transform="translate(33.81 16.049)" fill="none" edge-id-selector="MIU_SG_S3Aspect1">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499998092651367 14.00000190734863 C 11.08410835266113 14.00000190734863 13.99999809265137 11.08411121368408 13.99999809265137 7.500001430511475 C 13.99999809265137 3.915891408920288 11.08410835266113 1.000001430511475 7.499998092651367 1.000001430511475 C 3.915888071060181 1.000001430511475 0.9999980926513672 3.915891408920288 0.9999980926513672 7.500001430511475 C 0.9999980926513672 11.08411121368408 3.915888071060181 14.00000190734863 7.499998092651367 14.00000190734863 M 7.499998092651367 15.00000190734863 C 3.357858180999756 15.00000190734863 -1.9073486328125e-06 11.64214134216309 -1.9073486328125e-06 7.500001430511475 C -1.9073486328125e-06 3.357861518859863 3.357858180999756 1.430511474609375e-06 7.499998092651367 1.430511474609375e-06 C 11.64212799072266 1.430511474609375e-06 14.99999809265137 3.357861518859863 14.99999809265137 7.500001430511475 C 14.99999809265137 11.64214134216309 11.64212799072266 15.00000190734863 7.499998092651367 15.00000190734863 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS3Aspect2" transform="translate(48.81 16.049)" fill="none" edge-id-selector="MIU_SG_S3Aspect2">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499998092651367 14.00000190734863 C 11.08410835266113 14.00000190734863 13.99999809265137 11.08411121368408 13.99999809265137 7.500001430511475 C 13.99999809265137 3.915891408920288 11.08410835266113 1.000001430511475 7.499998092651367 1.000001430511475 C 3.915888071060181 1.000001430511475 0.9999980926513672 3.915891408920288 0.9999980926513672 7.500001430511475 C 0.9999980926513672 11.08411121368408 3.915888071060181 14.00000190734863 7.499998092651367 14.00000190734863 M 7.499998092651367 15.00000190734863 C 3.357858180999756 15.00000190734863 -1.9073486328125e-06 11.64214134216309 -1.9073486328125e-06 7.500001430511475 C -1.9073486328125e-06 3.357861518859863 3.357858180999756 1.430511474609375e-06 7.499998092651367 1.430511474609375e-06 C 11.64212799072266 1.430511474609375e-06 14.99999809265137 3.357861518859863 14.99999809265137 7.500001430511475 C 14.99999809265137 11.64214134216309 11.64212799072266 15.00000190734863 7.499998092651367 15.00000190734863 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS3Aspect3" transform="translate(63.81 16.049)" fill="none" edge-id-selector="MIU_SG_S3Aspect3">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499998092651367 14.00000190734863 C 11.08410835266113 14.00000190734863 13.99999809265137 11.08411121368408 13.99999809265137 7.500001430511475 C 13.99999809265137 3.915891408920288 11.08410835266113 1.000001430511475 7.499998092651367 1.000001430511475 C 3.915888071060181 1.000001430511475 0.9999980926513672 3.915891408920288 0.9999980926513672 7.500001430511475 C 0.9999980926513672 11.08411121368408 3.915888071060181 14.00000190734863 7.499998092651367 14.00000190734863 M 7.499998092651367 15.00000190734863 C 3.357858180999756 15.00000190734863 -1.9073486328125e-06 11.64214134216309 -1.9073486328125e-06 7.500001430511475 C -1.9073486328125e-06 3.357861518859863 3.357858180999756 1.430511474609375e-06 7.499998092651367 1.430511474609375e-06 C 11.64212799072266 1.430511474609375e-06 14.99999809265137 3.357861518859863 14.99999809265137 7.500001430511475 C 14.99999809265137 11.64214134216309 11.64212799072266 15.00000190734863 7.499998092651367 15.00000190734863 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS3Label" transform="translate(53.81 11)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_SG_S3Label">
+						<tspan x="0" y="0">
+							S-3
+						</tspan>
+					</text>
+				</g>
+				<g id="SGC3" transform="translate(321 363.87)" class="tooltip" title="">
+					<g id="SGC3Aspect1" transform="translate(4 18.001)" fill="none" stroke="#6c7091" stroke-width="2">
+						<ellipse cx="6.5" cy="6.5" rx="6.5" ry="6.5" stroke="none">
+						</ellipse>
+						<ellipse cx="6.5" cy="6.5" rx="5.5" ry="5.5" fill="none">
+						</ellipse>
+					</g>
+					<text id="SGC3Label" transform="translate(0 11)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							C-3
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS1" transform="translate(328.095 250.87)" class="tooltip" title="" edge-id="MIU_SG_S1">
+					<line id="SGS1POLES_3" x2="0.31" y2="30.29" transform="translate(0 23.63)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S1POLES_3">
+					</line>
+					<line id="SGS1POLES_2" x2="10.56" transform="translate(0 23.63)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2.5" edge-id-selector="MIU_SG_S1POLES_2">
+					</line>
+					<line id="SGS1POLES_1" y1="0.081" x2="12" transform="translate(21.81 23.467)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S1POLES_1">
+					</line>
+					<g id="SGS1Aspect1" transform="translate(32.81 15.967)" fill="none" edge-id-selector="MIU_SG_S1Aspect1">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499998092651367 14.00000190734863 C 11.08410835266113 14.00000190734863 13.99999809265137 11.08411121368408 13.99999809265137 7.500001430511475 C 13.99999809265137 3.915891408920288 11.08410835266113 1.000001430511475 7.499998092651367 1.000001430511475 C 3.915888071060181 1.000001430511475 0.9999980926513672 3.915891408920288 0.9999980926513672 7.500001430511475 C 0.9999980926513672 11.08411121368408 3.915888071060181 14.00000190734863 7.499998092651367 14.00000190734863 M 7.499998092651367 15.00000190734863 C 3.357858180999756 15.00000190734863 -1.9073486328125e-06 11.64214134216309 -1.9073486328125e-06 7.500001430511475 C -1.9073486328125e-06 3.357861518859863 3.357858180999756 1.430511474609375e-06 7.499998092651367 1.430511474609375e-06 C 11.64212799072266 1.430511474609375e-06 14.99999809265137 3.357861518859863 14.99999809265137 7.500001430511475 C 14.99999809265137 11.64214134216309 11.64212799072266 15.00000190734863 7.499998092651367 15.00000190734863 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS1Aspect2" transform="translate(47.81 15.967)" fill="none" edge-id-selector="MIU_SG_S1Aspect2">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499998092651367 14.00000190734863 C 11.08410835266113 14.00000190734863 13.99999809265137 11.08411121368408 13.99999809265137 7.500001430511475 C 13.99999809265137 3.915891408920288 11.08410835266113 1.000001430511475 7.499998092651367 1.000001430511475 C 3.915888071060181 1.000001430511475 0.9999980926513672 3.915891408920288 0.9999980926513672 7.500001430511475 C 0.9999980926513672 11.08411121368408 3.915888071060181 14.00000190734863 7.499998092651367 14.00000190734863 M 7.499998092651367 15.00000190734863 C 3.357858180999756 15.00000190734863 -1.9073486328125e-06 11.64214134216309 -1.9073486328125e-06 7.500001430511475 C -1.9073486328125e-06 3.357861518859863 3.357858180999756 1.430511474609375e-06 7.499998092651367 1.430511474609375e-06 C 11.64212799072266 1.430511474609375e-06 14.99999809265137 3.357861518859863 14.99999809265137 7.500001430511475 C 14.99999809265137 11.64214134216309 11.64212799072266 15.00000190734863 7.499998092651367 15.00000190734863 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS1Aspect3" transform="translate(62.81 15.967)" fill="none" edge-id-selector="MIU_SG_S1Aspect3">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499998092651367 14.00000190734863 C 11.08410835266113 14.00000190734863 13.99999809265137 11.08411121368408 13.99999809265137 7.500001430511475 C 13.99999809265137 3.915891408920288 11.08410835266113 1.000001430511475 7.499998092651367 1.000001430511475 C 3.915888071060181 1.000001430511475 0.9999980926513672 3.915891408920288 0.9999980926513672 7.500001430511475 C 0.9999980926513672 11.08411121368408 3.915888071060181 14.00000190734863 7.499998092651367 14.00000190734863 M 7.499998092651367 15.00000190734863 C 3.357858180999756 15.00000190734863 -1.9073486328125e-06 11.64214134216309 -1.9073486328125e-06 7.500001430511475 C -1.9073486328125e-06 3.357861518859863 3.357858180999756 1.430511474609375e-06 7.499998092651367 1.430511474609375e-06 C 11.64212799072266 1.430511474609375e-06 14.99999809265137 3.357861518859863 14.99999809265137 7.500001430511475 C 14.99999809265137 11.64214134216309 11.64212799072266 15.00000190734863 7.499998092651367 15.00000190734863 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS1Label" transform="translate(53.81 11)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_SG_S1Label">
+						<tspan x="0" y="0">
+							S-1
+						</tspan>
+					</text>
+				</g>
+				<g id="SGC1" transform="translate(334 249.87)" class="tooltip" title="">
+					<g id="SGC1Aspect1" transform="translate(4 18.001)" fill="none" stroke="#6c7091" stroke-width="2">
+						<ellipse cx="6.5" cy="6.5" rx="6.5" ry="6.5" stroke="none">
+						</ellipse>
+						<ellipse cx="6.5" cy="6.5" rx="5.5" ry="5.5" fill="none">
+						</ellipse>
+					</g>
+					<text id="SGC1Label" transform="translate(0 11)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							C-1
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS10" transform="translate(670.5 421.87)" class="tooltip" title="" edge-id="MIU_SG_S10">
+					<path id="SGS10POLES_3" d="M-12.015,23.562H0V0" transform="translate(78.5 0)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S10POLES_3">
+					</path>
+					<g id="SGS10Aspect1" transform="translate(52 15.79)" fill="none" edge-id-selector="MIU_SG_S10Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS10Aspect2" transform="translate(37 15.79)" fill="none" edge-id-selector="MIU_SG_S10Aspect2">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS10Aspect3" transform="translate(22 15.79)" fill="none" edge-id-selector="MIU_SG_S10Aspect3">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS10Label" transform="translate(29.5 46.79)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MIU_SG_S10Label">
+						<tspan x="0" y="0">
+							S-10
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS11" transform="translate(1011.5 367.71)" class="tooltip" title="" edge-id="MIU_SG_S11">
+					<path id="SGS11POLES_3" d="M0,0H-12.015V23.562" transform="translate(12.015 27.228)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S11POLES_3">
+					</path>
+					<g id="SGS11Aspect1" transform="translate(11.5 20)" fill="none" edge-id-selector="MIU_SG_S11Aspect1">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS11Aspect2" transform="translate(26.5 20)" fill="none" edge-id-selector="MIU_SG_S11Aspect2">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS11Aspect3" transform="translate(41.5 20)" fill="none" edge-id-selector="MIU_SG_S11Aspect3">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS11Label" transform="translate(19 16)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MIU_SG_S11Label">
+						<tspan x="0" y="0">
+							S-11
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS13" transform="translate(1444.5 367.71)" class="tooltip" title="" edge-id="MIU_SG_S13">
+					<path id="SGS13POLES_3" d="M0,0H-12.015V23.562" transform="translate(12.015 27.228)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S13POLES_3">
+					</path>
+					<g id="SGS13Aspect1" transform="translate(11.5 20)" fill="none" edge-id-selector="MIU_SG_S13Aspect1">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS13Aspect2" transform="translate(26.5 20)" fill="none" edge-id-selector="MIU_SG_S13Aspect2">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS13Aspect3" transform="translate(41.5 20)" fill="none" edge-id-selector="MIU_SG_S13Aspect3">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS13Label" transform="translate(19 16)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MIU_SG_S13Label">
+						<tspan x="0" y="0">
+							S-13
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS19" transform="translate(1412.5 252.71)" class="tooltip" title="" edge-id="MIU_SG_S19">
+					<path id="SGS19POLES_3" d="M0,0H-12.015V23.562" transform="translate(12.015 27.228)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S19POLES_3">
+					</path>
+					<g id="SGS19Aspect1" transform="translate(11.5 20)" fill="none" edge-id-selector="MIU_SG_S19Aspect1">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS19Aspect2" transform="translate(26.5 20)" fill="none" edge-id-selector="MIU_SG_S19Aspect2">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS19Aspect3" transform="translate(41.5 20)" fill="none" edge-id-selector="MIU_SG_S19Aspect3">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS19Label" transform="translate(19 16)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MIU_SG_S19Label">
+						<tspan x="0" y="0">
+							S-19
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS15" transform="translate(950 139.605)" class="tooltip" title="" edge-id="MIU_SG_S15">
+					<path id="SGS15POLES_3" d="M0,0H-12.015V23.562" transform="translate(12.015 27.228)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S15POLES_3">
+					</path>
+					<g id="SGS15Aspect1" transform="translate(11.5 20)" fill="none" edge-id-selector="MIU_SG_S15Aspect1">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS15Aspect2" transform="translate(26.5 20)" fill="none" edge-id-selector="MIU_SG_S15Aspect2">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS15Label" transform="translate(11.5 16)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MIU_SG_S15Label">
+						<tspan x="0" y="0">
+							S-15
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS17" transform="translate(983.25 253.71)" class="tooltip" title="" edge-id="MIU_SG_S17">
+					<path id="SGS17POLES_3" d="M0,0H-12.015V23.562" transform="translate(12.015 27.228)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S17POLES_3">
+					</path>
+					<g id="SGS17Aspect1" transform="translate(11.5 20)" fill="none" edge-id-selector="MIU_SG_S17Aspect1">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS17Aspect2" transform="translate(26.5 20)" fill="none" edge-id-selector="MIU_SG_S17Aspect2">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS17Aspect3" transform="translate(41.5 20)" fill="none" edge-id-selector="MIU_SG_S17Aspect3">
+						<path d="M7.5,15A7.5,7.5,0,1,1,15,7.5,7.5,7.5,0,0,1,7.5,15Z" stroke="none">
+						</path>
+						<path d="M 7.499997138977051 14.00001811981201 C 11.08410739898682 14.00001811981201 13.99999713897705 11.08412837982178 13.99999713897705 7.500008583068848 C 13.99999713897705 3.915888547897339 11.08410739898682 0.9999985694885254 7.499997138977051 0.9999985694885254 C 3.915887117385864 0.9999985694885254 0.9999971389770508 3.915888547897339 0.9999971389770508 7.500008583068848 C 0.9999971389770508 11.08412837982178 3.915887117385864 14.00001811981201 7.499997138977051 14.00001811981201 M 7.499997138977051 15.00001811981201 C 3.357857227325439 15.00001811981201 -2.86102294921875e-06 11.64214897155762 -2.86102294921875e-06 7.500008583068848 C -2.86102294921875e-06 3.357868671417236 3.357857227325439 -1.416931127096177e-06 7.499997138977051 -1.416931127096177e-06 C 11.64212703704834 -1.416931127096177e-06 14.99999713897705 3.357868671417236 14.99999713897705 7.500008583068848 C 14.99999713897705 11.64214897155762 11.64212703704834 15.00001811981201 7.499997138977051 15.00001811981201 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS17Label" transform="translate(19 16)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MIU_SG_S17Label">
+						<tspan x="0" y="0">
+							S-17
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS20" transform="translate(1346.5 535.87)" class="tooltip" title="" edge-id="MIU_SG_S20">
+					<path id="SGS20POLES_3" d="M-12.015,23.562H0V0" transform="translate(78.5 0)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S20POLES_3">
+					</path>
+					<g id="SGS20Aspect1" transform="translate(52 15.79)" fill="none" edge-id-selector="MIU_SG_S20Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS20Aspect2" transform="translate(37 15.79)" fill="none" edge-id-selector="MIU_SG_S20Aspect2">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS20Aspect3" transform="translate(22 15.79)" fill="none" edge-id-selector="MIU_SG_S20Aspect3">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS20Label" transform="translate(29.5 46.79)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="MIU_SG_S20Label">
+						<tspan x="0" y="0">
+							S-20
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS4" transform="translate(642.25 537.87)" class="tooltip" title="" edge-id="MIU_SG_S4">
+					<path id="SGS4POLES_3" d="M-12.015,23.562H0V0" transform="translate(78.5 0)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S4POLES_3">
+					</path>
+					<g id="SGS4Aspect1" transform="translate(52 15.79)" fill="none" edge-id-selector="MIU_SG_S4Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS4Aspect2" transform="translate(37 15.79)" fill="none" edge-id-selector="MIU_SG_S4Aspect2">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS4Aspect3" transform="translate(22 15.79)" fill="none" edge-id-selector="MIU_SG_S4Aspect3">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.50000524520874 0.9999990463256836 C 3.915884971618652 0.9999990463256836 0.999995231628418 3.915888786315918 0.999995231628418 7.500009059906006 C 0.999995231628418 11.08412933349609 3.915884971618652 14.00001907348633 7.50000524520874 14.00001907348633 C 11.08411502838135 14.00001907348633 14.0000057220459 11.08412933349609 14.0000057220459 7.500009059906006 C 14.0000057220459 3.915888786315918 11.08411502838135 0.9999990463256836 7.50000524520874 0.9999990463256836 M 7.50000524520874 -9.5367431640625e-07 C 11.64214515686035 -9.5367431640625e-07 15.0000057220459 3.357869148254395 15.0000057220459 7.500009059906006 C 15.0000057220459 11.64214897155762 11.64214515686035 15.00001907348633 7.50000524520874 15.00001907348633 C 3.357865333557129 15.00001907348633 -4.76837158203125e-06 11.64214897155762 -4.76837158203125e-06 7.500009059906006 C -4.76837158203125e-06 3.357869148254395 3.357865333557129 -9.5367431640625e-07 7.50000524520874 -9.5367431640625e-07 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS4Label" transform="translate(29.5 46.79)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MIU_SG_S4Label">
+						<tspan x="0" y="0">
+							S-4
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS6" transform="translate(682 651.355)" class="tooltip" title="" edge-id="MIU_SG_S6">
+					<path id="SGS6POLES_3" d="M-12.015,15.79H0V0" transform="translate(41.5 0)" fill="none" stroke="#6c7091" stroke-width="2.5" edge-id-selector="MIU_SG_S6POLES_3">
+					</path>
+					<g id="SGS6Aspect1" transform="translate(15 8.29)" fill="none" edge-id-selector="MIU_SG_S6Aspect1">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499995708465576 0.999995231628418 C 3.915885925292969 0.999995231628418 0.999995231628418 3.915884971618652 0.999995231628418 7.500004768371582 C 0.999995231628418 11.08411502838135 3.915885925292969 14.00000476837158 7.499995708465576 14.00000476837158 C 11.08410549163818 14.00000476837158 13.99999618530273 11.08411502838135 13.99999618530273 7.500004768371582 C 13.99999618530273 3.915884971618652 11.08410549163818 0.999995231628418 7.499995708465576 0.999995231628418 M 7.499995708465576 -4.76837158203125e-06 C 11.64212608337402 -4.76837158203125e-06 14.99999618530273 3.357864379882812 14.99999618530273 7.500004768371582 C 14.99999618530273 11.64214515686035 11.64212608337402 15.00000476837158 7.499995708465576 15.00000476837158 C 3.357865333557129 15.00000476837158 -4.76837158203125e-06 11.64214515686035 -4.76837158203125e-06 7.500004768371582 C -4.76837158203125e-06 3.357864379882812 3.357865333557129 -4.76837158203125e-06 7.499995708465576 -4.76837158203125e-06 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<g id="SGS6Aspect2" transform="translate(0 8.29)" fill="none" edge-id-selector="MIU_SG_S6Aspect2">
+						<path d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" stroke="none">
+						</path>
+						<path d="M 7.499995708465576 0.999995231628418 C 3.915885925292969 0.999995231628418 0.999995231628418 3.915884971618652 0.999995231628418 7.500004768371582 C 0.999995231628418 11.08411502838135 3.915885925292969 14.00000476837158 7.499995708465576 14.00000476837158 C 11.08410549163818 14.00000476837158 13.99999618530273 11.08411502838135 13.99999618530273 7.500004768371582 C 13.99999618530273 3.915884971618652 11.08410549163818 0.999995231628418 7.499995708465576 0.999995231628418 M 7.499995708465576 -4.76837158203125e-06 C 11.64212608337402 -4.76837158203125e-06 14.99999618530273 3.357864379882812 14.99999618530273 7.500004768371582 C 14.99999618530273 11.64214515686035 11.64212608337402 15.00000476837158 7.499995708465576 15.00000476837158 C 3.357865333557129 15.00000476837158 -4.76837158203125e-06 11.64214515686035 -4.76837158203125e-06 7.500004768371582 C -4.76837158203125e-06 3.357864379882812 3.357865333557129 -4.76837158203125e-06 7.499995708465576 -4.76837158203125e-06 Z" stroke="none" fill="#6c7091">
+						</path>
+					</g>
+					<text id="SGS6Label" transform="translate(0 39.29)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" edge-id-selector="MIU_SG_S6Label">
+						<tspan x="0" y="0">
+							S-6
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="Legend" transform="translate(-179.806 375.03)">
+				<g id="PMLegend" transform="translate(1181 -730.028)">
+					<text id="PMLegendLabel" transform="translate(227 974)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							POINT MACHINE
+						</tspan>
+					</text>
+					<g id="PMLegendNormal" transform="translate(227 979.768)">
+						<g id="PMLegendNormalIndicator" transform="translate(0 0.232)" fill="none" stroke="#21e074" stroke-width="4">
+							<circle cx="10" cy="10" r="10" stroke="none">
+							</circle>
+							<circle cx="10" cy="10" r="8" fill="none">
+							</circle>
+						</g>
+						<text id="PMLegendNormalLabel" transform="translate(32 16.232)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								NORMAL
+							</tspan>
+						</text>
+					</g>
+					<g id="PMLegendReverse" transform="translate(227 1003.584)">
+						<g id="PMLegendReverseIndicator" transform="translate(0 0.416)" fill="none" stroke="#0088d1" stroke-width="4">
+							<circle cx="10" cy="10" r="10" stroke="none">
+							</circle>
+							<circle cx="10" cy="10" r="8" fill="none">
+							</circle>
+						</g>
+						<text id="PMLegendReverseLabel" transform="translate(30 15.416)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								REVERSE
+							</tspan>
+						</text>
+					</g>
+					<g id="PMLegendHr" transform="translate(227.929 1024.572)">
+						<path id="PMLegendHr1" d="M10.433,19.646C4.823,15.724,1.881,12.155.675,9.168c-3.232-8,6-11.832,9.758-7.107,3.758-4.725,12.991-.9,9.758,7.107C18.985,12.155,16.043,15.724,10.433,19.646Z" transform="translate(0 3.457)" fill="red">
+						</path>
+						<path id="PMLegendHr2" d="M-.094.01H5.175L7.357-3.307l2.832,6.271L12.232.01,19.327,0" transform="translate(0.807 12.769)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4">
+						</path>
+						<text id="PMLegendFailureLabel" transform="translate(28.702 15)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								FAILURE
+							</tspan>
+						</text>
+					</g>
+					<g id="PMLegendCanvas" transform="translate(216 955)" fill="none" stroke="#fff" stroke-width="2">
+						<rect width="126" height="109" stroke="none">
+						</rect>
+						<rect x="1" y="1" width="124" height="107" fill="none">
+						</rect>
+					</g>
+				</g>
+				<g id="TCLegend" transform="translate(702 -788.03)">
+					<text id="TCLegendLabel" transform="translate(898 1032)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							TRACK CIRCUIT
+						</tspan>
+					</text>
+					<g id="TCFreeLegendGroup" transform="translate(888.5 1040.52)">
+						<line id="TCFreeLegendIndicator" x2="70" transform="translate(-2 10.474)" fill="none" stroke="#fff" stroke-width="6">
+						</line>
+						<text id="TCFreeLegendLabel" transform="translate(75.5 15.974)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								FREE
+							</tspan>
+						</text>
+					</g>
+					<g id="TCOccupiedLegendGroup" transform="translate(897.5 1061.093)">
+						<line id="TCOccupiedLegendIndicator" x2="70" transform="translate(-11 12.846)" fill="none" stroke="#e77e00" stroke-width="6">
+						</line>
+						<text id="TCOccupiedLegendLabel" transform="translate(65.921 18.346)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								OCCUPIED
+							</tspan>
+						</text>
+					</g>
+					<g id="TCFailureLLegendGroup" transform="translate(897.5 1083.744)">
+						<line id="TCFailureLegendIndicator" x2="70" transform="translate(-11 11.296)" fill="none" stroke="red" stroke-width="6">
+						</line>
+						<text id="TCFailureLLegendLabel" transform="translate(68 16.796)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								FAILURE
+							</tspan>
+						</text>
+					</g>
+					<g id="TCLegendCanvas" transform="translate(876 1013)" fill="none" stroke="#fff" stroke-width="2">
+						<rect width="159" height="109" stroke="none">
+						</rect>
+						<rect x="1" y="1" width="157" height="107" fill="none">
+						</rect>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

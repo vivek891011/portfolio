@@ -1,0 +1,40 @@
+<svg width="521" height="350" viewBox="0 0 521 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ELD">
+<g id="Group 19">
+<rect id="DN SIDE SIGNAL (With Cut In Relay)" x="0.5" y="348.5" width="347.195" height="57.4176" rx="4.5" transform="rotate(-90 0.5 348.5)" fill="#D6D3D4" stroke="black"></rect>
+<text id="LABEL" transform="matrix(0 -1 1 0 20.4414 332.042)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="15" letter-spacing="0em"><tspan x="0" y="14.4545">DN SIDE SIGNAL (With Cut In Relay)</tspan></text>
+</g>
+<g id="Group 277">
+<rect id="DN SIDE SIGNAL (Direct Feed) " x="57.3618" y="348.5" width="348" height="57.5402" rx="4.5" transform="rotate(-90 57.3618 348.5)" fill="#D6D3D4" stroke="black"></rect>
+<text id="LABEL_2" transform="matrix(0 -1 1 0 77.4414 332.042)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="15" letter-spacing="0em"><tspan x="0" y="14.4545">DN SIDE SIGNAL (Direct Feed) </tspan></text>
+</g>
+<g id="Group 278">
+<rect id="UP SIDE SIGNAL(With Cut In Relay)" x="114.224" y="348.5" width="348" height="57.5402" rx="4.5" transform="rotate(-90 114.224 348.5)" fill="#D6D3D4" stroke="black"></rect>
+<text id="LABEL_3" transform="matrix(0 -1 1 0 134.441 332.042)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="15" letter-spacing="0em"><tspan x="0" y="14.4545">UP SIDE SIGNAL(With Cut In Relay)</tspan></text>
+</g>
+<g id="Group 279">
+<rect id="UP SIDE SIGNAL(Direct Feed)" x="172.408" y="348.5" width="348" height="57.5402" rx="4.5" transform="rotate(-90 172.408 348.5)" fill="#D6D3D4" stroke="black"></rect>
+<text id="LABEL_4" transform="matrix(0 -1 1 0 192.441 332.042)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="15" letter-spacing="0em"><tspan x="0" y="14.4545">UP SIDE SIGNAL(Direct Feed)</tspan></text>
+</g>
+<g id="Group 280">
+<rect id="DN SIDE LOCATION BOX LIGHTNING" x="230.592" y="348.5" width="348" height="57.5402" rx="4.5" transform="rotate(-90 230.592 348.5)" fill="#D6D3D4" stroke="black"></rect>
+<text id="LABEL_5" transform="matrix(0 -1 1 0 250.441 332.072)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="15" letter-spacing="0em"><tspan x="0" y="14.4545">DN SIDE LOCATION BOX LIGHTNING</tspan></text>
+</g>
+<g id="Group 281">
+<rect id="UP SIDE LOCATION BOX LIGHTNING" x="288.776" y="348.5" width="348" height="57.5402" rx="4.5" transform="rotate(-90 288.776 348.5)" fill="#D6D3D4" stroke="black"></rect>
+<text id="LABEL_6" transform="matrix(0 -1 1 0 308.441 332.042)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="15" letter-spacing="0em"><tspan x="0" y="14.4545">UP SIDE LOCATION BOX LIGHTNING</tspan></text>
+</g>
+<g id="Group 282">
+<rect id="RELAY EXT UP SIDE" x="346.96" y="348.5" width="348" height="57.5402" rx="4.5" transform="rotate(-90 346.96 348.5)" fill="#D6D3D4" stroke="black"></rect>
+<text id="LABEL_7" transform="matrix(0 -1 1 0 366.441 332.042)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="15" letter-spacing="0em"><tspan x="0" y="14.4545">RELAY EXT UP SIDE</tspan></text>
+</g>
+<g id="Group 283">
+<rect id="RELAY EXT DN SIDE" x="404.96" y="348.5" width="348" height="57.5402" rx="4.5" transform="rotate(-90 404.96 348.5)" fill="#D6D3D4" stroke="black"></rect>
+<text id="LABEL_8" transform="matrix(0 -1 1 0 424.441 332.042)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="15" letter-spacing="0em"><tspan x="0" y="14.4545">RELAY EXT DN SIDE</tspan></text>
+</g>
+<g id="Group 284">
+<rect id="POINT OPEARATION" x="462.96" y="348.702" width="348.202" height="57.5402" rx="4.5" transform="rotate(-90 462.96 348.702)" fill="#D6D3D4" stroke="black"></rect>
+<text id="LABEL_9" transform="matrix(0 -1 1 0 480.441 332.234)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="15" letter-spacing="0em"><tspan x="0" y="14.4545">POINT OPEARATION</tspan></text>
+</g>
+</g>
+</svg>

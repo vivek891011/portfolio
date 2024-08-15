@@ -1,0 +1,466 @@
+<svg width="1264" height="392" viewBox="0 0 1264 392" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="AELN_IOM">
+<text id="IOM RACK 1" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="172" y="11.8636">IOM RACK 1</tspan></text>
+<text id="IOM RACK 2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="597" y="11.8636">IOM RACK 2</tspan></text>
+<text id="IOM RACK 3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="1024" y="11.8636">IOM RACK 3</tspan></text>
+<g id="AELN_IOM_Rack1">
+<g id="IOM1">
+<g id="Group01">
+<rect id="IOM1 SLOT1" x="15.5" y="93.5" width="35" height="77" fill="#D3D3D3" stroke="black"></rect>
+<text id="POW3" transform="matrix(0 1 -1 0 39 110)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">POW3</tspan></text>
+<text id="S-1" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="8" letter-spacing="0em"><tspan x="26" y="57.9091">S-1</tspan></text>
+</g>
+<g id="Group02">
+<rect id="IOM1 SLOT2" x="50.5" y="93.5" width="35" height="77" fill="#D3D3D3" stroke="black"></rect>
+<text id="FFC2" transform="matrix(0 1 -1 0 75 109)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FFC2</tspan></text>
+<text id="S-2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="8" letter-spacing="0em"><tspan x="61" y="57.9091">S-2</tspan></text>
+</g>
+<g id="Group03">
+<text id="S-3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="95" y="56.5455">S-3</tspan></text>
+<rect id="IOM1 SLOT3" x="93.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="FDI" transform="matrix(0 1 -1 0 108 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group04">
+<rect id="IOM1 SLOT4" x="110.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="112" y="56.5455">S-4</tspan></text>
+<text id="FDI_2" transform="matrix(0 1 -1 0 125 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group05">
+<rect id="IOM1 SLOT5" x="127.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="130" y="56.5455">S-5</tspan></text>
+<text id="FDI_3" transform="matrix(0 1 -1 0 142 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group06">
+<rect id="IOM1 SLOT6" x="144.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-6" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="146" y="56.5455">S-6</tspan></text>
+<text id="FDI_4" transform="matrix(0 1 -1 0 159 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group07">
+<rect id="IOM1 SLOT7" x="161.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-7" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="164" y="56.5455">S-7</tspan></text>
+<text id="FDI_5" transform="matrix(0 1 -1 0 176 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group08">
+<rect id="IOM1 SLOT8" x="178.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-8" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="181" y="56.5455">S-8</tspan></text>
+<text id="FDI_6" transform="matrix(0 1 -1 0 193 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group09">
+<rect id="IOM1 SLOT9" x="195.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-9" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="198" y="56.5455">S-9</tspan></text>
+<text id="FD0" transform="matrix(0 1 -1 0 210 101)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group10">
+<rect id="IOM1 SLOT10" x="212.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-10" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="213" y="56.5455">S-10</tspan></text>
+<text id="FD0_2" transform="matrix(0 1 -1 0 227 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group11">
+<rect id="IOM1 SLOT11" x="229.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-11" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="230" y="56.5455">S-11</tspan></text>
+<text id="FD0_3" transform="matrix(0 1 -1 0 244 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group12">
+<rect id="IOM1 SLOT12" x="246.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-12" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="247" y="56.5455">S-12</tspan></text>
+<text id="FD0_4" transform="matrix(0 1 -1 0 261 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group13">
+<rect id="IOM1 SLOT13" x="263.5" y="65.5" width="17" height="105" stroke="black"></rect>
+<text id="S-13" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="264" y="56.5455">S-13</tspan></text>
+<text id="SPARE" transform="matrix(0 1 -1 0 278 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group14">
+<rect id="IOM1 SLOT14" x="280.5" y="65.5" width="17" height="105" stroke="black"></rect>
+<text id="S-14" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="281" y="56.5455">S-14</tspan></text>
+<text id="SPARE_2" transform="matrix(0 1 -1 0 295 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group15">
+<rect id="IOM1 SLOT15" x="-0.5" y="0.5" width="35" height="77" transform="matrix(-1 0 0 1 340 93)" fill="#D3D3D3" stroke="black"></rect>
+<text id="FFC2_2" transform="matrix(0 1 -1 0 329 109)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FFC2</tspan></text>
+<text id="S-15" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="315" y="56.5455">S-15</tspan></text>
+</g>
+<g id="Group16">
+<rect id="IOM1 SLOT16" x="-0.5" y="0.5" width="34" height="77" transform="matrix(-1 0 0 1 374 93)" fill="#D3D3D3" stroke="black"></rect>
+<text id="POW3_2" transform="matrix(0 1 -1 0 364 109)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">POW3</tspan></text>
+<text id="S-16" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="350" y="56.5455">S-16</tspan></text>
+</g>
+<g id="Group_IOM1_NOT_TO_SET">
+<path id="Vector 207" d="M0.5 42H15.5M390 42H374.5M15.5 42V65.5M15.5 42H50.5M15.5 65.5H50.5M15.5 65.5V93.5H85.5V65.5M50.5 65.5V42M50.5 65.5H85.5M50.5 42H85.5M85.5 65.5V42M85.5 65.5H93.5M85.5 42H93.5M93.5 65.5V42M93.5 65.5H110.5M93.5 42H110.5M110.5 65.5V42M110.5 65.5H127.5M110.5 42H127.5M127.5 65.5V42M127.5 65.5H144.5M127.5 42H144.5M144.5 65.5V42M144.5 65.5H161.5M144.5 42H161.5M161.5 65.5V42M161.5 65.5H178.5M161.5 42H178.5M178.5 65.5V42M178.5 65.5H195.5M178.5 42H195.5M195.5 65.5V42M195.5 65.5H212.5M195.5 42H212.5M212.5 65.5V42M212.5 65.5H229.5M212.5 42H229.5M229.5 65.5V42M229.5 65.5H246.5M229.5 42H246.5M246.5 65.5V42M246.5 65.5H263.5M246.5 42H263.5M263.5 65.5V42M263.5 65.5H280.5M263.5 42H280.5M280.5 65.5V42M280.5 65.5H297.5M280.5 42H297.5M297.5 65.5V42M297.5 65.5H305.5M297.5 42H305.5M305.5 65.5H340.5M305.5 65.5V53V42M305.5 42H340.5M340.5 65.5V42M340.5 65.5H374.5V42M340.5 42H374.5" stroke="black"></path>
+<path id="Vector 211" d="M390 42H396V170.5H390" stroke="black"></path>
+<text id="IOM 1" transform="matrix(0 1 -1 0 411 96)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">IOM 1</tspan></text>
+<path id="Line 66" d="M1 170.5H389.5" stroke="black"></path>
+<line id="Line 64" x1="305.5" y1="65" x2="305.5" y2="93" stroke="black"></line>
+<line id="Line 65" x1="374.5" y1="65" x2="374.5" y2="94" stroke="black"></line>
+</g>
+</g>
+<g id="IOM2">
+<g id="Group01_2">
+<rect id="IOM2 SLOT1" x="15.5" y="295" width="35" height="77" fill="#D3D3D3" stroke="black"></rect>
+<text id="POW3_3" transform="matrix(0 1 -1 0 39 311)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">POW3</tspan></text>
+<text id="S-1_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="26" y="257.545">S-1</tspan></text>
+</g>
+<g id="Group02_2">
+<rect id="IOM2 SLOT2" x="50.5" y="295" width="36" height="77" fill="#D3D3D3" stroke="black"></rect>
+<text id="FFC2_3" transform="matrix(0 1 -1 0 75 311)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FFC2</tspan></text>
+<text id="S-2_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="62" y="257.545">S-2</tspan></text>
+</g>
+<g id="Group3">
+<rect id="IOM2 SLOT3" x="94.5" y="267" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-3_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="97" y="258.045">S-3</tspan></text>
+<text id="FDI_7" transform="matrix(0 1 -1 0 109 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group4">
+<rect id="IOM2 SLOT4" x="111.5" y="267" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-4_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="114" y="258.045">S-4</tspan></text>
+<text id="FDI_8" transform="matrix(0 1 -1 0 126 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group5">
+<rect id="IOM2 SLOT5" x="128.5" y="267" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-5_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="131" y="258.045">S-5</tspan></text>
+<text id="FDI_9" transform="matrix(0 1 -1 0 143 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group6">
+<rect id="IOM2 SLOT6" x="145.5" y="267" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-6_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="148" y="258.045">S-6</tspan></text>
+<text id="FDI_10" transform="matrix(0 1 -1 0 160 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group7">
+<rect id="IOM2 SLOT7" x="162.5" y="267" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-7_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="165" y="258.045">S-7</tspan></text>
+<text id="FDI_11" transform="matrix(0 1 -1 0 177 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group8">
+<rect id="IOM2 SLOT8" x="179.5" y="267" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-8_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="182" y="258.045">S-8</tspan></text>
+<text id="FDI_12" transform="matrix(0 1 -1 0 194 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group9">
+<rect id="IOM2 SLOT9" x="196.5" y="267" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-9_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="199" y="258.045">S-9</tspan></text>
+<text id="FD0_5" transform="matrix(0 1 -1 0 211 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group10_2">
+<rect id="IOM2 SLOT10" x="213.5" y="267" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-10_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="214" y="258.045">S-10</tspan></text>
+<text id="FD0_6" transform="matrix(0 1 -1 0 228 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group11_2">
+<rect id="IOM2 SLOT11" x="230.5" y="267" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-11_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="231" y="258.045">S-11</tspan></text>
+<text id="FD0_7" transform="matrix(0 1 -1 0 245 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group12_2">
+<rect id="IOM2 SLOT12" x="247.5" y="267" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-12_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="248" y="258.045">S-12</tspan></text>
+<text id="FD0_8" transform="matrix(0 1 -1 0 262 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group13_2">
+<rect id="IOM2 SLOT13" x="264.5" y="267" width="17" height="105" stroke="black"></rect>
+<text id="S-13_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="265" y="258.045">S-13</tspan></text>
+<text id="SPARE_3" transform="matrix(0 1 -1 0 279 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group14_2">
+<rect id="IOM2 SLOT14" x="281.5" y="267" width="17" height="105" stroke="black"></rect>
+<text id="S-14_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="282" y="258.045">S-14</tspan></text>
+<text id="SPARE_4" transform="matrix(0 1 -1 0 296 303.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group15_2">
+<rect id="IOM2 SLOT15" x="-0.5" y="0.5" width="35" height="77" transform="matrix(-1 0 0 1 341 294)" fill="#D3D3D3" stroke="black"></rect>
+<text id="FFC2_4" transform="matrix(0 1 -1 0 330 311)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FFC2</tspan></text>
+<text id="S-15_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="317" y="257.545">S-15</tspan></text>
+</g>
+<g id="Group16_2">
+<rect id="IOM2 SLOT16" x="-0.5" y="0.5" width="35" height="77" transform="matrix(-1 0 0 1 376 294)" fill="#D3D3D3" stroke="black"></rect>
+<text id="POW3_4" transform="matrix(0 1 -1 0 365 311)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">POW3</tspan></text>
+<text id="S-16_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="351" y="257.545">S-16</tspan></text>
+</g>
+<g id="Group_IOM2_NOT_TO_SET">
+<path id="Vector 208" d="M0.5 243.5H15.5M389 243.5H376.5M15.5 243.5V267M15.5 243.5H50.5M15.5 267H50.5M15.5 267V295H86.5V267M50.5 267V243.5M50.5 267H86.5M50.5 243.5H86.5M86.5 267V243.5M86.5 267H94.5M86.5 243.5H94.5M94.5 267V243.5M94.5 267H111.5M94.5 243.5H111.5M111.5 267V243.5M111.5 267H128.5M111.5 243.5H128.5M128.5 267V243.5M128.5 267H145.5M128.5 243.5H145.5M145.5 267V243.5M145.5 267H162.5M145.5 243.5H162.5M162.5 267V243.5M162.5 267H179.5M162.5 243.5H179.5M179.5 267V243.5M179.5 267H196.5M179.5 243.5H196.5M196.5 267V243.5M196.5 267H213.5M196.5 243.5H213.5M213.5 267V243.5M213.5 267H230.5M213.5 243.5H230.5M230.5 267V243.5M230.5 267H247.5M230.5 243.5H247.5M247.5 267V243.5M247.5 267H264.5M247.5 243.5H264.5M264.5 267V243.5M264.5 267H281.5M264.5 243.5H281.5M281.5 267V243.5M281.5 267H298.5M281.5 243.5H298.5M298.5 267V243.5M298.5 267H306.5M298.5 243.5H306.5M306.5 267V243.5M306.5 267H341.5M306.5 243.5H341.5M341.5 267V243.5M341.5 267H376.5V254.5V243.5M341.5 243.5H376.5" stroke="black"></path>
+<path id="Vector 212" d="M390 243.5H396V371.5H390" stroke="black"></path>
+<text id="IOM 2" transform="matrix(0 1 -1 0 410.5 295)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">IOM 2</tspan></text>
+<line id="Line 70" x1="-0.000641025" y1="372" x2="389.999" y2="371.5" stroke="black"></line>
+<line id="Line 69" x1="376.5" y1="266" x2="376.5" y2="295" stroke="black"></line>
+<line id="Line 68" x1="306.5" y1="266" x2="306.5" y2="295" stroke="black"></line>
+</g>
+</g>
+<rect id="Rectangle 133" x="0.5" y="22.5" width="389" height="369" stroke="black"></rect>
+</g>
+<g id="AELN_IOM_Rack2">
+<g id="IOM3">
+<g id="Group01_3">
+<rect id="IOM3 SLOT1" x="441.5" y="93.5" width="35" height="77" fill="#D3D3D3" stroke="black"></rect>
+<text id="POW3_5" transform="matrix(0 1 -1 0 465 110)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">POW3</tspan></text>
+<text id="S-1_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="453" y="56.5455">S-1</tspan></text>
+</g>
+<g id="Group02_3">
+<rect id="IOM3 SLOT2" x="476.5" y="93.5" width="35" height="77" fill="#D3D3D3" stroke="black"></rect>
+<text id="FFC2_5" transform="matrix(0 1 -1 0 500 109)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FFC2</tspan></text>
+<text id="S-2_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="488" y="56.5455">S-2</tspan></text>
+</g>
+<g id="Group03_2">
+<rect id="IOM3 SLOT3" x="519.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-3_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="521" y="56.5455">S-3</tspan></text>
+<text id="FDI_13" transform="matrix(0 1 -1 0 534 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group04_2">
+<rect id="IOM3 SLOT4" x="536.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-4_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="538" y="56.5455">S-4</tspan></text>
+<text id="FDI_14" transform="matrix(0 1 -1 0 551 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group05_2">
+<rect id="IOM3 SLOT5" x="553.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-5_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="556" y="56.5455">S-5</tspan></text>
+<text id="FDI_15" transform="matrix(0 1 -1 0 568 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group06_2">
+<rect id="IOM3 SLOT6" x="570.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-6_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="572" y="56.5455">S-6</tspan></text>
+<text id="FDI_16" transform="matrix(0 1 -1 0 585 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group07_2">
+<rect id="IOM3 SLOT7" x="587.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-7_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="590" y="56.5455">S-7</tspan></text>
+<text id="FDI_17" transform="matrix(0 1 -1 0 602 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group08_2">
+<rect id="IOM3 SLOT8" x="604.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-8_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="607" y="56.5455">S-8</tspan></text>
+<text id="FDI_18" transform="matrix(0 1 -1 0 619 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group09_2">
+<rect id="IOM3 SLOT9" x="621.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-9_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="624" y="56.5455">S-9</tspan></text>
+<text id="FD0_9" transform="matrix(0 1 -1 0 636 101)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group10_3">
+<rect id="IOM3 SLOT10" x="638.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-10_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="639" y="56.5455">S-10</tspan></text>
+<text id="FD0_10" transform="matrix(0 1 -1 0 653 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group11_3">
+<rect id="IOM3 SLOT11" x="655.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-11_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="656" y="56.5455">S-11</tspan></text>
+<text id="FD0_11" transform="matrix(0 1 -1 0 670 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group12_3">
+<rect id="IOM3 SLOT12" x="672.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-12_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="673" y="56.5455">S-12</tspan></text>
+<text id="FD0_12" transform="matrix(0 1 -1 0 687 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group13_3">
+<rect id="IOM3 SLOT13" x="689.5" y="65.5" width="17" height="105" stroke="black"></rect>
+<text id="S-13_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="690" y="56.5455">S-13</tspan></text>
+<text id="SPARE_5" transform="matrix(0 1 -1 0 704 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group14_3">
+<rect id="IOM3 SLOT14" x="706.5" y="65.5" width="17" height="105" stroke="black"></rect>
+<text id="S-14_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="707" y="56.5455">S-14</tspan></text>
+<text id="SPARE_6" transform="matrix(0 1 -1 0 721 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group15_3">
+<rect id="IOM3 SLOT15" x="-0.5" y="0.5" width="35" height="77" transform="matrix(-1 0 0 1 766 93)" fill="#D3D3D3" stroke="black"></rect>
+<text id="FFC2_6" transform="matrix(0 1 -1 0 754 109)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FFC2</tspan></text>
+<text id="S-15_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="740" y="56.5455">S-15</tspan></text>
+</g>
+<g id="Group16_3">
+<rect id="IOM3 SLOT16" x="-0.5" y="0.5" width="35" height="77" transform="matrix(-1 0 0 1 801 93)" fill="#D3D3D3" stroke="black"></rect>
+<text id="POW3_6" transform="matrix(0 1 -1 0 790 109)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">POW3</tspan></text>
+<text id="S-16_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="776" y="56.5455">S-16</tspan></text>
+</g>
+<g id="Group_IOM3_NOT_TO_SET">
+<path id="Vector 207_2" d="M426.5 42H441.5M816.5 42H801.5M441.5 42V65.5M441.5 42H476.5M441.5 65.5H476.5M441.5 65.5V93.5H511.5V65.5M476.5 65.5V42M476.5 65.5H511.5M476.5 42H511.5M511.5 65.5V42M511.5 65.5H519.5M511.5 42H519.5M519.5 65.5V42M519.5 65.5H536.5M519.5 42H536.5M536.5 65.5V42M536.5 65.5H553.5M536.5 42H553.5M553.5 65.5V42M553.5 65.5H570.5M553.5 42H570.5M570.5 65.5V42M570.5 65.5H587.5M570.5 42H587.5M587.5 65.5V42M587.5 65.5H604.5M587.5 42H604.5M604.5 65.5V42M604.5 65.5H621.5M604.5 42H621.5M621.5 65.5V42M621.5 65.5H638.5M621.5 42H638.5M638.5 65.5V42M638.5 65.5H655.5M638.5 42H655.5M655.5 65.5V42M655.5 65.5H672.5M655.5 42H672.5M672.5 65.5V42M672.5 65.5H689.5M672.5 42H689.5M689.5 65.5V42M689.5 65.5H706.5M689.5 42H706.5M706.5 65.5V42M706.5 65.5H723.5M706.5 42H723.5M723.5 65.5V42M723.5 65.5H731.5M723.5 42H731.5M731.5 65.5H766.5M731.5 65.5V53V42M731.5 42H766.5M766.5 65.5V42M766.5 65.5H801.5V42M766.5 42H801.5" stroke="black"></path>
+<path id="Vector 211_2" d="M817 42H823V170.5H817" stroke="black"></path>
+<text id="IOM 3" transform="matrix(0 1 -1 0 837.5 92)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">IOM 3</tspan></text>
+<line id="Line 66_2" x1="427" y1="170.5" x2="816" y2="170.5" stroke="black"></line>
+<line id="Line 64_2" x1="731.5" y1="65" x2="731.5" y2="94" stroke="black"></line>
+<line id="Line 65_2" x1="801.5" y1="65" x2="801.5" y2="94" stroke="black"></line>
+</g>
+</g>
+<g id="IOM4">
+<g id="Group01_4">
+<rect id="IOM4 SLOT1" x="441.5" y="294.5" width="35" height="77" fill="#D3D3D3" stroke="black"></rect>
+<text id="POW3_7" transform="matrix(0 1 -1 0 473 311)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">POW3</tspan></text>
+<text id="S-1_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="8" letter-spacing="0em"><tspan x="461" y="257.909">S-1</tspan></text>
+</g>
+<g id="Group02_4">
+<rect id="IOM4 SLOT2" x="476.5" y="294.5" width="35" height="77" fill="#D3D3D3" stroke="black"></rect>
+<text id="FFC2_7" transform="matrix(0 1 -1 0 501 312)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FFC2</tspan></text>
+<text id="S-2_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="8" letter-spacing="0em"><tspan x="488" y="257.909">S-2</tspan></text>
+</g>
+<g id="Group3_2">
+<rect id="IOM4 SLOT3" x="519.5" y="266.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-3_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="522" y="257.545">S-3</tspan></text>
+<text id="FDI_19" transform="matrix(0 1 -1 0 534 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group4_2">
+<rect id="IOM4 SLOT4" x="536.5" y="266.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-4_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="539" y="257.545">S-4</tspan></text>
+<text id="FDI_20" transform="matrix(0 1 -1 0 551 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group5_2">
+<rect id="IOM4 SLOT5" x="553.5" y="266.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-5_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="556" y="257.545">S-5</tspan></text>
+<text id="FDI_21" transform="matrix(0 1 -1 0 568 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group6_2">
+<rect id="IOM4 SLOT6" x="570.5" y="266.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-6_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="573" y="257.545">S-6</tspan></text>
+<text id="FDI_22" transform="matrix(0 1 -1 0 585 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group7_2">
+<rect id="IOM4 SLOT7" x="587.5" y="266.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-7_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="590" y="257.545">S-7</tspan></text>
+<text id="FD0_13" transform="matrix(0 1 -1 0 602 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group8_2">
+<rect id="IOM4 SLOT8" x="604.5" y="266.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-8_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="607" y="257.545">S-8</tspan></text>
+<text id="FD0_14" transform="matrix(0 1 -1 0 619 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group9_2">
+<rect id="IOM4 SLOT9" x="621.5" y="266.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-9_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="624" y="257.545">S-9</tspan></text>
+<text id="FD0_15" transform="matrix(0 1 -1 0 636 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group10_4">
+<rect id="IOM4 SLOT10" x="638.5" y="266.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-10_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="639" y="257.545">S-10</tspan></text>
+<text id="FD0_16" transform="matrix(0 1 -1 0 653 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group11_4">
+<rect id="IOM4 SLOT11" x="655.5" y="266.5" width="17" height="105" fill="white" stroke="black"></rect>
+<text id="S-11_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="656" y="257.545">S-11</tspan></text>
+<text id="SPARE_7" transform="matrix(0 1 -1 0 670 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group12_4">
+<rect id="IOM4 SLOT12" x="672.5" y="266.5" width="17" height="105" fill="white" stroke="black"></rect>
+<text id="S-12_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="673" y="257.545">S-12</tspan></text>
+<text id="SPARE_8" transform="matrix(0 1 -1 0 687 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group13_4">
+<rect id="IOM4 SLOT13" x="689.5" y="266.5" width="17" height="105" stroke="black"></rect>
+<text id="S-13_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="690" y="257.545">S-13</tspan></text>
+<text id="SPARE_9" transform="matrix(0 1 -1 0 704 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group14_4">
+<rect id="IOM4 SLOT14" x="706.5" y="266.5" width="17" height="105" stroke="black"></rect>
+<text id="S-14_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="707" y="257.545">S-14</tspan></text>
+<text id="SPARE_10" transform="matrix(0 1 -1 0 721 303)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group15_4">
+<rect id="IOM4 SLOT15" x="-0.5" y="0.5" width="35" height="77" transform="matrix(-1 0 0 1 766 294)" fill="#D3D3D3" stroke="black"></rect>
+<text id="FFC2_8" transform="matrix(0 1 -1 0 755 312)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FFC2</tspan></text>
+<text id="S-15_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="741" y="257.545">S-15</tspan></text>
+</g>
+<g id="Group16_4">
+<rect id="IOM4 SLOT16" x="-0.5" y="0.5" width="35" height="77" transform="matrix(-1 0 0 1 801 294)" fill="#D3D3D3" stroke="black"></rect>
+<text id="POW3_8" transform="matrix(0 1 -1 0 782 312)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">POW3</tspan></text>
+<text id="S-16_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="768" y="257.545">S-16</tspan></text>
+</g>
+<g id="Group_IOM4_NOT_TO_SET">
+<path id="Vector 208_2" d="M426.5 243H441.5M816.5 243H802.5M441.5 243V266.5M441.5 243H476.5M441.5 266.5H476.5M441.5 266.5V294.5H511.5V266.5M476.5 266.5V243M476.5 266.5H511.5M476.5 243H511.5M511.5 266.5V243M511.5 266.5H519.5M511.5 243H519.5M519.5 266.5V243M519.5 266.5H536.5M519.5 243H536.5M536.5 266.5V243M536.5 266.5H553.5M536.5 243H553.5M553.5 266.5V243M553.5 266.5H570.5M553.5 243H570.5M570.5 266.5V243M570.5 266.5H587.5M570.5 243H587.5M587.5 266.5V243M587.5 266.5H604.5M587.5 243H604.5M604.5 266.5V243M604.5 266.5H621.5M604.5 243H621.5M621.5 266.5V243M621.5 266.5H638.5M621.5 243H638.5M638.5 266.5V243M638.5 266.5H655.5M638.5 243H655.5M655.5 266.5V243M655.5 266.5H672.5M655.5 243H672.5M672.5 266.5V243M672.5 266.5H689.5M672.5 243H689.5M689.5 266.5V243M689.5 266.5H706.5M689.5 243H706.5M706.5 266.5V243M706.5 266.5H723.5M706.5 243H723.5M723.5 266.5V243M723.5 266.5H731.5M723.5 243H731.5M731.5 266.5V243M731.5 266.5H766.5M731.5 243H766.5M766.5 266.5V243M766.5 266.5H802.5V243M766.5 243H802.5" stroke="black"></path>
+<path id="Vector 212_2" d="M817 243H823V371.5H817" stroke="black"></path>
+<text id="IOM 4" transform="matrix(0 1 -1 0 837.5 293)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">IOM 4</tspan></text>
+<line id="Line 70_2" x1="426" y1="371.5" x2="817" y2="371.5" stroke="black"></line>
+<path id="Line 69_2" d="M766.5 266V295" stroke="black"></path>
+<line id="Line 68_2" x1="731.5" y1="266" x2="731.5" y2="295" stroke="black"></line>
+</g>
+</g>
+<rect id="Rectangle 133_2" x="426.5" y="22.5" width="390" height="368" stroke="black"></rect>
+</g>
+<g id="AELN_IOM_Rack3">
+<g id="IOM5">
+<g id="Group01_5">
+<rect id="IOM5 SLOT1" x="868.5" y="93.5" width="35" height="77" fill="#D3D3D3" stroke="black"></rect>
+<text id="POW3_9" transform="matrix(0 1 -1 0 892 110)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">POW3</tspan></text>
+<text id="S-1_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="880" y="56.5455">S-1</tspan></text>
+</g>
+<g id="Group02_5">
+<rect id="IOM5 SLOT2" x="903.5" y="93.5" width="35" height="77" fill="#D3D3D3" stroke="black"></rect>
+<text id="FFC2_9" transform="matrix(0 1 -1 0 927 110)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FFC2</tspan></text>
+<text id="S-2_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="915" y="56.5455">S-2</tspan></text>
+</g>
+<g id="Group03_3">
+<rect id="IOM5 SLOT3" x="946.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-3_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="948" y="56.5455">S-3</tspan></text>
+<text id="FDI_23" transform="matrix(0 1 -1 0 961 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group04_3">
+<rect id="IOM5 SLOT4" x="963.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-4_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="965" y="56.5455">S-4</tspan></text>
+<text id="FDI_24" transform="matrix(0 1 -1 0 978 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FDI</tspan></text>
+</g>
+<g id="Group05_3">
+<rect id="IOM5 SLOT5" x="980.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-5_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="983" y="56.5455">S-5</tspan></text>
+<text id="FD0_17" transform="matrix(0 1 -1 0 995 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group06_3">
+<rect id="IOM5 SLOT6" x="997.5" y="65.5" width="17" height="105" fill="#D3D3D3" stroke="black"></rect>
+<text id="S-6_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="999" y="56.5455">S-6</tspan></text>
+<text id="FD0_18" transform="matrix(0 1 -1 0 1012 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FD0</tspan></text>
+</g>
+<g id="Group07_3">
+<rect id="IOM5 SLOT7" x="1014.5" y="65.5" width="17" height="105" fill="white" stroke="black"></rect>
+<text id="S-7_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="1017" y="56.5455">S-7</tspan></text>
+<text id="SPARE_11" transform="matrix(0 1 -1 0 1029 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group08_3">
+<rect id="IOM5 SLOT8" x="1031.5" y="65.5" width="17" height="105" fill="white" stroke="black"></rect>
+<text id="S-8_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="1034" y="56.5455">S-8</tspan></text>
+<text id="SPARE_12" transform="matrix(0 1 -1 0 1046 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group09_3">
+<rect id="IOM5 SLOT9" x="1048.5" y="65.5" width="17" height="105" fill="white" stroke="black"></rect>
+<text id="S-9_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="1051" y="56.5455">S-9</tspan></text>
+<text id="SPARE_13" transform="matrix(0 1 -1 0 1063 101)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group10_5">
+<rect id="IOM5 SLOT10" x="1065.5" y="65.5" width="17" height="105" fill="white" stroke="black"></rect>
+<text id="S-10_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="1066" y="56.5455">S-10</tspan></text>
+<text id="SPARE_14" transform="matrix(0 1 -1 0 1080 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group11_5">
+<rect id="IOM5 SLOT11" x="1082.5" y="65.5" width="17" height="105" fill="white" stroke="black"></rect>
+<text id="S-11_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="1083" y="56.5455">S-11</tspan></text>
+<text id="SPARE_15" transform="matrix(0 1 -1 0 1097 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group12_5">
+<rect id="IOM5 SLOT12" x="1099.5" y="65.5" width="17" height="105" fill="white" stroke="black"></rect>
+<text id="S-12_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="1100" y="56.5455">S-12</tspan></text>
+<text id="SPARE_16" transform="matrix(0 1 -1 0 1114 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group13_5">
+<rect id="IOM5 SLOT13" x="1116.5" y="65.5" width="17" height="105" stroke="black"></rect>
+<text id="S-13_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="1117" y="56.5455">S-13</tspan></text>
+<text id="SPARE_17" transform="matrix(0 1 -1 0 1131 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group14_5">
+<rect id="IOM5 SLOT14" x="1133.5" y="65.5" width="17" height="105" stroke="black"></rect>
+<text id="S-14_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="1134" y="56.5455">S-14</tspan></text>
+<text id="SPARE_18" transform="matrix(0 1 -1 0 1148 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">SPARE</tspan></text>
+</g>
+<g id="Group15_5">
+<rect id="IOM5 SLOT15" x="-0.5" y="0.5" width="36" height="77" transform="matrix(-1 0 0 1 1194 93)" fill="#D3D3D3" stroke="black"></rect>
+<text id="FFC2_10" transform="matrix(0 1 -1 0 1183 109)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">FFC2</tspan></text>
+<text id="S-15_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="1169" y="56.5455">S-15</tspan></text>
+</g>
+<g id="Group16_5">
+<rect id="IOM5 SLOT16" x="-0.5" y="0.5" width="35" height="77" transform="matrix(-1 0 0 1 1229 93)" fill="#D3D3D3" stroke="black"></rect>
+<text id="POW3_10" transform="matrix(0 1 -1 0 1218 109)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">POW3</tspan></text>
+<text id="S-16_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em"><tspan x="1204" y="56.5455">S-16</tspan></text>
+</g>
+<g id="Group_IOM3_NOT_TO_SET_2">
+<path id="Vector 207_3" d="M853.5 42H868.5M1244.5 42H1229.5M868.5 42V65.5M868.5 42H903.5M868.5 65.5H903.5M868.5 65.5V93.5H938.5V65.5M903.5 65.5V42M903.5 65.5H938.5M903.5 42H938.5M938.5 65.5V42M938.5 65.5H946.5M938.5 42H946.5M946.5 65.5V42M946.5 65.5H963.5M946.5 42H963.5M963.5 65.5V42M963.5 65.5H980.5M963.5 42H980.5M980.5 65.5V42M980.5 65.5H997.5M980.5 42H997.5M997.5 65.5V42M997.5 65.5H1014.5M997.5 42H1014.5M1014.5 65.5V42M1014.5 65.5H1031.5M1014.5 42H1031.5M1031.5 65.5V42M1031.5 65.5H1048.5M1031.5 42H1048.5M1048.5 65.5V42M1048.5 65.5H1065.5M1048.5 42H1065.5M1065.5 65.5V42M1065.5 65.5H1082.5M1065.5 42H1082.5M1082.5 65.5V42M1082.5 65.5H1099.5M1082.5 42H1099.5M1099.5 65.5V42M1099.5 65.5H1116.5M1099.5 42H1116.5M1116.5 65.5V42M1116.5 65.5H1133.5M1116.5 42H1133.5M1133.5 65.5V42M1133.5 65.5H1150.5M1133.5 42H1150.5M1150.5 65.5V42M1150.5 65.5H1158.5M1150.5 42H1158.5M1158.5 65.5H1194.5M1158.5 65.5V54V42M1158.5 42H1194.5M1194.5 65.5V42M1194.5 65.5H1229.5V42M1194.5 42H1229.5" stroke="black"></path>
+<path id="Vector 211_3" d="M1245 42H1251V170.5H1245" stroke="black"></path>
+<text id="IOM 5" transform="matrix(0 1 -1 0 1264 92)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em"><tspan x="0" y="9.63636">IOM 5</tspan></text>
+<line id="Line 66_3" x1="854" y1="170.5" x2="1245" y2="170.5" stroke="black"></line>
+<line id="Line 64_3" x1="1158.5" y1="65" x2="1158.5" y2="94" stroke="black"></line>
+<line id="Line 65_3" x1="1229.5" y1="65" x2="1229.5" y2="94" stroke="black"></line>
+</g>
+</g>
+<rect id="Rectangle 133_3" x="853.5" y="22.5" width="391" height="369" stroke="black"></rect>
+</g>
+</g>
+</svg>

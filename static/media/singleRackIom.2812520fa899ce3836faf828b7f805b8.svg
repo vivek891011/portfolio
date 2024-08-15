@@ -1,0 +1,240 @@
+<svg width="411" height="393" viewBox="0 0 411 393" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<rect width="411" height="393" fill="#F5F5F5" />
+	<g id="ALH04_IOM">
+		<g id="ALH04_IOM_Rack1">
+			<g id="IOM1">
+				<g id="Group01">
+					<rect id="IOMA_SLOT1" x="15.5" y="94.5" width="35" height="77" stroke="black" />
+					<text id="IOMA_SLOT1Label" transform="matrix(0 1 -1 0 39 111)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+					<text id="S-1" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="27" y="57.5455">
+							S-1
+						</tspan>
+					</text>
+				</g>
+				<g id="Group02">
+					<rect id="IOMA_SLOT2" x="50.5" y="94.5" width="35" height="77" stroke="black" />
+					<text id="IOMA_SLOT2Label" transform="matrix(0 1 -1 0 74 111)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+					<text id="S-2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="62" y="57.5455">
+							S-2
+						</tspan>
+					</text>
+				</g>
+				<g id="Group03">
+					<rect id="IOMA_SLOT3" x="93.5" y="66.5" width="17" height="105" stroke="black" />
+					<text id="S-3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="95" y="57.5455">
+							S-3
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT3Label" transform="matrix(0 1 -1 0 108 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group04">
+					<rect id="IOMA_SLOT4" x="110.5" y="66.5" width="17" height="105" stroke="black" />
+					<text id="S-4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="112" y="57.5455">
+							S-4
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT4Label" transform="matrix(0 1 -1 0 125 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group05">
+					<rect id="IOMA_SLOT5" x="127.5" y="66.5" width="17" height="105" stroke="black" />
+					<text id="S-5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="130" y="57.5455">
+							S-5
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT5Label" transform="matrix(0 1 -1 0 142 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group06">
+					<rect id="IOMA_SLOT6" x="144.5" y="66.5" width="17" height="105" stroke="black" />
+					<text id="S-6" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="146" y="57.5455">
+							S-6
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT6Label" transform="matrix(0 1 -1 0 159 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group07">
+					<rect id="IOMA_SLOT7" x="161.5" y="66.5" width="17" height="105" stroke="black" />
+					<text id="S-7" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="164" y="57.5455">
+							S-7
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT7Label" transform="matrix(0 1 -1 0 176 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group08">
+					<g id="IOMA_SLOT8">
+						<mask id="path-22-inside-1_0_1" fill="white">
+							<path d="M178 66H196V172H178V66Z" />
+						</mask>
+						<path d="M178 66H196V172H178V66Z" stroke="black" stroke-width="2" mask="url(#path-22-inside-1_0_1)" />
+					</g>
+					<text id="S-8" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="181" y="57.5455">
+							S-8
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT8Label" transform="matrix(0 1 -1 0 193 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group09">
+					<rect id="IOMA_SLOT9" x="195.5" y="66.5" width="17" height="105" stroke="black" />
+					<text id="S-9" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="198" y="57.5455">
+							S-9
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT9Label" transform="matrix(0 1 -1 0 210 102)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group10">
+					<rect id="IOMA_SLOT10" x="212.5" y="66.5" width="17" height="105" stroke="black" />
+					<text id="S-10" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="213" y="57.5455">
+							S-10
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT10Label" transform="matrix(0 1 -1 0 227 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group11">
+					<rect id="IOMA_SLOT11" x="229.5" y="66.5" width="17" height="105" fill="white" stroke="black" />
+					<text id="S-11" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="230" y="57.5455">
+							S-11
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT11Label" transform="matrix(0 1 -1 0 244 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group12">
+					<rect id="IOMA_SLOT12" x="246.5" y="66.5" width="17" height="105" fill="white" stroke="black" />
+					<text id="S-12" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="247" y="57.5455">
+							S-12
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT12Label" transform="matrix(0 1 -1 0 261 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group13">
+					<rect id="IOMA_SLOT13" x="263.5" y="66.5" width="17" height="105" fill="white" stroke="black" />
+					<text id="S-13" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="264" y="57.5455">
+							S-13
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT13Label" transform="matrix(0 1 -1 0 278 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group14">
+					<rect id="IOMA_SLOT14" x="280.5" y="66.5" width="17" height="105" fill="white" stroke="black" />
+					<text id="S-14" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="281" y="57.5455">
+							S-14
+						</tspan>
+					</text>
+					<text id="IOMA_SLOT14Label" transform="matrix(0 1 -1 0 295 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+				</g>
+				<g id="Group15">
+					<rect id="IOMA_SLOT15" x="-0.5" y="0.5" width="35" height="77" transform="matrix(-1 0 0 1 340 94)" stroke="black" />
+					<text id="IOMA_SLOT15Label" transform="matrix(0 1 -1 0 330 110)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+					<text id="S-15" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="315" y="57.5455">
+							S-15
+						</tspan>
+					</text>
+				</g>
+				<g id="Group16">
+					<rect id="IOMA_SLOT16" x="-0.5" y="0.5" width="35" height="77" transform="matrix(-1 0 0 1 375 94)" stroke="black" />
+					<text id="IOMA_SLOT16Label" transform="matrix(0 1 -1 0 362 110)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.......
+						</tspan>
+					</text>
+					<text id="S-16" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0em">
+						<tspan x="350" y="57.5455">
+							S-16
+						</tspan>
+					</text>
+				</g>
+				<g id="IOM1_NOT_TO_SET">
+					<path id="Vector 211" d="M390 43H396V171.5H390" stroke="black" />
+					<text id="IOM_A" transform="matrix(0 1 -1 0 410.5 93)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10" letter-spacing="0em">
+						<tspan x="0" y="9.63636">
+							.........
+						</tspan>
+					</text>
+					<line id="Line 66" y1="171.5" x2="390" y2="171.5" stroke="black" />
+					<path id="Vector 207" d="M0.5 43H15.5M389.5 43H375.5M15.5 43V66.5M15.5 43H50.5M15.5 66.5H50.5M15.5 66.5V94.5H85.5V66.5M50.5 66.5V43M50.5 66.5H85.5M50.5 43H85.5M85.5 66.5V43M85.5 66.5H93.5M85.5 43H93.5M93.5 66.5V43M93.5 66.5H110.5M93.5 43H110.5M110.5 66.5V43M110.5 66.5H127.5M110.5 43H127.5M127.5 66.5V43M127.5 66.5H144.5M127.5 43H144.5M144.5 66.5V43M144.5 66.5H161.5M144.5 43H161.5M161.5 66.5V43M161.5 66.5H178.5M161.5 43H178.5M178.5 66.5V43M178.5 66.5H195.5M178.5 43H195.5M195.5 66.5V43M195.5 66.5H212.5M195.5 43H212.5M212.5 66.5V43M212.5 66.5H229.5M212.5 43H229.5M229.5 66.5V43M229.5 66.5H246.5M229.5 43H246.5M246.5 66.5V43M246.5 66.5H263.5M246.5 43H263.5M263.5 66.5V43M263.5 66.5H280.5M263.5 43H280.5M280.5 66.5V43M280.5 66.5H297.5M280.5 43H297.5M297.5 66.5V43M297.5 66.5H305.5M297.5 43H305.5M305.5 66.5H340.5M305.5 66.5V53.5V43M305.5 43H340.5M340.5 66.5V43M340.5 66.5H375.5V43M340.5 43H375.5" stroke="black" />
+					<line id="Line 64" x1="305.5" y1="66" x2="305.5" y2="95" stroke="black" />
+					<line id="Line 65" x1="375.5" y1="66" x2="375.5" y2="95" stroke="black" />
+				</g>
+			</g>
+			<rect id="Rectangle 133" x="0.5" y="23.5" width="389" height="369" stroke="black" />
+		</g>
+		<text id="Rack_Number" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0em">
+			<tspan x="172" y="11.8636">
+				.................
+			</tspan>
+		</text>
+	</g>
+</svg>

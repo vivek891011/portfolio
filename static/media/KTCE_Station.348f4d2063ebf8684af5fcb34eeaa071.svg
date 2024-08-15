@@ -1,0 +1,1053 @@
+<svg id="main-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1760" height="720" viewBox="0 0 1760 720">
+	<defs>
+		<clipPath id="clip-Katoghan">
+			<rect width="1760" height="720">
+			</rect>
+		</clipPath>
+	</defs>
+	<g id="Katoghan" clip-path="url(#clip-Katoghan)">
+		<rect width="1760" height="720">
+		</rect>
+		<g id="YardLayout" transform="translate(-22 -18.501)">
+			<g id="Seperator" transform="translate(-212.103 -100.855)">
+				<path id="TR01" d="M118.991-.5h-21l-81,65h-17" transform="translate(778.112 320.5)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="TR03" d="M-.025,1.275h13l80,65h18" transform="translate(789.128 468.726)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<line id="TR10" x2="123" transform="translate(898.5 320.001)" fill="none" stroke="#6c7091" stroke-width="3">
+				</line>
+				<line id="TR09" x2="107" transform="translate(1364.103 320.001)" fill="none" stroke="#6c7091" stroke-width="3">
+				</line>
+				<path id="TR08" d="M.667,7.346,8.828,0H113" transform="translate(874.103 540.001)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="TR07" d="M0,0H111.406l9.815,5.837" transform="translate(1343.103 540.001)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="TR11" d="M-.163,2.138H9.781l40,50,12.246.035" transform="translate(990.321 542.863)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="TR12" d="M4.133,5.074,11.026.5H123.765" transform="translate(1029.603 600.001)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="Path_2" data-name="Path 2" d="M-.449,63.584H13.742L143.825-1.839h12.8" transform="translate(618.5 397.134)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="Path_4" data-name="Path 4" d="M-1.458,66.5h11l60.583-65H82.542" transform="translate(1443.561 468.5)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="Path_5" data-name="Path 5" d="M-2.669,3.138h13L59.059,67.93H70.71" transform="translate(1546.771 391.863)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="Path_6" data-name="Path 6" d="M-10.089.383H3.218l58.646,60h11" transform="translate(1468.238 324.618)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+			</g>
+			<g id="Shunt" transform="translate(-203 -89.218)">
+				<g id="SH26" transform="translate(1234.033 277.881)">
+					<path id="SH26Poles" d="M0,12V-.11H4.613" transform="translate(1.498 16.197)" fill="none" stroke="#6c7091" stroke-width="2">
+					</path>
+					<g id="SH26Aspect3" transform="translate(5.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH26Aspect2" transform="translate(21.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH26Aspect1" transform="translate(13.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<text id="SH26Label" transform="translate(-1.389 9.087)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							SH-26
+						</tspan>
+					</text>
+				</g>
+				<g id="SH31" transform="translate(994.15 347.881)">
+					<path id="SH31Poles" d="M0,12V-.11H4.613" transform="translate(1.498 16.197)" fill="none" stroke="#6c7091" stroke-width="1.5">
+					</path>
+					<g id="SH31Aspect3" transform="translate(5.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH31Aspect2" transform="translate(21.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH31Aspect1" transform="translate(13.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<text id="SH31Label" transform="translate(2.611 9.087)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							SH-31
+						</tspan>
+					</text>
+				</g>
+				<g id="SH24" transform="translate(1317.033 348.881)">
+					<path id="SH24Poles" d="M0,12V-.11H4.613" transform="translate(1.498 16.197)" fill="none" stroke="#6c7091" stroke-width="2">
+					</path>
+					<g id="SH24Aspect3" transform="translate(5.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH24Aspect2" transform="translate(21.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH24Aspect1" transform="translate(13.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<text id="SH24Label" transform="translate(3.967 5.119)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							SH-24
+						</tspan>
+					</text>
+				</g>
+				<g id="SH33" transform="translate(978.68 422.881)">
+					<path id="SH33Poles" d="M0,12V-.11H4.613" transform="translate(1.498 16.197)" fill="none" stroke="#6c7091" stroke-width="2">
+					</path>
+					<g id="SH33Aspect3" transform="translate(5.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH33Aspect2" transform="translate(21.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH33Aspect1" transform="translate(13.611 12.087)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<text id="SH33Label" transform="translate(4.202 7.119)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							SH-33
+						</tspan>
+					</text>
+				</g>
+				<g id="SH37" transform="translate(969.042 455.888)">
+					<path id="SH37Poles" d="M4.613-.11V12H0" transform="translate(25.112 0.11)" fill="none" stroke="#6c7091" stroke-width="1.5">
+					</path>
+					<g id="SH37Aspect3" transform="translate(17.612 8.11)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH37Aspect2" transform="translate(1.612 8.11)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH37Aspect1" transform="translate(9.612 8.11)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<text id="SH37Label" transform="translate(3.575 27.112)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							SH-37
+						</tspan>
+					</text>
+				</g>
+				<g id="SH35" transform="translate(940.929 530.888)">
+					<path id="SH35Poles" d="M4.613-.11V12H0" transform="translate(25.112 0.11)" fill="none" stroke="#6c7091" stroke-width="2">
+					</path>
+					<g id="SH35Aspect3" transform="translate(17.612 8.11)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH35Aspect2" transform="translate(1.612 8.11)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<g id="SH35Aspect1" transform="translate(9.612 8.11)" fill="none" stroke="#6c7091" stroke-width="1">
+						<ellipse cx="4" cy="4" rx="4" ry="4" stroke="none">
+						</ellipse>
+						<ellipse cx="4" cy="4" rx="3.5" ry="3.5" fill="none">
+						</ellipse>
+					</g>
+					<text id="SH35Label" transform="translate(6.108 31.112)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							S-35
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="Signal" transform="translate(-116 -92.374)">
+				<g id="SGS6" transform="translate(1344.493 308.883) rotate(179.7)">
+					<g id="SGS6Aspect2" transform="translate(0 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS6Aspect1" transform="translate(15.078 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="POLES" transform="translate(29.342 0)">
+						<line id="POLES1" y2="13.952" transform="translate(7.972 0)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</line>
+						<line id="POLES2" x2="7.851" transform="translate(0 13.883)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<text id="SGS6Label" transform="translate(22.357 26) rotate(-179.7)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							S-6
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS19" transform="translate(429.828 470.257) rotate(-0.3)">
+					<g id="SGS19Aspect2" transform="translate(18.227 -5.226)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="6.75" fill="none">
+						</circle>
+					</g>
+					<g id="SGS19Aspect1" transform="translate(33.226 -5.147)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="6.75" fill="none">
+						</circle>
+					</g>
+					<g id="POLES-2" data-name="POLES" transform="translate(48.347 -11.559)">
+						<line id="POLES1-2" data-name="POLES1" y2="13.952" transform="translate(7.972 0)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</line>
+						<line id="POLES2-2" data-name="POLES2" x2="7.851" transform="translate(0 13.883)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<text id="SGS19Label" transform="translate(23.187 18.865) rotate(0.3)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							S-19
+						</tspan>
+					</text>
+				</g>
+				<g id="SGC18" transform="translate(404.609 383.948) rotate(179.7)">
+					<g id="SGC18Aspect" transform="translate(14.491 12.504)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<ellipse cx="5" cy="5" rx="5" ry="5" stroke="none">
+						</ellipse>
+						<ellipse cx="5" cy="5" rx="4.25" ry="4.25" fill="none">
+						</ellipse>
+					</g>
+					<g id="POLES-3" data-name="POLES" transform="translate(29.296 36.558)">
+						<path id="POLES1-3" data-name="POLES1" d="M13,0l-.063,13L0,12.927" transform="translate(-4.988 -32.003)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</path>
+						<line id="Line_4" data-name="Line 4" x1="11" y1="0.058" transform="translate(-25.278 -19.167)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</line>
+					</g>
+					<text id="SGC1Aspect" transform="translate(40.189 25.233) rotate(-179.7)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							C-18
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS18" transform="translate(392.071 363.192)">
+					<g id="SGS1Aspect2" transform="translate(8.023 -4.672)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="6.75" fill="none">
+						</circle>
+					</g>
+					<g id="SGS1Aspect1" transform="translate(23.023 -4.672)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="6.75" fill="none">
+						</circle>
+					</g>
+					<text id="S-18" transform="translate(12 -7.787) rotate(0.3)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							S-18
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS11" transform="translate(1016 378.883) rotate(179.7)">
+					<g id="SGS11Aspect2" transform="translate(0 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS11Aspect1" transform="translate(15.078 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="POLES-4" data-name="POLES" transform="translate(29.342 0)">
+						<line id="POLES1-4" data-name="POLES1" y2="13.952" transform="translate(7.972 0)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</line>
+						<line id="POLES2-3" data-name="POLES2" x2="7.851" transform="translate(0 13.883)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<text id="SGS11LABEL" transform="translate(25.984 25.095) rotate(-179.7)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							S-11
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS4" transform="translate(1541.493 378.883) rotate(179.7)">
+					<g id="SGS4Aspect2" transform="translate(0 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS4Aspect1" transform="translate(15.078 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="POLES-5" data-name="POLES" transform="translate(29.342 0)">
+						<line id="POLES1-5" data-name="POLES1" y2="13.952" transform="translate(7.972 0)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</line>
+						<line id="POLES2-4" data-name="POLES2" x2="7.851" transform="translate(0 13.883)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<text id="SGS4LABEL" transform="translate(22.984 25.079) rotate(-179.7)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							S-4
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS17" transform="translate(914.818 471.363) rotate(-0.3)">
+					<g id="SGS17Aspect2" transform="translate(18.227 -5.226)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="6.75" fill="none">
+						</circle>
+					</g>
+					<g id="SGS17Aspect1" transform="translate(33.305 -5.147)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="6.75" fill="none">
+						</circle>
+					</g>
+					<g id="POLES-6" data-name="POLES" transform="translate(21.406 -12.318)">
+						<line id="POLES1-6" data-name="POLES1" y2="13.952" transform="translate(34.134 0.133)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</line>
+						<line id="POLES2-5" data-name="POLES2" x2="7.851" transform="translate(26.163 14.016)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<text id="SGS17Label" transform="translate(26.073 20.774) rotate(0.3)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							S-17
+						</tspan>
+					</text>
+				</g>
+				<g id="SGS15" transform="translate(781.32 546.632) rotate(-0.3)">
+					<g id="SGS15Aspect2" transform="translate(18.227 -5.226)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="6.75" fill="none">
+						</circle>
+					</g>
+					<g id="SGS15Aspect1" transform="translate(33.305 -5.147)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="6.75" fill="none">
+						</circle>
+					</g>
+					<g id="POLES-7" data-name="POLES" transform="translate(21.406 -12.318)">
+						<line id="POLES1-7" data-name="POLES1" y2="13.952" transform="translate(34.134 0.133)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</line>
+						<line id="POLES2-6" data-name="POLES2" x2="7.851" transform="translate(26.163 14.016)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<text id="SGS15Label" transform="translate(26.053 24.774) rotate(0.3)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							S-15
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="TrackCircuit" transform="translate(-207.5 -91.355)">
+				<g id="TCDMT1" class="tooltip" title="" transform="translate(-19 1.501)" edge-id="KTCE_TC_DMT1">
+					<line id="TCDMT1Line" x2="80" transform="translate(1015.5 379)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_DMT1Line">
+					</line>
+					<text id="TCDMT1Label" transform="translate(1040.5 391)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_DMT1Label">
+						<tspan x="0" y="0">
+							DMT1
+						</tspan>
+					</text>
+				</g>
+				<g id="TCC18T" class="tooltip" title="" transform="translate(103 2.001)" edge-id="KTCE_TC_C18T">
+					<line id="TCC18TLine" x2="128" transform="translate(272.5 378.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_C18TLine">
+					</line>
+					<text id="TCC18TLabel" transform="translate(323.5 375.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_C18TLabel">
+						<tspan x="0" y="0">
+							C18T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC18T" class="tooltip" title="" transform="translate(20 1.001)" edge-id="KTCE_TC_18T">
+					<line id="TC18TLine" x2="130" transform="translate(486.5 379.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_18TLine">
+					</line>
+					<text id="TC18TLabel" transform="translate(542 376.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_18TLabel">
+						<tspan x="0" y="0">
+							18T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCDMT2" class="tooltip" title="" transform="translate(-35)" edge-id="KTCE_TC_DMT2">
+					<line id="TCDMT2Line" x2="146" transform="translate(1114.5 380.501)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_DMT2Line">
+					</line>
+					<text id="TCDMT2Label" transform="translate(1172.5 377.501)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_DMT2Label">
+						<tspan x="0" y="0">
+							DMT2
+						</tspan>
+					</text>
+				</g>
+				<g id="TCDMT3" class="tooltip" title="" transform="translate(-62)" edge-id="KTCE_TC_DMT3">
+					<line id="TCDMT3Line" x2="124" transform="translate(1290.5 380.501)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_DMT3Line">
+					</line>
+					<text id="TCDMT3Label" transform="translate(1337.5 377.501)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_DMT3Label">
+						<tspan x="0" y="0">
+							DMT3
+						</tspan>
+					</text>
+				</g>
+				<g id="TC47T" class="tooltip" title="" transform="translate(-92 3)" edge-id="KTCE_TC_47T">
+					<line id="TC47TLine" x2="181" transform="translate(1447.5 377.501)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_47TLine">
+					</line>
+					<text id="TC47TLabel" transform="translate(1528.5 374.501)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_47TLabel">
+						<tspan x="0" y="0">
+							47T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC55T" class="tooltip" title="" transform="translate(0 1.501)" edge-id="KTCE_TC_55T">
+					<line id="TC55TLine" x2="220" transform="translate(773.5 379)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_55TLine">
+					</line>
+					<text id="TC55TLabel" transform="translate(874 376)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_55TLabel">
+						<tspan x="0" y="0">
+							55T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC19T" class="tooltip" title="" transform="translate(49)" edge-id="KTCE_TC_19T">
+					<line id="TC19TLine" x2="100" transform="translate(368.5 455.501)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_19TLine">
+					</line>
+					<text id="TC19TLabel" transform="translate(409 452.501)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_19TLabel">
+						<tspan x="0" y="0">
+							19T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC60BT" class="tooltip" title="" transform="translate(32 -1.75)" edge-id="KTCE_TC_60BT">
+					<line id="TC60BTLine" x2="168" transform="translate(581.5 457.251)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_60BTLine">
+					</line>
+					<text id="TC60BTLabel" transform="translate(652.5 454.251)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_60BTLabel">
+						<tspan x="0" y="0">
+							60BT
+						</tspan>
+					</text>
+				</g>
+				<g id="TCUMT3" class="tooltip" title="" transform="translate(-33)" edge-id="KTCE_TC_UMT3">
+					<line id="TCUMT3Line" x2="154" transform="translate(1015.5 455.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_UMT3Line">
+					</line>
+					<text id="TCUMT3Label" transform="translate(1077.5 452.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_UMT3Label">
+						<tspan x="0" y="0">
+							UMT3
+						</tspan>
+					</text>
+				</g>
+				<g id="TCUMT2" class="tooltip" title="" transform="translate(-60)" edge-id="KTCE_TC_UMT2">
+					<line id="TCUMT2Line" x2="90" transform="translate(1199.5 455.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_UMT2Line">
+					</line>
+					<text id="TCUMT2Label" transform="translate(1229.5 452.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_UMT2Label">
+						<tspan x="0" y="0">
+							UMT2
+						</tspan>
+					</text>
+				</g>
+				<g id="TCUMT1" class="tooltip" title="" transform="translate(-80)" edge-id="KTCE_TC_UMT1">
+					<line id="TCUMT1Line" x2="105" transform="translate(1312.5 455.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_UMT1Line">
+					</line>
+					<text id="TCUMT1Label" transform="translate(1350.5 452.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_UMT1Label">
+						<tspan x="0" y="0">
+							UMT1
+						</tspan>
+					</text>
+				</g>
+				<g id="TC43T" class="tooltip" title="" transform="translate(-107 -0.5)" edge-id="KTCE_TC_43T">
+					<line id="TC43TLine" x2="181" transform="translate(1447.5 456.001)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_43TLine">
+					</line>
+					<text id="TC43TLabel" transform="translate(1528.5 453.001)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_43TLabel">
+						<tspan x="0" y="0">
+							43T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC51T" class="tooltip" title="" edge-id="KTCE_TC_51T">
+					<line id="TC51TLine" x2="195" transform="translate(784.5 455.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_51TLine">
+					</line>
+					<text id="TC51TLabel" transform="translate(872.5 452.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_51TLabel">
+						<tspan x="0" y="0">
+							51T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCDULT1" class="tooltip" title="" transform="translate(2 -2)" edge-id="KTCE_TC_DULT1">
+					<line id="TCDULT1Line" x2="75" transform="translate(1017.5 312.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_DULT1Line">
+					</line>
+					<text id="TCDULT1Label" transform="translate(1036.5 309.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_DULT1Label">
+						<tspan x="0" y="0" xml:space="preserve">
+							DULT1
+						</tspan>
+					</text>
+				</g>
+				<g id="TCDULT2" class="tooltip" title="" transform="translate(3)" edge-id="KTCE_TC_DULT2">
+					<line id="TCDULT2Line" x2="136" transform="translate(1094.5 310.501)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_DULT2Line">
+					</line>
+					<text id="TCDULT2Label" transform="translate(1145.5 307.501)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_DULT2Label">
+						<tspan x="0" y="0">
+							DULT2
+						</tspan>
+					</text>
+				</g>
+				<g id="TCDULT3" class="tooltip" title="" transform="translate(3 -2)" edge-id="KTCE_TC_DULT3">
+					<line id="TCDULT3Line" x2="119" transform="translate(1233.5 312.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_DULT3Line">
+					</line>
+					<text id="TCDULT3Label" transform="translate(1276 309.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_DULT3Label">
+						<tspan x="0" y="0">
+							DULT3
+						</tspan>
+					</text>
+				</g>
+				<g id="TCULT1" class="tooltip" title="" transform="translate(0 25)" edge-id="KTCE_TC_ULT1">
+					<text id="TCULT1Label" transform="translate(1271.5 502.501)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_ULT1Label">
+						<tspan x="0" y="0">
+							ULT1
+						</tspan>
+					</text>
+					<line id="TCULT1Line" x2="102" transform="translate(1233.5 505.501)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_ULT1Line">
+					</line>
+				</g>
+				<g id="TCULT3" class="tooltip" title="" transform="translate(0 21)" edge-id="KTCE_TC_ULT3">
+					<line id="TCULT3Line" x2="121" transform="translate(985.5 509.501)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_ULT3Line">
+					</line>
+					<text id="TCULT3Label" transform="translate(1033 506.501)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_ULT3Label">
+						<tspan x="0" y="0">
+							ULT3
+						</tspan>
+					</text>
+				</g>
+				<g id="TCULT2" class="tooltip" title="" transform="translate(0 25)" edge-id="KTCE_TC_ULT2">
+					<line id="TCULT2Line" x2="121" transform="translate(1109.5 505.501)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_ULT2Line">
+					</line>
+					<text id="TCULT2Label" transform="translate(1157 502.501)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_ULT2Label">
+						<tspan x="0" y="0">
+							ULT2
+						</tspan>
+					</text>
+				</g>
+				<g id="TC4T" class="tooltip" title="" transform="translate(40 3.001)" edge-id="KTCE_TC_4T">
+					<text id="TC4TLabel" transform="translate(1622 374.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_4TLabel">
+						<tspan x="0" y="0" xml:space="preserve">
+							4T
+						</tspan>
+					</text>
+					<line id="TC4TLine" x2="80" transform="translate(1592.5 377.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_4TLine">
+					</line>
+				</g>
+				<g id="TC3T" class="tooltip" title="" transform="translate(24 0.5)" edge-id="KTCE_TC_3T">
+					<line id="TC3TLine" x2="90" transform="translate(1592.5 455.001)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_3TLine">
+					</line>
+					<text id="TC3TLabel" transform="translate(1631.5 452.001)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_3TLabel">
+						<tspan x="0" y="0">
+							3T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCC3T" class="tooltip" title="" transform="translate(50)" edge-id="KTCE_TC_C3T">
+					<line id="TCC3TLine" x2="100" transform="translate(1659.5 455.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_C3TLine">
+					</line>
+					<text id="TCC3TLabel" transform="translate(1700 452.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_C3TLabel">
+						<tspan x="0" y="0">
+							C3T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC17T" class="tooltip" title="" transform="translate(152)" edge-id="KTCE_TC_17T">
+					<line id="TC17TLine" x2="90" transform="translate(368.5 455.501)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_17TLine">
+					</line>
+					<text id="TC17TLabel" transform="translate(404 452.501)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_17TLabel">
+						<tspan x="0" y="0">
+							17T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC41AT" class="tooltip" title="" transform="translate(-53 -74.5)" edge-id="KTCE_TC_41AT">
+					<line id="TC41ATLine" x2="90" transform="translate(1592.5 455.001)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_41ATLine">
+					</line>
+					<text id="TC41ATLabel" transform="translate(1624.5 467.001)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_41ATLabel">
+						<tspan x="0" y="0">
+							41AT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC2T" class="tooltip" title="" transform="translate(123 -74.5)" edge-id="KTCE_TC_2T">
+					<line id="TC2TLine" x2="90" transform="translate(1592.5 455.001)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_2TLine">
+					</line>
+					<text id="TC2TLabel" transform="translate(1631.5 452.001)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_2TLabel">
+						<tspan x="0" y="0">
+							2T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC41BT" class="tooltip" title="" transform="translate(-68 0.5)" edge-id="KTCE_TC_41BT">
+					<line id="TC41BTLine" x2="89" transform="translate(1592.5 455.001)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_41BTLine">
+					</line>
+					<text id="TC41BTLabel" transform="translate(1624 452.001)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_41BTLabel">
+						<tspan x="0" y="0">
+							41BT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC60AT" class="tooltip" title="" transform="translate(153 1.001)" edge-id="KTCE_TC_60AT">
+					<line id="TC60ATLine" x2="131" transform="translate(486.5 379.5)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="KTCE_TC_60ATLine">
+					</line>
+					<text id="TC60ATLabel" transform="translate(542.5 376.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_TC_60ATLabel">
+						<tspan x="0" y="0">
+							60AT
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="PointMachine" transform="translate(-213 -96.73)">
+				<g id="PM51A" class="tooltip" title="" transform="translate(10.5 35.749)" edge-id="KTCE_PM_51A">
+					<g id="PM51AIcon" transform="translate(871 477.375)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_51AIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<g id="PM51AHr" transform="translate(888.296 479.495) rotate(-0.3)" edge-id-selector="KTCE_PM_51AHr">
+						<path id="PM51AHr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" fill="none" edge-id-selector="KTCE_PM_51AHr1">
+						</path>
+						<path id="PM51AHr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_51AHr2">
+						</path>
+					</g>
+					<text id="PM51ALabel" transform="translate(868.5 475.375)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_PM_51ALabel">
+						<tspan x="0" y="0">
+							51A
+						</tspan>
+					</text>
+				</g>
+				<g id="PM47A" class="tooltip" title="" transform="translate(29 -13)" edge-id="KTCE_PM_47A">
+					<g id="PM47AIcon" transform="translate(1428.5 336.5)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_47AIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM47ALabel" transform="translate(1426 363.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_PM_47ALabel">
+						<tspan x="0" y="0">
+							47A
+						</tspan>
+					</text>
+					<g id="PM47AHr" transform="translate(1418.964 339.746) rotate(-0.3)" edge-id-selector="KTCE_PM_47AHr">
+						<path id="PM47AAHr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" fill="none" edge-id-selector="KTCE_PM_47AAHr1">
+						</path>
+						<path id="PM47AAHr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_47AAHr2">
+						</path>
+					</g>
+				</g>
+				<g id="PM55A" class="tooltip" title="" transform="translate(1 -20)" edge-id="KTCE_PM_55A">
+					<g id="PM55AIcon" transform="translate(879.5 317.375)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_55AIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<g id="PM55AHr" transform="translate(898.796 316.368) rotate(-0.3)" edge-id-selector="KTCE_PM_55AHr">
+						<path id="PM55AHr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" fill="none" edge-id-selector="KTCE_PM_55AHr1">
+						</path>
+						<path id="PM55AHr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_55AHr2">
+						</path>
+					</g>
+					<text id="PM55ALabel" transform="translate(877 314.375)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_PM_55ALabel">
+						<tspan x="0" y="0">
+							55A
+						</tspan>
+					</text>
+				</g>
+				<g id="PM55B" class="tooltip" title="" transform="translate(-35 -9)" edge-id="KTCE_PM_55B">
+					<text id="_PM55BLabel" data-name="  PM55BLabel" transform="translate(812.5 367.754)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="_KTCE_PM_55BLabel">
+						<tspan x="0" y="0">
+							55B
+						</tspan>
+					</text>
+					<g id="PM55BHr" transform="translate(804.801 372.848)" edge-id-selector="KTCE_PM_55BHr">
+						<path id="PM55BHr1" d="M5,8.7C2.312,6.961.9,5.381.323,4.059-1.226.515,3.2-1.179,5,.913c1.8-2.092,6.226-.4,4.677,3.146C9.1,5.381,7.688,6.961,5,8.7Z" transform="translate(0.199 1.057)" fill="none" edge-id-selector="KTCE_PM_55BHr1">
+						</path>
+						<path id="PM55BHr2" d="M0,1.239H0l2.928.014L3.334.012,5.162,2.675l.669-1.552,3.6.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_55BHr2">
+						</path>
+					</g>
+					<g id="PM55BIcon" transform="translate(815 370.754)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_55BIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+				</g>
+				<g id="PM43A" class="tooltip" title="" transform="translate(19.57 56)" edge-id="KTCE_PM_43A">
+					<text id="PM43ALabel" transform="translate(1419.508 509)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_PM_43ALabel">
+						<tspan x="0" y="0">
+							43A
+						</tspan>
+					</text>
+					<g id="PM43AHr" transform="translate(1410.176 487.175) rotate(-0.3)" edge-id-selector="KTCE_PM_43AHr">
+						<path id="PM43AHr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" fill="none" edge-id-selector="KTCE_PM_43AHr1">
+						</path>
+						<path id="PM43AHr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116" transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_43AHr2">
+						</path>
+					</g>
+					<g id="PM43AIcon" transform="translate(1421.008 483)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_43AIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+				</g>
+				<g id="PM51B" class="tooltip" title="" transform="translate(-49 5)" edge-id="KTCE_PM_51B">
+					<text id="PM51BLabel" transform="translate(836 491.124)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_PM_51BLabel">
+						<tspan x="0" y="0">
+							51B
+						</tspan>
+					</text>
+					<g id="PM51BHr" transform="translate(828.296 466.244) rotate(-0.3)" edge-id-selector="KTCE_PM_51BHr">
+						<path id="PM51BHr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" fill="none" edge-id-selector="KTCE_PM_51BHr1">
+						</path>
+						<path id="PM51BHr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_51BHr2">
+						</path>
+					</g>
+					<g id="PM51BIcon" transform="translate(837.832 464.124)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_51BIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+				</g>
+				<g id="PM60A" class="tooltip" title="" transform="translate(72 35.127)" edge-id="KTCE_PM_60A">
+					<text id="PM60ALabel" transform="translate(687 386)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_PM_60ALabel">
+						<tspan x="0" y="0">
+							60A
+						</tspan>
+					</text>
+					<g id="PM60AIcon" transform="translate(689.5 359)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_60AIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<g id="PM60AAHr" transform="translate(704.296 361.119) rotate(-0.3)" edge-id-selector="KTCE_PM_60AAHr">
+						<path id="PM60AHr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" edge-id-selector="KTCE_PM_60AHr1">
+						</path>
+						<path id="PM60AHr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_60AHr2">
+						</path>
+					</g>
+				</g>
+				<g id="PM60B" class="tooltip" title="" transform="translate(-16 -19.373)" edge-id="KTCE_PM_60B">
+					<text id="PM60BLabel" transform="translate(632 454.5)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_PM_60BLabel">
+						<tspan x="0" y="0">
+							60B
+						</tspan>
+					</text>
+					<g id="PM60BHr" transform="translate(624.964 463.993) rotate(-0.3)" edge-id-selector="KTCE_PM_60BHr">
+						<path id="PM60BHr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" fill="none" edge-id-selector="KTCE_PM_60BHr1">
+						</path>
+						<path id="PM60BHr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_60BHr2">
+						</path>
+					</g>
+					<g id="PM60BIcon" transform="translate(634.5 457.5)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_60BIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+				</g>
+				<g id="PM43B" class="tooltip" title="" transform="translate(24.168 -6)" edge-id="KTCE_PM_43B">
+					<g id="PM43BIcon" transform="translate(1491.164 475)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_43BIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<g id="PM43BHr" transform="translate(1507.628 483.119) rotate(-0.3)" edge-id-selector="KTCE_PM_43BHr">
+						<path id="PM43BHr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" edge-id-selector="KTCE_PM_43BHr1">
+						</path>
+						<path id="PM43BHr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_43BHr2">
+						</path>
+					</g>
+					<text id="TC43BLabel" transform="translate(1488.664 502)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							43B
+						</tspan>
+					</text>
+				</g>
+				<g id="PM41A" class="tooltip" title="" transform="translate(36.584 19.339)" edge-id="KTCE_PM_41A">
+					<g id="PM41AIcon" transform="translate(1507.416 374.537)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_41AIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<g id="PM41AHr" transform="translate(1496.217 379.245)" edge-id-selector="KTCE_PM_41AHr">
+						<path id="PM41AHr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" fill="none" edge-id-selector="KTCE_PM_41AHr1">
+						</path>
+						<path id="PM41AHr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_41AHr2">
+						</path>
+					</g>
+					<text id="PM41ALabel" transform="translate(1505 401)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_PM_41ALabel">
+						<tspan x="0" y="0">
+							41A
+						</tspan>
+					</text>
+				</g>
+				<g id="PM41B" class="tooltip" title="" transform="translate(29 0.339)" edge-id="KTCE_PM_41B">
+					<g id="PM41BIcon" transform="translate(1576 437)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_41BIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<g id="PM41BHr" transform="translate(1591.796 437.746) rotate(-0.3)" edge-id-selector="KTCE_PM_41BHr">
+						<path id="PM41BHr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" fill="none" edge-id-selector="KTCE_PM_41BHr1">
+						</path>
+						<path id="PM41BAHr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_41BAHr2">
+						</path>
+					</g>
+					<text id="PM41BLabel" transform="translate(1574 434)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_PM_41BLabel">
+						<tspan x="0" y="0">
+							41B
+						</tspan>
+					</text>
+				</g>
+				<g id="PM47B" class="tooltip" title="" transform="translate(27.87 4.629)" edge-id="KTCE_PM_47B">
+					<g id="PM47BIcon" transform="translate(1501.334 358)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="KTCE_PM_47BIcon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<g id="PM47BHr" transform="translate(1522.176 358.972) rotate(-0.3)" edge-id-selector="KTCE_PM_47BHr">
+						<path id="PM47BHr1" d="M4.643,8.7c2.5-1.737,3.806-3.317,4.343-4.639C10.425.515,6.316-1.179,4.643.913,2.971-1.179-1.138.515.3,4.059.837,5.381,2.147,6.961,4.643,8.7Z" transform="translate(-3.859 1.057)" fill="none" edge-id-selector="KTCE_PM_47BHr1">
+						</path>
+						<path id="PM47BHr2" d="M0,1.26H0l2.711.014L3.087.012,4.779,2.721,5.4,1.143l3.336.118" transform="translate(-3.277 4.018)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="KTCE_PM_47BHr2">
+						</path>
+					</g>
+					<text id="PM47BLabel" transform="translate(1498.834 355)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="KTCE_PM_47BLabel">
+						<tspan x="0" y="0">
+							47B
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="StationInfo" transform="translate(9.5 -19)">
+				<text id="StationInfo-2" data-name="StationInfo" transform="translate(830.5 138.215)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI">
+					<tspan x="0" y="0">
+						KATOGHAN
+					</tspan>
+				</text>
+				<path id="Path_1" data-name="Path 1" d="M0,0H180" transform="translate(820.5 106.215)" fill="none" stroke="#fff" stroke-width="3">
+				</path>
+				<text id="StationInfoenglish" transform="translate(866.5 98.215)" fill="#fff" font-size="30" font-family="NirmalaUI, Nirmala UI">
+					<tspan x="0" y="0">
+						कटोघन
+					</tspan>
+				</text>
+			</g>
+			<g id="Legend" transform="translate(116.638 -53)">
+				<g id="PMLegend" transform="translate(1013.194 -354.998)">
+					<text id="PMLegendLabel" transform="translate(227 974)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							POINT MACHINE
+						</tspan>
+					</text>
+					<g id="PMLegendNormal" transform="translate(227 979.768)">
+						<g id="PMLegendNormalIndicator" transform="translate(0 0.232)" fill="none" stroke="#21e074" stroke-width="4">
+							<circle cx="10" cy="10" r="10" stroke="none">
+							</circle>
+							<circle cx="10" cy="10" r="8" fill="none">
+							</circle>
+						</g>
+						<text id="PMLegendNormalLabel" transform="translate(32 16.232)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								NORMAL
+							</tspan>
+						</text>
+					</g>
+					<g id="PMLegendReverse" transform="translate(227 1003.584)">
+						<g id="PMLegendReverseIndicator" transform="translate(0 0.416)" fill="none" stroke="#0088d1" stroke-width="4">
+							<circle cx="10" cy="10" r="10" stroke="none">
+							</circle>
+							<circle cx="10" cy="10" r="8" fill="none">
+							</circle>
+						</g>
+						<text id="PMLegendReverseLabel" transform="translate(30 15.416)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								REVERSE
+							</tspan>
+						</text>
+					</g>
+					<g id="PMLegendHr" transform="translate(227.929 1024.572)">
+						<path id="PMLegendHr1" d="M10.433,19.646C4.823,15.724,1.881,12.155.675,9.168c-3.232-8,6-11.832,9.758-7.107,3.758-4.725,12.991-.9,9.758,7.107C18.985,12.155,16.043,15.724,10.433,19.646Z" transform="translate(0 3.457)" fill="red">
+						</path>
+						<path id="PMLegendHr2" d="M-.094.01H5.175L7.357-3.307l2.832,6.271L12.232.01,19.327,0" transform="translate(0.807 12.769)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4">
+						</path>
+						<text id="PMLegendFailureLabel" transform="translate(28.702 15)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								FAILURE
+							</tspan>
+						</text>
+					</g>
+					<g id="PMLegendCanvas" transform="translate(216 955)" fill="none" stroke="#fff" stroke-width="2">
+						<rect width="126" height="109" stroke="none">
+						</rect>
+						<rect x="1" y="1" width="124" height="107" fill="none">
+						</rect>
+					</g>
+				</g>
+				<g id="TCLegend" transform="translate(479.194 -412.998)">
+					<text id="TCLegendLabel" transform="translate(898 1032)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							TRACK CIRCUIT
+						</tspan>
+					</text>
+					<g id="TCFreeLegendGroup" transform="translate(888.5 1040.52)">
+						<line id="TCFreeLegendIndicator" x2="70" transform="translate(-2 10.474)" fill="none" stroke="#fff" stroke-width="6">
+						</line>
+						<text id="TCFreeLegendLabel" transform="translate(75.5 15.974)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								FREE
+							</tspan>
+						</text>
+					</g>
+					<g id="TCOccupiedLegendGroup" transform="translate(897.5 1061.093)">
+						<line id="TCOccupiedLegendIndicator" x2="70" transform="translate(-11 12.846)" fill="none" stroke="#e77e00" stroke-width="6">
+						</line>
+						<text id="TCOccupiedLegendLabel" transform="translate(65.921 18.346)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								OCCUPIED
+							</tspan>
+						</text>
+					</g>
+					<g id="TCFailureLLegendGroup" transform="translate(897.5 1083.744)">
+						<line id="TCFailureLegendIndicator" x2="70" transform="translate(-11 11.296)" fill="none" stroke="red" stroke-width="6">
+						</line>
+						<text id="TCFailureLLegendLabel" transform="translate(68 16.796)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								FAILURE
+							</tspan>
+						</text>
+					</g>
+					<g id="TCLegendCanvas" transform="translate(876 1013)" fill="none" stroke="#fff" stroke-width="2">
+						<rect width="159" height="109" stroke="none">
+						</rect>
+						<rect x="1" y="1" width="157" height="107" fill="none">
+						</rect>
+					</g>
+				</g>
+			</g>
+			<g id="RRPM">
+				<line id="LineRR" x2="200" transform="translate(405 578.501)" fill="none" stroke="#6c7091" stroke-width="3">
+				</line>
+				<g id="RR55A" class="tooltip" title="" transform="translate(-318 -319.499)">
+					<rect id="RR55AIcon" width="20" height="20" rx="5" transform="translate(737 886) rotate(90)" fill="#fff">
+					</rect>
+					<text id="RR55ALable" transform="translate(716 906)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="12">
+							55A
+						</tspan>
+					</text>
+				</g>
+				<g id="RR41A" class="tooltip" title="" transform="translate(-318 -319.499)">
+					<rect id="RR41AIcon" width="20" height="20" rx="5" transform="translate(817 886) rotate(90)" fill="#fff">
+					</rect>
+					<text id="RR41ALable" transform="translate(797 906)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="12">
+							41A
+						</tspan>
+					</text>
+				</g>
+				<g id="RR43A" class="tooltip" title="" transform="translate(-318 -319.499)">
+					<rect id="RR43AIcon" width="20" height="20" rx="5" transform="translate(897 886) rotate(90)" fill="#fff">
+					</rect>
+					<text id="RR43ALable" transform="translate(876 906)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="12">
+							43A
+						</tspan>
+					</text>
+				</g>
+				<g id="RR47A" class="tooltip" title="" transform="translate(-318 -319.499)">
+					<rect id="RR47AIcon" width="20" height="20" rx="5" transform="translate(937 886) rotate(90)" fill="#fff">
+					</rect>
+					<text id="RR47ALable" transform="translate(918 906)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="11">
+							47A
+						</tspan>
+					</text>
+				</g>
+				<g id="RR51A" class="tooltip" title="" transform="translate(-318 -319.499)">
+					<rect id="RR51AIcon" width="20" height="20" rx="5" transform="translate(857 886) rotate(90)" fill="#fff">
+					</rect>
+					<text id="RR51ALable" transform="translate(836 906)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="12">
+							51A
+						</tspan>
+					</text>
+				</g>
+				<g id="RR60A" class="tooltip" title="" transform="translate(-318 -319.499)">
+					<rect id="RR60AIcon" width="20" height="20" rx="5" transform="translate(777 886) rotate(90)" fill="#fff">
+					</rect>
+					<text id="RR60ALable" transform="translate(757 906)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="12">
+							60A
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="Rectangle_1" data-name="Rectangle 1" transform="translate(359 540.501)" fill="none" stroke="#fff" stroke-width="2">
+				<rect width="308" height="100" stroke="none">
+				</rect>
+				<rect x="1" y="1" width="306" height="98" fill="none">
+				</rect>
+			</g>
+		</g>
+		<text id="RELAY_ROOM_PM_HEALTH" data-name="RELAY ROOM PM HEALTH" transform="translate(427 610)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans">
+			<tspan x="0" y="0">
+				RELAY ROOM PM HEALTH
+			</tspan>
+		</text>
+	</g>
+</svg>

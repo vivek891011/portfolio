@@ -1,0 +1,646 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2085" height="398" viewBox="0 0 2085 398" fill="none">
+<g id="ALH4-ACDB2">
+<g id="ALH-ACDB2">
+<g id="CBF">
+<g id="CBF9">
+<text id="CBF9_2" transform="translate(34 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF9</tspan></text>
+<g id="Group 743">
+<circle id="Ellipse 45" cx="27.5" cy="108.6" r="6" stroke="black"/>
+<circle id="Ellipse 46" cx="27.623" cy="138.1" r="6" stroke="black"/>
+<path id="Vector 32" d="M21.336 99L12.3371 108.841C6.02162 115.747 5.3399 126.11 10.6962 133.784L11.0201 134.248C11.8441 135.429 12.7931 136.517 13.8508 137.494L21.336 144.407" stroke="black"/>
+<line id="Line 127" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1.51367 111.272)" stroke="black"/>
+<line id="Line 128" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 0 115.45)" stroke="black"/>
+</g>
+</g>
+<g id="CBF10">
+<text id="CBF10_2" transform="translate(109.389 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF10</tspan></text>
+<g id="Group 744">
+<circle id="Ellipse 45_2" cx="102.623" cy="107.828" r="6" stroke="black"/>
+<circle id="Ellipse 46_2" cx="102.623" cy="138.1" r="6" stroke="black"/>
+<path id="Vector 32_2" d="M96.336 99L87.3371 108.841C81.0216 115.747 80.3399 126.11 85.6962 133.784L86.0201 134.248C86.8441 135.429 87.7931 136.517 88.8508 137.494L96.336 144.407" stroke="black"/>
+<line id="Line 127_2" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 76.5137 111.272)" stroke="black"/>
+<line id="Line 128_2" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 75 115.45)" stroke="black"/>
+</g>
+</g>
+<g id="CBF11">
+<text id="CBF11_2" transform="translate(191.293 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF11</tspan></text>
+<g id="Group 746">
+<g id="Group 742">
+<circle id="Ellipse 45_3" cx="184.623" cy="107.829" r="6" stroke="black"/>
+<circle id="Ellipse 46_3" cx="184.623" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741">
+<path id="Vector 32_3" d="M178.336 99L169.337 108.841C163.022 115.747 162.34 126.11 167.696 133.784L168.02 134.248C168.844 135.429 169.793 136.517 170.851 137.494L178.336 144.407" stroke="black"/>
+<line id="Line 127_3" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 158.514 111.272)" stroke="black"/>
+<line id="Line 128_3" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 157 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF12">
+<text id="CBF12_2" transform="translate(273.006 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF12</tspan></text>
+<g id="Group 748">
+<g id="Group 742_2">
+<circle id="Ellipse 45_4" cx="266.621" cy="107.828" r="6" stroke="black"/>
+<circle id="Ellipse 46_4" cx="266.621" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_2">
+<path id="Vector 32_4" d="M260.334 99L251.335 108.841C245.02 115.747 244.338 126.11 249.694 133.784L250.018 134.248C250.842 135.429 251.791 136.517 252.849 137.494L260.334 144.407" stroke="black"/>
+<line id="Line 127_4" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 240.514 111.272)" stroke="black"/>
+<line id="Line 128_4" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 239 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF17">
+<text id="CBF17_2" transform="translate(355.557 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF17</tspan></text>
+<g id="Group 750">
+<g id="Group 742_3">
+<circle id="Ellipse 45_5" cx="348.625" cy="107.829" r="6" stroke="black"/>
+<circle id="Ellipse 46_5" cx="348.625" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_3">
+<path id="Vector 32_5" d="M342.336 99L333.337 108.841C327.022 115.747 326.34 126.11 331.696 133.784L332.02 134.248C332.844 135.429 333.793 136.517 334.851 137.494L342.336 144.407" stroke="black"/>
+<line id="Line 127_5" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 322.514 111.272)" stroke="black"/>
+<line id="Line 128_5" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 321 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF18">
+<text id="CBF18_2" transform="translate(437.266 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF18</tspan></text>
+<g id="Group 745">
+<g id="Group 742_4">
+<circle id="Ellipse 45_6" cx="430.625" cy="107.828" r="6" stroke="black"/>
+<circle id="Ellipse 46_6" cx="430.625" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_4">
+<path id="Vector 32_6" d="M424.336 99L415.337 108.841C409.022 115.747 408.34 126.11 413.696 133.784L414.02 134.248C414.844 135.429 415.793 136.517 416.851 137.494L424.336 144.407" stroke="black"/>
+<line id="Line 127_6" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 404.514 111.272)" stroke="black"/>
+<line id="Line 128_6" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 403 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF19">
+<text id="CBF19_2" transform="translate(519.17 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF19</tspan></text>
+<g id="Group 754">
+<g id="Group 742_5">
+<circle id="Ellipse 45_7" cx="512.625" cy="107.829" r="6" stroke="black"/>
+<circle id="Ellipse 46_7" cx="512.625" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_5">
+<path id="Vector 32_7" d="M506.336 99L497.337 108.841C491.022 115.747 490.34 126.11 495.696 133.784L496.02 134.248C496.844 135.429 497.793 136.517 498.851 137.494L506.336 144.407" stroke="black"/>
+<line id="Line 127_7" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 486.514 111.272)" stroke="black"/>
+<line id="Line 128_7" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 485 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF20">
+<text id="CBF20_2" transform="translate(601.562 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF20</tspan></text>
+<g id="Group 755">
+<g id="Group 742_6">
+<circle id="Ellipse 45_8" cx="594.623" cy="107.829" r="6" stroke="black"/>
+<circle id="Ellipse 46_8" cx="594.623" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_6">
+<path id="Vector 32_8" d="M588.336 99L579.337 108.841C573.022 115.747 572.34 126.11 577.696 133.784L578.02 134.248C578.844 135.429 579.793 136.517 580.851 137.494L588.336 144.407" stroke="black"/>
+<line id="Line 127_8" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 568.514 111.272)" stroke="black"/>
+<line id="Line 128_8" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 567 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF21">
+<text id="CBF21_2" transform="translate(683.467 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF21</tspan></text>
+<g id="Group 754_2">
+<g id="Group 742_7">
+<circle id="Ellipse 45_9" cx="676.623" cy="107.829" r="6" stroke="black"/>
+<circle id="Ellipse 46_9" cx="676.623" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_7">
+<path id="Vector 32_9" d="M670.336 99L661.337 108.841C655.022 115.747 654.34 126.11 659.696 133.784L660.02 134.248C660.844 135.429 661.793 136.517 662.851 137.494L670.336 144.407" stroke="black"/>
+<line id="Line 127_9" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 650.514 111.272)" stroke="black"/>
+<line id="Line 128_9" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 649 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF22">
+<text id="CBF22_2" transform="translate(764.857 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF22</tspan></text>
+<g id="Group 755_2">
+<g id="Group 742_8">
+<circle id="Ellipse 45_10" cx="758.623" cy="107.829" r="6" stroke="black"/>
+<circle id="Ellipse 46_10" cx="758.623" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_8">
+<path id="Vector 32_10" d="M752.336 99L743.337 108.841C737.022 115.747 736.34 126.11 741.696 133.784L742.02 134.248C742.844 135.429 743.793 136.517 744.851 137.494L752.336 144.407" stroke="black"/>
+<line id="Line 127_10" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 732.514 111.272)" stroke="black"/>
+<line id="Line 128_10" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 731 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF23">
+<text id="CBF23_2" transform="translate(847.166 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF23</tspan></text>
+<g id="Group 754_3">
+<g id="Group 742_9">
+<circle id="Ellipse 45_11" cx="840.623" cy="107.829" r="6" stroke="black"/>
+<circle id="Ellipse 46_11" cx="840.623" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_9">
+<path id="Vector 32_11" d="M834.336 99L825.337 108.841C819.022 115.747 818.34 126.11 823.696 133.784L824.02 134.248C824.844 135.429 825.793 136.517 826.851 137.494L834.336 144.407" stroke="black"/>
+<line id="Line 127_11" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 814.514 111.272)" stroke="black"/>
+<line id="Line 128_11" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 813 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF24">
+<text id="CBF24_2" transform="translate(929.561 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF24</tspan></text>
+<g id="Group 755_3">
+<g id="Group 742_10">
+<circle id="Ellipse 45_12" cx="922.625" cy="107.829" r="6" stroke="black"/>
+<circle id="Ellipse 46_12" cx="922.625" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_10">
+<path id="Vector 32_12" d="M916.336 99L907.337 108.841C901.022 115.747 900.34 126.11 905.696 133.784L906.02 134.248C906.844 135.429 907.793 136.517 908.851 137.494L916.336 144.407" stroke="black"/>
+<line id="Line 127_12" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 896.514 111.272)" stroke="black"/>
+<line id="Line 128_12" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 895 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF25">
+<text id="CBF25_2" transform="translate(1010.83 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF25</tspan></text>
+<g id="Group 754_4">
+<g id="Group 742_11">
+<circle id="Ellipse 45_13" cx="1004.62" cy="107.829" r="6" stroke="black"/>
+<circle id="Ellipse 46_13" cx="1004.62" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_11">
+<path id="Vector 32_13" d="M998.334 99L989.335 108.841C983.02 115.747 982.338 126.11 987.694 133.784L988.018 134.248C988.842 135.429 989.791 136.517 990.849 137.494L998.334 144.407" stroke="black"/>
+<line id="Line 127_13" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 978.512 111.272)" stroke="black"/>
+<line id="Line 128_13" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 977 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF26">
+<text id="CBF26_2" transform="translate(1093.21 114.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF26</tspan></text>
+<g id="Group 755_4">
+<g id="Group 742_12">
+<circle id="Ellipse 45_14" cx="1086.62" cy="107.828" r="6" stroke="black"/>
+<circle id="Ellipse 46_14" cx="1086.62" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_12">
+<path id="Vector 32_14" d="M1080.33 99L1071.34 108.841C1065.02 115.747 1064.34 126.11 1069.69 133.784L1070.02 134.248C1070.84 135.429 1071.79 136.517 1072.85 137.494L1080.33 144.407" stroke="black"/>
+<line id="Line 127_14" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1060.51 111.272)" stroke="black"/>
+<line id="Line 128_14" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1059 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF37">
+<text id="CBF37_2" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="1689" y="126.655">CBF37</tspan></text>
+<g id="Group 756">
+<g id="Group 742_13">
+<circle id="Ellipse 45_15" cx="1682.62" cy="107.828" r="6" stroke="black"/>
+<circle id="Ellipse 46_15" cx="1682.62" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_13">
+<path id="Vector 32_15" d="M1676.33 99L1667.34 108.841C1661.02 115.747 1660.34 126.11 1665.69 133.784L1666.02 134.248C1666.84 135.429 1667.79 136.517 1668.85 137.494L1676.33 144.407" stroke="black"/>
+<line id="Line 127_15" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1656.51 111.272)" stroke="black"/>
+<line id="Line 128_15" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1655 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF38">
+<text id="CBF38_2" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="1809" y="127.655">CBF38</tspan></text>
+<g id="Group 756_2">
+<g id="Group 742_14">
+<circle id="Ellipse 45_16" cx="1802.62" cy="107.828" r="6" stroke="black"/>
+<circle id="Ellipse 46_16" cx="1802.62" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_14">
+<path id="Vector 32_16" d="M1796.33 99L1787.34 108.841C1781.02 115.747 1780.34 126.11 1785.69 133.784L1786.02 134.248C1786.84 135.429 1787.79 136.517 1788.85 137.494L1796.33 144.407" stroke="black"/>
+<line id="Line 127_16" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1776.51 111.272)" stroke="black"/>
+<line id="Line 128_16" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1775 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF39">
+<text id="CBF39_2" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="1909" y="126.655">CBF39</tspan></text>
+<g id="Group 756_3">
+<g id="Group 742_15">
+<circle id="Ellipse 45_17" cx="1902.62" cy="107.828" r="6" stroke="black"/>
+<circle id="Ellipse 46_17" cx="1902.62" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_15">
+<path id="Vector 32_17" d="M1896.33 99L1887.34 108.841C1881.02 115.747 1880.34 126.11 1885.69 133.784L1886.02 134.248C1886.84 135.429 1887.79 136.517 1888.85 137.494L1896.33 144.407" stroke="black"/>
+<line id="Line 127_17" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1876.51 111.272)" stroke="black"/>
+<line id="Line 128_17" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1875 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="CBF40">
+<text id="CBF40_2" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="2029" y="126.655">CBF40</tspan></text>
+<g id="Group 756_4">
+<g id="Group 742_16">
+<circle id="Ellipse 45_18" cx="2022.62" cy="107.828" r="6" stroke="black"/>
+<circle id="Ellipse 46_18" cx="2022.62" cy="138.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_16">
+<path id="Vector 32_18" d="M2016.33 99L2007.34 108.841C2001.02 115.747 2000.34 126.11 2005.69 133.784L2006.02 134.248C2006.84 135.429 2007.79 136.517 2008.85 137.494L2016.33 144.407" stroke="black"/>
+<line id="Line 127_18" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1996.51 111.272)" stroke="black"/>
+<line id="Line 128_18" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1995 115.45)" stroke="black"/>
+</g>
+</g>
+</g>
+</g>
+<g id="P1">
+<g id="Group 953">
+<rect id="P1_BOX" x="3.69141" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 129" d="M3.91149 224.874L50.2889 178.838" stroke="black"/>
+<line id="Line 130" x1="29.9102" y1="212.874" x2="44.4322" y2="212.874" stroke="black"/>
+<line id="Line 131" x1="29.9102" y1="216.367" x2="44.4322" y2="216.367" stroke="black"/>
+<path id="Line 755" d="M11 186.125C14 180.625 18 180.625 21 186.125C24 191.625 29 191.625 32 186.125" stroke="black"/>
+</g>
+<text id="P1_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="33" y="240.931">P1</tspan></text>
+</g>
+<g id="P2">
+<g id="Group 954">
+<rect id="P2_BOX" x="79.5391" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 132" d="M80.1609 225.189L126.039 179.153" stroke="black"/>
+<line id="Line 133" x1="105.162" y1="213.188" x2="119.684" y2="213.188" stroke="black"/>
+<line id="Line 134" x1="105.162" y1="216.681" x2="119.684" y2="216.681" stroke="black"/>
+<path id="Line 756" d="M86 187.125C89 181.625 93 181.625 96 187.125C99 192.625 104 192.625 107 187.125" stroke="black"/>
+</g>
+<text id="P2_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="109" y="240.931">P2</tspan></text>
+</g>
+<g id="P3">
+<g id="Group 955">
+<rect id="P3_BOX" x="161.506" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_2" d="M167.662 186.499C170.662 180.999 174.662 180.999 177.662 186.499C180.662 191.999 185.662 191.999 188.662 186.499" stroke="black"/>
+<path id="Line 135" d="M162.161 224.874L208.039 178.839" stroke="black"/>
+<line id="Line 136" x1="188.662" y1="212.874" x2="203.184" y2="212.874" stroke="black"/>
+<line id="Line 137" x1="188.662" y1="216.367" x2="203.184" y2="216.367" stroke="black"/>
+</g>
+<text id="P3_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="191" y="240.931">P3</tspan></text>
+</g>
+<g id="P4">
+<g id="Group 956">
+<rect id="P4_BOX" x="243.363" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_3" d="M247.91 186.499C250.91 180.999 254.91 180.999 257.91 186.499C260.91 191.999 265.91 191.999 268.91 186.499" stroke="black"/>
+<path id="Line 138" d="M243.912 224.874L290.287 178.839" stroke="black"/>
+<line id="Line 139" x1="268.91" y1="212.874" x2="283.432" y2="212.874" stroke="black"/>
+<line id="Line 140" x1="268.91" y1="216.367" x2="283.432" y2="216.367" stroke="black"/>
+</g>
+<text id="P4_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="273" y="240.931">P4</tspan></text>
+</g>
+<g id="P9">
+<g id="Group 957">
+<rect id="P9_BOX" x="325.566" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_4" d="M330.66 186.499C333.66 180.999 337.66 180.999 340.66 186.499C343.66 191.999 348.66 191.999 351.66 186.499" stroke="black"/>
+<path id="Line 141" d="M326.161 224.874L372.039 178.838" stroke="black"/>
+<line id="Line 142" x1="351.66" y1="212.874" x2="366.182" y2="212.874" stroke="black"/>
+<line id="Line 143" x1="351.66" y1="216.367" x2="366.182" y2="216.367" stroke="black"/>
+</g>
+<text id="P9_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="355" y="240.931">P9</tspan></text>
+</g>
+<g id="P10">
+<g id="Group 958">
+<rect id="P10_BOX" x="406.711" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_5" d="M411.195 186.499C414.195 180.999 418.195 180.999 421.195 186.499C424.195 191.999 429.195 191.999 432.195 186.499" stroke="black"/>
+<path id="Line 152" d="M407.195 224.874L453.573 178.338" stroke="black"/>
+<line id="Line 153" x1="432.195" y1="212.874" x2="448.038" y2="212.874" stroke="black"/>
+<line id="Line 154" x1="432.195" y1="216.367" x2="448.038" y2="216.367" stroke="black"/>
+</g>
+<text id="P10_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="437" y="240.931">P10</tspan></text>
+</g>
+<g id="P11">
+<g id="Group 959">
+<rect id="P11_BOX" x="489.107" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_6" d="M493.818 187.026C496.818 181.526 500.818 181.526 503.818 187.026C506.818 192.526 511.818 192.526 514.818 187.026" stroke="black"/>
+<path id="Line 310" d="M489.819 224.9L535.696 178.864" stroke="black"/>
+<line id="Line 311" x1="514.818" y1="213.401" x2="530.661" y2="213.401" stroke="black"/>
+<line id="Line 312" x1="514.818" y1="216.894" x2="530.661" y2="216.894" stroke="black"/>
+</g>
+<text id="P11_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="519" y="240.931">P11</tspan></text>
+</g>
+<g id="P12">
+<rect id="P12_BOX" x="571.148" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_7" d="M576.248 187.026C579.248 181.526 583.248 181.526 586.248 187.026C589.248 192.526 594.248 192.526 597.248 187.026" stroke="black"/>
+<path id="Line 317" d="M571.749 224.901L617.806 178.8" stroke="black"/>
+<line id="Line 318" x1="597.248" y1="213.401" x2="613.09" y2="213.401" stroke="black"/>
+<line id="Line 319" x1="597.248" y1="216.894" x2="613.09" y2="216.894" stroke="black"/>
+<text id="P12_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="601" y="240.931">P12</tspan></text>
+</g>
+<g id="P13">
+<rect id="P13_BOX" x="653.348" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_8" d="M658.359 187.026C661.359 181.526 665.359 181.526 668.359 187.026C671.359 192.526 676.359 192.526 679.359 187.026" stroke="black"/>
+<path id="Line 310_2" d="M653.86 224.9L700.235 178.365" stroke="black"/>
+<line id="Line 311_2" x1="679.359" y1="213.401" x2="695.202" y2="213.401" stroke="black"/>
+<line id="Line 312_2" x1="679.359" y1="216.894" x2="695.202" y2="216.894" stroke="black"/>
+<text id="P13_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="683" y="240.931">P13</tspan></text>
+</g>
+<g id="P14">
+<rect id="P14_BOX" x="735.252" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_9" d="M740.652 187.026C743.652 181.526 747.652 181.526 750.652 187.026C753.652 192.526 758.652 192.526 761.652 187.026" stroke="black"/>
+<path id="Line 317_2" d="M735.652 224.901L781.908 178.801" stroke="black"/>
+<line id="Line 318_2" x1="760.652" y1="213.401" x2="776.495" y2="213.401" stroke="black"/>
+<line id="Line 319_2" x1="760.652" y1="216.894" x2="776.495" y2="216.894" stroke="black"/>
+<text id="P14_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="765" y="240.931">P14</tspan></text>
+</g>
+<g id="P15">
+<rect id="P15_BOX" x="817.127" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_10" d="M821.834 187.026C824.834 181.526 828.834 181.526 831.834 187.026C834.834 192.526 839.834 192.526 842.834 187.026" stroke="black"/>
+<path id="Line 310_3" d="M817.333 224.901L864.21 178.865" stroke="black"/>
+<line id="Line 311_3" x1="842.834" y1="213.401" x2="858.676" y2="213.401" stroke="black"/>
+<line id="Line 312_3" x1="842.834" y1="216.894" x2="858.676" y2="216.894" stroke="black"/>
+<text id="P15_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="847" y="240.931">P15</tspan></text>
+</g>
+<g id="P16">
+<rect id="P16_BOX" x="899.15" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_11" d="M904.246 187.026C907.246 181.526 911.246 181.526 914.246 187.026C917.246 192.526 922.246 192.526 925.246 187.026" stroke="black"/>
+<path id="Line 317_3" d="M899.747 224.901L945.807 178.801" stroke="black"/>
+<line id="Line 318_3" x1="925.246" y1="213.401" x2="941.088" y2="213.401" stroke="black"/>
+<line id="Line 319_3" x1="925.246" y1="216.894" x2="941.088" y2="216.894" stroke="black"/>
+<text id="P16_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="929" y="240.931">P16</tspan></text>
+</g>
+<g id="P17">
+<rect id="P17_BOX" x="981.209" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_12" d="M986.574 187.026C989.574 181.526 993.574 181.526 996.574 187.026C999.574 192.526 1004.57 192.526 1007.57 187.026" stroke="black"/>
+<path id="Line 310_4" d="M981.575 224.901L1027.95 178.865" stroke="black"/>
+<line id="Line 311_4" x1="1007.57" y1="213.401" x2="1023.42" y2="213.401" stroke="black"/>
+<line id="Line 312_4" x1="1007.57" y1="216.894" x2="1023.42" y2="216.894" stroke="black"/>
+<text id="P17_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1011" y="240.931">P17</tspan></text>
+</g>
+<g id="P18">
+<g id="Group 960">
+<rect id="P18_BOX" x="1063.5" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_13" d="M1068.26 187.026C1071.26 181.526 1075.26 181.526 1078.26 187.026C1081.26 192.526 1086.26 192.526 1089.26 187.026" stroke="black"/>
+<path id="Line 317_4" d="M1063.76 224.901L1110.26 178.401" stroke="black"/>
+<line id="Line 318_4" x1="1086.26" y1="213.401" x2="1102.1" y2="213.401" stroke="black"/>
+<line id="Line 319_4" x1="1086.26" y1="216.894" x2="1102.1" y2="216.894" stroke="black"/>
+</g>
+<text id="P18_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1093" y="240.931">P18</tspan></text>
+</g>
+<g id="T9">
+<circle id="T9_CIRCLE2" cx="1683.5" cy="193.5" r="15" fill="#9C9C9C" stroke="black"/>
+<circle id="T9_CIRCLE1" cx="1683.5" cy="214.5" r="11" fill="#9C9C9C" stroke="black"/>
+<text id="T9_2" fill="black"  font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1704" y="189.864">T9</tspan></text>
+<text id="500VA 230V/110V" fill="black"  font-family="Inter" font-size="8" letter-spacing="0em"><tspan x="1704" y="214.909">500VA
+</tspan><tspan x="1704" y="224.909">230V/110V</tspan></text>
+</g>
+<g id="T10">
+<circle id="T10_CIRCLE2" cx="1802.5" cy="193.5" r="15" fill="#9C9C9C" stroke="black"/>
+<circle id="T10_CIRCLE1" cx="1802.5" cy="214.5" r="11" fill="#9C9C9C" stroke="black"/>
+<text id="T10_2" fill="black"  font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1824" y="189.864">T10</tspan></text>
+<text id="500VA 230V/110V_2" fill="black"  font-family="Inter" font-size="8" letter-spacing="0em"><tspan x="1824" y="214.909">500VA
+</tspan><tspan x="1824" y="224.909">230V/110V</tspan></text>
+</g>
+<g id="T11">
+<circle id="T11_CIRCLE2" cx="1903.5" cy="193.5" r="15" fill="#9C9C9C" stroke="black"/>
+<circle id="T11_CIRCLE1" cx="1903.5" cy="214.5" r="11" fill="#9C9C9C" stroke="black"/>
+<text id="T11_2" fill="black"  font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1924" y="189.864">T11</tspan></text>
+<text id="500VA 230V/110V_3" fill="black"  font-family="Inter" font-size="8" letter-spacing="0em"><tspan x="1924" y="214.909">500VA
+</tspan><tspan x="1924" y="224.909">230V/110V</tspan></text>
+</g>
+<g id="T12">
+<circle id="T12_CIRCLE2" cx="2022.5" cy="193.5" r="15" fill="#9C9C9C" stroke="black"/>
+<circle id="T12_CIRCLE1" cx="2022.5" cy="214.5" r="11" fill="#9C9C9C" stroke="black"/>
+<text id="T12_2" fill="black"  font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="2044" y="188.636">T12</tspan></text>
+<text id="500VA 230V/110V_4" fill="black"  font-family="Inter" font-size="8" letter-spacing="0em"><tspan x="2044" y="212.909">500VA
+</tspan><tspan x="2044" y="222.909">230V/110V</tspan></text>
+</g>
+<g id="EARTH1">
+<path id="EF_T9_T10" d="M1723.79 332.09C1723.79 337.384 1719.47 341.68 1714.14 341.68C1708.82 341.68 1704.5 337.384 1704.5 332.09C1704.5 326.796 1708.82 322.5 1714.14 322.5C1719.47 322.5 1723.79 326.796 1723.79 332.09Z" fill="#C6C6C6" stroke="black"/>
+<line id="Line 463" x1="1708.37" y1="334.473" x2="1719.92" y2="334.473" stroke="black" stroke-linecap="round"/>
+<path id="Line 464" d="M1709.8 336.414H1718.49" stroke="black" stroke-linecap="round"/>
+<path id="Line 465" d="M1710.76 338.336H1717.52" stroke="black" stroke-linecap="round"/>
+<path id="Line 466" d="M1714.64 325.844C1714.64 325.568 1714.42 325.344 1714.14 325.344C1713.87 325.344 1713.64 325.568 1713.64 325.844H1714.64ZM1713.64 325.844V334.492H1714.64V325.844H1713.64Z" fill="black"/>
+</g>
+<g id="EARTH1_2">
+<path id="EF_P21_P22" d="M1535.79 332.09C1535.79 337.384 1531.47 341.68 1526.14 341.68C1520.82 341.68 1516.5 337.384 1516.5 332.09C1516.5 326.796 1520.82 322.5 1526.14 322.5C1531.47 322.5 1535.79 326.796 1535.79 332.09Z" fill="#C6C6C6" stroke="black"/>
+<line id="Line 463_2" x1="1520.37" y1="334.473" x2="1531.92" y2="334.473" stroke="black" stroke-linecap="round"/>
+<path id="Line 464_2" d="M1521.8 336.414H1530.49" stroke="black" stroke-linecap="round"/>
+<path id="Line 465_2" d="M1522.76 338.336H1529.52" stroke="black" stroke-linecap="round"/>
+<path id="Line 466_2" d="M1526.64 325.844C1526.64 325.568 1526.42 325.344 1526.14 325.344C1525.87 325.344 1525.64 325.568 1525.64 325.844H1526.64ZM1525.64 325.844V334.492H1526.64V325.844H1525.64Z" fill="black"/>
+</g>
+<g id="EARTH2">
+<path id="EF_T11_T12" d="M1943.79 332.09C1943.79 337.384 1939.47 341.68 1934.14 341.68C1928.82 341.68 1924.5 337.384 1924.5 332.09C1924.5 326.796 1928.82 322.5 1934.14 322.5C1939.47 322.5 1943.79 326.796 1943.79 332.09Z" fill="#C6C6C6" stroke="black"/>
+<line id="Line 463_3" x1="1928.37" y1="334.473" x2="1939.92" y2="334.473" stroke="black" stroke-linecap="round"/>
+<path id="Line 464_3" d="M1929.8 336.414H1938.49" stroke="black" stroke-linecap="round"/>
+<path id="Line 465_3" d="M1930.76 338.336H1937.52" stroke="black" stroke-linecap="round"/>
+<path id="Line 466_3" d="M1934.64 325.844C1934.64 325.568 1934.42 325.344 1934.14 325.344C1933.87 325.344 1933.64 325.568 1933.64 325.844H1934.64ZM1933.64 325.844V334.492H1934.64V325.844H1933.64Z" fill="black"/>
+</g>
+<g id="K3">
+<g id="K3_2">
+<path id="Line 10" d="M1746.5 274.102V303.891" stroke="black" stroke-width="3" stroke-linecap="round"/>
+<path id="Line 11" d="M1737 282.75V295.243" stroke="black" stroke-width="3"/>
+<path id="Ellipse 9" d="M1741.5 278.907C1741.5 281.265 1739.5 283.211 1737 283.211C1734.5 283.211 1732.5 281.265 1732.5 278.907C1732.5 276.548 1734.5 274.602 1737 274.602C1739.5 274.602 1741.5 276.548 1741.5 278.907Z" stroke="black"/>
+<path id="Ellipse 10" d="M1741.5 299.087C1741.5 301.446 1739.5 303.392 1737 303.392C1734.5 303.392 1732.5 301.446 1732.5 299.087C1732.5 296.728 1734.5 294.782 1737 294.782C1739.5 294.782 1741.5 296.728 1741.5 299.087Z" stroke="black"/>
+</g>
+<text id="K5" fill="black"  font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="1730" y="263.864">K5</tspan></text>
+</g>
+<g id="K3_3">
+<g id="K3_4">
+<path id="Line 10_2" d="M1966.5 274.731V304.521" stroke="black" stroke-width="3" stroke-linecap="round"/>
+<path id="Line 11_2" d="M1957 283.38V295.872" stroke="black" stroke-width="3"/>
+<path id="Ellipse 9_2" d="M1961.5 279.536C1961.5 281.895 1959.5 283.841 1957 283.841C1954.5 283.841 1952.5 281.895 1952.5 279.536C1952.5 277.177 1954.5 275.231 1957 275.231C1959.5 275.231 1961.5 277.177 1961.5 279.536Z" stroke="black"/>
+<path id="Ellipse 10_2" d="M1961.5 299.716C1961.5 302.075 1959.5 304.021 1957 304.021C1954.5 304.021 1952.5 302.075 1952.5 299.716C1952.5 297.357 1954.5 295.411 1957 295.411C1959.5 295.411 1961.5 297.357 1961.5 299.716Z" stroke="black"/>
+</g>
+<text id="K6" fill="black"  font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="1950" y="264.493">K6</tspan></text>
+</g>
+<text id="ALH_BB_INT1" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="80.1943" y="385.931">00.00V</tspan></text>
+<text id="ALH_BB_INT2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="244.194" y="385.931">00.00V</tspan></text>
+<text id="ALH_BB_EIMAIN" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="408.194" y="385.931">00.00V</tspan></text>
+<text id="ALH_BB_EISTANDBY" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="572.194" y="385.931">00.00V</tspan></text>
+<text id="ALH_BB_UPDAC" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="736.194" y="385.931">00.00V</tspan></text>
+<text id="ALH_BB_DNDAC" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="900.194" y="385.931">00.00V</tspan></text>
+<text id="ALH_BB_LEU" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1064.19" y="385.931">00.00V</tspan></text>
+<text id="ALH_BB_PO" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1476.19" y="385.931">00.00V</tspan></text>
+<g id="TO_NOT_SET">
+<path id="Line 125" d="M28 102.393L28 50" stroke="black" stroke-width="3"/>
+<path id="Line 126" d="M28 178L28 144" stroke="black" stroke-width="3"/>
+<path id="Line 172" d="M102 274H27.3294L27 225" stroke="black" stroke-width="3"/>
+<path id="Line 174" d="M267 274H185V225" stroke="black" stroke-width="3"/>
+<path id="Line 176" d="M429.5 274H349V225.5" stroke="black" stroke-width="3"/>
+<path id="Line 144" d="M103 102.393L103 50" stroke="black" stroke-width="3"/>
+<path id="Line 145" d="M103 178V144" stroke="black" stroke-width="3"/>
+<path id="Line 146" d="M185 102.229V50.9999" stroke="black" stroke-width="3"/>
+<path id="Line 147" d="M185 179V144" stroke="black" stroke-width="3"/>
+<path id="Line 148" d="M267 102.393V50" stroke="black" stroke-width="3"/>
+<path id="Line 149" d="M267 179V144" stroke="black" stroke-width="3"/>
+<path id="Line 150" d="M349 102.393V50" stroke="black" stroke-width="3"/>
+<path id="Line 151" d="M349 179V144" stroke="black" stroke-width="3"/>
+<path id="Line 155" d="M431 102.229V50.9999" stroke="black" stroke-width="3"/>
+<path id="Line 156" d="M431 178V144" stroke="black" stroke-width="3"/>
+<path id="Line 67" d="M27 49L1500.5 49" stroke="black" stroke-width="3"/>
+<path id="Line 180" d="M595 268H513V226" stroke="black" stroke-width="3"/>
+<path id="Line 313" d="M513 102.393V50" stroke="black" stroke-width="3"/>
+<path id="Line 314" d="M513.148 177.654L513 144" stroke="black" stroke-width="3"/>
+<path id="Line 320" d="M595 101.229V49.9999" stroke="black" stroke-width="3"/>
+<path id="Line 321" d="M595 178V144" stroke="black" stroke-width="3"/>
+<text id="RELAY INT1" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="68.1836" y="360.655">RELAY INT1</tspan></text>
+<text id="RELAY INT2" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="235.184" y="360.655">RELAY INT2</tspan></text>
+<text id="EI MAIN" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="409.045" y="362.655">EI MAIN</tspan></text>
+<text id="EI STANDBY" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="561.43" y="362.655">EI STANDBY</tspan></text>
+<text id="UP DAC" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="737.025" y="362.655">UP DAC</tspan></text>
+<text id="DN DAC" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="900.141" y="362.655">DN DAC</tspan></text>
+<text id="LEU" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="1076.15" y="362.655">LEU</tspan></text>
+<text id="POINT OPERATION" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="1446.38" y="362.655">POINT OPERATION</tspan></text>
+<text id="24V - 32V DC 15A" fill="black"  font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="37.6055" y="288.879">24V - 32V DC
+</tspan><tspan x="79.2266" y="302.879">15A</tspan></text>
+<text id="110v-130VDC 5A" fill="black"  font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="195.322" y="288.879">110v-130VDC 
+</tspan><tspan x="247.949" y="302.879">5A</tspan></text>
+<text id="110V - 130V DC 5A" fill="black"  font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="353.16" y="288.879">110V - 130V DC
+</tspan><tspan x="411.949" y="302.879">5A</tspan></text>
+<text id="24V - 32V DC 15A_2" fill="black"  font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="529.605" y="288.879">24V - 32V DC
+</tspan><tspan x="571.227" y="302.879">15A</tspan></text>
+<path id="Line 180_2" d="M758 268H677V225" stroke="black" stroke-width="3"/>
+<path id="Line 313_2" d="M677 101.393V49" stroke="black" stroke-width="3"/>
+<path id="Line 314_2" d="M677 178.5V144" stroke="black" stroke-width="3"/>
+<path id="Line 320_2" d="M759 102V50" stroke="black" stroke-width="3"/>
+<path id="Line 321_2" d="M759 178V144" stroke="black" stroke-width="3"/>
+<text id="24V - 32V DC 15A_3" fill="black"  font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="692.605" y="288.879">24V - 32V DC
+</tspan><tspan x="734.227" y="302.879">15A</tspan></text>
+<path id="Line 322" d="M922 268H841V225" stroke="black" stroke-width="3"/>
+<path id="Line 323" d="M841 102V48" stroke="black" stroke-width="3"/>
+<path id="Line 324" d="M841 178V144" stroke="black" stroke-width="3"/>
+<path id="Line 325" d="M923 102L923.168 48.9999" stroke="black" stroke-width="3"/>
+<path id="Line 326" d="M923 179V144" stroke="black" stroke-width="3"/>
+<text id="24V - 32V DC 15A_4" fill="black"  font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="857.605" y="288.879">24V - 32V DC
+</tspan><tspan x="899.227" y="302.879">15A</tspan></text>
+<path id="Line 327" d="M1087 268H1005V225.5" stroke="black" stroke-width="3"/>
+<path id="Line 328" d="M1005 102.393V50" stroke="black" stroke-width="3"/>
+<path id="Line 329" d="M1005 178V144" stroke="black" stroke-width="3"/>
+<path id="Line 330" d="M1087 102V49" stroke="black" stroke-width="3"/>
+<path id="Line 331" d="M1087.02 178.236L1087 144" stroke="black" stroke-width="3"/>
+<text id="24V - 32V DC 15A_5" fill="black"  font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="1021.61" y="288.879">24V - 32V DC
+</tspan><tspan x="1063.23" y="302.879">15A</tspan></text>
+<text id="DISTRIBUTION BUSBAR 230 V AC, 1 PH, 50 HZ" fill="black"  font-family="Open Sans" font-size="16" letter-spacing="0em"><tspan x="389" y="17.207">DISTRIBUTION BUSBAR 230 V AC, 1 PH, 50 HZ</tspan></text>
+<text id="FROM SCVS, 230VAC, 1 PH, 50HZ" fill="black"  font-family="Open Sans" font-size="16" letter-spacing="0em"><tspan x="1732" y="17.207">FROM SCVS, 230VAC, 1 PH, 50HZ</tspan></text>
+<path id="Line 40" d="M1683 48V101.708" stroke="black" stroke-width="3"/>
+<path id="Line 43" d="M1684 144V178" stroke="black" stroke-width="3"/>
+<path id="Line 42" d="M1804 144V178" stroke="black" stroke-width="3"/>
+<path id="Line 41" d="M1803 49V102" stroke="black" stroke-width="3"/>
+<path id="Line 44" d="M1684 289.371H1736" stroke="black" stroke-width="3"/>
+<path id="Line 45" d="M1748 289.371H1803.5" stroke="black" stroke-width="3"/>
+<path id="Line 47" d="M1802 224L1802 291" stroke="black" stroke-width="3"/>
+<text id="Static_Output_Label3" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="1658.74" y="362.655">UP SIDE </tspan><tspan x="1639.38" y="378.655">LOCATION BOX
+</tspan><tspan x="1655.04" y="394.655">LIGHTING</tspan></text>
+<path id="Line 718" d="M1683 49H2024.5" stroke="black" stroke-width="3"/>
+<path id="Line 42_2" d="M2024 144V178" stroke="black" stroke-width="3"/>
+<path id="Line 41_2" d="M2023 48V101.805" stroke="black" stroke-width="3"/>
+<path id="Line 44_2" d="M1904 289.146H1956" stroke="black" stroke-width="3"/>
+<path id="Line 45_2" d="M1967 289.146H2024" stroke="black" stroke-width="3"/>
+<path id="Line 47_2" d="M2023 225V290" stroke="black" stroke-width="3"/>
+<text id="Static_Output_Label3_2" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="1877.86" y="362.655">DN SIDE 
+</tspan><tspan x="1859.38" y="378.655">LOCATION BOX
+</tspan><tspan x="1875.04" y="394.655">LIGHTING</tspan></text>
+<path id="Line 40_2" d="M1901.5 47.2666V102" stroke="black" stroke-width="3"/>
+<path id="Line 43_2" d="M1904 144V178" stroke="black" stroke-width="3"/>
+<path id="Line 757" d="M593.939 342.561C594.525 343.146 595.475 343.146 596.061 342.561L605.607 333.015C606.192 332.429 606.192 331.479 605.607 330.893C605.021 330.308 604.071 330.308 603.485 330.893L595 339.379L586.515 330.893C585.929 330.308 584.979 330.308 584.393 330.893C583.808 331.479 583.808 332.429 584.393 333.015L593.939 342.561ZM593.5 226V341.5H596.5V226H593.5Z" fill="black"/>
+<path id="Line 761" d="M429.939 342.561C430.525 343.146 431.475 343.146 432.061 342.561L441.607 333.015C442.192 332.429 442.192 331.479 441.607 330.893C441.021 330.308 440.071 330.308 439.485 330.893L431 339.379L422.515 330.893C421.929 330.308 420.979 330.308 420.393 330.893C419.808 331.479 419.808 332.429 420.393 333.015L429.939 342.561ZM429.5 226V341.5H432.5V226H429.5Z" fill="black"/>
+<path id="Line 762" d="M265.939 342.561C266.525 343.146 267.475 343.146 268.061 342.561L277.607 333.015C278.192 332.429 278.192 331.479 277.607 330.893C277.021 330.308 276.071 330.308 275.485 330.893L267 339.379L258.515 330.893C257.929 330.308 256.979 330.308 256.393 330.893C255.808 331.479 255.808 332.429 256.393 333.015L265.939 342.561ZM265.5 226V341.5H268.5V226H265.5Z" fill="black"/>
+<path id="Line 763" d="M101.939 342.561C102.525 343.146 103.475 343.146 104.061 342.561L113.607 333.015C114.192 332.429 114.192 331.479 113.607 330.893C113.021 330.308 112.071 330.308 111.485 330.893L103 339.379L94.5147 330.893C93.9289 330.308 92.9792 330.308 92.3934 330.893C91.8076 331.479 91.8076 332.429 92.3934 333.015L101.939 342.561ZM101.5 226V341.5H104.5V226H101.5Z" fill="black"/>
+<path id="Line 758" d="M757.939 342.561C758.525 343.146 759.475 343.146 760.061 342.561L769.607 333.015C770.192 332.429 770.192 331.479 769.607 330.893C769.021 330.308 768.071 330.308 767.485 330.893L759 339.379L750.515 330.893C749.929 330.308 748.979 330.308 748.393 330.893C747.808 331.479 747.808 332.429 748.393 333.015L757.939 342.561ZM757.5 226V341.5H760.5V226H757.5Z" fill="black"/>
+<path id="Line 759" d="M921.939 342.561C922.525 343.146 923.475 343.146 924.061 342.561L933.607 333.015C934.192 332.429 934.192 331.479 933.607 330.893C933.021 330.308 932.071 330.308 931.485 330.893L923 339.379L914.515 330.893C913.929 330.308 912.979 330.308 912.393 330.893C911.808 331.479 911.808 332.429 912.393 333.015L921.939 342.561ZM921.5 226V341.5H924.5V226H921.5Z" fill="black"/>
+<path id="Line 760" d="M1085.94 342.561C1086.53 343.146 1087.47 343.146 1088.06 342.561L1097.61 333.015C1098.19 332.429 1098.19 331.479 1097.61 330.893C1097.02 330.308 1096.07 330.308 1095.49 330.893L1087 339.379L1078.51 330.893C1077.93 330.308 1076.98 330.308 1076.39 330.893C1075.81 331.479 1075.81 332.429 1076.39 333.015L1085.94 342.561ZM1085.5 226V341.5H1088.5V226H1085.5Z" fill="black"/>
+<path id="Line 764" d="M1681.94 342.561C1682.53 343.146 1683.47 343.146 1684.06 342.561L1693.61 333.015C1694.19 332.429 1694.19 331.479 1693.61 330.893C1693.02 330.308 1692.07 330.308 1691.49 330.893L1683 339.379L1674.51 330.893C1673.93 330.308 1672.98 330.308 1672.39 330.893C1671.81 331.479 1671.81 332.429 1672.39 333.015L1681.94 342.561ZM1681.5 225.5V341.5H1684.5V225.5H1681.5Z" fill="black"/>
+<path id="Line 765" d="M1901.94 343.061C1902.53 343.646 1903.47 343.646 1904.06 343.061L1913.61 333.515C1914.19 332.929 1914.19 331.979 1913.61 331.393C1913.02 330.808 1912.07 330.808 1911.49 331.393L1903 339.879L1894.51 331.393C1893.93 330.808 1892.98 330.808 1892.39 331.393C1891.81 331.979 1891.81 332.929 1892.39 333.515L1901.94 343.061ZM1901.5 226V342H1904.5V226H1901.5Z" fill="black"/>
+</g>
+<g id="CBF26_3">
+<text id="CBF26_4" transform="translate(1258.21 115.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF26</tspan></text>
+<g id="Group 755_5">
+<g id="Group 742_17">
+<circle id="Ellipse 45_19" cx="1251.62" cy="108.828" r="6" stroke="black"/>
+<circle id="Ellipse 46_19" cx="1251.62" cy="139.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_17">
+<path id="Vector 32_19" d="M1245.33 100L1236.34 109.841C1230.02 116.747 1229.34 127.11 1234.69 134.784L1235.02 135.248C1235.84 136.429 1236.79 137.517 1237.85 138.494L1245.33 145.407" stroke="black"/>
+<line id="Line 127_19" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1225.51 112.272)" stroke="black"/>
+<line id="Line 128_19" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1224 116.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="P17_3">
+<rect id="P21A_BOX" x="1146.21" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_14" d="M1151.57 187.026C1154.57 181.526 1158.57 181.526 1161.57 187.026C1164.57 192.526 1169.57 192.526 1172.57 187.026" stroke="black"/>
+<path id="Line 310_5" d="M1146.58 224.901L1192.95 178.865" stroke="black"/>
+<line id="Line 311_5" x1="1172.57" y1="213.401" x2="1188.42" y2="213.401" stroke="black"/>
+<line id="Line 312_5" x1="1172.57" y1="216.894" x2="1188.42" y2="216.894" stroke="black"/>
+<text id="P21A" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1176" y="240.931">P21A</tspan></text>
+</g>
+<g id="P18_3">
+<g id="Group 960_2">
+<rect id="P21B_BOX" x="1228.5" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_15" d="M1233.26 187.026C1236.26 181.526 1240.26 181.526 1243.26 187.026C1246.26 192.526 1251.26 192.526 1254.26 187.026" stroke="black"/>
+<path id="Line 317_5" d="M1228.76 224.901L1275.26 178.401" stroke="black"/>
+<line id="Line 318_5" x1="1251.26" y1="213.401" x2="1267.1" y2="213.401" stroke="black"/>
+<line id="Line 319_5" x1="1251.26" y1="216.894" x2="1267.1" y2="216.894" stroke="black"/>
+</g>
+<text id="P21B" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1258" y="240.931">P21B</tspan></text>
+</g>
+<path id="Line 327_2" d="M1252 252H1170V227" stroke="black" stroke-width="3"/>
+<path id="Line 763_2" d="M1252 252H1334V227" stroke="black" stroke-width="3"/>
+<path id="Line 764_2" d="M1252 155H1170V180" stroke="black" stroke-width="3"/>
+<path id="Line 765_2" d="M1252 155H1334V180" stroke="black" stroke-width="3"/>
+<path id="Line 330_2" d="M1252 103V50" stroke="black" stroke-width="3"/>
+<path id="Line 331_2" d="M1252.02 179.236L1252 145" stroke="black" stroke-width="3"/>
+<g id="P18_4">
+<g id="Group 960_3">
+<rect id="P21C_BOX" x="1310.5" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_16" d="M1315.26 187.026C1318.26 181.526 1322.26 181.526 1325.26 187.026C1328.26 192.526 1333.26 192.526 1336.26 187.026" stroke="black"/>
+<path id="Line 317_6" d="M1310.76 224.901L1357.26 178.401" stroke="black"/>
+<line id="Line 318_6" x1="1333.26" y1="213.401" x2="1349.1" y2="213.401" stroke="black"/>
+<line id="Line 319_6" x1="1333.26" y1="216.894" x2="1349.1" y2="216.894" stroke="black"/>
+</g>
+<text id="P21C" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1340" y="240.931">P21C</tspan></text>
+</g>
+<text id="24V - 32V DC 30A" fill="black"  font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="1433.61" y="288.879">24V - 32V DC
+</tspan><tspan x="1475.23" y="302.879">30A</tspan></text>
+<path id="Line 760_2" d="M1252 225.5V268H1498.5" stroke="black" stroke-width="3"/>
+<g id="CBF26_5">
+<text id="CBF26_6" transform="translate(1505.21 115.1)" fill="black"  font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0" y="12.6553">CBF26</tspan></text>
+<g id="Group 755_6">
+<g id="Group 742_18">
+<circle id="Ellipse 45_20" cx="1498.62" cy="108.828" r="6" stroke="black"/>
+<circle id="Ellipse 46_20" cx="1498.62" cy="139.1" r="6" stroke="black"/>
+</g>
+<g id="Group 741_18">
+<path id="Vector 32_20" d="M1492.33 100L1483.34 109.841C1477.02 116.747 1476.34 127.11 1481.69 134.784L1482.02 135.248C1482.84 136.429 1483.79 137.517 1484.85 138.494L1492.33 145.407" stroke="black"/>
+<line id="Line 127_20" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1472.51 112.272)" stroke="black"/>
+<line id="Line 128_20" y1="-0.5" x2="18.8444" y2="-0.5" transform="matrix(0.773914 0.633291 -0.694615 0.719382 1471 116.45)" stroke="black"/>
+</g>
+</g>
+</g>
+<g id="P17_4">
+<rect id="P22A_BOX" x="1393.21" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_17" d="M1398.57 187.026C1401.57 181.526 1405.57 181.526 1408.57 187.026C1411.57 192.526 1416.57 192.526 1419.57 187.026" stroke="black"/>
+<path id="Line 310_6" d="M1393.58 224.901L1439.95 178.865" stroke="black"/>
+<line id="Line 311_6" x1="1419.57" y1="213.401" x2="1435.42" y2="213.401" stroke="black"/>
+<line id="Line 312_6" x1="1419.57" y1="216.894" x2="1435.42" y2="216.894" stroke="black"/>
+<text id="P21A_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1423" y="240.931">P22A</tspan></text>
+</g>
+<g id="P18_5">
+<g id="Group 960_4">
+<rect id="P22B_BOX" x="1475.5" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_18" d="M1480.26 187.026C1483.26 181.526 1487.26 181.526 1490.26 187.026C1493.26 192.526 1498.26 192.526 1501.26 187.026" stroke="black"/>
+<path id="Line 317_7" d="M1475.76 224.901L1522.26 178.401" stroke="black"/>
+<line id="Line 318_7" x1="1498.26" y1="213.401" x2="1514.1" y2="213.401" stroke="black"/>
+<line id="Line 319_7" x1="1498.26" y1="216.894" x2="1514.1" y2="216.894" stroke="black"/>
+</g>
+<text id="P21B_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1505" y="240.931">P22B</tspan></text>
+</g>
+<path id="Line 766" d="M1499 252H1417V227" stroke="black" stroke-width="3"/>
+<path id="Line 767" d="M1499 252H1581V227" stroke="black" stroke-width="3"/>
+<path id="Line 768" d="M1499 155H1417V180" stroke="black" stroke-width="3"/>
+<path id="Line 769" d="M1499 155H1581V180" stroke="black" stroke-width="3"/>
+<path id="Line 770" d="M1499 103V50" stroke="black" stroke-width="3"/>
+<path id="Line 771" d="M1499.02 179.236L1499 145" stroke="black" stroke-width="3"/>
+<g id="P18_6">
+<g id="Group 960_5">
+<rect id="P22C_BOX" x="1557.5" y="178.5" width="47" height="47" fill="#C6C6C6" stroke="black"/>
+<path id="Line 756_19" d="M1562.26 187.026C1565.26 181.526 1569.26 181.526 1572.26 187.026C1575.26 192.526 1580.26 192.526 1583.26 187.026" stroke="black"/>
+<path id="Line 317_8" d="M1557.76 224.901L1604.26 178.401" stroke="black"/>
+<line id="Line 318_8" x1="1580.26" y1="213.401" x2="1596.1" y2="213.401" stroke="black"/>
+<line id="Line 319_8" x1="1580.26" y1="216.894" x2="1596.1" y2="216.894" stroke="black"/>
+</g>
+<text id="P21C_2" fill="black"  font-family="Open Sans" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1587" y="240.931">P22C</tspan></text>
+</g>
+<path id="Line 772" d="M1497.94 343.561C1498.53 344.146 1499.47 344.146 1500.06 343.561L1509.61 334.015C1510.19 333.429 1510.19 332.479 1509.61 331.893C1509.02 331.308 1508.07 331.308 1507.49 331.893L1499 340.379L1490.51 331.893C1489.93 331.308 1488.98 331.308 1488.39 331.893C1487.81 332.479 1487.81 333.429 1488.39 334.015L1497.94 343.561ZM1497.5 227V342.5H1500.5V227H1497.5Z" fill="black"/>
+</g>
+</g>
+</svg>

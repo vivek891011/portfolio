@@ -1,0 +1,2041 @@
+<svg id="main-svg" xmlns="http://www.w3.org/2000/svg" width="1856" height="820" viewBox="0 0 1856 820">
+    <g id="YardLayout" transform="translate(-34)">
+        <rect id="Rectangle_1" data-name="Rectangle 1" width="1856" height="820" transform="translate(34)"></rect>
+        <g id="PointMachine" data-name="Point Machine" transform="translate(450.398 172.066)">
+            <g id="PM132" class="tooltip" transform="translate(43.974 165.97)" edge-id="NOQ_PM_132">
+                <g id="PM132Hr" transform="translate(32.448 6.205) rotate(-0.286)" edge-id-selector="NOQ_PM_132Hr">
+                    <path id="PM132Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_132Hr1"></path>
+                    <path id="PM132Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_132Hr2"></path>
+                </g>
+                <g id="PM132Icon" transform="translate(17.447 3.03)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_132Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM132Label" transform="translate(16.447 27.03)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_132Label">
+                    <tspan x="0" y="0">132</tspan>
+                </text>
+                <path id="PM132Line" d="M0,26.888H0L20.393.5h6.794" transform="translate(0 -1.505)" fill="none"
+                    stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_132Line"></path>
+            </g>
+            <g id="PM131" class="tooltip" transform="translate(0 191.97)" edge-id="NOQ_PM_131">
+                <g id="PM131Hr" transform="translate(0 10.952) rotate(-0.286)" edge-id-selector="NOQ_PM_131Hr">
+                    <path id="PM131Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_131Hr1"></path>
+                    <path id="PM131Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_131Hr2"></path>
+                </g>
+                <g id="PM131Icon" transform="translate(13.665 6.276)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_131Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM131Label" transform="translate(8.665 40.276)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_131Label">
+                    <tspan x="0" y="0">131</tspan>
+                </text>
+                <path id="PM131Line" d="M20.784.5h0L4.059,24.817H-2.667" transform="translate(22.628 -0.505)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_131Line"></path>
+            </g>
+            <g id="PM114" class="tooltip" transform="translate(455.629 436.527)" edge-id="NOQ_PM_114">
+                <g id="PM114Hr" transform="translate(0 14.809) rotate(-0.286)" edge-id-selector="NOQ_PM_114Hr">
+                    <path id="PM114Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_114Hr1"></path>
+                    <path id="PM114Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_114Hr2"></path>
+                </g>
+                <g id="PM114Icon" transform="translate(9.331 11.633)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_114Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM114Label" transform="translate(4.973 44.875)" fill="#fff" font-size="9"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_114Label">
+                    <tspan x="0" y="0">114</tspan>
+                </text>
+                <path id="PM114Line" d="M23.615.956h0L.882,30.659H-13.431" transform="translate(22.987 -0.956)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_114Line"></path>
+            </g>
+            <g id="PM136" class="tooltip" transform="translate(253.82)" edge-id="NOQ_PM_136">
+                <g id="PM136Hr" transform="translate(43.843 21.175) rotate(-0.286)" edge-id-selector="NOQ_PM_136Hr">
+                    <path id="PM136Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_136Hr1"></path>
+                    <path id="PM136Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_136Hr2"></path>
+                </g>
+                <g id="PM136Icon" transform="translate(28.842 18)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_136Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM136Label" transform="translate(23.842 11)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_136Label">
+                    <tspan x="0" y="0">136</tspan>
+                </text>
+                <path id="PM136Line" d="M40.634-.751H24.325L-2.9,27.035h0" transform="translate(2.287 15.174)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_136Line"></path>
+            </g>
+            <g id="PM135" class="tooltip" transform="translate(196.329 45.616)" edge-id="NOQ_PM_135">
+                <g id="PM135Hr" transform="translate(0 17.306) rotate(-0.286)" edge-id-selector="NOQ_PM_135Hr">
+                    <path id="PM135Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_135Hr1"></path>
+                    <path id="PM135Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_135Hr2"></path>
+                </g>
+                <g id="PM135Icon" transform="translate(9.33 13.63)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_135Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM135Label" transform="translate(10.665 42.63)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_135Label">
+                    <tspan x="0" y="0">135</tspan>
+                </text>
+                <path id="PM135Line" d="M-3.094,32.3H15.917L48.331-1.174h0" transform="translate(7.759 -1.444)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_135Line"></path>
+            </g>
+            <g id="PM106" class="tooltip" transform="translate(482.331 2)" edge-id="NOQ_PM_106">
+                <g id="PM106Hr" transform="translate(0 26.302) rotate(-0.286)" edge-id-selector="NOQ_PM_106Hr">
+                    <path id="PM106Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_106Hr1"></path>
+                    <path id="PM106Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_106Hr2"></path>
+                </g>
+                <g id="PM106Icon" transform="translate(10.331 22)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_106Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM106Label" transform="translate(3.331 9)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_106Label">
+                    <tspan x="0" y="0">106</tspan>
+                </text>
+                <path id="PM106Line" d="M39.679,27.151h0L8.61-1.088H-4.012" transform="translate(13.987 18.784)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_106Line"></path>
+            </g>
+            <g id="PM105" class="tooltip" transform="translate(536.664 48.387)" edge-id="NOQ_PM_105">
+                <g id="PM105Hr" transform="translate(46.466 11.035) rotate(-0.286)" edge-id-selector="NOQ_PM_105Hr">
+                    <path id="PM105Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_105Hr1"></path>
+                    <path id="PM105Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_105Hr2"></path>
+                </g>
+                <g id="PM105Icon" transform="translate(30.465 5.274)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_105Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM105Label" transform="translate(31.465 39.859)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_105Label">
+                    <tspan x="0" y="0">105</tspan>
+                </text>
+                <path id="PM105Line" d="M-3.765,0h0l30.3,23.666H38.523" transform="translate(3.765)" fill="none"
+                    stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_105Line"></path>
+            </g>
+            <g id="PM134" class="tooltip" transform="translate(132.61 62.924)" edge-id="NOQ_PM_134">
+                <g id="PM134Hr" transform="translate(67.458 25.175) rotate(-0.286)" edge-id-selector="NOQ_PM_134Hr">
+                    <path id="PM134Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_134Hr1"></path>
+                    <path id="PM134Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_134Hr2"></path>
+                </g>
+                <g id="PM134Icon" transform="translate(52.457 22)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_134Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM134Label" transform="translate(48.457 11)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_134Label">
+                    <tspan x="0" y="0">134</tspan>
+                </text>
+                <path id="PM134Line" d="M-9.178,35.759h0L44.263-3.851H56.972" transform="translate(9.178 22.951)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_134Line"></path>
+            </g>
+            <g id="PM133" class="tooltip" transform="translate(64.329 121.875)" edge-id="NOQ_PM_133">
+                <g id="PM133Hr" transform="translate(0 20.047) rotate(-0.286)" edge-id-selector="NOQ_PM_133Hr">
+                    <path id="PM133Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_133Hr1"></path>
+                    <path id="PM133Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_133Hr2"></path>
+                </g>
+                <g id="PM133Icon" transform="translate(10.665 16.371)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_133Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM133Label" transform="translate(9.665 13.371)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_133Label">
+                    <tspan x="0" y="0">133</tspan>
+                </text>
+                <path id="PM133Line" d="M49.134,0h0L3.546,34.808H-9.178" transform="translate(18.773)" fill="none"
+                    stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_133Line"></path>
+            </g>
+            <g id="PM104" class="tooltip" transform="translate(753.331 83.022)" edge-id="NOQ_PM_104">
+                <g id="PM104Hr" transform="translate(0 8.28) rotate(-0.286)" edge-id-selector="NOQ_PM_104Hr">
+                    <path id="PM104Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_104Hr1"></path>
+                    <path id="PM104Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_104Hr2"></path>
+                </g>
+                <g id="PM104Icon" transform="translate(10.331 3.978)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_104Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM104Label" transform="translate(9.331 27.978)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_104Label">
+                    <tspan x="0" y="0">104</tspan>
+                </text>
+                <path id="PM104Line" d="M50.916,36.889h0L18.909-1.961H8.066" transform="translate(2.596 1.961)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_104Line"></path>
+            </g>
+            <g id="PM103" class="tooltip" transform="translate(806.963 121.983)" edge-id="NOQ_PM_103">
+                <g id="PM103Hr" transform="translate(42.166 21.2) rotate(-0.286)" edge-id-selector="NOQ_PM_103Hr">
+                    <path id="PM103Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_103Hr1"></path>
+                    <path id="PM103Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_103Hr2"></path>
+                </g>
+                <g id="PM103Icon" transform="translate(28.165 18.024)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_103Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM103Label" transform="translate(24.165 51.024)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_103Label">
+                    <tspan x="0" y="0">103</tspan>
+                </text>
+                <path id="PM103Line" d="M8.322,0h0L39.975,35.466h10.06" transform="translate(-8.322)" fill="none"
+                    stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_103Line"></path>
+            </g>
+            <g id="PM102" class="tooltip" transform="translate(840.795 165.997)" edge-id="NOQ_PM_102">
+                <g id="PM102Hr" transform="translate(0 8.305) rotate(-0.286)" edge-id-selector="NOQ_PM_102Hr">
+                    <path id="PM102Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_102Hr1"></path>
+                    <path id="PM102Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_102Hr2"></path>
+                </g>
+                <g id="PM102Icon" transform="translate(10.331 4.003)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_102Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM102Label" transform="translate(9.331 28.003)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_102Label">
+                    <tspan x="0" y="0">102</tspan>
+                </text>
+                <path id="PM102Line" d="M56.507,22.249h0l-.639-.4L16.674-4.915H3.468" transform="translate(7.634 4.915)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_102Line"></path>
+            </g>
+            <g id="PM101" class="tooltip" transform="translate(905.098 193.287)" edge-id="NOQ_PM_101">
+                <g id="PM101Hr" transform="translate(57.003 8.671) rotate(-0.286)" edge-id-selector="NOQ_PM_101Hr">
+                    <path id="PM101Hr1"
+                        d="M4.657,8.755C2.154,7.007.841,5.417.3,4.086-1.141.519,2.98-1.187,4.658.919c1.677-2.106,5.8-.4,4.355,3.167C8.475,5.417,7.161,7.007,4.657,8.755Z"
+                        edge-id-selector="NOQ_PM_101Hr1"></path>
+                    <path id="PM101Hr2" d="M0,1.235H0l2.715.014L3.091,0,4.785,2.681,5.4,1.119l3.341.116"
+                        transform="translate(0.302 2.163)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_101Hr2"></path>
+                </g>
+                <g id="PM101Icon" transform="translate(40.958 5.475)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_101Icon">
+                    <ellipse cx="7.522" cy="7.55" rx="7.522" ry="7.55" stroke="none"></ellipse>
+                    <ellipse cx="7.522" cy="7.55" rx="5.522" ry="5.55" fill="none"></ellipse>
+                </g>
+                <text id="PM101Label" transform="translate(39.955 39.627)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_101Label">
+                    <tspan x="0" y="0">101</tspan>
+                </text>
+                <path id="PM101Line" d="M2.442-3.065,18.682,6.78,42.6,21.285H58.5" transform="translate(-2.442 3.065)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_101Line"></path>
+            </g>
+            <g id="PM108" class="tooltip" transform="translate(498.851 251.246)" edge-id="NOQ_PM_108">
+                <g id="PM108Hr" transform="translate(0 16.176) rotate(-0.286)" edge-id-selector="NOQ_PM_108Hr">
+                    <path id="PM108Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_108Hr1"></path>
+                    <path id="PM108Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_108Hr2"></path>
+                </g>
+                <g id="PM108Icon" transform="translate(7.999 13)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_108Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM108Label" transform="translate(7.999 11)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_108Label">
+                    <tspan x="0" y="0">108</tspan>
+                </text>
+                <path id="PM108Line" d="M24.066,0h0L.869,28.566H-6.94" transform="translate(18.251 3.089)" fill="none"
+                    stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_108Line"></path>
+            </g>
+            <g id="PM107" class="tooltip" transform="translate(541.432 206)" edge-id="NOQ_PM_107">
+                <g id="PM107Hr" transform="translate(35.899 26.175) rotate(-0.286)" edge-id-selector="NOQ_PM_107Hr">
+                    <path id="PM107Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_107Hr1"></path>
+                    <path id="PM107Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_107Hr2"></path>
+                </g>
+                <g id="PM107Icon" transform="translate(20.23 23)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_107Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM107Label" transform="translate(20.23 11)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_107Label">
+                    <tspan x="0" y="0">107</tspan>
+                </text>
+                <path id="PM107Line" d="M-5.737,28.267h0L15.559,0h9.61" transform="translate(5.737 19.769)" fill="none"
+                    stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_107Line"></path>
+            </g>
+            <g id="PM115" class="tooltip" transform="translate(471.652 272)" edge-id="NOQ_PM_115">
+                <g id="PM115Hr" transform="translate(39.867 25.175) rotate(-0.286)" edge-id-selector="NOQ_PM_115Hr">
+                    <path id="PM115Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_115Hr1"></path>
+                    <path id="PM115Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_115Hr2"></path>
+                </g>
+                <g id="PM115Icon" transform="translate(24.198 22)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_115Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM115Label" transform="translate(11.198 11)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_115Label">
+                    <tspan x="0" y="0">115</tspan>
+                </text>
+                <path id="PM115Line" d="M-4.987,28.548h0L20.943,0H30.58" transform="translate(4.987 18.651)" fill="none"
+                    stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_115Line"></path>
+            </g>
+            <g id="PM116" class="tooltip" transform="translate(420.851 319.3)" edge-id="NOQ_PM_116">
+                <g id="PM116Hr" transform="translate(0 12.817) rotate(-0.286)" edge-id-selector="NOQ_PM_116Hr">
+                    <path id="PM116Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_116Hr1"></path>
+                    <path id="PM116Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_116Hr2"></path>
+                </g>
+                <g id="PM116Icon" transform="translate(2.499 9.641)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_116Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM116Label" transform="translate(1.499 42.641)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_116Label">
+                    <tspan x="0" y="0">116</tspan>
+                </text>
+                <path id="PM116Line" d="M30.257,0h0L4.563,27.6h-9.55" transform="translate(20.438)" fill="none"
+                    stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_116Line"></path>
+            </g>
+            <g id="PM137" class="tooltip" transform="translate(25.665 205.924)" edge-id="NOQ_PM_137">
+                <g id="PM137Hr" transform="translate(0 26.175) rotate(-0.286)" edge-id-selector="NOQ_PM_137Hr">
+                    <path id="PM137Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_137Hr1"></path>
+                    <path id="PM137Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_137Hr2"></path>
+                </g>
+                <g id="PM137Icon" transform="translate(17.831 23)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_137Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM137Label" transform="translate(16.831 11)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_137Label">
+                    <tspan x="0" y="0">137</tspan>
+                </text>
+                <path id="PM137Line" d="M31.456,22.518h0L12.843,0H-.143" transform="translate(19.473 19.991)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_137Line"></path>
+            </g>
+            <g id="PM138" class="tooltip" transform="translate(77.015 248.919)" edge-id="NOQ_PM_138">
+                <g id="PM138Hr" transform="translate(43.144 19.003) rotate(-0.286)" edge-id-selector="NOQ_PM_138Hr">
+                    <path id="PM138Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_138Hr1"></path>
+                    <path id="PM138Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_138Hr2"></path>
+                </g>
+                <g id="PM138Icon" transform="translate(27.143 16.327)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_138Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM138Label" transform="translate(25.143 13.327)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_138Label">
+                    <tspan x="0" y="0">138</tspan>
+                </text>
+                <path id="PM138Line" d="M6.485,0h0l29.9,33.772H46.808" transform="translate(-6.485)" fill="none"
+                    stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_138Line"></path>
+            </g>
+            <g id="PM111" class="tooltip" transform="translate(605.715 286.918)" edge-id="NOQ_PM_111">
+                <g id="PM111Hr" transform="translate(69.826 7.636) rotate(-0.286)" edge-id-selector="NOQ_PM_111Hr">
+                    <path id="PM111Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_111Hr1"></path>
+                    <path id="PM111Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_111Hr2"></path>
+                </g>
+                <g id="PM111Icon" transform="translate(54.157 4.461)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_111Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM111Label" transform="translate(24.157 11.588)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_111Label">
+                    <tspan x="0" y="0">111</tspan>
+                </text>
+                <path id="PM111Line" d="M-15.845,54.887h0l57.7-53.4h14.58" transform="translate(15.845 -1.487)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_111Line"></path>
+            </g>
+            <g id="PM113" class="tooltip" transform="translate(502.392 410.857)" edge-id="NOQ_PM_113">
+                <g id="PM113Hr" transform="translate(38.458 5.479) rotate(-0.286)" edge-id-selector="NOQ_PM_113Hr">
+                    <path id="PM113Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_113Hr1"></path>
+                    <path id="PM113Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_113Hr2"></path>
+                </g>
+                <g id="PM113Icon" transform="translate(21.457 2.303)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_113Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM113Label" transform="translate(21.457 27.303)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_113Label">
+                    <tspan x="0" y="0">113</tspan>
+                </text>
+                <path id="PM113Line" d="M-10.721,26.849h0L10.135,1.409H25.674" transform="translate(10.721 -1.409)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_113Line"></path>
+            </g>
+            <g id="PM112" class="tooltip" transform="translate(472.849 340.853)" edge-id="NOQ_PM_112">
+                <g id="PM112Hr" transform="translate(38.001 50.483) rotate(-0.286)" edge-id-selector="NOQ_PM_112Hr">
+                    <path id="PM112Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_112Hr1"></path>
+                    <path id="PM112Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_112Hr2"></path>
+                </g>
+                <g id="PM112Icon" transform="translate(21 47.307)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_112Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM112Label" transform="translate(0 59.307)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_112Label">
+                    <tspan x="0" y="0">112</tspan>
+                </text>
+                <path id="PM112Line" d="M101.316.3l-.853.784L35.192,66.314H-15.845" transform="translate(30.928 -0.3)"
+                    fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_PM_112Line"></path>
+            </g>
+            <g id="PM109" class="tooltip" transform="translate(689.872 265.75)" edge-id="NOQ_PM_109">
+                <g id="PM109Hr" transform="translate(16.669 3.175) rotate(-0.286)" edge-id-selector="NOQ_PM_109Hr">
+                    <path id="PM109Hr1"
+                        d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z"
+                        edge-id-selector="NOQ_PM_109Hr1"></path>
+                    <path id="PM109Hr2" d="M0,1.227H0l2.707.014L3.082,0l1.69,2.663L5.39,1.112l3.331.116"
+                        transform="translate(0.3 2.149)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.3" edge-id-selector="NOQ_PM_109Hr2"></path>
+                </g>
+                <g id="PM109Icon" transform="translate(1)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_109Icon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM109Label" transform="translate(0 31.5)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_109Label">
+                    <tspan x="0" y="0">109</tspan>
+                </text>
+            </g>
+            <g id="PM18X" class="tooltip" transform="translate(68.602 269.122)" edge-id="NOQ_PM_18X">
+                <g id="PM18XIcon" transform="translate(5.413)" fill="#fff" stroke="#6c7091" stroke-width="4"
+                    edge-id-selector="NOQ_PM_18XIcon">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="5.5" fill="none"></circle>
+                </g>
+                <text id="PM18XLabel" transform="translate(0 30.279)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_PM_18XLabel">
+                    <tspan x="0" y="0">18X</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Shunt" transform="translate(298.7 147.74)">
+            <g id="SGC3" class="tooltip" transform="translate(1259.36 245.117) rotate(-0.286)" edge-id="NOQ_SG_C3">
+                <text id="SGC3Label" transform="translate(0 35.755)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_C3Label">
+                    <tspan x="0" y="0">C-3</tspan>
+                </text>
+                <g id="SGC3Aspect" transform="translate(14.118 11.39)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_C3Aspect">
+                    <circle cx="5" cy="5" r="5" stroke="none"></circle>
+                    <circle cx="5" cy="5" r="4.25" fill="none"></circle>
+                </g>
+                <g id="POLES" transform="translate(9.146)">
+                    <line id="POLES1" y2="16.333" transform="translate(24.586)" fill="none" stroke="#6c7091"
+                        stroke-width="1.5"></line>
+                    <line id="POLES2" x2="10" transform="translate(14.501 16.28)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="1.5"></line>
+                    <line id="POLES3" x2="5" transform="translate(0 16.23)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="1.5"></line>
+                </g>
+            </g>
+            <g id="SGC46" class="tooltip" transform="translate(24.149 185.044) rotate(179.714)" edge-id="NOQ_SG_C46">
+                <text id="SGC46Label" transform="translate(23.963 23.552) rotate(180)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_C46Label">
+                    <tspan x="0" y="0">C-46</tspan>
+                </text>
+                <g id="SGC46Aspect" transform="translate(1.997 11.437)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_C46Aspect">
+                    <circle cx="5" cy="5" r="5" stroke="none"></circle>
+                    <circle cx="5" cy="5" r="4.25" fill="none"></circle>
+                </g>
+                <g id="POLES-2" data-name="POLES">
+                    <line id="POLES1-2" data-name="POLES1" y2="16.333" transform="translate(16.585)" fill="none"
+                        stroke="#6c7091" stroke-width="1.5"></line>
+                    <line id="POLES2-2" data-name="POLES2" x2="5" transform="translate(11.5 16.358)" fill="none"
+                        stroke="#6c7091" stroke-linecap="round" stroke-width="1.5"></line>
+                    <line id="POLES3-2" data-name="POLES3" x2="2" transform="translate(0 16.309)" fill="none"
+                        stroke="#6c7091" stroke-linecap="round" stroke-width="1.5"></line>
+                </g>
+            </g>
+            <g id="SH14" class="tooltip" transform="translate(611.3 66.028)" edge-id="NOQ_SG_SH14">
+                <g id="Pole" transform="translate(0 20.5)">
+                    <line id="SH14Pole1" y1="14.719" fill="none" stroke="#6c7091" stroke-width="2"
+                        edge-id-selector="NOQ_SG_SH14Pole1"></line>
+                    <line id="SH14Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2" edge-id-selector="NOQ_SG_SH14Pole2"></line>
+                </g>
+                <text id="SH14Label" transform="translate(1.5 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH14Label">
+                    <tspan x="0" y="0">SH-14</tspan>
+                </text>
+                <path id="Path_103" data-name="Path 103"
+                    d="M18.366,11.075v-.442l-4.64-2.709L11.3,6.279H.913V21.138H18.366V10.158"
+                    transform="translate(5.601 7.875)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SGS14Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(9.156 15.851) rotate(-0.286)"></ellipse>
+                <ellipse id="SGS14Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(9.156 21.882) rotate(-0.286)"></ellipse>
+                <ellipse id="SGS14Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(16.24 18.867) rotate(-0.286)"></ellipse>
+            </g>
+            <g id="SH18" class="tooltip" transform="translate(527.3 336.112)" edge-id="NOQ_SG_SH18">
+                <g id="Pole-2" data-name="Pole" transform="translate(0 22.5)">
+                    <line id="SH18Pole1" y1="14.719" fill="none" stroke="#6c7091" stroke-width="2"
+                        edge-id-selector="NOQ_SG_SH18Pole1"></line>
+                    <line id="SH18Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2" edge-id-selector="NOQ_SG_SH18Pole2"></line>
+                </g>
+                <text id="SH18Label" transform="translate(0.24 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH18Label">
+                    <tspan x="0" y="0">SH-18</tspan>
+                </text>
+                <path id="Path_95" data-name="Path 95"
+                    d="M18.366,11.075v-.442l-4.64-2.709L11.3,6.279H.913V21.138H18.366V10.158"
+                    transform="translate(5.601 9.721)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH18Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(8.036 17.768) rotate(-0.286)" edge-id-selector="NOQ_SG_SH18Aspect3"></ellipse>
+                <ellipse id="SH18Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(8.036 23.799) rotate(-0.286)" edge-id-selector="NOQ_SG_SH18Aspect2"></ellipse>
+                <ellipse id="SH18Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(15.12 20.783) rotate(-0.286)" edge-id-selector="NOQ_SG_SH18Aspect1"></ellipse>
+            </g>
+            <g id="SH20" class="tooltip" transform="translate(527.3 392.112)" edge-id="NOQ_SG_SH20">
+                <g id="Pole-3" data-name="Pole" transform="translate(0 23.776)">
+                    <line id="SH18Pole1-2" data-name="SH18Pole1" y1="14.719" fill="none" stroke="#6c7091"
+                        stroke-width="2"></line>
+                    <line id="SH18Pole2-2" data-name="SH18Pole2" y2="5" transform="translate(0 0.281) rotate(-90)"
+                        fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2"></line>
+                </g>
+                <text id="SH20Label" transform="translate(0 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH20Label">
+                    <tspan x="0" y="0">SH-20</tspan>
+                </text>
+                <path id="Path_96" data-name="Path 96"
+                    d="M18.366,11.075v-.442l-4.64-2.709L11.3,6.279H.913V21.138H18.366V10.158"
+                    transform="translate(5.601 9.721)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH20Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(8.701 17.768) rotate(-0.286)" edge-id-selector="NOQ_SG_SH20Aspect3"></ellipse>
+                <ellipse id="SH20Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(8.701 23.799) rotate(-0.286)" edge-id-selector="NOQ_SG_SH20Aspect2"></ellipse>
+                <ellipse id="SH20Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(15.785 20.783) rotate(-0.286)" edge-id-selector="NOQ_SG_SH20Aspect1"></ellipse>
+            </g>
+            <g id="SH22" class="tooltip" transform="translate(526.54 457.112)" edge-id="NOQ_SG_SH22">
+                <g id="Pole-4" data-name="Pole" transform="translate(0.76 22.776)">
+                    <line id="SH22Pole1" y1="14.719" fill="none" stroke="#6c7091" stroke-width="2"
+                        edge-id-selector="NOQ_SG_SH22Pole1"></line>
+                    <line id="SH22Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2" edge-id-selector="NOQ_SG_SH22Pole2"></line>
+                </g>
+                <text id="SH22Label" transform="translate(0 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH22Label">
+                    <tspan x="0" y="0">SH-22</tspan>
+                </text>
+                <path id="Path_97" data-name="Path 97"
+                    d="M18.366,11.075v-.442l-4.64-2.709L11.3,6.279H.913V21.138H18.366V10.158"
+                    transform="translate(5.361 9.067)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH22Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(8.916 16.768) rotate(-0.286)" edge-id-selector="NOQ_SG_SH22Aspect3"></ellipse>
+                <ellipse id="SH22Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(8.916 22.799) rotate(-0.286)" edge-id-selector="NOQ_SG_SH22Aspect2"></ellipse>
+                <ellipse id="SH22Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(16 19.783) rotate(-0.286)" edge-id-selector="NOQ_SG_SH22Aspect1"></ellipse>
+            </g>
+            <g id="SH12" class="tooltip" transform="translate(716.453 148.183)">
+                <g id="Pole-5" data-name="Pole" transform="translate(3.847 22.429)">
+                    <line id="SH12Pole1" y1="14.719" fill="none" stroke="#6c7091" stroke-width="2"></line>
+                    <line id="SH12Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2"></line>
+                </g>
+                <text id="SH12Label" transform="translate(0 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">SH-12</tspan>
+                </text>
+                <path id="Path_102" data-name="Path 102"
+                    d="M18.366,11.075v-.442l-4.64-2.709L11.3,6.279H.913V21.138H18.366V10.158"
+                    transform="translate(9.448 8.72)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH12Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(12.003 16.697) rotate(-0.286)"></ellipse>
+                <ellipse id="SH12Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(12.003 22.728) rotate(-0.286)"></ellipse>
+                <ellipse id="SH12Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(19.087 19.712) rotate(-0.286)"></ellipse>
+            </g>
+            <g id="SH44" class="tooltip" transform="translate(47.027 206)" edge-id="NOQ_SG_SH44">
+                <g id="Pole-6" data-name="Pole" transform="translate(1.273 23.5)">
+                    <line id="SH44Pole1" y1="14.719" fill="none" stroke="#6c7091" stroke-width="2"
+                        edge-id-selector="NOQ_SG_SH44Pole1"></line>
+                    <line id="SH44Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2" edge-id-selector="NOQ_SG_SH44Pole2"></line>
+                </g>
+                <text id="SH44Label" transform="translate(0 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH44Label">
+                    <tspan x="0" y="0">SH-44</tspan>
+                </text>
+                <path id="Path_100" data-name="Path 100"
+                    d="M18.366,11.075v-.442l-4.64-2.709L11.3,6.279H.913V21.138H18.366V10.158"
+                    transform="translate(5.36 9.791)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH44Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(8.309 17.88) rotate(-0.286)" edge-id-selector="NOQ_SG_SH44Aspect3"></ellipse>
+                <ellipse id="SH44Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(8.309 23.911) rotate(-0.286)" edge-id-selector="NOQ_SG_SH44Aspect2"></ellipse>
+                <ellipse id="SH44Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(15.393 20.895) rotate(-0.286)" edge-id-selector="NOQ_SG_SH44Aspect1"></ellipse>
+            </g>
+            <g id="SH39" class="tooltip" transform="translate(330.333 311.412)" edge-id="NOQ_SG_SH39">
+                <g id="Pole-7" data-name="Pole" transform="translate(20.408)">
+                    <line id="SH39Pole1" x1="0.284" y1="20.476" transform="translate(5.716)" fill="none"
+                        stroke="#6c7091" stroke-width="2" edge-id-selector="NOQ_SG_SH39Pole1"></line>
+                    <line id="SH39Pole2" y1="5" transform="translate(0 13.117) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2" edge-id-selector="NOQ_SG_SH39Pole2"></line>
+                </g>
+                <text id="SH39Label" transform="translate(0 31.498)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH39Label">
+                    <tspan x="0" y="0">SH-39</tspan>
+                </text>
+                <path id="Path_99" data-name="Path 99" d="M.913,16.343h0V16.8l7.06,4.34h10.39V6.279H.913V16.343"
+                    transform="translate(1.771 -0.663)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH39Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(12.003 7.467) rotate(-0.286)" edge-id-selector="NOQ_SG_SH39Aspect3"></ellipse>
+                <ellipse id="SH39Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(12.003 13.498) rotate(-0.286)" edge-id-selector="NOQ_SG_SH39Aspect2"></ellipse>
+                <ellipse id="SH39Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(5.003 9.498) rotate(-0.286)" edge-id-selector="NOQ_SG_SH39Aspect1"></ellipse>
+            </g>
+            <g id="SH37" class="tooltip" transform="translate(486.741 102.412)" edge-id="NOQ_SG_SH37">
+                <g id="Pole-8" data-name="Pole" transform="translate(24)">
+                    <line id="SH37Pole1" x1="0.284" y1="20.476" transform="translate(5.716)" fill="none"
+                        stroke="#6c7091" stroke-width="2" edge-id-selector="NOQ_SG_SH37Pole1"></line>
+                    <line id="SH37Pole2" y1="5" transform="translate(0 13.117) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2" edge-id-selector="NOQ_SG_SH37Pole2"></line>
+                </g>
+                <text id="SH37Label" transform="translate(0 30.493)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH37Label">
+                    <tspan x="0" y="0">SH-37</tspan>
+                </text>
+                <path id="Path_106" data-name="Path 106" d="M.913,16.343h0V16.8l7.06,4.34h10.39V6.279H.913V16.343"
+                    transform="translate(4.638 -3.471)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH37Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(14.595 4.467) rotate(-0.286)" edge-id-selector="NOQ_SG_SH37Aspect3"></ellipse>
+                <ellipse id="SH37Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(14.595 10.498) rotate(-0.286)" edge-id-selector="NOQ_SG_SH37Aspect2"></ellipse>
+                <ellipse id="SH37Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(7.595 6.498) rotate(-0.286)" edge-id-selector="NOQ_SG_SH37Aspect1"></ellipse>
+            </g>
+            <g id="SH16" class="tooltip" transform="translate(546.267)" edge-id="NOQ_SG_SH16">
+                <g id="Pole-9" data-name="Pole" transform="translate(6.033 23.5)">
+                    <line id="SH41Pole1" y1="14.719" fill="none" stroke="#6c7091" stroke-width="2"></line>
+                    <line id="SH41Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2"></line>
+                </g>
+                <text id="SH16Label" transform="translate(0 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH16Label">
+                    <tspan x="0" y="0">SH-16</tspan>
+                </text>
+                <path id="Path_104" data-name="Path 104"
+                    d="M18.366,11.075v-.442l-4.64-2.709L11.3,6.279H.913V21.138H18.366V10.158"
+                    transform="translate(11.634 10.903)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH16Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(14.069 18.88) rotate(-0.286)" edge-id-selector="NOQ_SG_SH16Aspect3"></ellipse>
+                <ellipse id="SH16Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(14.069 24.88) rotate(-0.286)" edge-id-selector="NOQ_SG_SH16Aspect2"></ellipse>
+                <ellipse id="SH16Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(22.069 21.88) rotate(-0.286)" edge-id-selector="NOQ_SG_SH16Aspect1"></ellipse>
+            </g>
+            <g id="SH7" class="tooltip" transform="translate(1091.741 185.202)" edge-id="NOQ_SG_SH7">
+                <g id="Pole-10" data-name="Pole" transform="translate(18)">
+                    <line id="SH7Pole1" x1="0.284" y1="20.476" transform="translate(5.716)" fill="none" stroke="#6c7091"
+                        stroke-width="2" edge-id-selector="NOQ_SG_SH7Pole1"></line>
+                    <line id="SH17Pole2" y1="5" transform="translate(0 13.117) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2"></line>
+                </g>
+                <text id="SH7Label" transform="translate(0 32.477)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH7Label">
+                    <tspan x="0" y="0">SH-7</tspan>
+                </text>
+                <path id="Path_101" data-name="Path 101" d="M.913,16.343h0V16.8l7.06,4.34h10.39V6.279H.913V16.343"
+                    transform="translate(-0.913 -0.663)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH7Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(9.595 6.678) rotate(-0.286)" edge-id-selector="NOQ_SG_SH7Aspect3"></ellipse>
+                <ellipse id="SH7Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(9.595 12.709) rotate(-0.286)" edge-id-selector="NOQ_SG_SH7Aspect2"></ellipse>
+                <ellipse id="SH7Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(2.595 8.709) rotate(-0.286)" edge-id-selector="NOQ_SG_SH7Aspect1"></ellipse>
+            </g>
+            <g id="SH9" class="tooltip" transform="translate(971.741 310.94)" edge-id="NOQ_SG_SH9">
+                <g id="Pole-11" data-name="Pole" transform="translate(18)">
+                    <line id="SH7Pole1-2" data-name="SH7Pole1" y1="24.738" x2="0.059" transform="translate(6)"
+                        fill="none" stroke="#6c7091" stroke-width="2"></line>
+                    <line id="SHPole2" y1="5" transform="translate(0 17.379) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2"></line>
+                </g>
+                <text id="SH9Label" transform="translate(0 39.812)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH9Label">
+                    <tspan x="0" y="0">SH-9</tspan>
+                </text>
+                <path id="Path_98" data-name="Path 98" d="M.913,16.343h0V16.8l7.06,4.34h10.39V6.279H.913V16.343"
+                    transform="translate(-0.912 3.599)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH9Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(9.595 10.94) rotate(-0.286)" edge-id-selector="NOQ_SG_SH9Aspect3"></ellipse>
+                <ellipse id="SH9Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(9.595 16.971) rotate(-0.286)" edge-id-selector="NOQ_SG_SH9Aspect2"></ellipse>
+                <ellipse id="SH9Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(3.595 12.971) rotate(-0.286)" edge-id-selector="NOQ_SG_SH9Aspect1"></ellipse>
+            </g>
+            <g id="SH41" class="tooltip" transform="translate(500.291 39.412)" edge-id="NOQ_SG_SH41">
+                <g id="Pole-12" data-name="Pole" transform="translate(18.45)">
+                    <line id="SH41Pole1-2" data-name="SH41Pole1" x1="0.284" y1="20.476" transform="translate(5.716)"
+                        fill="none" stroke="#6c7091" stroke-width="2" edge-id-selector="NOQ_SG_SH41Pole1-2"></line>
+                    <line id="SH41Pole2-2" data-name="SH41Pole2" y1="5" transform="translate(0 13.117) rotate(-90)"
+                        fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2"
+                        edge-id-selector="NOQ_SG_SH41Pole2-2"></line>
+                </g>
+                <text id="SH41Label" transform="translate(0 33.493)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH41Label">
+                    <tspan x="0" y="0">SH-41</tspan>
+                </text>
+                <path id="Path_105" data-name="Path 105" d="M.913,16.343h0V16.8l7.06,4.34h10.39V6.279H.913V16.343"
+                    transform="translate(-0.912 -0.663)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH41Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(10.045 7.467) rotate(-0.286)" edge-id-selector="NOQ_SG_SH41Aspect3"></ellipse>
+                <ellipse id="SH41Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(10.045 13.498) rotate(-0.286)" edge-id-selector="NOQ_SG_SH41Aspect2"></ellipse>
+                <ellipse id="SH41Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(3.045 9.498) rotate(-0.286)" edge-id-selector="NOQ_SG_SH41Aspect1"></ellipse>
+            </g>
+            <g id="SH35" class="tooltip" transform="translate(304.741 245.412)" edge-id="NOQ_SG_SH35">
+                <g id="Pole-13" data-name="Pole" transform="translate(22)">
+                    <line id="SH39Pole1-2" data-name="SH39Pole1" x1="0.284" y1="20.476" transform="translate(5.716)"
+                        fill="none" stroke="#6c7091" stroke-width="2"></line>
+                    <line id="SH39Pole2-2" data-name="SH39Pole2" y1="5" transform="translate(0 13.117) rotate(-90)"
+                        fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2"></line>
+                </g>
+                <text id="SH35Label" transform="translate(0 33.869)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH35Label">
+                    <tspan x="0" y="0">SH-35</tspan>
+                </text>
+                <path id="Path_99-2" data-name="Path 99" d="M.913,16.343h0V16.8l7.06,4.34h10.39V6.279H.913V16.343"
+                    transform="translate(3.363 -0.663)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH35Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(14.595 7.467) rotate(-0.286)" edge-id-selector="NOQ_SG_SH35Aspect3"></ellipse>
+                <ellipse id="SH35Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(14.595 13.498) rotate(-0.286)" edge-id-selector="NOQ_SG_SH35Aspect2"></ellipse>
+                <ellipse id="SH35Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(7.595 9.498) rotate(-0.286)" edge-id-selector="NOQ_SG_SH35Aspect1"></ellipse>
+            </g>
+            <g id="SH10" class="tooltip" transform="translate(508.3 272.388)">
+                <g id="Pole-14" data-name="Pole" transform="translate(0 22.5)">
+                    <line id="SH10Pole1" y1="14.719" fill="none" stroke="#6c7091" stroke-width="2"></line>
+                    <line id="SH10Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2"></line>
+                </g>
+                <text id="SH10Label" transform="translate(0.24 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">SH-10</tspan>
+                </text>
+                <path id="Path_95-2" data-name="Path 95"
+                    d="M18.366,11.075v-.442l-4.64-2.709L11.3,6.279H.913V21.138H18.366V10.158"
+                    transform="translate(5.601 9.721)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH10Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(8.036 17.768) rotate(-0.286)"></ellipse>
+                <ellipse id="SH10Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(8.036 23.799) rotate(-0.286)"></ellipse>
+                <ellipse id="SH10Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(15.12 20.783) rotate(-0.286)"></ellipse>
+            </g>
+            <g id="SH43" class="tooltip" transform="translate(294.741 185.751)" edge-id="NOQ_SG_SH43">
+                <g id="Pole-15" data-name="Pole" transform="translate(20.408)">
+                    <line id="SH43Pole1" x1="0.284" y1="20.476" transform="translate(5.716)" fill="none"
+                        stroke="#6c7091" stroke-width="2" edge-id-selector="NOQ_SG_SH43Pole1"></line>
+                    <line id="SH43Pole2" y1="5" transform="translate(0 13.117) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2" edge-id-selector="NOQ_SG_SH43Pole2"></line>
+                </g>
+                <text id="SH43Label" transform="translate(0 31.498)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH43Label">
+                    <tspan x="0" y="0">SH-43</tspan>
+                </text>
+                <path id="Path_99-3" data-name="Path 99" d="M.913,16.343h0V16.8l7.06,4.34h10.39V6.279H.913V16.343"
+                    transform="translate(1.771 -0.663)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH43Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(12.003 7.467) rotate(-0.286)" edge-id-selector="NOQ_SG_SH43Aspect3"></ellipse>
+                <ellipse id="SH43Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(12.003 13.498) rotate(-0.286)" edge-id-selector="NOQ_SG_SH43Aspect2"></ellipse>
+                <ellipse id="SH43Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(5.003 9.498) rotate(-0.286)" edge-id-selector="NOQ_SG_SH43Aspect1"></ellipse>
+            </g>
+            <g id="SH24" class="tooltip" transform="translate(177.358 270.388)" edge-id="NOQ_SG_SH24">
+                <g id="Pole-16" data-name="Pole" transform="translate(0 22.5)">
+                    <line id="SH24Pole1" y1="15.549" fill="none" stroke="#6c7091" stroke-width="2"
+                        edge-id-selector="NOQ_SG_SH24Pole1"></line>
+                    <line id="SH24Pole2" y2="4.942" transform="translate(0 0.281) rotate(-90)" fill="none"
+                        stroke="#6c7091" stroke-linecap="round" stroke-width="2" edge-id-selector="NOQ_SG_SH24Pole2">
+                    </line>
+                </g>
+                <text id="SH24Label" transform="translate(0.182 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SH24Label">
+                    <tspan x="0" y="0">SH-24</tspan>
+                </text>
+                <path id="Path_95-3" data-name="Path 95"
+                    d="M18.366,11.075v-.442l-4.64-2.709L11.3,6.279H.913V21.138H18.366V10.158"
+                    transform="translate(5.543 9.721)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="SH24Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(7.978 17.768) rotate(-0.286)" edge-id-selector="NOQ_SG_SH24Aspect3"></ellipse>
+                <ellipse id="SH24Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(7.978 23.799) rotate(-0.286)" edge-id-selector="NOQ_SG_SH24Aspect2"></ellipse>
+                <ellipse id="SH24Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(15.062 20.783) rotate(-0.286)" edge-id-selector="NOQ_SG_SH24Aspect1"></ellipse>
+            </g>
+            <g id="DSH_L2" class="tooltip" transform="translate(662.04 205.388)">
+                <g id="Pole-17" data-name="Pole" transform="translate(4.259 24.5)">
+                    <line id="DSHL2Pole1" y1="14.719" fill="none" stroke="#6c7091" stroke-width="2"></line>
+                    <line id="DSHL2Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091"
+                        stroke-linecap="round" stroke-width="2"></line>
+                </g>
+                <text id="DSH_L2Label" transform="translate(0 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">DSH_L2</tspan>
+                </text>
+                <path id="Path_95-4" data-name="Path 95"
+                    d="M18.366,11.075v-.442l-4.64-2.709L11.3,6.279H.913V21.138H18.366V10.158"
+                    transform="translate(9.86 11.721)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="DSH_L2Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(12.295 19.768) rotate(-0.286)"></ellipse>
+                <ellipse id="DSH_L2Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(12.295 25.799) rotate(-0.286)"></ellipse>
+                <ellipse id="DSH_L2Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(19.379 22.783) rotate(-0.286)"></ellipse>
+            </g>
+            <g id="DSH_L10" class="tooltip" transform="translate(136.967 311.412)">
+                <g id="Pole-18" data-name="Pole" transform="translate(22.774)">
+                    <line id="DSH_L10Pole1" x1="0.284" y1="20.476" transform="translate(5.716)" fill="none"
+                        stroke="#6c7091" stroke-width="2"></line>
+                    <line id="DSH_L10Pole2" y1="5" transform="translate(0 13.117) rotate(-90)" fill="none"
+                        stroke="#6c7091" stroke-linecap="round" stroke-width="2"></line>
+                </g>
+                <text id="DSH_L10Label" transform="translate(27 29.498)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">DSH_L10</tspan>
+                </text>
+                <path id="Path_99-4" data-name="Path 99" d="M.913,16.343h0V16.8l7.06,4.34h10.39V6.279H.913V16.343"
+                    transform="translate(4.137 -0.663)" fill="none" stroke="#6c7091" stroke-width="2"></path>
+                <ellipse id="DSH_L10Aspect3" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(14.369 7.467) rotate(-0.286)"></ellipse>
+                <ellipse id="DSH_L10Aspect2" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(14.369 13.498) rotate(-0.286)"></ellipse>
+                <ellipse id="DSH_L10Aspect1" cx="2.981" cy="3" rx="2.981" ry="3"
+                    transform="translate(7.369 9.498) rotate(-0.286)"></ellipse>
+            </g>
+        </g>
+        <g id="Signal" transform="translate(138.426 148.488)">
+            <g id="SGS41" class="tooltip" transform="translate(629.331 40.186) rotate(-0.286)" edge-id="NOQ_SG_S41">
+                <text id="SGS41Label" transform="translate(0 23.969)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_S41Label">
+                    <tspan x="0" y="0">S-41</tspan>
+                </text>
+                <g id="SGS41Aspect2" transform="translate(0.067)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S41Aspect2">
+                    <ellipse cx="7.478" cy="7.5" rx="7.478" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.478" cy="7.5" rx="6.728" ry="6.75" fill="none"></ellipse>
+                </g>
+                <g id="SGS41Aspect1" transform="translate(15.1 0.079)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S41Aspect1">
+                    <ellipse cx="7.478" cy="7.5" rx="7.478" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.478" cy="7.5" rx="6.728" ry="6.75" fill="none"></ellipse>
+                </g>
+            </g>
+            <g id="SGS14" class="tooltip" transform="translate(796.536 65.531) rotate(-0.286)" edge-id="NOQ_SG_S14">
+                <text id="SGS14Label" transform="translate(11.987 11)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_S14Label">
+                    <tspan x="0" y="0">S-14</tspan>
+                </text>
+                <g id="SGS14Aspect1-2" data-name="SGS14Aspect1" transform="translate(0 11.967)" fill="none"
+                    stroke="#6c7091" stroke-width="1.5" edge-id-selector="NOQ_SG_S14Aspect1-2">
+                    <ellipse cx="7.282" cy="7.5" rx="7.282" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.282" cy="7.5" rx="6.532" ry="6.75" fill="none"></ellipse>
+                </g>
+                <g id="SGS14Aspect2-2" data-name="SGS14Aspect2" transform="translate(14.639 12.046)" fill="none"
+                    stroke="#6c7091" stroke-width="1.5" edge-id-selector="NOQ_SG_S14Aspect2-2">
+                    <ellipse cx="7.282" cy="7.5" rx="7.282" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.282" cy="7.5" rx="6.532" ry="6.75" fill="none"></ellipse>
+                </g>
+            </g>
+            <g id="SGS37" class="tooltip" transform="translate(614.566 100.215) rotate(-0.286)" edge-id="NOQ_SG_S37">
+                <text id="SGS37Label" transform="translate(0 25.047)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_S37Label">
+                    <tspan x="0" y="0">S-37</tspan>
+                </text>
+                <g id="SGS37Aspect2" transform="translate(7.031)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S37Aspect2">
+                    <ellipse cx="7.447" cy="7.5" rx="7.447" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.447" cy="7.5" rx="6.697" ry="6.75" fill="none"></ellipse>
+                </g>
+                <g id="SGS37Aspect1" transform="translate(22.002 0.079)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S37Aspect1">
+                    <ellipse cx="7.447" cy="7.5" rx="7.447" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.447" cy="7.5" rx="6.697" ry="6.75" fill="none"></ellipse>
+                </g>
+            </g>
+            <g id="SGS46" class="tooltip" transform="translate(228.777 173.235) rotate(179.714)" edge-id="NOQ_SG_S46">
+                <text id="SGS46Label" transform="translate(33.431 16.175) rotate(180)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_S46Label">
+                    <tspan x="0" y="0">S-46</tspan>
+                </text>
+                <g id="SGS46Aspect2" transform="translate(15 0.079)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S46Aspect2">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="SGS46Aspect1" transform="translate(30.078 0.158)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S46Aspect1">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="SGS46Aspect3" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S46Aspect3">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+            </g>
+            <g id="SGS12" class="tooltip" transform="translate(905.584 149.275) rotate(-0.286)" edge-id="NOQ_SG_S12">
+                <text id="SGS12Label" transform="translate(8.961 11)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_S12Label">
+                    <tspan x="0" y="0">S-12</tspan>
+                </text>
+                <g id="SGS12Aspect1" transform="translate(0 11.983)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S12Aspect1">
+                    <ellipse cx="7.204" cy="7.5" rx="7.204" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.204" cy="7.5" rx="6.454" ry="6.75" fill="none"></ellipse>
+                </g>
+                <g id="SGS12Aspect3" transform="translate(14.484 12.062)" fill="none" stroke="#6c7091"
+                    stroke-width="1.5" edge-id-selector="NOQ_SG_S12Aspect3">
+                    <ellipse cx="7.204" cy="7.5" rx="7.204" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.204" cy="7.5" rx="6.454" ry="6.75" fill="none"></ellipse>
+                </g>
+            </g>
+            <g id="SGS2" class="tooltip" transform="translate(1376.508 181.082) rotate(179.714)" edge-id="NOQ_SG_S2">
+                <text id="SGS2Label" transform="translate(27.842 25) rotate(180)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_S2Label">
+                    <tspan x="0" y="0">S-2</tspan>
+                </text>
+                <g id="SGS2Aspect3" transform="translate(0 6.926)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S2Aspect3">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="SGS2Aspect1" transform="translate(15.078 7.004)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S2Aspect1">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="POLES-3" data-name="POLES" transform="translate(29.342)">
+                    <line id="POLES1-3" data-name="POLES1" y2="13.952" transform="translate(7.972)" fill="none"
+                        stroke="#6c7091" stroke-width="1.5"></line>
+                    <line id="POLES2-3" data-name="POLES2" x2="7.851" transform="translate(0 13.883)" fill="none"
+                        stroke="#6c7091" stroke-linecap="round" stroke-width="1.5"></line>
+                </g>
+            </g>
+            <g id="SGS3" class="tooltip" transform="translate(1383.586 250.11) rotate(-0.286)" edge-id="NOQ_SG_S3">
+                <text id="SGS3Label" transform="translate(13.921 27.157)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_S3Label">
+                    <tspan x="0" y="0">S-3</tspan>
+                </text>
+                <g id="SGS3Aspect2" transform="translate(15.078 0.079)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S3Aspect2">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="SGS3Aspect1" transform="translate(30.078 0.157)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S3Aspect1">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="SGS3Aspect3" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NOQ_SG_S3Aspect3">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+            </g>
+            <g id="SGS39" class="tooltip" transform="translate(459.99 312.43) rotate(-0.286)" edge-id="NOQ_SG_S39">
+                <text id="SGS39Label" transform="translate(0 26.073)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_S39Label">
+                    <tspan x="0" y="0">S-39</tspan>
+                </text>
+                <g id="SGS39Aspect2" transform="translate(2.035)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S39Aspect2">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="SGS39Aspect1" transform="translate(17.113 0.078)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S39Aspect1">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+            </g>
+            <g id="SGSDD" class="tooltip" transform="translate(52.586 182.103) rotate(179.714)" edge-id="NOQ_SG_SDD">
+                <text id="SGSDDLabel" transform="translate(30.999 25.042) rotate(180)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SDDLabel">
+                    <tspan x="0" y="0">DD</tspan>
+                </text>
+                <g id="SGSDDAspect3" transform="translate(15.078 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_SDDAspect3">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="SGSDDAspect2" transform="translate(30.156 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_SDDAspect2">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="SGSDDAspect1" transform="translate(0 6.88)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_SDDAspect1">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="POLES-4" data-name="POLES" transform="translate(44.42)">
+                    <line id="POLES1-4" data-name="POLES1" y2="13.952" transform="translate(7.972)" fill="none"
+                        stroke="#6c7091" stroke-width="1.5"></line>
+                    <line id="POLES2-4" data-name="POLES2" x2="7.851" transform="translate(0 13.883)" fill="none"
+                        stroke="#6c7091" stroke-linecap="round" stroke-width="1.5"></line>
+                </g>
+            </g>
+            <g id="SGSUD" class="tooltip" transform="translate(1573.926 242.352) rotate(-0.286)" edge-id="NOQ_SG_SUD">
+                <text id="SGSUDLabel" transform="translate(14.004 32.411)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_SUDLabel">
+                    <tspan x="0" y="0">UD</tspan>
+                </text>
+                <g id="SGSUDAspect3" transform="translate(15.078 6.333)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_SUDAspect3">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="SGSUDAspect2" transform="translate(30.156 6.412)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_SUDAspect2">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="SGSUDAspect1" transform="translate(0 6.254)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_SUDAspect1">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="POLES-5" data-name="POLES" transform="translate(45.268)">
+                    <line id="POLES1-5" data-name="POLES1" y2="13.952" transform="translate(7.972)" fill="none"
+                        stroke="#6c7091" stroke-width="2"></line>
+                    <line id="POLES2-5" data-name="POLES2" x2="7.851" transform="translate(0 13.883)" fill="none"
+                        stroke="#6c7091" stroke-linecap="round" stroke-width="2"></line>
+                </g>
+            </g>
+            <g id="SGS16" class="tooltip" transform="translate(737.474 0.157) rotate(-0.286)" edge-id="NOQ_SG_S16">
+                <text id="SGS16Label" transform="translate(6.594 11)" fill="#fff" font-size="10"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_S16Label">
+                    <tspan x="0" y="0">S-16</tspan>
+                </text>
+                <g id="SGS16Aspect1" transform="translate(0 14.044)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S16Aspect1">
+                    <ellipse cx="7.481" cy="7.5" rx="7.481" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.481" cy="7.5" rx="6.731" ry="6.75" fill="none"></ellipse>
+                </g>
+                <g id="SGS16Aspect2" transform="translate(15.041 14.123)" fill="none" stroke="#6c7091"
+                    stroke-width="1.5" edge-id-selector="NOQ_SG_S16Aspect2">
+                    <ellipse cx="7.481" cy="7.5" rx="7.481" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.481" cy="7.5" rx="6.731" ry="6.75" fill="none"></ellipse>
+                </g>
+            </g>
+            <g id="SGS47" class="tooltip" transform="translate(169.24 274.841) rotate(179.714)" edge-id="NOQ_SG_S47">
+                <text id="SGS47Label" transform="translate(30.728 3) rotate(180)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_S47Label">
+                    <tspan x="0" y="0">S-47</tspan>
+                </text>
+                <g id="SGS47Aspect1" transform="translate(8.119 13.192)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S47Aspect1">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="SGS47Aspect3" transform="translate(23.197 13.271)" fill="none" stroke="#6c7091"
+                    stroke-width="1.5" edge-id-selector="NOQ_SG_S47Aspect3">
+                    <circle cx="7.5" cy="7.5" r="7.5" stroke="none"></circle>
+                    <circle cx="7.5" cy="7.5" r="6.75" fill="none"></circle>
+                </g>
+                <g id="POLES-6" data-name="POLES" transform="translate(0 14.996)">
+                    <line id="POLES1-6" data-name="POLES1" x1="0.065" y2="16.584" fill="none" stroke="#6c7091"
+                        stroke-width="1.5"></line>
+                    <line id="POLES2-6" data-name="POLES2" x2="7.851" transform="translate(0.101 6.976)" fill="none"
+                        stroke="#6c7091" stroke-linecap="round" stroke-width="1.5"></line>
+                </g>
+            </g>
+            <g id="SGS35" class="tooltip" transform="translate(435.741 245.43) rotate(-0.286)" edge-id="NOQ_SG_S35">
+                <text id="SGS35Label" transform="translate(0 27.104)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_SG_S35Label">
+                    <tspan x="0" y="0">S-35</tspan>
+                </text>
+                <g id="SGS35Aspect3" transform="translate(2.033)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S35Aspect3">
+                    <ellipse cx="7.553" cy="7.5" rx="7.553" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.553" cy="7.5" rx="6.803" ry="6.75" fill="none"></ellipse>
+                </g>
+                <g id="SGS35Aspect1" transform="translate(17.218 0.078)" fill="none" stroke="#6c7091" stroke-width="1.5"
+                    edge-id-selector="NOQ_SG_S35Aspect1">
+                    <ellipse cx="7.553" cy="7.5" rx="7.553" ry="7.5" stroke="none"></ellipse>
+                    <ellipse cx="7.553" cy="7.5" rx="6.803" ry="6.75" fill="none"></ellipse>
+                </g>
+            </g>
+        </g>
+        <g id="Stationinfo" transform="translate(824.355 20)">
+            <text id="StationInfoenglish" transform="translate(35.903 32)" fill="#fff" font-size="30"
+                font-family="NirmalaUI, Nirmala UI" opacity="0.8">
+                <tspan x="0" y="0">आलिपुरद्वार</tspan>
+            </text>
+            <path id="Path_1" data-name="Path 1" d="M0,0H180" transform="translate(13.645 49.216)" fill="none"
+                stroke="#fff" stroke-width="3"></path>
+            <text id="StationInfo-2" data-name="StationInfo" transform="translate(0 90.431)" fill="#fff" font-size="30"
+                font-family="SegoeUI, Segoe UI">
+                <tspan x="0" y="0">New Alipurduar</tspan>
+            </text>
+        </g>
+        <g id="Legend" transform="translate(1394.55 723.379)">
+            <g id="PMLegend">
+                <text id="PMLegendLabel" transform="translate(8.299 13.078)" fill="#fff" font-size="9"
+                    font-family="SegoeUI, Segoe UI">
+                    <tspan x="0" y="0">POINT MACHINE</tspan>
+                </text>
+                <g id="PMLegendNormal" transform="translate(8.299 19.235)">
+                    <g id="PMLegendNormalIndicator" transform="translate(0 0)" fill="none" stroke="#21e074"
+                        stroke-width="4">
+                        <ellipse cx="7.544" cy="7.694" rx="7.544" ry="7.694" stroke="none"></ellipse>
+                        <ellipse cx="7.544" cy="7.694" rx="5.544" ry="5.694" fill="none"></ellipse>
+                    </g>
+                    <text id="PMLegendNormalLabel" transform="translate(24.142 10.769)" fill="#fff" font-size="9"
+                        font-family="SegoeUI, Segoe UI">
+                        <tspan x="0" y="0">NORMAL</tspan>
+                    </text>
+                </g>
+                <g id="PMLegendReverse" transform="translate(8.299 37.7)">
+                    <g id="PMLegendReverseIndicator" transform="translate(0 0)" fill="none" stroke="#0088d1"
+                        stroke-width="4">
+                        <ellipse cx="7.544" cy="7.694" rx="7.544" ry="7.694" stroke="none"></ellipse>
+                        <ellipse cx="7.544" cy="7.694" rx="5.544" ry="5.694" fill="none"></ellipse>
+                    </g>
+                    <text id="PMLegendReverseLabel" transform="translate(22.633 10)" fill="#fff" font-size="9"
+                        font-family="SegoeUI, Segoe UI">
+                        <tspan x="0" y="0">REVERSE</tspan>
+                    </text>
+                </g>
+                <g id="PMLegendHr" transform="translate(9 53.528)">
+                    <path id="PMLegendHr1"
+                        d="M7.871,15.116C3.639,12.1,1.419,9.352.509,7.054-1.93.9,5.036-2.049,7.871,1.586c2.835-3.635,9.8-.69,7.362,5.468C14.323,9.352,12.1,12.1,7.871,15.116Z"
+                        transform="translate(0 2.66)" fill="red"></path>
+                    <path id="PMLegendHr2" d="M-.094-.755H3.881L5.527-3.307,7.664,1.518,9.2-.755l5.353-.006"
+                        transform="translate(0.632 10.587)" fill="none" stroke="#000" stroke-linecap="round"
+                        stroke-width="0.4"></path>
+                    <text id="PMLegendFailureLabel" transform="translate(21.654 10)" fill="#fff" font-size="9"
+                        font-family="SegoeUI, Segoe UI">
+                        <tspan x="0" y="0">FAILURE</tspan>
+                    </text>
+                </g>
+                <g id="PMLegendCanvas" fill="none" stroke="#fff" stroke-width="2">
+                    <rect width="95.06" height="83.863" stroke="none"></rect>
+                    <rect x="1" y="1" width="93.06" height="81.863" fill="none"></rect>
+                </g>
+            </g>
+            <g id="TCLegend" transform="translate(131.273)">
+                <text id="TCLegendLabel" transform="translate(16.598 13.078)" fill="#fff" font-size="9"
+                    font-family="SegoeUI, Segoe UI">
+                    <tspan x="0" y="0">TRACK CIRCUIT</tspan>
+                </text>
+                <g id="TCFreeLegendGroup" transform="translate(7.922 21.923)">
+                    <line id="TCFreeLegendIndicator" x2="52.811" transform="translate(0 7.309)" fill="none"
+                        stroke="#fff" stroke-width="6"></line>
+                    <text id="TCFreeLegendLabel" transform="translate(58.469 10)" fill="#fff" font-size="9"
+                        font-family="SegoeUI, Segoe UI">
+                        <tspan x="0" y="0">FREE</tspan>
+                    </text>
+                </g>
+                <g id="TCOccupiedLegendGroup" transform="translate(7.922 39.576)">
+                    <line id="TCOccupiedLegendIndicator" x2="52.811" transform="translate(0 7.309)" fill="none"
+                        stroke="#e77e00" stroke-width="6"></line>
+                    <text id="TCOccupiedLegendLabel" transform="translate(58.033 10)" fill="#fff" font-size="9"
+                        font-family="SegoeUI, Segoe UI">
+                        <tspan x="0" y="0">OCCUPIED</tspan>
+                    </text>
+                </g>
+                <g id="TCFailureLLegendGroup" transform="translate(7.922 55.81)">
+                    <line id="TCFailureLegendIndicator" x2="52.811" transform="translate(0 7.309)" fill="none"
+                        stroke="red" stroke-width="6"></line>
+                    <text id="TCFailureLLegendLabel" transform="translate(59.601 10)" fill="#fff" font-size="9"
+                        font-family="SegoeUI, Segoe UI">
+                        <tspan x="0" y="0">FAILURE</tspan>
+                    </text>
+                </g>
+                <g id="TCLegendCanvas" fill="none" stroke="#fff" stroke-width="2">
+                    <rect width="119.957" height="83.863" stroke="none"></rect>
+                    <rect x="1" y="1" width="117.957" height="81.863" fill="none"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="LCG" transform="translate(352 107)">
+            <g id="LCGNN89A" class="tooltip" transform="translate(792 2)" edge-id="NOQ_LCG_NN89A">
+                <g id="LCGNN89AContent" edge-id-selector="NOQ_LCG_NN89AContent">
+                    <line id="LCGNN89Line" x1="3" y2="308" transform="translate(64 71.5)" fill="none" stroke="#fff"
+                        stroke-width="2" stroke-dasharray="2"></line>
+                    <g id="Group_1" data-name="Group 1" transform="translate(1.747 13)">
+                        <text id="CONTROL_301" data-name="CONTROL 301" transform="translate(9.909 12)" fill="#fff"
+                            font-size="11" font-family="OpenSans, Open Sans">
+                            <tspan x="0" y="0">CONTROL 301</tspan>
+                        </text>
+                        <text id="GATE_NO._NN-89B" data-name="GATE NO. NN-89B" transform="translate(0 27)" fill="#fff"
+                            font-size="11" font-family="OpenSans, Open Sans">
+                            <tspan x="0" y="0">GATE NO. NN-89B</tspan>
+                        </text>
+                    </g>
+                    <line id="LCGNN89Line-2" data-name="LCGNN89Line" x1="3" y2="308" transform="translate(27.5 71.5)"
+                        fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="2"></line>
+                    <g id="Rectangle_1-2" data-name="Rectangle 1" transform="translate(0 11)" fill="none" stroke="#fff"
+                        stroke-width="2">
+                        <rect width="98" height="56" stroke="none"></rect>
+                        <rect x="1" y="1" width="96" height="54" fill="none"></rect>
+                    </g>
+                    <text id="CHR" transform="translate(130.053 9)" fill="#fff" font-size="8"
+                        font-family="OpenSans, Open Sans">
+                        <tspan x="0" y="0">CHR</tspan>
+                    </text>
+                    <text id="EMRSR" transform="translate(99.023 9)" fill="#fff" font-size="8"
+                        font-family="OpenSans, Open Sans">
+                        <tspan x="0" y="0">EMRSR</tspan>
+                    </text>
+                </g>
+                <g id="LCGNN89ABoomBClose" transform="translate(13 57)" fill="none" stroke="#fff" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN89ABoomBClose">
+                    <ellipse cx="4.5" cy="4" rx="4.5" ry="4" stroke="none"></ellipse>
+                    <ellipse cx="4.5" cy="4" rx="4" ry="3.5" fill="none"></ellipse>
+                </g>
+                <g id="LCGNN89ABoomBOpen" transform="translate(44 57)" fill="none" stroke="#fff" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN89ABoomBOpen">
+                    <ellipse cx="4.5" cy="4" rx="4.5" ry="4" stroke="none"></ellipse>
+                    <ellipse cx="4.5" cy="4" rx="4" ry="3.5" fill="none"></ellipse>
+                </g>
+                <g id="LCGNN89AEMRSR" transform="translate(104 12)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN89AEMRSR">
+                    <rect width="18" height="17" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="17" height="16" fill="none"></rect>
+                </g>
+                <g id="LCGNN89ACHR" transform="translate(126 12)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN89ACHR">
+                    <rect width="18" height="17" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="17" height="16" fill="none"></rect>
+                </g>
+                <g id="LCGNN89ABoomAClose" transform="translate(17 424)" fill="none" stroke="#fff" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN89ABoomAClose">
+                    <ellipse cx="4.5" cy="4" rx="4.5" ry="4" stroke="none"></ellipse>
+                    <ellipse cx="4.5" cy="4" rx="4" ry="3.5" fill="none"></ellipse>
+                </g>
+                <g id="LCGNN89ABoomAOpen" transform="translate(51 424)" fill="none" stroke="#fff" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN89ABoomAOpen">
+                    <ellipse cx="4.5" cy="4" rx="4.5" ry="4" stroke="none"></ellipse>
+                    <ellipse cx="4.5" cy="4" rx="4" ry="3.5" fill="none"></ellipse>
+                </g>
+            </g>
+            <g id="LCGNN90A" class="tooltip" edge-id="NOQ_LCG_NN90A">
+                <g id="LCGNN90ABoomAClose" transform="translate(18 425)" fill="none" stroke="#fff" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN90ABoomAClose">
+                    <ellipse cx="4.5" cy="4" rx="4.5" ry="4" stroke="none"></ellipse>
+                    <ellipse cx="4.5" cy="4" rx="4" ry="3.5" fill="none"></ellipse>
+                </g>
+                <g id="LCGNN90ABoomAOpen" transform="translate(55 424)" fill="none" stroke="#fff" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN90ABoomAOpen">
+                    <circle cx="4.5" cy="4.5" r="4.5" stroke="none"></circle>
+                    <circle cx="4.5" cy="4.5" r="4" fill="none"></circle>
+                </g>
+                <g id="LCGNN90AEMRSR" transform="translate(115 11)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN90AEMRSR">
+                    <rect width="18" height="17" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="17" height="16" fill="none"></rect>
+                </g>
+                <g id="LCGNN90ACHR" transform="translate(137 11)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN90ACHR">
+                    <rect width="18" height="17" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="17" height="16" fill="none"></rect>
+                </g>
+                <g id="LCGNN90ABoomBClose" transform="translate(16 54)" fill="none" stroke="#fff" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN90ABoomBClose">
+                    <ellipse cx="4.5" cy="4" rx="4.5" ry="4" stroke="none"></ellipse>
+                    <ellipse cx="4.5" cy="4" rx="4" ry="3.5" fill="none"></ellipse>
+                </g>
+                <g id="LCGNN90ABoomBOpen" transform="translate(51 54)" fill="none" stroke="#fff" stroke-width="1"
+                    edge-id-selector="NOQ_LCG_NN90ABoomBOpen">
+                    <ellipse cx="4.5" cy="4" rx="4.5" ry="4" stroke="none"></ellipse>
+                    <ellipse cx="4.5" cy="4" rx="4" ry="3.5" fill="none"></ellipse>
+                </g>
+                <g id="LCGNN90AContent" edge-id-selector="NOQ_LCG_NN90AContent">
+                    <g id="Group_2" data-name="Group 2" transform="translate(8.747 13)">
+                        <text id="CONTROL_302" data-name="CONTROL 302" transform="translate(9.909 12)" fill="#fff"
+                            font-size="11" font-family="OpenSans, Open Sans">
+                            <tspan x="0" y="0">CONTROL 302</tspan>
+                        </text>
+                        <text id="GATE_NO._NN-90B" data-name="GATE NO. NN-90B" transform="translate(0 27)" fill="#fff"
+                            font-size="11" font-family="OpenSans, Open Sans">
+                            <tspan x="0" y="0">GATE NO. NN-90B</tspan>
+                        </text>
+                    </g>
+                    <line id="LCGNN90Line" y2="317" transform="translate(55 65)" fill="none" stroke="#fff"
+                        stroke-width="2" stroke-dasharray="3"></line>
+                    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(0 11)" fill="none" stroke="#fff"
+                        stroke-width="2">
+                        <rect width="110" height="54" stroke="none"></rect>
+                        <rect x="1" y="1" width="108" height="52" fill="none"></rect>
+                    </g>
+                    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(0 382)" fill="none" stroke="#fff"
+                        stroke-width="2">
+                        <rect width="110" height="54" stroke="none"></rect>
+                        <rect x="1" y="1" width="108" height="52" fill="none"></rect>
+                    </g>
+                    <g id="Group_3" data-name="Group 3" transform="translate(4.83 382)">
+                        <text id="CONTROL_302-2" data-name="CONTROL 302" transform="translate(9.826 12)" fill="#fff"
+                            font-size="11" font-family="OpenSans, Open Sans">
+                            <tspan x="0" y="0">CONTROL 302</tspan>
+                        </text>
+                        <text id="GATE_NO._NN-90A" data-name="GATE NO. NN-90A" transform="translate(0 27)" fill="#fff"
+                            font-size="11" font-family="OpenSans, Open Sans">
+                            <tspan x="0" y="0">GATE NO. NN-90A</tspan>
+                        </text>
+                    </g>
+                    <line id="LCGNN90ALine" x1="1" y2="317" transform="translate(76.5 65.5)" fill="none" stroke="#fff"
+                        stroke-width="2" stroke-dasharray="3" edge-id-selector="NOQ_LCG_NN90ALine"></line>
+                    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(785 382)" fill="none"
+                        stroke="#fff" stroke-width="2">
+                        <rect width="110" height="54" stroke="none"></rect>
+                        <rect x="1" y="1" width="108" height="52" fill="none"></rect>
+                    </g>
+                    <g id="Group_4" data-name="Group 4" transform="translate(793.83 388)">
+                        <text id="CONTROL_301-2" data-name="CONTROL 301" transform="translate(9.826 12)" fill="#fff"
+                            font-size="11" font-family="OpenSans, Open Sans">
+                            <tspan x="0" y="0">CONTROL 301</tspan>
+                        </text>
+                        <text id="GATE_NO._NN-89A" data-name="GATE NO. NN-89A" transform="translate(0 27)" fill="#fff"
+                            font-size="11" font-family="OpenSans, Open Sans">
+                            <tspan x="0" y="0">GATE NO. NN-89A</tspan>
+                        </text>
+                    </g>
+                    <text id="CHR-2" data-name="CHR" transform="translate(141.053 9)" fill="#fff" font-size="8"
+                        font-family="OpenSans, Open Sans">
+                        <tspan x="0" y="0">CHR</tspan>
+                    </text>
+                    <text id="EMRSR-2" data-name="EMRSR" transform="translate(112.023 9)" fill="#fff" font-size="8"
+                        font-family="OpenSans, Open Sans">
+                        <tspan x="0" y="0">EMRSR</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="LCGContent" transform="translate(5.949 42)">
+                <text id="CLOSED" transform="translate(0 9)" fill="#fff" font-size="8"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">CLOSED</tspan>
+                </text>
+                <text id="OPEN" transform="translate(39.287 9)" fill="#fff" font-size="8"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">OPEN</tspan>
+                </text>
+                <text id="CLOSED-2" data-name="CLOSED" transform="translate(789 12)" fill="#fff" font-size="8"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">CLOSED</tspan>
+                </text>
+                <text id="OPEN-2" data-name="OPEN" transform="translate(823.287 12)" fill="#fff" font-size="8"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">OPEN</tspan>
+                </text>
+                <text id="CLOSED-3" data-name="CLOSED" transform="translate(4 380)" fill="#fff" font-size="8"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">CLOSED</tspan>
+                </text>
+                <text id="OPEN-3" data-name="OPEN" transform="translate(43.287 380)" fill="#fff" font-size="8"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">OPEN</tspan>
+                </text>
+                <text id="CLOSED-4" data-name="CLOSED" transform="translate(792 383)" fill="#fff" font-size="8"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">CLOSED</tspan>
+                </text>
+                <text id="OPEN-4" data-name="OPEN" transform="translate(831.287 383)" fill="#fff" font-size="8"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">OPEN</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="AXL" transform="translate(1303 580.258)">
+            <g id="AXLNBS_DN1" class="tooltip" transform="translate(4.505 45)" edge-id="NOQ_AC_DNBPAC3">
+                <text id="AXLNBS_DN1Label" transform="translate(0 29)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_AC_DNBPAC3Label">
+                    <tspan x="0" y="0">NBS_DN1</tspan>
+                </text>
+                <g id="AXLNBS_DN1Icon" transform="translate(18.495)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_AC_DNBPAC3Icon">
+                    <rect width="24" height="18" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="23" height="17" fill="none"></rect>
+                </g>
+            </g>
+            <g id="AXLNBS_DN2" class="tooltip" transform="translate(60.505 45)" edge-id="NOQ_AC_DNBPAC4">
+                <text id="AXLNBS_DN2Label" transform="translate(0 29)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_AC_DNBPAC4Label">
+                    <tspan x="0" y="0">NBS_DN2</tspan>
+                </text>
+                <g id="AXLNBS_DN2Icon" transform="translate(16.495)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_AC_DNBPAC4Icon">
+                    <rect width="24" height="18" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="23" height="17" fill="none"></rect>
+                </g>
+            </g>
+            <g id="AXLNBS_UP1" class="tooltip" transform="translate(115.346 45)" edge-id="NOQ_AC_UPBPAC3">
+                <text id="AXLNBS_UP1Label" transform="translate(0 29)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_AC_UPBPAC3Label">
+                    <tspan x="0" y="0">NBS_UP1</tspan>
+                </text>
+                <g id="AXLNBS_UP1Icon" transform="translate(16.654)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_AC_UPBPAC3Icon">
+                    <rect width="24" height="18" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="23" height="17" fill="none"></rect>
+                </g>
+            </g>
+            <g id="AXLNBS_UP2" class="tooltip" transform="translate(170.346 45)" edge-id="NOQ_AC_UPBPAC4">
+                <text id="AXLNBS_UP2Label" transform="translate(0 29)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_AC_UPBPAC4Label">
+                    <tspan x="0" y="0">NBS_UP2</tspan>
+                </text>
+                <g id="AXLNBS_UP2Icon" transform="translate(17.654)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_AC_UPBPAC4Icon">
+                    <rect width="24" height="18" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="23" height="17" fill="none"></rect>
+                </g>
+            </g>
+            <g id="AXLSMTA_DN1" class="tooltip" transform="translate(224.727 45)" edge-id="NOQ_AC_DNBPAC1">
+                <text id="AXLSMTA_DN1Label" transform="translate(0 29)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_AC_DNBPAC1Label">
+                    <tspan x="0" y="0">SMTA_DN1</tspan>
+                </text>
+                <g id="AXLSMTA_DN1Icon" transform="translate(14.273)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_AC_DNBPAC1Icon">
+                    <rect width="24" height="18" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="23" height="17" fill="none"></rect>
+                </g>
+            </g>
+            <g id="AXLSMTA_DN2" class="tooltip" transform="translate(287.727 45)" edge-id="NOQ_AC_DNBPAC2">
+                <text id="AXLSMTA_DN2Label" transform="translate(0 29)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_AC_DNBPAC2Label">
+                    <tspan x="0" y="0">SMTA_DN2</tspan>
+                </text>
+                <g id="AXLSMTA_DN2Icon" transform="translate(11.273)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_AC_DNBPAC2Icon">
+                    <rect width="24" height="18" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="23" height="17" fill="none"></rect>
+                </g>
+            </g>
+            <g id="AXLSMTA_UP1" class="tooltip" transform="translate(350.567 45)" edge-id="NOQ_AC_UPBPAC1">
+                <text id="AXLSMTA_UP1Label" transform="translate(0 29)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_AC_UPBPAC1Label">
+                    <tspan x="0" y="0">SMTA_UP1</tspan>
+                </text>
+                <g id="AXLSMTA_UP1Icon" transform="translate(8.433)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_AC_UPBPAC1Icon">
+                    <rect width="24" height="18" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="23" height="17" fill="none"></rect>
+                </g>
+            </g>
+            <g id="AXLSMTA_UP2" class="tooltip" transform="translate(412.567 45)" edge-id="NOQ_AC_UPBPAC2">
+                <text id="AXSMTA_UP2Label" transform="translate(0 29)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">SMTA_UP2</tspan>
+                </text>
+                <g id="AXLSMTA_UP2Icon" transform="translate(8.433)" fill="#fff" stroke="#707070" stroke-width="1"
+                    edge-id-selector="NOQ_AC_UPBPAC2Icon">
+                    <rect width="24" height="18" stroke="none"></rect>
+                    <rect x="0.5" y="0.5" width="23" height="17" fill="none"></rect>
+                </g>
+            </g>
+            <text id="AXLE_COUNTER" data-name="AXLE COUNTER" transform="translate(162.523 30)" fill="#fff"
+                font-size="18" font-family="OpenSans, Open Sans">
+                <tspan x="0" y="0">AXLE COUNTER</tspan>
+            </text>
+            <g id="AXLRectangle" fill="none" stroke="#fff" stroke-width="3">
+                <rect width="483" height="109" stroke="none"></rect>
+                <rect x="1.5" y="1.5" width="480" height="106" fill="none"></rect>
+            </g>
+        </g>
+        <g id="TrackCircuit" data-name="Track Circuit" transform="translate(130.5 171.817)">
+            <g id="TCC46T" class="tooltip" transform="translate(116 160.5)" edge-id="NOQ_TC_C46T">
+                <line id="TCC46TLine" x2="50" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_C46TLine"></line>
+                <text id="TCC46TLabel" transform="translate(9.698 12.5)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_C46TLabel">
+                    <tspan x="0" y="0">C46T</tspan>
+                </text>
+            </g>
+            <g id="TC46T1T" class="tooltip" transform="translate(169 160.5)" edge-id="NOQ_TC_46T1T">
+                <line id="TC46T1TLine" x2="52" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_46T1TLine"></line>
+                <text id="TC46T1Label" transform="translate(10.023 12.5)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans">
+                    <tspan x="0" y="0">46T1</tspan>
+                </text>
+            </g>
+            <g id="TC46T2T" class="tooltip" transform="translate(224 160.5)" edge-id="NOQ_TC_46T2T">
+                <line id="TC46T2TLine" x2="84" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_46T2TLine"></line>
+                <text id="TC46T2TLabel" transform="translate(15.023 12.5)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_46T2TLabel">
+                    <tspan x="0" y="0">46T2</tspan>
+                </text>
+            </g>
+            <g id="TC132T" class="tooltip" transform="translate(311 146)" edge-id="NOQ_TC_132T">
+                <line id="TC132TLine" x2="80" transform="translate(0 14.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_132TLine"></line>
+                <text id="TC132TLabel" transform="translate(16.023 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_132TLabel">
+                    <tspan x="0" y="0">132T</tspan>
+                </text>
+            </g>
+            <g id="TC133T" class="tooltip" transform="translate(394 160)" edge-id="NOQ_TC_133T">
+                <line id="TC133TLine" x2="67" transform="translate(0 0.5)" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_133TLine"></line>
+                <text id="TC133TLabel" transform="translate(21.023 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_133TLabel">
+                    <tspan x="0" y="0">133T</tspan>
+                </text>
+            </g>
+            <g id="TCOC2T" class="tooltip" transform="translate(464 145)" edge-id="NOQ_TC_OC2T">
+                <line id="TCOC2TLine" x2="224" transform="translate(0 15.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_OC2TLine"></line>
+                <text id="TCOC2TLabel" transform="translate(108.559 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_OC2TLabel">
+                    <tspan x="0" y="0">OC2T</tspan>
+                </text>
+            </g>
+            <g id="TCOC1T" class="tooltip" transform="translate(691 160.5)" edge-id="NOQ_TC_OC1T">
+                <line id="TCOC1TLine" x2="294" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_OC1TLine"></line>
+                <text id="TCOC1TLabel" transform="translate(41.559 12.5)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_OC1TLabel">
+                    <tspan x="0" y="0">OC1T</tspan>
+                </text>
+            </g>
+            <g id="TC103T" class="tooltip" transform="translate(988 160.5)" edge-id="NOQ_TC_103T">
+                <line id="TC103TLine" x2="181" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_103TLine"></line>
+                <text id="TC103TLabel" transform="translate(118.023 12.5)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_103TLabel">
+                    <tspan x="0" y="0">103T</tspan>
+                </text>
+            </g>
+            <g id="TC102T" class="tooltip" data-name="102T" transform="translate(1172 146)" edge-id="NOQ_TC_102T">
+                <line id="TC102TLine" x2="82" transform="translate(0 14.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_102TLine"></line>
+                <text id="TC102TLabel" transform="translate(23.023 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_102TLabel">
+                    <tspan x="0" y="0">102T</tspan>
+                </text>
+            </g>
+            <g id="TC2T" class="tooltip" transform="translate(1356 146)" edge-id="NOQ_TC_2T">
+                <line id="TC2TLine" x2="71" transform="translate(0 14.5)" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_2TLine"></line>
+                <text id="TC2TLabel" transform="translate(49.312 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_2TLabel">
+                    <tspan x="0" y="0">2T</tspan>
+                </text>
+            </g>
+            <g id="TC2AT" class="tooltip" transform="translate(1257 145)" edge-id="NOQ_TC_2AT">
+                <line id="TC2ATLine" x2="96" transform="translate(0 15.5)" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_2ATLine"></line>
+                <text id="TC2ATLabel" transform="translate(39.832 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_2ATLabel">
+                    <tspan x="0" y="0">2AT</tspan>
+                </text>
+            </g>
+            <g id="TC47T" class="tooltip" transform="translate(93 206)" edge-id="NOQ_TC_47T">
+                <line id="TC47TLine" x2="57" transform="translate(0 15)" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_47TLine"></line>
+                <text id="TC47TLabel" transform="translate(19.168 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_47TLabel">
+                    <tspan x="0" y="0">47T</tspan>
+                </text>
+            </g>
+            <g id="TC47AT" class="tooltip" transform="translate(153 206)" edge-id="NOQ_TC_47AT">
+                <line id="TC47ATLine" x2="84" transform="translate(0 15)" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_47ATLine"></line>
+                <text id="TC47ATLabel" transform="translate(19.687 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_47ATLabel">
+                    <tspan x="0" y="0">47AT</tspan>
+                </text>
+            </g>
+            <g id="TC131T" class="tooltip" transform="translate(239 220.5)" edge-id="NOQ_TC_131T">
+                <line id="TC131TLine" x2="109" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_131TLine"></line>
+                <text id="TC131TLabel" transform="translate(5.023 12.5)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_131TLabel">
+                    <tspan x="0" y="0">131T</tspan>
+                </text>
+            </g>
+            <g id="TC137T" class="tooltip" transform="translate(351 206)" edge-id="NOQ_TC_137T">
+                <line id="TC137TLine" x2="82" transform="translate(0 14.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_137TLine"></line>
+                <text id="TC137TLabel" transform="translate(41.308 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_137TLabel">
+                    <tspan x="0" y="0" xml:space="preserve">137T</tspan>
+                </text>
+            </g>
+            <g id="TCOA2T" class="tooltip" transform="translate(436 220)" edge-id="NOQ_TC_OA2T">
+                <line id="TCOA2TLine" x2="264" transform="translate(0 0.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_OA2TLine"></line>
+                <text id="TCOA2TLabel" transform="translate(90.549 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_OA2TLabel">
+                    <tspan x="0" y="0">OA2T</tspan>
+                </text>
+            </g>
+            <g id="TCOA1T" class="tooltip" transform="translate(703 220)" edge-id="NOQ_TC_OA1T">
+                <line id="TCOA1TLine" x2="168" transform="translate(0 0.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_OA1TLine"></line>
+                <text id="TCOA1TLabel" transform="translate(64.549 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_OA1TLabel">
+                    <tspan x="0" y="0">OA1T</tspan>
+                </text>
+            </g>
+            <g id="TC107T" class="tooltip" transform="translate(874 205)" edge-id="NOQ_TC_107T">
+                <line id="TC107TLine" x2="265" transform="translate(0 15.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_107TLine"></line>
+                <text id="TC107TLabel" transform="translate(92.879 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_107TLabel">
+                    <tspan x="0" y="0" xml:space="preserve">107T</tspan>
+                </text>
+            </g>
+            <g id="TC101T" class="tooltip" transform="translate(1142 220.5)" edge-id="NOQ_TC_101T">
+                <line id="TC101TLine" x2="139" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_101TLine"></line>
+                <text id="TC101TLabel" transform="translate(56.023 12.5)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_101TLabel">
+                    <tspan x="0" y="0">101T</tspan>
+                </text>
+            </g>
+            <g id="TC3T2" class="tooltip" transform="translate(1284 206)" edge-id="NOQ_TC_3T2">
+                <line id="TC3T2Line" x2="83" transform="translate(0 14.5)" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_3T2Line"></line>
+                <text id="TC3T2Label" transform="translate(27.595 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_3T2Label">
+                    <tspan x="0" y="0" xml:space="preserve">3T2</tspan>
+                </text>
+            </g>
+            <g id="TC3T1" class="tooltip" transform="translate(1370 205)" edge-id="NOQ_TC_3T1">
+                <line id="TC3T1Line" x2="69" transform="translate(0 15.5)" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_3T1Line"></line>
+                <text id="TC3T1Label" transform="translate(21.168 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_3T1Label">
+                    <tspan x="0" y="0">3T1</tspan>
+                </text>
+            </g>
+            <g id="TCC3T" class="tooltip" transform="translate(1441 206)" edge-id="NOQ_TC_C3T">
+                <line id="TCC3TLine" x2="76" transform="translate(0 14.5)" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_C3TLine"></line>
+                <text id="TCC3TLabel" transform="translate(48.843 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_C3TLabel">
+                    <tspan x="0" y="0">C3T</tspan>
+                </text>
+            </g>
+            <g id="TC138T" class="tooltip" transform="translate(340.023 285.5)" edge-id="NOQ_TC_138T">
+                <line id="TC138TLine" x2="84" transform="translate(36.977)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_138TLine"></line>
+                <text id="TC138TLabel" transform="translate(0 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_138TLabel">
+                    <tspan x="0" y="0">138T</tspan>
+                </text>
+            </g>
+            <g id="TCOB2T" class="tooltip" transform="translate(464 270)" edge-id="NOQ_TC_OB2T">
+                <line id="TCOB2TLine" x2="167" transform="translate(0 15.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_OB2TLine"></line>
+                <text id="TCOB2TLabel" transform="translate(43.607 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_OB2TLabel">
+                    <tspan x="0" y="0" xml:space="preserve">OB2T</tspan>
+                </text>
+            </g>
+            <g id="TCOB1T" class="tooltip" transform="translate(619.464 270.5)" edge-id="NOQ_TC_OB1T">
+                <line id="TCOB1TLine" x2="95" transform="translate(14.536 15)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_OB1TLine"></line>
+                <text id="TCOB1TLabel" transform="translate(0 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_OB1TLabel">
+                    <tspan x="0" y="0" xml:space="preserve">OB1T</tspan>
+                </text>
+            </g>
+            <g id="TC115T" class="tooltip" transform="translate(732 271)" edge-id="NOQ_TC_115T">
+                <line id="TC115TLine" x2="95" transform="translate(0 14.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_115TLine"></line>
+                <text id="TC115TLabel" transform="translate(0.5 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_115TLabel">
+                    <tspan x="0" y="0">115/116T</tspan>
+                </text>
+            </g>
+            <g id="TC108T" class="tooltip" transform="translate(830 285.5)" edge-id="NOQ_TC_108T">
+                <line id="TC108TLine" x2="95" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_108TLine"></line>
+                <text id="TC108TLabel" transform="translate(23.023 12.5)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_108TLabel">
+                    <tspan x="0" y="0">108T</tspan>
+                </text>
+            </g>
+            <g id="TC109T" class="tooltip" transform="translate(926.569 271)" edge-id="NOQ_TC_109T">
+                <line id="TC109TLine" x2="49" transform="translate(1.431 14.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_109TLine"></line>
+                <text id="TC109TLabel" transform="translate(0 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_109TLabel">
+                    <tspan x="0" y="0">109T</tspan>
+                </text>
+            </g>
+            <g id="TC112T" class="tooltip" transform="translate(646 405.5)" edge-id="NOQ_TC_112T">
+                <line id="TC112TLine" x2="160" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_112TLine"></line>
+                <text id="TC112TLabel" transform="translate(41.115 14.5)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_112TLabel">
+                    <tspan x="0" y="0">112T</tspan>
+                </text>
+            </g>
+            <g id="TCOE1T" class="tooltip" transform="translate(704 14)" edge-id="NOQ_TC_OE1T">
+                <line id="TCOE1TLine" x2="125" y2="0.5" transform="translate(0 0.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_OE1TLine"></line>
+                <text id="TCOE1TLabel" transform="translate(57.97 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_OE1TLabel">
+                    <tspan x="0" y="0">OE1T</tspan>
+                </text>
+            </g>
+            <g id="TCOE2T" class="tooltip" transform="translate(618)" edge-id="NOQ_TC_OE2T">
+                <line id="TCOE2TLine" x2="83" transform="translate(0 14.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_OE2TLine"></line>
+                <text id="TCOE2TLabel" transform="translate(21.97 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_OE2TLabel">
+                    <tspan x="0" y="0">OE2T</tspan>
+                </text>
+            </g>
+            <g id="TC134T" class="tooltip" transform="translate(423 62)" edge-id="NOQ_TC_134T">
+                <line id="TC134TLine" x2="57" transform="translate(39 14.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_134TLine"></line>
+                <text id="TC134TLabel" transform="translate(44.023 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_134TLabel">
+                    <tspan x="0" y="0">134T</tspan>
+                </text>
+                <line id="TC134TLine-2" data-name="TC134TLine" x2="39" transform="translate(0 14.5)" fill="none"
+                    stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_TC_134TLine-2"></line>
+            </g>
+            <g id="TC135T" class="tooltip" transform="translate(545 60)" edge-id="NOQ_TC_135T">
+                <line id="TC135TLine" x2="57" transform="translate(0 16.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_135TLine"></line>
+                <text id="TC135TLabel" transform="translate(11.569 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_135TLabel">
+                    <tspan x="0" y="0">135T</tspan>
+                </text>
+            </g>
+            <g id="TCOD2T" class="tooltip" transform="translate(605 61)" edge-id="NOQ_TC_OD2T">
+                <text id="TCOD2TLabel" transform="translate(33.733 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_OD2TLabel">
+                    <tspan x="0" y="0" xml:space="preserve">OD2T</tspan>
+                </text>
+                <line id="TCOD2TLine" x2="124" transform="translate(0 15.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_OD2TLine"></line>
+            </g>
+            <g id="TCOD1T" class="tooltip" transform="translate(732 76.5)" edge-id="NOQ_TC_OD1T">
+                <line id="TCOD1TLine" x2="152" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_OD1TLine"></line>
+                <text id="TCOD1TLabel" transform="translate(64.02 12.5)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_OD1TLabel">
+                    <tspan x="0" y="0">OD1T</tspan>
+                </text>
+            </g>
+            <g id="TC105T" class="tooltip" transform="translate(886 76.5)" edge-id="NOQ_TC_105T">
+                <line id="TC105TLine" x2="154" fill="none" stroke="#6c7091" stroke-width="3"
+                    edge-id-selector="NOQ_TC_105TLine"></line>
+                <text id="TC105TLabel" transform="translate(70.569 12.5)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_105TLabel">
+                    <tspan x="0" y="0">105T</tspan>
+                </text>
+            </g>
+            <g id="TC104T" class="tooltip" transform="translate(1043 61)" edge-id="NOQ_TC_104T">
+                <line id="TC104TLine" x2="83" transform="translate(0 15.5)" fill="none" stroke="#6c7091"
+                    stroke-width="3" edge-id-selector="NOQ_TC_104TLine"></line>
+                <text id="TC104TLabel" transform="translate(43.023 12)" fill="#fff" font-size="11"
+                    font-family="OpenSans, Open Sans" edge-id-selector="NOQ_TC_104TLabel">
+                    <tspan x="0" y="0">104T</tspan>
+                </text>
+                <line id="TC104TLine-2" data-name="TC104TLine" x2="18" transform="translate(85 15)" fill="none"
+                    stroke="#6c7091" stroke-width="3" edge-id-selector="NOQ_TC_104TLine-2"></line>
+            </g>
+            <path id="TC107TLine-2" data-name="TC107TLine" d="M-3.733,8.072,3.658,0h260.6"
+                transform="translate(1000.746 285.5)" fill="none" stroke="#6c7091" stroke-width="3"></path>
+            <line id="TCC46TLine-2" data-name="TCC46TLine" x2="114" transform="translate(0 160.5)" fill="none"
+                stroke="#6c7091" stroke-width="3"></line>
+            <line id="TC47TLine-2" data-name="TC47TLine" x2="92" transform="translate(0 221)" fill="none"
+                stroke="#6c7091" stroke-width="3"></line>
+            <line id="TC138TLine-2" data-name="TC138TLine" x2="70" transform="translate(305 285.5)" fill="none"
+                stroke="#6c7091" stroke-width="3"></line>
+            <line id="TC2TLine-2" data-name="TC2TLine" x2="154" transform="translate(1519 220.5)" fill="none"
+                stroke="#6c7091" stroke-width="3"></line>
+            <line id="TC2TLine-3" data-name="TC2TLine" x2="239.5" transform="translate(1428.5 160.5)" fill="none"
+                stroke="#6c7091" stroke-width="3"></line>
+        </g>
+        <g id="Poles-7" data-name="Poles" transform="translate(129.5 246.36)">
+            <line id="TC125AXTPOLES" y1="10" transform="translate(423.5 -2)" fill="none" stroke="#fff" stroke-width="3">
+            </line>
+            <line id="TC125AXTPOLES-2" data-name="TC125AXTPOLES" y1="10" transform="translate(0 82)" fill="none"
+                stroke="#fff" stroke-width="3"></line>
+            <line id="TC125AXTPOLES-3" data-name="TC125AXTPOLES" y1="10" transform="translate(0 142.404)" fill="none"
+                stroke="#fff" stroke-width="3"></line>
+            <line id="TC125AXTPOLES-4" data-name="TC125AXTPOLES" y1="10" transform="translate(305 207.214)" fill="none"
+                stroke="#fff" stroke-width="3"></line>
+            <line id="TC125AXTPOLES-5" data-name="TC125AXTPOLES" y1="10" transform="translate(647 326.404)" fill="none"
+                stroke="#fff" stroke-width="3"></line>
+            <line id="TC125AXTPOLES-6" data-name="TC125AXTPOLES" y1="10" transform="translate(1673 142.404)" fill="none"
+                stroke="#fff" stroke-width="3"></line>
+            <line id="TC125AXTPOLES-7" data-name="TC125AXTPOLES" y1="10" transform="translate(1670 82.404)" fill="none"
+                stroke="#fff" stroke-width="3"></line>
+            <line id="TC125AXTPOLES-8" data-name="TC125AXTPOLES" y1="10" transform="translate(1146 -2.596)" fill="none"
+                stroke="#fff" stroke-width="3"></line>
+            <line id="TC125AXTPOLES-9" data-name="TC125AXTPOLES" y1="10" transform="translate(1266 206.404)" fill="none"
+                stroke="#fff" stroke-width="3"></line>
+            <line id="Line_39" data-name="Line 39" x2="123" transform="translate(647 278.404)" fill="none"
+                stroke="#6c7091" stroke-width="3"></line>
+            <line id="Line_41" data-name="Line 41" x2="162" transform="translate(647 398.404)" fill="none"
+                stroke="#6c7091" stroke-width="3"></line>
+            <path id="TC125AXTPOLES-10" data-name="TC125AXTPOLES" d="M0,10H5.649V-.381"
+                transform="translate(1422.351 81.595)" fill="none" stroke="#fff" stroke-width="3"></path>
+            <line id="TC125AXTPOLES-11" data-name="TC125AXTPOLES" y1="10" transform="translate(771 274.404)" fill="none"
+                stroke="#fff" stroke-width="3"></line>
+            <line id="TC125AXTPOLES-12" data-name="TC125AXTPOLES" y1="10" transform="translate(647 393.404)" fill="none"
+                stroke="#fff" stroke-width="3"></line>
+            <line id="TC125AXTPOLES-13" data-name="TC125AXTPOLES" y1="10" transform="translate(647 273.404)" fill="none"
+                stroke="#fff" stroke-width="3"></line>
+            <path id="TC125AXTPOLES-14" data-name="TC125AXTPOLES" d="M0,10H5.649V-.381"
+                transform="translate(1150 207.404)" fill="none" stroke="#fff" stroke-width="3"></path>
+            <path id="TC125AXTPOLES-15" data-name="TC125AXTPOLES" d="M5.649,10H0V-.381"
+                transform="translate(116 82.404)" fill="none" stroke="#fff" stroke-width="3"></path>
+            <path id="TC125AXTPOLES-16" data-name="TC125AXTPOLES" d="M5.649,10H0V-.381"
+                transform="translate(94 142.404)" fill="none" stroke="#fff" stroke-width="3"></path>
+            <path id="TC125AXTPOLES-17" data-name="TC125AXTPOLES" d="M5.649,10H0V-.381"
+                transform="translate(377 207.404)" fill="none" stroke="#fff" stroke-width="3"></path>
+            <path id="TC125AXTPOLES-18" data-name="TC125AXTPOLES" d="M0,10H5.649V-.381"
+                transform="translate(1513 141.404)" fill="none" stroke="#fff" stroke-width="3"></path>
+            <path id="TC125AXTPOLES-19" data-name="TC125AXTPOLES" d="M5.649,10H0V-.381"
+                transform="translate(462 -1.619)" fill="none" stroke="#fff" stroke-width="3"></path>
+            <path id="TC125AXTPOLES-20" data-name="TC125AXTPOLES" d="M0,10H5.649V-.381"
+                transform="translate(1122.351 -2.596)" fill="none" stroke="#fff" stroke-width="3"></path>
+        </g>
+        <g id="Bitcomm_logo" transform="translate(44.305 10)">
+            <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(36.292 0.741) rotate(45)">
+                <path id="Path_1-2" data-name="Path 1" d="M50.3,50.3,1.28,49.017,0,0,49.017,1.28Z"
+                    transform="translate(0.514 0.514)" fill="#0e86d4"></path>
+                <path id="Path_2" data-name="Path 2"
+                    d="M1.027,1.027,2.281,49.043,50.3,50.3,49.043,2.281,1.027,1.027M0,0,50.018,1.306l1.306,50.018L1.306,50.018Z"
+                    fill="#0e86d4"></path>
+            </g>
+            <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(19.899 19.74)" fill="none" stroke="#fff"
+                stroke-width="5">
+                <ellipse cx="17.799" cy="18.753" rx="17.799" ry="18.753" stroke="none"></ellipse>
+                <ellipse cx="17.799" cy="18.753" rx="15.299" ry="16.253" fill="none"></ellipse>
+            </g>
+            <path id="Path_1-3" data-name="Path 1"
+                d="M.568-1.031h0s8.95,7.449,10.283,9.924a47.609,47.609,0,0,1,2.316,5.086"
+                transform="translate(10.027 30.117)" fill="none" stroke="#fff" stroke-width="5"></path>
+            <g id="Path_2-2" data-name="Path 2" transform="translate(16.806 22.439) rotate(45)">
+                <path id="Path_91" data-name="Path 91" d="M0,5.122.312,0l14.3.812L16.9,5.16l-1.889.027Z"
+                    transform="translate(0.512 0.507)" fill="#0e86d4"></path>
+                <path id="Path_92" data-name="Path 92"
+                    d="M1.277,1.012,1.029,5.15,15.5,5.208l1.131-.014-1.8-3.409L1.277,1.012M.371,0,15.409.854l2.778,5.284-2.639.033L0,6.108Z"
+                    fill="#0e86d4"></path>
+            </g>
+            <g id="Path_3" data-name="Path 3" transform="matrix(0.616, -0.788, 0.788, 0.616, 8.229, 30.347)">
+                <path id="Path_93" data-name="Path 93" d="M3.907.459,0,.5.014,0,3.907.366Z"
+                    transform="translate(0.501 0.526)" fill="#fff"></path>
+                <path id="Path_94" data-name="Path 94" d="M.055,0,4.892.455v1L0,1.506Z" fill="#fff"></path>
+            </g>
+            <path id="Path_4" data-name="Path 4" d="M44,44" transform="translate(-3.024 31.506)" fill="none"
+                stroke="#707070" stroke-width="1"></path>
+            <g id="Group_2-2" data-name="Group 2" transform="translate(0.695 1.481)">
+                <line id="Line_2" data-name="Line 2" x2="3.747" y2="3.948" transform="translate(0 31.584)" fill="none"
+                    stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_3" data-name="Line 3" x2="3.747" y2="3.948" transform="translate(4.684 26.649)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_4" data-name="Line 4" x2="3.747" y2="3.948" transform="translate(9.368 21.714)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_5" data-name="Line 5" x2="3.747" y2="3.948" transform="translate(13.115 17.766)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_6" data-name="Line 6" x2="3.747" y2="3.948" transform="translate(17.799 12.831)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_7" data-name="Line 7" x2="3.747" y2="3.948" transform="translate(22.482 7.896)"
+                    fill="none" stroke="#707070" stroke-width="1"></line>
+                <line id="Line_8" data-name="Line 8" x2="3.747" y2="3.948" transform="translate(30.913)" fill="none"
+                    stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_9" data-name="Line 9" x2="3.747" y2="3.948" transform="translate(22.482 7.896)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_10" data-name="Line 10" x2="3.747" y2="3.948" transform="translate(26.23 3.948)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+            </g>
+            <g id="Group_3-2" data-name="Group 3" transform="translate(70.484) rotate(90)">
+                <line id="Line_2-2" data-name="Line 2" x2="3.948" y2="3.747" transform="translate(0 29.977)" fill="none"
+                    stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_3-2" data-name="Line 3" x2="3.948" y2="3.747" transform="translate(4.935 25.293)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_4-2" data-name="Line 4" x2="3.948" y2="3.747" transform="translate(9.87 20.609)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_5-2" data-name="Line 5" x2="3.948" y2="3.747" transform="translate(13.818 16.862)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_6-2" data-name="Line 6" x2="3.948" y2="3.747" transform="translate(18.753 12.178)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_7-2" data-name="Line 7" x2="3.948" y2="3.747" transform="translate(23.688 7.494)"
+                    fill="none" stroke="#707070" stroke-width="1"></line>
+                <line id="Line_8-2" data-name="Line 8" x2="3.948" y2="3.747" transform="translate(32.571)" fill="none"
+                    stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_9-2" data-name="Line 9" x2="3.948" y2="3.747" transform="translate(23.688 7.494)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_10-2" data-name="Line 10" x2="3.948" y2="3.747" transform="translate(27.636 3.747)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+            </g>
+            <g id="Group_4-2" data-name="Group 4" transform="translate(70.953 73.532) rotate(180)">
+                <line id="Line_2-3" data-name="Line 2" x2="3.747" y2="3.948" transform="translate(0 32.571)" fill="none"
+                    stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_3-3" data-name="Line 3" x2="3.747" y2="3.948" transform="translate(4.684 27.636)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_4-3" data-name="Line 4" x2="3.747" y2="3.948" transform="translate(8.431 22.701)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_5-3" data-name="Line 5" x2="3.747" y2="3.948" transform="translate(13.115 17.766)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_6-3" data-name="Line 6" x2="3.747" y2="3.948" transform="translate(17.799 12.831)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_8-3" data-name="Line 8" x2="3.747" y2="3.948" transform="translate(30.913)" fill="none"
+                    stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_9-3" data-name="Line 9" x2="3.747" y2="3.948" transform="translate(22.482 7.896)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_10-3" data-name="Line 10" x2="3.747" y2="3.948" transform="translate(26.23 3.948)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+            </g>
+            <g id="Group_5" data-name="Group 5" transform="translate(34.887 37.506) rotate(90)">
+                <line id="Line_2-4" data-name="Line 2" x2="3.948" y2="3.747" transform="translate(0 29.977)" fill="none"
+                    stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_3-4" data-name="Line 3" x2="3.948" y2="3.747" transform="translate(4.935 25.293)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_4-4" data-name="Line 4" x2="3.948" y2="3.747" transform="translate(9.87 20.609)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_5-4" data-name="Line 5" x2="3.948" y2="3.747" transform="translate(13.818 16.862)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_6-4" data-name="Line 6" x2="3.948" y2="3.747" transform="translate(18.753 12.178)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_7-3" data-name="Line 7" x2="3.948" y2="3.747" transform="translate(23.688 7.494)"
+                    fill="none" stroke="#707070" stroke-width="1"></line>
+                <line id="Line_8-4" data-name="Line 8" x2="3.948" y2="3.747" transform="translate(32.571)" fill="none"
+                    stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_9-4" data-name="Line 9" x2="3.948" y2="3.747" transform="translate(23.688 7.494)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+                <line id="Line_10-4" data-name="Line 10" x2="3.948" y2="3.747" transform="translate(27.636 3.747)"
+                    fill="none" stroke="#0e86d4" stroke-width="1"></line>
+            </g>
+        </g>
+        <text id="GHY_END" data-name="GHY END" transform="translate(106.753 251.994)" fill="#fff" font-size="20"
+            font-family="OpenSans, Open Sans">
+            <tspan x="0" y="0">GHY END</tspan>
+        </text>
+        <path id="Path_108" data-name="Path 108"
+            d="M26.084-5.689v2.731L6.169-3.047V2.375L-9.124-6.357l.4-.189L-7.6-7l.8-.325"
+            transform="translate(77.857 250.709)" fill="#fff" stroke="#707070" stroke-width="1"></path>
+        <path id="Path_109" data-name="Path 109"
+            d="M26.1,4.956V-1.9H6.169V-7.328L-7.145,1.111l-.356.175-.337.179-.336.176-.384.344"
+            transform="translate(77.857 242.11)" fill="#fff" stroke="#707070" stroke-width="1"></path>
+        <text id="NBS_END" data-name="NBS END" transform="translate(1645.505 251.994)" fill="#fff" font-size="20"
+            font-family="OpenSans, Open Sans">
+            <tspan x="0" y="0">NBS END</tspan>
+        </text>
+        <path id="Path_110" data-name="Path 110"
+            d="M-9.124.737V-1.994L10.791-1.9V-7.328L26.084,1.4l-.4.189-1.118.456-.8.325"
+            transform="translate(1745.868 244.144)" fill="#fff" stroke="#707070" stroke-width="1"></path>
+        <path id="Path_111" data-name="Path 111"
+            d="M-8.558-7.328v6.86H11.368V4.956L24.682-3.483l.356-.175.337-.179.336-.176.384-.344"
+            transform="translate(1745.291 250.132)" fill="#fff" stroke="#707070" stroke-width="1"></path>
+        <text id="SB_SM_PANEL" data-name="SB/ SM PANEL" transform="translate(784.41 732.379)" fill="#fff" font-size="22"
+            font-family="OpenSans, Open Sans">
+            <tspan x="0" y="0">SB/ SM PANEL</tspan>
+        </text>
+        <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(765 695.379)" fill="none" stroke="#707070"
+            stroke-width="3">
+            <rect width="180" height="95" stroke="none"></rect>
+            <rect x="1.5" y="1.5" width="177" height="92" fill="none"></rect>
+        </g>
+        <g id="Polygon_1" data-name="Polygon 1" transform="translate(843 743.379)">
+            <path id="Path_3-2" data-name="Path 3" d="M28.114,23.5H.886L14.5.967Z" fill="#fff"></path>
+            <path id="Path_4-2" data-name="Path 4" d="M14.5,1.934,1.773,23H27.228L14.5,1.934M14.5,0,29,24H0Z"
+                fill="#707070"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="454" viewBox="0 0 820 454" fill="none">
+<g id="VLC">
+<rect id="Rectangle_18" x="0.5" y="0.5" width="819" height="189" fill="white" stroke="black"/>
+<g id="VLC_1">
+<g id="VLC-1">
+<g id="VLC-1-SLOT-1">
+<rect id="VLC1_Slot1" x="52.5" y="29.5" width="51" height="122" fill="white" stroke="black"/>
+<text id="VLC1_Slot1_Label" transform="matrix(0 1 -1 0 88 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCA_S1_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="71.2832" y="26.8794">S-1</tspan></text>
+</g>
+<g id="VLC-1-SLOT-2_3">
+<rect id="VLC1_Slot2Slot3" x="103.5" y="29.5" width="51" height="122" fill="white" stroke="black"/>
+<text id="VLC1_Slot2Slot3_Label" transform="matrix(0 1 -1 0 139 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCA_S2_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="104" y="26.8794">S-2</tspan></text>
+<text id="VLCA_S3_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="139.566" y="26.8794">S-3</tspan></text>
+</g>
+<g id="VLC-1-SLOT-4">
+<rect id="VLC1_Slot4" x="154.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC1_Slot4_Label" transform="matrix(0 1 -1 0 180 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCA_S4_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="162.283" y="26.8794">S-4</tspan></text>
+</g>
+<g id="VLC-1-SLOT-5">
+<rect id="VLC1_Slot5" x="184.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC1_Slot5_Label" transform="matrix(0 1 -1 0 210 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCA_S5_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="192.283" y="26.8794">S-5</tspan></text>
+</g>
+<g id="VLC-1-SLOT-6">
+<rect id="VLC1_Slot6" x="214.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC1_Slot6_Label" transform="matrix(0 1 -1 0 240 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCA_S6_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="222.283" y="26.8794">S-6</tspan></text>
+</g>
+<g id="VLC-1-SLOT-7">
+<rect id="VLC1_Slot7" x="244.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC1_Slot7_Label" transform="matrix(0 1 -1 0 270 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCA_S7_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="252.283" y="26.8794">S-7</tspan></text>
+</g>
+<g id="VLC-1-SLOT-8">
+<rect id="VLC1_Slot8" x="274.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC1_Slot8_Label" transform="matrix(0 1 -1 0 300 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCA_S8_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="282.283" y="26.8794">S-8</tspan></text>
+</g>
+<g id="VLC-1-SLOT-9">
+<path id="VLC1_Slot9" d="M304.5 29.5H334.5V151.5H304.5V29.5Z" fill="white" stroke="black"/>
+<text id="VLC1_Slot9_Label" transform="matrix(0 1 -1 0 330 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCA_S9_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="312.283" y="26.8794">S-9</tspan></text>
+</g>
+<g id="VLC-1-SLOT-10">
+<rect id="VLC1_Slot10" x="334.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC1_Slot10_Label" transform="matrix(0 1 -1 0 360 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCA_S10_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="339.422" y="26.8794">S-10</tspan></text>
+</g>
+</g>
+<text id="VLC-1-LABEL" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="188" y="170.819">VLC-1</tspan></text>
+<rect id="Rectangle 19" x="38.5" y="15.5" width="340" height="159" stroke="black"/>
+</g>
+<g id="VLC_2">
+<g id="VLC-2">
+<g id="VLC-2-SLOT-1">
+<rect id="VLC2_Slot1" x="455.5" y="29.5" width="51" height="122" fill="white" stroke="black"/>
+<text id="VLC2_Slot1_Label" transform="matrix(0 1 -1 0 491 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCB_S1_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="474.283" y="26.8794">S-1</tspan></text>
+</g>
+<g id="VLC-2-SLOT-2_3">
+<rect id="VLC2_Slot2Slot3" x="506.5" y="29.5" width="51" height="122" fill="white" stroke="black"/>
+<text id="VLC2_Slot2Slot3_Label" transform="matrix(0 1 -1 0 542 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCB_S2_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="507" y="26.8794">S-2</tspan></text>
+<text id="VLCB_S3_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="542.566" y="26.8794">S-3</tspan></text>
+</g>
+<g id="VLC-2-SLOT-4">
+<rect id="VLC2_Slot4" x="557.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC2_Slot4_Label" transform="matrix(0 1 -1 0 583 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCB_S4_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="565" y="26.8794">S-4</tspan></text>
+</g>
+<g id="VLC-2-SLOT-5">
+<rect id="VLC2_Slot5" x="587.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC2_Slot5_Label" transform="matrix(0 1 -1 0 613 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCB_S5_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="595" y="26.8794">S-5</tspan></text>
+</g>
+<g id="VLC-2-SLOT-6">
+<rect id="VLC2_Slot6" x="617.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC2_Slot6_Label" transform="matrix(0 1 -1 0 643 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCB_S6_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="625" y="26.8794">S-6</tspan></text>
+</g>
+<g id="VLC-2-SLOT-7">
+<rect id="VLC2_Slot7" x="647.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC2_Slot7_Label" transform="matrix(0 1 -1 0 673 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCB_S7_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="655" y="26.8794">S-7</tspan></text>
+</g>
+<g id="VLC-2-SLOT-8">
+<rect id="VLC2_Slot8" x="677.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC2_Slot8_Label" transform="matrix(0 1 -1 0 703 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCB_S8_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="685" y="26.8794">S-8</tspan></text>
+</g>
+<g id="VLC-2-SLOT-9">
+<rect id="VLC2_Slot9" x="707.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC2_Slot9_Label" transform="matrix(0 1 -1 0 733 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCB_S9_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="715" y="26.8794">S-9</tspan></text>
+</g>
+<g id="VLC-2-SLOT-10">
+<rect id="VLC2_Slot10" x="737.5" y="29.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="VLC2_Slot10_Label" transform="matrix(0 1 -1 0 763 46)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="VLCB_S10_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="742" y="26.8794">S-10</tspan></text>
+</g>
+</g>
+<text id="VLC-2-LABEL" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="591.173" y="170.819">VLC-2</tspan></text>
+<rect id="Rectangle 29" x="441.5" y="15.5" width="340" height="159" stroke="black"/>
+</g>
+<rect id="Rectangle_39" x="0.5" y="189.5" width="819" height="189" fill="white" stroke="black"/>
+<g id="IFC_1">
+<g id="IFC-1">
+<g id="IFC1_S1">
+<rect id="IFC1_Slot1" x="52.5" y="218.5" width="51" height="122" fill="white" stroke="black"/>
+<text id="IFC1_Slot1_Label" transform="matrix(0 1 -1 0 88 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC1_S1_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="70" y="215.879">S-1</tspan></text>
+</g>
+<g id="IFC1_S2_S3">
+<rect id="IFC1_Slot2Slot3" x="103.5" y="218.5" width="51" height="122" fill="white" stroke="black"/>
+<text id="IFC1_Slot2Slot3_Label" transform="matrix(0 1 -1 0 139 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC1_S2_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="104" y="215.879">S-2</tspan></text>
+<text id="IFC1_S3_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="139.566" y="215.879">S-3</tspan></text>
+</g>
+<g id="IFC1_S4">
+<rect id="IFC1_Slot4" x="154.5" y="218.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="IFC1_Slot4_Label" transform="matrix(0 1 -1 0 180 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC1_S4_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="161" y="215.879">S-4</tspan></text>
+</g>
+<g id="IFC1_S5">
+<rect id="IFC1_Slot5" x="184.5" y="218.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="IFC1_Slot5_Label" transform="matrix(0 1 -1 0 210 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC1_S5_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="191" y="215.879">S-5</tspan></text>
+</g>
+<g id="IFC1_S6">
+<rect id="IFC1_Slot6" x="214.5" y="218.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="IFC1_Slot6_Label" transform="matrix(0 1 -1 0 240 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC1_S6_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="221" y="215.879">S-6</tspan></text>
+</g>
+<g id="IFC1_S7">
+<rect id="IFC1_Slot7" x="244.5" y="218.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="IFC1_Slot7_Label" transform="matrix(0 1 -1 0 270 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC1_S7_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="251" y="215.879">S-7</tspan></text>
+</g>
+<g id="IFC1_S8">
+<rect id="IFC1_Slot8" x="274.5" y="218.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="IFC1_Slot8_Label" transform="matrix(0 1 -1 0 300 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC1_S8_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="281" y="215.879">S-8</tspan></text>
+</g>
+<g id="IFC1_S9">
+<path id="IFC1_Slot9" d="M304.5 218.5H334.5V340.5H304.5V218.5Z" fill="white" stroke="black"/>
+<text id="IFC1_Slot9_Label" transform="matrix(0 1 -1 0 326 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC1_S9_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="311" y="215.879">S-9</tspan></text>
+</g>
+<g id="IFC1_S10">
+<rect id="IFC1_Slot10" x="334.5" y="218.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="IFC1_Slot10_Label" transform="matrix(0 1 -1 0 356 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC1_S10_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="339" y="215.879">S-10</tspan></text>
+</g>
+</g>
+<text id="IFC-1-LABEL" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="197.598" y="359.819">IFC-1</tspan></text>
+<rect id="Rectangle 43" x="38.5" y="204.5" width="340" height="159" stroke="black"/>
+</g>
+<g id="IFC_2">
+<g id="IFC-2">
+<g id="IFC2_S1">
+<rect id="IFC2_Slot1" x="455.5" y="218.5" width="51" height="122" fill="white" stroke="black"/>
+<text id="IFC2_Slot1_Label" transform="matrix(0 1 -1 0 491 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC2_S1_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="474.283" y="215.879">S-1</tspan></text>
+</g>
+<g id="IFC2_S2_S3">
+<rect id="IFC2_Slot2Slot3" x="506.5" y="218.5" width="53" height="122" fill="white" stroke="black"/>
+<text id="IFC2_Slot2Slot3_Label" transform="matrix(0 1 -1 0 543 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC2_S2_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="507" y="215.879">S-2</tspan></text>
+<text id="IFC2_S3_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="544.566" y="215.879">S-3</tspan></text>
+</g>
+<g id="IFC2_S4">
+<rect id="IFC2_Slot4" x="559.5" y="218.5" width="31" height="122" fill="white" stroke="black"/>
+<text id="IFC2_Slot4_Label" transform="matrix(0 1 -1 0 585 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC2_S4_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="568" y="215.879">S-4</tspan></text>
+</g>
+<g id="IFC2_S5">
+<rect id="IFC2_Slot5" x="590.5" y="218.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="IFC2_Slot5_Label" transform="matrix(0 1 -1 0 616 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC2_S5_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="598" y="215.879">S-5</tspan></text>
+</g>
+<g id="IFC2_S6">
+<rect id="IFC2_Slot6" x="620.5" y="218.5" width="29" height="122" fill="white" stroke="black"/>
+<text id="IFC2_Slot6_Label" transform="matrix(0 1 -1 0 645 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC2_S6_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="628" y="215.879">S-6</tspan></text>
+</g>
+<g id="IFC2_S7">
+<rect id="IFC2_Slot7" x="649.5" y="218.5" width="29" height="122" fill="white" stroke="black"/>
+<text id="IFC2_Slot7_Label" transform="matrix(0 1 -1 0 674 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC2_S7_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="657" y="215.879">S-7</tspan></text>
+</g>
+<g id="IFC2_S8">
+<rect id="IFC2_Slot8" x="678.5" y="218.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="IFC2_Slot8_Label" transform="matrix(0 1 -1 0 704 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC2_S8_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="686" y="215.879">S-8</tspan></text>
+</g>
+<g id="IFC2_S9">
+<rect id="IFC2_Slot9" x="708.5" y="218.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="IFC2_Slot9_Label" transform="matrix(0 1 -1 0 734 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC2_S9_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="716" y="215.879">S-9</tspan></text>
+</g>
+<g id="IFC2_S10">
+<rect id="IFC2_Slot10" x="738.5" y="218.5" width="30" height="122" fill="white" stroke="black"/>
+<text id="IFC2_Slot10_Label" transform="matrix(0 1 -1 0 764 235)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="0" y="15.8191">LABEL</tspan></text>
+<text id="IFC2_S10_Number_Label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="10" letter-spacing="0em"><tspan x="743" y="215.879">S-10</tspan></text>
+</g>
+</g>
+<text id="IFC-2-LABEL" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="597" y="359.819">IFC-2</tspan></text>
+<rect id="Rectangle 44" x="441.5" y="204.5" width="340" height="159" stroke="black"/>
+</g>
+<g id="L2_SWITCH_1">
+<rect id="Rectangle 590" x="0.5" y="378.5" width="819" height="38" fill="white" stroke="black"/>
+<rect id="SER_VLC_RACK_L2_SW_N/W_A" x="38.5" y="383.5" width="743" height="28" fill="white" stroke="black"/>
+<text id="L2 SWITCH 1_LABEL" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="335.077" y="402.819">L2 SWITCH 1</tspan></text>
+</g>
+<g id="L2_SWITCH_2">
+<rect id="Rectangle 593" x="0.5" y="416.5" width="819" height="37" fill="white" stroke="black"/>
+<rect id="SER_VLC_RACK_L2_SW_N/W_B" x="38.5" y="421.5" width="743" height="28" fill="white" stroke="black"/>
+<text id="L2 SWITCH 2_LABEL" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="15" letter-spacing="0em"><tspan x="335.077" y="440.819">L2 SWITCH 2</tspan></text>
+</g>
+</g>
+</svg>

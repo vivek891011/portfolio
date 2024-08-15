@@ -1,0 +1,693 @@
+<svg width="697" height="458" viewBox="0 0 697 458" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="PSS_MAP">
+<g id="STATIC_DEISGN_ELEMENTS">
+<path id="Vector 203" d="M530.8 179H533.2M530.2 177.571C531.16 177.571 532.6 177.571 533.8 177.571M529 176.143H532M535 176.143H532M532 176.143V169" stroke="black" stroke-width="0.5"/>
+<path id="Vector 205" d="M530.1 253H532.9M529.4 254.571C530.52 254.571 532.2 254.571 533.6 254.571M528 256.143H531.5M535 256.143H531.5M531.5 256.143V264" stroke="black" stroke-width="0.5"/>
+<path id="Vector 201" d="M340 29.4V29.4C339.028 29.3611 338.86 30.772 339.814 30.9627L340 31" stroke="black" stroke-width="0.5"/>
+<path id="Vector 202" d="M345 29.4V29.4C345.961 29.3573 346.144 30.7457 345.206 30.9543L345 31" stroke="black" stroke-width="0.5"/>
+<path id="Vector 182" d="M383 394L368 379.93V143.553L380.955 133" stroke="black"/>
+<path id="Vector 96" d="M528 397H557V358" stroke="black"/>
+<path id="Vector 95" d="M383 397L514 397" stroke="black"/>
+<path id="Vector 94" d="M326 444L332.256 435.826V397H383" stroke="black"/>
+<path id="Vector 47" d="M315 328.95V328.95C312.518 328.832 312.527 325.186 315 324.95V324.95" stroke="black" stroke-width="0.5"/>
+<path id="Vector 48" d="M314.972 320.709V320.709C317.578 320.847 317.557 324.673 314.959 324.923V324.923" stroke="black" stroke-width="0.5"/>
+<text id="AUX" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="216" y="294.955">AUX</tspan></text>
+<text id="BATT, BANK-2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="254" y="177.955">BATT, BANK-2</tspan></text>
+<text id="BATT, BANK-1" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="254" y="232.955">BATT, BANK-1</tspan></text>
+<text id="298V, 200AH" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="254" y="194.955">298V, 200AH</tspan></text>
+<text id="298V, 200AH_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="256" y="250.955">298V, 200AH</tspan></text>
+<text id="T1" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="218" y="321.955">T1</tspan></text>
+<text id="LI" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="158" y="281.955">LI</tspan></text>
+<text id="GFI" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="147" y="308.955">GFI</tspan></text>
+<text id="CBI" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="150" y="316.955">CBI</tspan></text>
+<text id="K2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="251" y="305.955">K2</tspan></text>
+<text id="CONV" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="315" y="315.955">CONV</tspan></text>
+<text id="AUX_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="317" y="214.955">AUX</tspan></text>
+<text id="K4" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="322" y="198.955">K4</tspan></text>
+<text id="K3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="322" y="229.955">K3</tspan></text>
+<text id="CAP" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="293" y="306.955">CAP</tspan></text>
+<text id="C1" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="296" y="314.955">C1</tspan></text>
+<text id="N" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="287" y="273.955">N</tspan></text>
+<text id="R" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="268" y="306.955">R</tspan></text>
+<text id="K1" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="251" y="321.955">K1</tspan></text>
+<path id="Vector 23" d="M263 313L264.333 316L265 310L266.333 316L267.667 310L268.333 316L269.667 310L270.333 316L271.667 310L272.333 316L273.667 310L274.333 316L275 313" stroke="black" stroke-width="0.5"/>
+<path id="Vector 16" d="M151 327V327C151.83 322.064 158.596 321.278 160.535 325.893L161 327" stroke="black" stroke-width="0.5"/>
+<path id="Vector 13" d="M141 327.5V315" stroke="black"/>
+<path id="Vector 17" d="M213 329H163" stroke="black"/>
+<path id="Vector 18" d="M238 329H227.5" stroke="black"/>
+<path id="Vector 20" d="M248 313H240" stroke="black"/>
+<path id="Vector 21" d="M257 313H252" stroke="black"/>
+<path id="Vector 36" d="M260 309H250" stroke="black"/>
+<path id="Vector 204" d="M145.5 282H140.5" stroke="black"/>
+<path id="Vector 38" d="M289 329H279" stroke="black"/>
+<path id="Vector 40" d="M309 329H299" stroke="black"/>
+<path id="Vector 41" d="M290 327V314" stroke="black"/>
+<path id="Vector 53" d="M343 327V308" stroke="black"/>
+<path id="Vector 90" d="M437 371H415.698M406 374V368H415.698V374H406Z" stroke="black"/>
+<path id="Vector 91" d="M452 371H439" stroke="black"/>
+<path id="Vector 70" d="M488 354V329H483" stroke="black"/>
+<path id="Vector 72" d="M519 355H503.595H489" stroke="black"/>
+<path id="Vector 80" d="M556 355H543.405H533" stroke="black"/>
+<path id="Vector 188" d="M574 355H569.92H557" stroke="black"/>
+<path id="Vector 190" d="M603 403H587.847V355H579" stroke="black"/>
+<path id="Vector 71" d="M482 371H488V357" stroke="black"/>
+<path id="Vector 62" d="M452.293 328.936L423.734 328.939" stroke="black"/>
+<path id="Vector 63" d="M408.22 328.756L402.721 328.814" stroke="black"/>
+<path id="Vector 42" d="M290 311V277" stroke="black"/>
+<path id="Vector 39" d="M297 329H290" stroke="black"/>
+<path id="Vector 37" d="M260 325H250" stroke="black"/>
+<path id="Vector 43" d="M293 311H287" stroke="black" stroke-width="0.5"/>
+<path id="Vector 44" d="M293 314H287" stroke="black" stroke-width="0.5"/>
+<path id="Vector 64" d="M436 327V312" stroke="black"/>
+<path id="Vector 65" d="M436 309V276" stroke="black"/>
+<path id="Vector 66" d="M440 309H433" stroke="black" stroke-width="0.5"/>
+<path id="Vector 67" d="M440 312H433" stroke="black" stroke-width="0.5"/>
+<path id="Vector 193" d="M343 359V347" stroke="black"/>
+<path id="Vector 196" d="M343 344V330" stroke="black"/>
+<path id="Vector 194" d="M346 344H339" stroke="black" stroke-width="0.5"/>
+<path id="Vector 195" d="M346 347H339" stroke="black" stroke-width="0.5"/>
+<path id="Vector 49" d="M324 336V330" stroke="black" stroke-width="0.5"/>
+<path id="Vector 50" d="M326 336V330" stroke="black" stroke-width="0.5"/>
+<path id="Vector 26" d="M258.5 329H251.5" stroke="black"/>
+<path id="Vector 27" d="M248.5 329H241.5" stroke="black"/>
+<path id="Vector 28" d="M277 329H261.5" stroke="black"/>
+<path id="Vector 51" d="M341 329H332" stroke="black"/>
+<path id="Vector 206" d="M486 445H326" stroke="black"/>
+<path id="Vector 52" d="M381 329H344" stroke="black"/>
+<path id="Vector 92" d="M402 371H383" stroke="black"/>
+<path id="Vector 93" d="M383 397V371" stroke="black"/>
+<path id="Vector 22" d="M263 313H261" stroke="black"/>
+<path id="Vector 24" d="M279 313H275" stroke="black"/>
+<path id="Vector 25" d="M279 327.4V312.6" stroke="black"/>
+<path id="Vector 19" d="M240 327V313" stroke="black"/>
+<path id="Vector 14" d="M141 302.5V282" stroke="black"/>
+<path id="Vector 15" d="M149.5 329H143.5" stroke="black"/>
+<path id="Vector 12" d="M141 332V445H269" stroke="black"/>
+<text id="SPD1+2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="60" y="264.955">SPD1+2</tspan></text>
+<text id="AUTO CHANGEOVER" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="66" y="202.091">AUTO   </tspan><tspan x="66" y="206.091">CHANGEOVER</tspan></text>
+<text id="WALL MOUNTED SPD BOX" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="3" letter-spacing="0em"><tspan x="60" y="242.091">WALL MOUNTED  </tspan><tspan x="60" y="246.091">     SPD BOX</tspan></text>
+<text id="UP/DN AT SUPPLY FROM EMP-4 AUTO CHANGEOVER SWITCH (230V, 1PH, 50Hz)" transform="matrix(0 1 -1 0 90 89)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="0" y="3.95455">UP/DN AT SUPPLY FROM EMP-4   </tspan><tspan x="0" y="8.95455">AUTO CHANGEOVER SWITCH  </tspan><tspan x="0" y="13.9545">(230V, 1PH, 50Hz)</tspan></text>
+<text id="LOCAL/DG SUPPLY FROM CTP-1-2 (440V, 3PH, 50Hz)" transform="matrix(0 1 -1 0 44 98)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="0" y="3.95455">LOCAL/DG  SUPPLY  </tspan><tspan x="0" y="8.95455">FROM  CTP-1-2  </tspan><tspan x="0" y="13.9545">(440V, 3PH, 50Hz)</tspan></text>
+<path id="Vector 5" d="M27 178V188H42.2308V178M64.3846 178V188H81V178" stroke="#959066" stroke-width="0.5"/>
+<path id="UPS2_MAINSINPUT" d="M71 284H70.5V284.5H71V284ZM120.977 284V284.5H121.477V284H120.977ZM120.977 63V62.5H120.477V63H120.977ZM136 63.5C136.276 63.5 136.5 63.2761 136.5 63C136.5 62.7239 136.276 62.5 136 62.5V63.5ZM70.5 277.645V284H71.5V277.645H70.5ZM71 284.5H120.977V283.5H71V284.5ZM121.477 284V63H120.477V284H121.477ZM120.977 63.5H136V62.5H120.977V63.5Z" fill="black"/>
+<path id="UPS1_MAINSINPUT" d="M55 277.883V291.959H123.164V329H139" stroke="black"/>
+<line id="Line 4" y1="-0.5" x2="35.8251" y2="-0.5" transform="matrix(0.000453539 -1 1 0.000472963 54.6387 245.156)" stroke="#959066"/>
+<path id="Line 6" d="M54.5 269V249.5" stroke="#959066"/>
+<path id="Vector 1" d="M79.6875 280H101V238H24V280H30.875H47.375M79.6875 280V270.034H63.5312M79.6875 280H63.5312M47.375 280V270.034H63.5312M47.375 280H63.5312M63.5312 270.034V280" stroke="#959066" stroke-width="0.5"/>
+<path id="Line 7" d="M55.6561 206.108L71.1634 195.282" stroke="#959066"/>
+<path id="Line 8" d="M51.84 205.705L37.4584 195.282" stroke="#959066" stroke-dasharray="2 2"/>
+<path id="Vector 2" d="M1 178V233L100 232.295V178H1Z" stroke="#959066" stroke-width="0.5"/>
+<g id="Group 2">
+<path id="Ellipse 1" d="M57.1554 275.362C57.1554 276.781 56.0305 277.922 54.6539 277.922C53.2772 277.922 52.1523 276.781 52.1523 275.362C52.1523 273.943 53.2772 272.802 54.6539 272.802C56.0305 272.802 57.1554 273.943 57.1554 275.362Z" stroke="#959066" stroke-width="0.5"/>
+<line id="Line 7_2" y1="-0.25" x2="9.0918" y2="-0.25" transform="matrix(0.886058 -0.463574 0.44843 0.893818 50.5273 278.172)" stroke="#959066" stroke-width="0.5"/>
+</g>
+<g id="Group 3">
+<path id="Ellipse 1_2" d="M73.6632 275.362C73.6632 276.781 72.5383 277.922 71.1617 277.922C69.785 277.922 68.6602 276.781 68.6602 275.362C68.6602 273.943 69.785 272.802 71.1617 272.802C72.5383 272.802 73.6632 273.943 73.6632 275.362Z" stroke="#959066" stroke-width="0.5"/>
+<line id="Line 7_3" y1="-0.25" x2="9.0918" y2="-0.25" transform="matrix(0.886058 -0.463574 0.44843 0.893818 67.0352 278.172)" stroke="#959066" stroke-width="0.5"/>
+</g>
+<g id="Group 12">
+<path id="Ellipse 1_3" d="M385.962 132.061C385.962 133.48 384.837 134.621 383.46 134.621C382.084 134.621 380.959 133.48 380.959 132.061C380.959 130.643 382.084 129.501 383.46 129.501C384.837 129.501 385.962 130.643 385.962 132.061Z" stroke="black" stroke-width="0.5"/>
+<line id="Line 7_4" y1="-0.25" x2="9.17221" y2="-0.25" transform="matrix(0.603148 0.797629 -0.785231 0.619203 380.596 129.106)" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 20">
+<path id="Ellipse 1_4" d="M578.681 355.587C578.681 357.006 577.556 358.147 576.179 358.147C574.803 358.147 573.678 357.006 573.678 355.587C573.678 354.169 574.803 353.028 576.179 353.028C577.556 353.028 578.681 354.169 578.681 355.587Z" stroke="black" stroke-width="0.5"/>
+<line id="Line 7_5" y1="-0.25" x2="9.17221" y2="-0.25" transform="matrix(0.603148 0.797629 -0.785231 0.619203 573.314 352.632)" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 19">
+<circle id="Ellipse 1_5" cx="382.5" cy="397.5" r="3.25" fill="white" stroke="black" stroke-width="0.5"/>
+<line id="Line 7_6" x1="379.177" y1="393.823" x2="386.177" y2="400.823" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 21">
+<path id="Ellipse 1_6" d="M326.429 445.519C326.429 447.494 325.006 449.046 323.309 449.046C321.612 449.046 320.189 447.494 320.189 445.519C320.189 443.543 321.612 441.992 323.309 441.992C325.006 441.992 326.429 443.543 326.429 445.519Z" stroke="black" stroke-width="0.5"/>
+<line id="Line 7_7" y1="-0.25" x2="11.9422" y2="-0.25" transform="matrix(0.567317 0.8235 -0.756104 0.654452 319.801 441.546)" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 18">
+<path id="Ellipse 1_7" d="M141.366 62.9556C141.366 64.3743 140.241 65.5154 138.865 65.5154C137.488 65.5154 136.363 64.3743 136.363 62.9556C136.363 61.5369 137.488 60.3958 138.865 60.3958C140.241 60.3958 141.366 61.5369 141.366 62.9556Z" stroke="black" stroke-width="0.5"/>
+<line id="Line 7_8" x1="136.179" y1="59.8259" x2="141.604" y2="65.4148" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 17">
+<path id="Ellipse 1_8" d="M578.681 78.8206C578.681 80.2393 577.556 81.3804 576.179 81.3804C574.803 81.3804 573.678 80.2393 573.678 78.8206C573.678 77.4018 574.803 76.2607 576.179 76.2607C577.556 76.2607 578.681 77.4018 578.681 78.8206Z" stroke="black" stroke-width="0.5"/>
+<line id="Line 7_9" x1="573.498" y1="75.6951" x2="579.183" y2="81.8301" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 11">
+<path id="Ellipse 1_9" d="M143.829 329.748C143.829 331.167 142.704 332.308 141.328 332.308C139.951 332.308 138.826 331.167 138.826 329.748C138.826 328.33 139.951 327.189 141.328 327.189C142.704 327.189 143.829 328.33 143.829 329.748Z" stroke="black" stroke-width="0.5"/>
+<line id="Line 7_10" y1="-0.25" x2="9.20463" y2="-0.25" transform="matrix(0.443881 0.896086 -0.888461 0.458952 139.186 326.327)" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 4">
+<path id="Ellipse 1_10" d="M56.753 247.264C56.753 248.683 55.6281 249.824 54.2515 249.824C52.8749 249.824 51.75 248.683 51.75 247.264C51.75 245.845 52.8749 244.704 54.2515 244.704C55.6281 244.704 56.753 245.845 56.753 247.264Z" stroke="#959066" stroke-width="0.5"/>
+<line id="Line 7_11" y1="-0.25" x2="9.0918" y2="-0.25" transform="matrix(0.886058 -0.463574 0.44843 0.893818 50.5273 250.074)" stroke="#959066" stroke-width="0.5"/>
+<path id="Vector 10" d="M54.5 250.074H63.597L68.4121 254.288" stroke="#959066"/>
+</g>
+<g id="Group 7">
+<path id="Ellipse 1_11" d="M37.2062 183.341C37.2062 184.759 36.0813 185.9 34.7046 185.9C33.328 185.9 32.2031 184.759 32.2031 183.341C32.2031 181.922 33.328 180.781 34.7046 180.781C36.0813 180.781 37.2062 181.922 37.2062 183.341Z" stroke="#959066" stroke-width="0.5"/>
+<line id="Line 7_12" y1="-0.25" x2="9.0918" y2="-0.25" transform="matrix(0.886058 -0.463574 0.44843 0.893818 30.5781 186.15)" stroke="#959066" stroke-width="0.5"/>
+</g>
+<g id="Group 8">
+<path id="Ellipse 1_12" d="M75.7276 183.341C75.7276 184.759 74.6028 185.9 73.2261 185.9C71.8495 185.9 70.7246 184.759 70.7246 183.341C70.7246 181.922 71.8495 180.781 73.2261 180.781C74.6028 180.781 75.7276 181.922 75.7276 183.341Z" stroke="#959066" stroke-width="0.5"/>
+<line id="Line 7_13" y1="-0.25" x2="9.0918" y2="-0.25" transform="matrix(0.886058 -0.463574 0.44843 0.893818 69.0996 186.15)" stroke="#959066" stroke-width="0.5"/>
+</g>
+<circle id="Ellipse 2" cx="54.5" cy="270" r="2" fill="black"/>
+<circle id="Ellipse 4" cx="54" cy="207" r="2.75" stroke="#959066" stroke-width="0.5"/>
+<path id="Ellipse 5" d="M75.75 194.5C75.75 195.702 74.5634 196.75 73 196.75C71.4366 196.75 70.25 195.702 70.25 194.5C70.25 193.298 71.4366 192.25 73 192.25C74.5634 192.25 75.75 193.298 75.75 194.5Z" stroke="#959066" stroke-width="0.5"/>
+<circle id="Ellipse 6" cx="35.5" cy="194.5" r="2.25" stroke="#959066" stroke-width="0.5"/>
+<g id="ACO_SPD">
+<path id="Vector 8" d="M59.4688 255.693L61.5324 257.8H75.9778L77.3536 259.908" stroke="black" stroke-width="0.5"/>
+<path id="Vector 9" d="M62.9082 260.61V254.288H74.6021V260.61H62.9082Z" stroke="black" stroke-width="0.5"/>
+</g>
+<line id="Line 9" x1="73.5" y1="192" x2="73.5" y2="185" stroke="#959066"/>
+<line id="Line 12" x1="34.5" y1="192" x2="34.5" y2="185" stroke="#959066"/>
+<line id="Line 11" x1="73.5" y1="181" x2="73.5" y2="156" stroke="#959066"/>
+<line id="Line 13" x1="34.5" y1="181" x2="34.5" y2="156" stroke="#959066"/>
+<rect id="Rectangle 2" x="268.25" y="434.25" width="51.5" height="23.5" stroke="black" stroke-width="0.5"/>
+<text id="SCVS 20KVA" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="287" y="443.955">SCVS  </tspan><tspan x="287" y="448.955">20KVA</tspan></text>
+<circle id="Ellipse 7" cx="141" cy="305" r="2.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 8" cx="141" cy="312" r="2.75" stroke="black" stroke-width="0.5"/>
+<path id="Ellipse 11" d="M222.75 329.5C222.75 331.823 220.649 333.75 218 333.75C215.351 333.75 213.25 331.823 213.25 329.5C213.25 327.177 215.351 325.25 218 325.25C220.649 325.25 222.75 327.177 222.75 329.5Z" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 9" cx="151" cy="329" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 10" cx="161" cy="329" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 12" cx="224.5" cy="329.5" r="3.25" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 13" cx="240" cy="329" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 14" cx="250" cy="313" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 15" cx="259" cy="313" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 17" cx="260" cy="329" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 18" cx="250" cy="329" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 16" cx="279" cy="329" r="2" fill="black"/>
+<circle id="Ellipse 21" cx="290" cy="329" r="2" fill="black"/>
+<circle id="Ellipse 22" cx="298" cy="329" r="2" fill="black"/>
+<circle id="Ellipse 23" cx="343" cy="329" r="2" fill="black"/>
+<circle id="Ellipse 26" cx="436.5" cy="329" r="2" fill="black"/>
+<circle id="Ellipse 31" cx="438" cy="371" r="2" fill="black"/>
+<circle id="Ellipse 65" cx="532" cy="168" r="2" fill="black"/>
+<circle id="Ellipse 66" cx="531" cy="265" r="2" fill="black"/>
+<circle id="Ellipse 28" cx="507.5" cy="355" r="2" fill="black"/>
+<ellipse id="Ellipse 33" cx="557" cy="355.5" rx="2" ry="2.5" fill="black"/>
+<circle id="Ellipse 27" cx="488" cy="355" r="2" fill="black"/>
+<circle id="Ellipse 19" cx="177" cy="329" r="2" fill="black"/>
+<path id="Line 14" d="M141 309.5V307.5" stroke="black"/>
+<path id="Vector 198" d="M144 62V50" stroke="black" stroke-linecap="round"/>
+<path id="Vector 199" d="M144 37V16H146" stroke="black" stroke-linecap="round"/>
+<path id="Line 63" d="M146 46L142 38" stroke="black" stroke-width="0.5"/>
+<path id="Line 189" d="M142 46L146 38" stroke="black" stroke-width="0.5"/>
+<line id="Line 15" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 153.709 325.938)" stroke="black" stroke-width="0.5"/>
+<line id="Line 16" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 156.461 325.938)" stroke="black" stroke-width="0.5"/>
+<g id="Group 852">
+<line id="Line 25" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 541.672 358.251)" stroke="black" stroke-width="0.5"/>
+<line id="Line 26" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 544.424 358.251)" stroke="black" stroke-width="0.5"/>
+</g>
+<circle id="Ellipse 20" cx="150" cy="283" r="4.75" stroke="black" stroke-width="0.5"/>
+<path id="Vector 35" d="M153 287L150.5 283.5M150.5 283.5L152.375 280M150.5 283.5L148 280M150.5 283.5L148 287" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 3" x="210.25" y="288.25" width="20.5" height="62.5" stroke="black" stroke-width="0.5" stroke-dasharray="1 1"/>
+<rect id="Rectangle 4" x="309.25" y="318.25" width="22.5" height="22.5" stroke="black" stroke-width="0.5"/>
+<path id="Line 17" d="M309.521 340.574L331.52 318.573" stroke="black" stroke-width="0.5"/>
+<g id="Group 858">
+<text id="INV" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="388" y="313.955">INV</tspan></text>
+<g id="Group 857">
+<path id="Vector 58" d="M395.258 330.093V330.093C397.81 330.253 397.763 333.999 395.217 334.234V334.234" stroke="black" stroke-width="0.5"/>
+<path id="Vector 59" d="M396.424 338.006V338.006C393.872 337.837 393.931 334.091 396.477 333.865V333.865" stroke="black" stroke-width="0.5"/>
+<path id="Vector 60" d="M388.492 322.424L388.43 328.636" stroke="black" stroke-width="0.5"/>
+<path id="Vector 61" d="M386.211 322.399L386.148 328.61" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 5" x="-0.247484" y="-0.252791" width="21.6616" height="22.966" transform="matrix(-0.999937 -0.0112128 0.0100007 -0.99995 402.478 340.714)" stroke="black" stroke-width="0.5"/>
+<path id="Line 18" d="M402.545 318.44L381.467 340.291" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+<path id="Line 19" d="M426.109 332.261L431.062 325.517M428.861 332.261L433.814 325.517" stroke="black" stroke-width="0.5"/>
+<path id="Line 20" d="M442.617 332.261L447.57 325.517M445.369 332.261L450.321 325.517" stroke="black" stroke-width="0.5"/>
+<path id="Line 30" d="M406 371H416" stroke="black" stroke-width="0.5"/>
+<path id="Vector 98" d="M528 131H557V81" stroke="black"/>
+<text id="AUX_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="203" y="27.9545">AUX</tspan></text>
+<text id="T1_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="4" letter-spacing="0em"><tspan x="207.254" y="56.0518">T1</tspan></text>
+<text id="K2_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="239" y="36.9545">K2</tspan></text>
+<text id="CONV_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="306" y="47.9545">CONV</tspan></text>
+<text id="INV_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="390" y="48.9545">INV</tspan></text>
+<text id="T2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="415" y="54.9545">T2</tspan></text>
+<text id="TH1" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="469" y="49.9545">TH1</tspan></text>
+<text id="TH2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="469" y="121.955">TH2</tspan></text>
+<text id="MIS" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="518" y="66.9545">MIS</tspan></text>
+<text id="CD" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="426" y="40.9545">CD</tspan></text>
+<text id="CD_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="332" y="44.9545">CD</tspan></text>
+<text id="ve" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="347" y="30.9545">ve</tspan></text>
+<text id="FB" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="333" y="106.955">FB</tspan></text>
+<text id="FA" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="408" y="99.9545">FA</tspan></text>
+<text id="STATIC SWITCH" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="459" y="82.9545">STATIC </tspan><tspan x="459" y="87.9545">SWITCH</tspan></text>
+<g id="Group 855">
+<g id="Group 853">
+<rect id="Rectangle 6" x="452.25" y="319.25" width="30.5" height="19.5" stroke="black" stroke-width="0.5"/>
+<g id="Vector 68">
+<path d="M464.923 336V333.143V331L467.692 333.143H476V323.143H469.077V326L464.923 323.143L469.077 321V323.143H476V333.143H467.692L464.923 336Z" fill="black"/>
+<path d="M458 323.143V333.143H464.923M464.923 333.143V336L467.692 333.143M464.923 333.143V331L467.692 333.143M467.692 333.143H476V323.143H469.077M469.077 323.143V321L464.923 323.143L469.077 326V323.143Z" stroke="black" stroke-width="0.5"/>
+</g>
+<path id="Vector 69" d="M465 323H463.6H458" stroke="black" stroke-width="0.5"/>
+<path id="Line 21" d="M465 321V325.528L464 326" stroke="black" stroke-width="0.3"/>
+<path id="Line 22" d="M468 331V335.528L469 336" stroke="black" stroke-width="0.3"/>
+</g>
+<text id="TH1_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="464" y="315.955">TH1</tspan></text>
+</g>
+<g id="Group 851">
+<path id="Vector 79" d="M521 353V353C521.83 348.064 528.596 347.278 530.535 351.893L531 353" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 29" cx="521" cy="355" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 30" cx="531" cy="355" r="1.75" stroke="black" stroke-width="0.5"/>
+<line id="Line 23" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 523.973 351.632)" stroke="black" stroke-width="0.5"/>
+<line id="Line 24" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 526.725 351.632)" stroke="black" stroke-width="0.5"/>
+<text id="MIS_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="522" y="342.955">MIS</tspan></text>
+</g>
+<g id="Group 850">
+<path id="Vector 97" d="M516 395V395C516.83 390.064 523.596 389.278 525.535 393.893L526 395" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 34" cx="516" cy="397" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 35" cx="526" cy="397" r="1.75" stroke="black" stroke-width="0.5"/>
+<line id="Line 31" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 518.973 393.374)" stroke="black" stroke-width="0.5"/>
+<line id="Line 32" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 521.725 393.374)" stroke="black" stroke-width="0.5"/>
+<text id="MBS" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="517" y="404.955">MBS</tspan></text>
+</g>
+<g id="Group 854">
+<rect id="Rectangle 7" x="452.25" y="361.25" width="30.5" height="19.5" stroke="black" stroke-width="0.5"/>
+<g id="Vector 81">
+<path d="M465.143 378V375.143V373L467.857 375.143H476V365.143H469.214V368L465.143 365.143L469.214 363V365.143H476V375.143H467.857L465.143 378Z" fill="black"/>
+<path d="M457 365.143V375.143H465.143M465.143 375.143V378L467.857 375.143M465.143 375.143V373L467.857 375.143M467.857 375.143H476V365.143H469.214M469.214 365.143V363L465.143 365.143L469.214 368V365.143Z" stroke="black" stroke-width="0.5"/>
+</g>
+<path id="Line 27" d="M466 363V367.528L465 368" stroke="black" stroke-width="0.3"/>
+<path id="Line 28" d="M468 374V377.622L469 378" stroke="black" stroke-width="0.3"/>
+<path id="Line 29" d="M457 365H465" stroke="black" stroke-width="0.5"/>
+<text id="TH2_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="464" y="385.955">TH2</tspan></text>
+</g>
+<text id="STATIC SWITCH_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="459.6" y="348.955">STATIC   </tspan><tspan x="459.139" y="353.955">SWITCH</tspan></text>
+<text id="AC FILTER CAP" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="440" y="40.9545">AC FILTER CAP</tspan></text>
+<text id="UPS-2(15KVA)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="485" y="162.955">UPS-2(15KVA)</tspan></text>
+<text id="UPS-1(15KVA)" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="480" y="257.955">UPS-1(15KVA)</tspan></text>
+<text id="Panel Earth" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="542" y="172.955">Panel   </tspan><tspan x="542" y="177.955">Earth</tspan></text>
+<text id="Panel Earth_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="540" y="252.955">Panel   </tspan><tspan x="540" y="257.955">Earth</tspan></text>
+<g id="Group 856">
+<circle id="Ellipse 24" cx="411.5" cy="328.5" r="3.25" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 25" cx="418.5" cy="328.5" r="5.25" stroke="black" stroke-width="0.5"/>
+<text id="T2_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="414" y="319.955">T2</tspan></text>
+</g>
+<text id="FA_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="407" y="363.955">FA</tspan></text>
+<text id="CD_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="425" y="302.955">CD</tspan></text>
+<text id="AC FILTER CAP_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="438" y="302.955">AC FILTER CAP</tspan></text>
+<text id="DC FILTER CAP" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="348" y="40.9545">DC FILTER  </tspan><tspan x="348" y="45.9545"> CAP</tspan></text>
+<text id="DC FILTER CAP_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="314" y="347.955">DC FILTER  </tspan><tspan x="314" y="352.955"> CAP</tspan></text>
+<text id="CAP_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="282" y="42.9545">CAP</tspan></text>
+<text id="C1_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="284" y="47.9545">C1</tspan></text>
+<text id="N_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="276.494" y="9.95455">N</tspan></text>
+<text id="R_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="256" y="37.9545">R</tspan></text>
+<text id="K1_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="241" y="55.9545">K1</tspan></text>
+<path id="Vector 109" d="M251 44L252.444 47L253.167 41L254.611 47L256.056 41L256.778 47L258.222 41L258.944 47L260.389 41L261.111 47L262.556 41L263.278 47L264 44" stroke="black" stroke-linecap="round"/>
+<path id="Vector 132" d="M226 62.5H215" stroke="black" stroke-linecap="round"/>
+<path id="Vector 133" d="M236 44H228.5" stroke="black" stroke-linecap="round"/>
+<path id="Vector 134" d="M245 44H240" stroke="black" stroke-linecap="round"/>
+<path id="Vector 197" d="M145.5 62.5H142" stroke="black" stroke-linecap="round"/>
+<path id="Vector 135" d="M248 40H238" stroke="black" stroke-linecap="round"/>
+<path id="Vector 136" d="M277 62.5H269" stroke="black"/>
+<path id="Vector 137" d="M300 62.5H291" stroke="black"/>
+<path id="Vector 138" d="M278.5 60.5V47.5" stroke="black"/>
+<path id="Vector 139" d="M343 65V100" stroke="black" stroke-linecap="round"/>
+<path id="Vector 186" d="M343 112V296" stroke="black"/>
+<path id="Vector 140" d="M434 105.214H414.76M406 108V102H414.76V108H406Z" stroke="black"/>
+<path id="Vector 141" d="M452 105H436" stroke="black"/>
+<path id="Vector 142" d="M488 77V64H483" stroke="black"/>
+<path id="Vector 143" d="M521 79H504.568H489" stroke="black"/>
+<path id="Vector 144" d="M556 79H544.5H535" stroke="black"/>
+<path id="Vector 191" d="M574 79H558" stroke="black"/>
+<path id="UPS2_OUTPUT " d="M603 388H597.493V79H579" stroke="black"/>
+<path id="Vector 145" d="M483 105H488V80" stroke="black"/>
+<path id="Vector 146" d="M452.451 63.4164L424.734 63.4115" stroke="black"/>
+<path id="Vector 147" d="M408.5 63L403 63.0659" stroke="black"/>
+<path id="Vector 148" d="M278.5 45.5V11.5" stroke="black"/>
+<path id="Vector 149" d="M287.801 62.5H280.801" stroke="black"/>
+<path id="Vector 150" d="M249 58H238" stroke="black" stroke-linecap="round"/>
+<g id="Group 628">
+<path id="Vector 151" d="M281.5 45.5H275.5" stroke="black" stroke-width="0.5"/>
+<path id="Vector 152" d="M281.5 47.5H275.5" stroke="black" stroke-width="0.5"/>
+</g>
+<path id="Vector 153" d="M436 62V46" stroke="black"/>
+<path id="Vector 154" d="M436 44V11" stroke="black"/>
+<path id="Vector 155" d="M440 44H433" stroke="black" stroke-width="0.5"/>
+<path id="Vector 156" d="M440 46H433" stroke="black" stroke-width="0.5"/>
+<path id="Vector 180" d="M346 46H339" stroke="black" stroke-width="0.5"/>
+<path id="Vector 200" d="M344 30H341" stroke="black" stroke-width="0.5"/>
+<path id="Vector 181" d="M346 49H339" stroke="black" stroke-width="0.5"/>
+<path id="Vector 159" d="M246 62.5H242" stroke="black" stroke-linecap="round"/>
+<path id="Vector 160" d="M237.301 62.5H230.801" stroke="black"/>
+<path id="Vector 161" d="M265 62.5H251" stroke="black" stroke-linecap="round"/>
+<path id="Vector 162" d="M341 63H323" stroke="black" stroke-linecap="round"/>
+<path id="Vector 163" d="M380 63L345 63" stroke="black" stroke-linecap="round"/>
+<path id="Vector 164" d="M401 105H383" stroke="black"/>
+<path id="Vector 183" d="M515 132H386" stroke="black"/>
+<path id="Vector 165" d="M383 130V105" stroke="black"/>
+<path id="Vector 167" d="M267 44H264" stroke="black" stroke-linecap="round"/>
+<path id="Vector 211" d="M251 44H249" stroke="black" stroke-linecap="round"/>
+<path id="Vector 168" d="M267 60V44" stroke="black" stroke-linecap="round"/>
+<path id="Vector 169" d="M228.5 60V44" stroke="black" stroke-linecap="round"/>
+<g id="Group 629">
+<circle id="Ellipse 36" cx="205.5" cy="62.5" r="4.25" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 39" cx="211.5" cy="62.5" r="3.25" stroke="black" stroke-width="0.5"/>
+</g>
+<circle id="Ellipse 40" cx="228.5" cy="62.5" r="2.25" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 41" cx="238" cy="44" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 42" cx="247" cy="44" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 43" cx="248.5" cy="62.5" r="2.25" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 44" cx="239.5" cy="62.5" r="2.25" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 45" cx="267" cy="62.5" r="2.5" fill="black"/>
+<circle id="Ellipse 46" cx="278.5" cy="62.5" r="2.5" fill="black"/>
+<circle id="Ellipse 47" cx="289.5" cy="62.5" r="2.5" fill="black"/>
+<circle id="Ellipse 48" cx="2" cy="2" r="2" transform="matrix(1 0 0 -1 341 65)" fill="black"/>
+<circle id="Ellipse 49" cx="436" cy="63" r="2" fill="black"/>
+<circle id="Ellipse 50" cx="435" cy="105" r="2" fill="black"/>
+<circle id="Ellipse 51" cx="510" cy="79" r="2" fill="black"/>
+<circle id="Ellipse 52" cx="557" cy="79" r="2" fill="black"/>
+<circle id="Ellipse 53" cx="488" cy="79" r="2" fill="black"/>
+<circle id="Ellipse 54" cx="173" cy="62" r="2" fill="black"/>
+<g id="Group 631">
+<path id="Vector 110" d="M148 60V60C148.83 55.0637 155.596 54.2778 157.535 58.8926L158 60" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
+<circle id="Ellipse 37" cx="148" cy="62" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 38" cx="158" cy="62" r="1.75" stroke="black" stroke-width="0.5"/>
+<line id="Line 33" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 150.957 58.4111)" stroke="black" stroke-width="0.5"/>
+<line id="Line 34" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 153.709 58.4111)" stroke="black" stroke-width="0.5"/>
+</g>
+<path id="Vector 170" d="M516 129V129C516.83 124.064 523.596 123.278 525.535 127.893L526 129" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 55" cx="516" cy="131" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 56" cx="526" cy="131" r="1.75" stroke="black" stroke-width="0.5"/>
+<line id="Line 35" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 518.973 127.847)" stroke="black" stroke-width="0.5"/>
+<line id="Line 36" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 521.725 127.847)" stroke="black" stroke-width="0.5"/>
+<path id="Vector 171" d="M523 77V77C523.83 72.0637 530.596 71.2778 532.535 75.8926L533 77" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 57" cx="523" cy="79" r="1.75" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 58" cx="533" cy="79" r="1.75" stroke="black" stroke-width="0.5"/>
+<line id="Line 37" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 525.973 75.865)" stroke="black" stroke-width="0.5"/>
+<line id="Line 38" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 528.725 75.865)" stroke="black" stroke-width="0.5"/>
+<line id="Line 190" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 496 81.6196)" stroke="black" stroke-width="0.5"/>
+<line id="Line 191" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 446 107.62)" stroke="black" stroke-width="0.5"/>
+<g id="Group 847">
+<line id="Line 39" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 541.672 81.4846)" stroke="black" stroke-width="0.5"/>
+<line id="Line 40" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 544.424 81.4846)" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 848">
+<line id="Line 39_2" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 542 133.62)" stroke="black" stroke-width="0.5"/>
+<line id="Line 40_2" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 544.752 133.62)" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 849">
+<line id="Line 39_3" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 488 134.62)" stroke="black" stroke-width="0.5"/>
+<line id="Line 40_3" y1="-0.25" x2="6.25708" y2="-0.25" transform="matrix(0.439744 -0.898123 0.890621 0.454746 490.752 134.62)" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 630">
+<circle id="Ellipse 59" cx="150.5" cy="15.5" r="4.25" stroke="black" stroke-width="0.5"/>
+<path id="Vector 172" d="M153 19L150.5 15.5M150.5 15.5L153 12M150.5 15.5L148 12M150.5 15.5L148 19" stroke="black" stroke-width="0.5"/>
+</g>
+<rect id="Rectangle 8" x="198.25" y="22.25" width="19.5" height="62.5" stroke="black" stroke-width="0.5" stroke-dasharray="1 1"/>
+<circle id="Ellipse 60" cx="411.5" cy="62.5" r="3.25" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 62" cx="419.5" cy="63.5" r="5.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 43" d="M426.109 66.7332L431.062 59.9896M428.861 66.7332L433.814 59.9896" stroke="black" stroke-width="0.5"/>
+<path id="Line 44" d="M445.369 66.7332L450.322 59.9896" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 11" x="452.25" y="53.25" width="30.5" height="19.5" stroke="black" stroke-width="0.5"/>
+<g id="Vector 177">
+<path d="M464.923 70V67.1429V65L467.692 67.1429H476V57.1429H469.077V60L464.923 57.1429L469.077 55V57.1429H476V67.1429H467.692L464.923 70Z" fill="black"/>
+<path d="M458 57.1429V67.1429H464.923M464.923 67.1429V70L467.692 67.1429M464.923 67.1429V65L467.692 67.1429M467.692 67.1429H476V57.1429H469.077M469.077 57.1429V55L464.923 57.1429L469.077 60V57.1429Z" stroke="black" stroke-width="0.5"/>
+</g>
+<path id="Vector 178" d="M465 57H463.6H458" stroke="black" stroke-width="0.5"/>
+<path id="Line 45" d="M465 55V58.622L464 59" stroke="black" stroke-width="0.3"/>
+<path id="Line 46" d="M468 65V68.622L469 69" stroke="black" stroke-width="0.3"/>
+<rect id="Rectangle 12" x="452.25" y="96.25" width="30.5" height="18.5" stroke="black" stroke-width="0.5"/>
+<g id="Vector 179">
+<path d="M465.143 111.5V109.333V107.333L467.857 109.333H476V100H469.214V102L465.143 100L469.214 98V100H476V109.333H467.857L465.143 111.5Z" fill="black"/>
+<path d="M457 100V109.333H465.143M465.143 109.333V111.5L467.857 109.333M465.143 109.333V107.333L467.857 109.333M467.857 109.333H476V100H469.214M469.214 100V98L465.143 100L469.214 102V100Z" stroke="black" stroke-width="0.5"/>
+</g>
+<path id="Line 47" d="M465 98V102.528L464 103" stroke="black" stroke-width="0.3"/>
+<path id="Line 48" d="M468 108V111.622V112" stroke="black" stroke-width="0.3"/>
+<path id="Line 50" d="M457 100H467" stroke="black" stroke-width="0.5"/>
+<path id="Line 51" d="M343 61V55V49" stroke="black"/>
+<path id="Line 52" d="M343 46V40.2143V37" stroke="black"/>
+<line id="Line 54" x1="406" y1="104.75" x2="416" y2="104.75" stroke="black" stroke-width="0.5"/>
+<line id="Line 55" x1="401.25" y1="108" x2="401.25" y2="102" stroke="black" stroke-width="0.5"/>
+<line id="Line 56" x1="393.776" y1="107.888" x2="396.776" y2="101.888" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 13" x="251.25" y="174.25" width="42.5" height="24.5" stroke="black" stroke-width="0.5" stroke-dasharray="1 1"/>
+<rect id="Rectangle 14" x="251.25" y="229.25" width="42.5" height="24.5" stroke="black" stroke-width="0.5" stroke-dasharray="1 1"/>
+<g id="BATT_BANK 2">
+<path id="Vector 184" d="M262 184.333V189.667M263.909 183V191M266.455 184.333V189.667M269 183V191" stroke="black"/>
+<g id="Group 13">
+<path id="Ellipse 1_13" d="M285.532 186.06C285.532 187.478 284.407 188.62 283.031 188.62C281.654 188.62 280.529 187.478 280.529 186.06C280.529 184.641 281.654 183.5 283.031 183.5C284.407 183.5 285.532 184.641 285.532 186.06Z" stroke="black" stroke-width="0.5"/>
+<line id="Line 7_14" y1="-0.25" x2="9.20463" y2="-0.25" transform="matrix(0.443881 0.896086 -0.888461 0.458952 280.889 182.638)" stroke="black" stroke-width="0.5"/>
+</g>
+<path id="Line 57" d="M269 186H280.5" stroke="black"/>
+<path id="Line 58" d="M286 186H322.5" stroke="black"/>
+</g>
+<line id="Line 59" x1="322.5" y1="181" x2="322.5" y2="192" stroke="black"/>
+<g id="Group 15">
+<path id="Ellipse 63" d="M328.18 180.935C328.18 181.966 327.363 182.793 326.366 182.793C325.37 182.793 324.553 181.966 324.553 180.935C324.553 179.905 325.37 179.078 326.366 179.078C327.363 179.078 328.18 179.905 328.18 180.935Z" stroke="black" stroke-width="0.5"/>
+<path id="Ellipse 64" d="M328.18 190.77C328.18 191.801 327.363 192.627 326.366 192.627C325.37 192.627 324.553 191.801 324.553 190.77C324.553 189.739 325.37 188.912 326.366 188.912C327.363 188.912 328.18 189.739 328.18 190.77Z" stroke="black" stroke-width="0.5"/>
+<path id="Line 63_2" d="M326.367 182.5V189" stroke="black"/>
+</g>
+<g id="Group 16">
+<path id="Ellipse 63_2" d="M328.18 236.727C328.18 237.758 327.363 238.584 326.366 238.584C325.37 238.584 324.553 237.758 324.553 236.727C324.553 235.696 325.37 234.87 326.366 234.87C327.363 234.87 328.18 235.696 328.18 236.727Z" stroke="black" stroke-width="0.5"/>
+<path id="Ellipse 64_2" d="M328.18 246.561C328.18 247.592 327.363 248.419 326.366 248.419C325.37 248.419 324.553 247.592 324.553 246.561C324.553 245.531 325.37 244.704 326.366 244.704C327.363 244.704 328.18 245.531 328.18 246.561Z" stroke="black" stroke-width="0.5"/>
+<path id="Line 63_3" d="M326.367 238.5V244.5" stroke="black"/>
+</g>
+<g id="BATT_BANK 1">
+<path id="Vector 189" d="M262 238.5V244.5M263.909 237V246M266.455 238.5V244.5M269 237V246" stroke="black"/>
+<g id="Group 14">
+<path id="Ellipse 1_14" d="M285.532 240.851C285.532 242.27 284.407 243.411 283.031 243.411C281.654 243.411 280.529 242.27 280.529 240.851C280.529 239.432 281.654 238.291 283.031 238.291C284.407 238.291 285.532 239.432 285.532 240.851Z" stroke="black" stroke-width="0.5"/>
+<line id="Line 7_15" y1="-0.25" x2="9.20463" y2="-0.25" transform="matrix(0.443881 0.896086 -0.888461 0.458952 280.889 237.429)" stroke="black" stroke-width="0.5"/>
+</g>
+<path id="Line 60" d="M269 241H280.5" stroke="black"/>
+<path id="Line 61" d="M285.5 241H322" stroke="black"/>
+</g>
+<line id="Line 62" x1="322.5" y1="236" x2="322.5" y2="247" stroke="black"/>
+<path id="Vector 185" d="M346 100H345.333M345.333 100V109.882H344M345.333 100H342.667M342.667 100H340V109.882H341.333M342.667 100V109.176V109.882M342.667 109.882H341.333M342.667 109.882H344M341.333 109.882V112H344M344 112V109.882M344 112H345.333H340" stroke="black" stroke-width="0.5"/>
+<path id="Vector 187" d="M339.5 308H339.778M339.778 308V298.118H341.333H342.889M339.778 308H342.889M342.889 308H346V298.118H344.444H342.889M342.889 308V298.824V298.118M339.778 295H346.5" stroke="black" stroke-width="0.5"/>
+<rect id="Rectangle 15" x="313.25" y="178.25" width="21.5" height="71.5" stroke="black" stroke-width="0.5" stroke-dasharray="1 1"/>
+<rect id="Rectangle 16" x="133.5" y="0.5" width="450" height="168" stroke="black" stroke-dasharray="2 2"/>
+<rect id="Rectangle 17" x="133.5" y="264.5" width="450" height="161" stroke="black" stroke-dasharray="2 2"/>
+<line id="Line 186" x1="326" y1="185.5" x2="343" y2="185.5" stroke="black"/>
+<path id="Line 187" d="M326.5 241.5H343" stroke="black"/>
+<g id="Group 627">
+<g id="Group 626">
+<g id="Group 624">
+<path id="Vector 101" d="M307 61.7249V61.7249C304.518 61.6067 304.527 57.9604 307 57.7249V57.7249" stroke="black" stroke-width="0.5"/>
+<path id="Vector 102" d="M307.013 53.5V53.5C309.619 53.6382 309.598 57.4643 307 57.7147V57.7147" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 625">
+<path id="Vector 157" d="M315 71.5V65.5" stroke="black" stroke-width="0.5"/>
+<path id="Vector 158" d="M318 71.5V65.5" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+<rect id="Rectangle 9" x="300.25" y="51.25" width="22.5" height="22.5" stroke="black" stroke-width="0.5"/>
+<path id="Line 469" d="M300.5 73.75L322.645 51.3478" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
+</g>
+<g id="Group 627_2">
+<g id="Group 626_2">
+<g id="Group 624_2">
+<path id="Vector 101_2" d="M396.215 63.2751V63.2751C398.697 63.3933 398.688 67.0396 396.215 67.2751V67.2751" stroke="black" stroke-width="0.5"/>
+<path id="Vector 102_2" d="M396.202 71.5V71.5C393.596 71.3618 393.617 67.5357 396.215 67.2853V67.2853" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="Group 625_2">
+<path id="Vector 157_2" d="M388.215 53.5V59.5" stroke="black" stroke-width="0.5"/>
+<path id="Vector 158_2" d="M385.215 53.5V59.5" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+<rect id="Rectangle 9_2" x="402.965" y="73.75" width="22.5" height="22.5" transform="rotate(-180 402.965 73.75)" stroke="black" stroke-width="0.5"/>
+<path id="Line 469_2" d="M402.715 51.25L380.57 73.6522" stroke="black" stroke-width="0.5" stroke-linecap="round"/>
+</g>
+<circle id="Ellipse 63_3" cx="144" cy="36.5" r="2.25" fill="white" stroke="black" stroke-width="0.5"/>
+<circle id="Ellipse 64_3" cx="144" cy="47.5" r="2.25" fill="white" stroke="black" stroke-width="0.5"/>
+<line id="Line 668" x1="160" y1="62.5" x2="201" y2="62.5" stroke="black"/>
+<circle id="Ellipse 426" cx="404.5" cy="371" r="1.25" stroke="black" stroke-width="0.5"/>
+<path id="Line 669" d="M402.5 368V374" stroke="black" stroke-linecap="round"/>
+<line id="Line 670" x1="394.447" y1="368.224" x2="391.447" y2="374.224" stroke="black"/>
+<circle id="Ellipse 427" cx="403.5" cy="105" r="1.5" stroke="black"/>
+<circle id="Ellipse 428" cx="343" cy="296.5" r="1.25" fill="#D9D9D9" stroke="black" stroke-width="0.5"/>
+</g>
+<g id="POINT1">
+<path id="POINT1_CURRENT" d="M169 85V77H177V85H169Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT1_FREQUENCY" d="M181 85V77H189V85H181Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT1_VOLTAGE" d="M157 85V77H165V85H157Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT1_NOT_TO_SET">
+<path id="Vector 111" d="M173 77V62" stroke="black" stroke-width="0.5"/>
+<text id="A" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="170.973" y="82.6818">A</tspan></text>
+<path id="Vector 107" d="M173 62L185 69.0312V77" stroke="black" stroke-width="0.5"/>
+<text id="Hz" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="5" letter-spacing="0em"><tspan x="181.797" y="82.8182">Hz</tspan></text>
+<path id="Vector 108" d="M161 77V69.5L173 62" stroke="black" stroke-width="0.5"/>
+<text id="V" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="158.973" y="82.6818">V</tspan></text>
+</g>
+</g>
+<g id="POINT2">
+<path id="POINT2_CURRENT" d="M286 85V77H294V85H286Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT2_NOT_TO_SET">
+<path id="Vector 212" d="M290 77V62" stroke="black" stroke-width="0.5"/>
+<text id="A_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="287.973" y="82.6818">A</tspan></text>
+</g>
+</g>
+<g id="POINT3">
+<path id="POINT3_CURRENT" d="M352 89V81H360V89H352Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT3_VOLTAGE" d="M330 89V81H338V89H330Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT3_NOT_TO_SET">
+<text id="A_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="353.973" y="86.6818">A</tspan></text>
+<path id="Vector 213" d="M352 85L343 85" stroke="black" stroke-width="0.5"/>
+<path id="Vector 214" d="M334 81L334 71.5L343 63" stroke="black" stroke-width="0.5"/>
+<text id="V_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="331.973" y="86.6818">V</tspan></text>
+</g>
+</g>
+<g id="POINT4">
+<path id="POINT4_FREQUENCY" d="M443 87V79H451V87H443Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT4_VOLTAGE" d="M422 87V79H430V87H422Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT4_CURRENT" d="M432 87V79H440V87H432Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT4_NOT_TO_SET">
+<text id="Hz_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="443.156" y="84.6818">Hz</tspan></text>
+<path id="Vector 120" d="M437 64L447 71.8571V79" stroke="black" stroke-width="0.5"/>
+<path id="Vector 121" d="M435 64L426 71.8571V79" stroke="black" stroke-width="0.5"/>
+<text id="V_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="423.973" y="84.6818">V</tspan></text>
+<line id="Line 671" x1="436.25" y1="79" x2="436.25" y2="64" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+<g id="POINT5">
+<path id="POINT5_FREQUENCY" d="M442 128V120H450V128H442Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT5_VOLTAGE" d="M419 128V120H427V128H419Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT5_CURRENT" d="M431 128V120H439V128H431Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT5_NOT_TO_SET">
+<text id="V_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="420.973" y="125.682">V</tspan></text>
+<path id="Vector 121_2" d="M435 120V106" stroke="black" stroke-width="0.5"/>
+<text id="Hz_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="442.156" y="125.682">Hz</tspan></text>
+<path id="Vector 120_2" d="M435 105.5L446 112.857V120" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+<g id="POINT6">
+<path id="Vector 114" d="M517 102V94H525V102H517Z" stroke="black" stroke-width="0.5"/>
+<path id="Vector 113" d="M506 102V94H514V102H506Z" stroke="black" stroke-width="0.5"/>
+<path id="Vector 112" d="M495 102V94H503V102H495Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT6_NOT_TO_SET">
+<path id="Vector 115" d="M511 79L521 86V94" stroke="black" stroke-width="0.5"/>
+<text id="Hz_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="517.156" y="99.6818">Hz</tspan></text>
+<path id="Vector 117" d="M510 94V80" stroke="black" stroke-width="0.5"/>
+<text id="A_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="507.973" y="99.6818">A</tspan></text>
+<path id="Vector 116" d="M499 94V86.5L510 79" stroke="black" stroke-width="0.5"/>
+<path id="Vector 118" d="M424 120V112.5L434 106" stroke="black" stroke-width="0.5"/>
+<text id="V_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="496.973" y="99.6818">V</tspan></text>
+</g>
+</g>
+<g id="POINT7">
+<rect id="POINT7_CURRENT" x="274.25" y="203.25" width="7.5" height="7.5" stroke="black" stroke-width="0.5"/>
+<rect id="POINT7_VOLTAGE" x="263.25" y="203.25" width="7.5" height="7.5" stroke="black" stroke-width="0.5"/>
+<g id="POINT7_NOT_TO_SET">
+<text id="A_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="276" y="208.682">A</tspan></text>
+<text id="V_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="265" y="208.682">V</tspan></text>
+</g>
+</g>
+<g id="POINT8">
+<rect id="POINT8_CURRENT" x="274.25" y="255.25" width="7.5" height="7.5" stroke="black" stroke-width="0.5"/>
+<rect id="POINT8_VOLTAGE" x="263.25" y="255.25" width="7.5" height="7.5" stroke="black" stroke-width="0.5"/>
+<g id="POINT8_NOT_TO_SET">
+<text id="A_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="276" y="260.682">A</tspan></text>
+<text id="V_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="265" y="260.682">V</tspan></text>
+</g>
+</g>
+<g id="POINT9">
+<path id="POINT9_FREQUENCY" d="M184 353V345H192V353H184Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT9_CURRENT" d="M173 353V345H181V353H173Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT9_VOLTAGE" d="M162 353V345H170V353H162Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT9_NOT_TO_SET">
+<text id="Hz_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="5" letter-spacing="0em"><tspan x="184.797" y="350.818">Hz</tspan></text>
+<path id="Vector 107_2" d="M177 329L188 336.5V345" stroke="black" stroke-width="0.5"/>
+<text id="V_8" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="163.973" y="350.682">V</tspan></text>
+<path id="Vector 108_2" d="M166 345V337L177 329" stroke="black" stroke-width="0.5"/>
+<text id="A_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="174.973" y="350.682">A</tspan></text>
+<path id="Vector 111_2" d="M177 345V329" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+<g id="POINT10">
+<path id="POINT10_CURRENT" d="M294 353V345H302V353H294Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT10_NOT_TO_SET">
+<text id="A_8" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="295.973" y="350.682">A</tspan></text>
+<path id="Vector 113_2" d="M298 345V329" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+<path id="Vector 384" d="M628 387.5H654V403H628" stroke="black"/>
+<g id="POINT11">
+<path id="POINT11_CURRENT" d="M351 323V315H359V323H351Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT11_VOLTAGE" d="M321 300V292H329V300H321Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT11_NOT_TO_SET">
+<text id="A_9" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="352.973" y="320.682">A</tspan></text>
+<path id="Vector 115_2" d="M351 319L343 319" stroke="black" stroke-width="0.5"/>
+<text id="V_9" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="322.973" y="297.682">V</tspan></text>
+<path id="Vector 117_2" d="M325 300L325 306L343 329" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+<g id="POINT12">
+<path id="POINT12_VOLTAGE" d="M423 351V344H430V351H423Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT12_CURRENT" d="M433 351V344H440V351H433Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT12_FREQUENCY" d="M443 351V344H450V351H443Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT12_NOT_TO_SET">
+<path id="Vector 85" d="M436.5 344V330" stroke="black" stroke-width="0.5"/>
+<text id="V_10" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="425" y="348.955">V</tspan></text>
+<path id="Vector 84" d="M436.5 330L446 336.857V344" stroke="black" stroke-width="0.5"/>
+<text id="Hz_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="444" y="348.955">Hz</tspan></text>
+<path id="Vector 86" d="M427 344V336L435.5 330.5" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+<g id="POINT13">
+<path id="POINT13_VOLTAGE" d="M424 392V385H431V392H424Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT13_CURRENT" d="M434 392V385H441V392H434Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT13_FREQUENCY" d="M444 392V385H451V392H444Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT13_NOT_TO_SET">
+<path id="Vector 85_2" d="M437.5 385V371" stroke="black" stroke-width="0.5"/>
+<text id="V_11" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="426" y="389.955">V</tspan></text>
+<path id="Vector 84_2" d="M437.5 371L447 377.857V385" stroke="black" stroke-width="0.5"/>
+<text id="Hz_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="445" y="389.955">Hz</tspan></text>
+<path id="Vector 79_2" d="M428 385V377L436.5 372" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+<g id="POINT14">
+<path id="POINT14_VOLTAGE" d="M495 378V371H502V378H495Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT14_CURRENT" d="M504 378V371H511V378H504Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT14_FREQUENCY" d="M513 378V371H520V378H513Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT14_NOT_TO_SET">
+<path id="Vector 77" d="M498.5 371V362.5L507 356" stroke="black" stroke-width="0.5"/>
+<text id="V_12" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="497" y="375.955">V</tspan></text>
+<path id="Vector 78" d="M507.5 371V356.5" stroke="black" stroke-width="0.5"/>
+<text id="A_10" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="506" y="375.955">A</tspan></text>
+<path id="Vector 76" d="M507.5 356L517 362V371" stroke="black" stroke-width="0.5"/>
+<text id="Hz_8" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="514" y="375.955">Hz</tspan></text>
+</g>
+</g>
+<g id="POINT15">
+<path id="POINT15_VOLTAGE" d="M495 449V442H502V449H495Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT15_CURRENT" d="M504 449V442H511V449H504Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT15_FREQUENCY" d="M513 449V442H520V449H513Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT15_NOT_TO_SET">
+<text id="V_13" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="497" y="446.955">V</tspan></text>
+<text id="A_11" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="506" y="446.955">A</tspan></text>
+<text id="Hz_9" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="514" y="446.955">Hz</tspan></text>
+</g>
+</g>
+<g id="POINT16">
+<path id="POINT16_VOLTAGE" d="M603 406V399H610V406H603Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT16_CURRENT" d="M612 406V399H619V406H612Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT16_FREQUENCY" d="M621 406V399H628V406H621Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT16_NOT_TO_SET">
+<text id="KV" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="604" y="403.955">KV</tspan></text>
+<text id="KW" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="612.301" y="403.955">KW</tspan></text>
+<text id="PF" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="622" y="403.955">PF</tspan></text>
+</g>
+</g>
+<g id="POINT17">
+<path id="POINT17_VOLTAGE" d="M603 391V384H610V391H603Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT17_CURRENT" d="M612 391V384H619V391H612Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT17_FREQUENCY" d="M621 391V384H628V391H621Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT17_NOT_TO_SET">
+<text id="KV_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="604" y="388.955">KV</tspan></text>
+<text id="KW_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="612.301" y="388.955">KW</tspan></text>
+<text id="PF_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="622" y="388.955">PF</tspan></text>
+</g>
+</g>
+<g id="POINT18">
+<path id="POINT18_PWRKV" d="M671 398V391H678V398H671Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT18_PWRKW" d="M680 398V391H687V398H680Z" stroke="black" stroke-width="0.5"/>
+<path id="POINT18_PWRFACT" d="M689 398V391H696V398H689Z" stroke="black" stroke-width="0.5"/>
+<g id="POINT17_NOT_TO_SET_2">
+<text id="KV_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="672" y="395.955">KV</tspan></text>
+<text id="KW_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="680.301" y="395.955">KW</tspan></text>
+<text id="PF_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="690" y="395.955">PF</tspan></text>
+</g>
+</g>
+<line id="Line 711" x1="654" y1="394.5" x2="669" y2="394.5" stroke="black"/>
+<text id="A_12" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="436" y="389.955">A</tspan></text>
+<text id="A_13" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="4" letter-spacing="0em"><tspan x="435" y="348.955">A</tspan></text>
+<text id="A_14" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="433.973" y="84.6818">A</tspan></text>
+<text id="A_15" fill="black" xml:space="preserve" style="white-space: pre" font-family="OpenSans" font-size="6" letter-spacing="0em"><tspan x="432.773" y="125.682">A</tspan></text>
+</g>
+</svg>

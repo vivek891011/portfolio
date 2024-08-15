@@ -1,0 +1,241 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="634" viewBox="0 0 576 634" fill="none">
+<g id="IOM RACK MULTIPLE">
+<g id="SINGLE-RACK-IOM">
+<g id="Group 912">
+<g id="NOT_TO_SET">
+<rect id="Rectangle 729" x="115.5" y="387.5" width="13" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 733" x="115.5" y="430.5" width="13" height="203" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 730" x="404.5" y="387.5" width="13" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 735" x="404.5" y="430.5" width="13" height="203" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 732" x="21.5" y="430.5" width="94" height="55" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 734" x="417.5" y="430.5" width="94" height="55" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 736" x="511.5" y="387.5" width="21" height="246" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 737" x="0.5" y="387.5" width="21" height="246" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 738" x="0.5" y="349.5" width="532" height="38" fill="#D9D9D9" stroke="black"/>
+<g id="Rectangle 739">
+<mask id="path-10-inside-1_1582_304" fill="white">
+<path d="M539 349H556V634H539V349Z"/>
+</mask>
+<path d="M556 349H557V348H556V349ZM556 634V635H557V634H556ZM539 350H556V348H539V350ZM555 349V634H557V349H555ZM556 633H539V635H556V633Z" fill="black" mask="url(#path-10-inside-1_1582_304)"/>
+</g>
+</g>
+<g id="SLOT 1">
+<rect id="Rectangle 713" x="21.5" y="387.5" width="47" height="43" fill="#D9D9D9" stroke="black"/>
+<text id="S-1" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="35.1182" y="414.043">S-1</tspan></text>
+<rect id="IOMB_SLOT1" x="21.5" y="485.5" width="47" height="148" fill="#F5F5F5" stroke="black"/>
+<text id="IOMB_SLOT1Label" transform="matrix(0 1 -1 0 54 498)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 2">
+<rect id="Rectangle 714" x="68.5" y="387.5" width="47" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT2" x="68.5" y="485.5" width="47" height="148" fill="#F5F5F5" stroke="black"/>
+<text id="S-2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="82.1182" y="414.043">S-2</tspan></text>
+<text id="IOMB_SLOT2Label" transform="matrix(0 1 -1 0 100 498)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 3">
+<rect id="Rectangle 715" x="128.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT3" x="128.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-3" transform="matrix(0 -1 1 0 131 414)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-3</tspan></text>
+<text id="IOMB_SLOT3Label" transform="matrix(0 1 -1 0 149 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 4">
+<rect id="Rectangle 716" x="151.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT4" x="151.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-4" transform="matrix(0 -1 1 0 154 414)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-4</tspan></text>
+<text id="IOMB_SLOT4Label" transform="matrix(0 1 -1 0 172 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 5">
+<rect id="Rectangle 717" x="174.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT5" x="174.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-5" transform="matrix(0 -1 1 0 177 414)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-5</tspan></text>
+<text id="IOMB_SLOT5Label" transform="matrix(0 1 -1 0 195 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 6">
+<rect id="Rectangle 718" x="197.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT6" x="197.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-6" transform="matrix(0 -1 1 0 200 414)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-6</tspan></text>
+<text id="IOMB_SLOT6Label" transform="matrix(0 1 -1 0 218 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 7">
+<rect id="Rectangle 719" x="220.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT7" x="220.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-7" transform="matrix(0 -1 1 0 223 414)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-7</tspan></text>
+<text id="IOMB_SLOT7Label" transform="matrix(0 1 -1 0 241 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 8">
+<rect id="Rectangle 720" x="243.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT8" x="243.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-8" transform="matrix(0 -1 1 0 246 414)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-8</tspan></text>
+<text id="IOMB_SLOT8Label" transform="matrix(0 1 -1 0 264 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 9">
+<rect id="Rectangle 721" x="266.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT9" x="266.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-9" transform="matrix(0 -1 1 0 269 414)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-9</tspan></text>
+<text id="IOMB_SLOT9Label" transform="matrix(0 1 -1 0 286 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 10">
+<rect id="Rectangle 722" x="289.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT10" x="289.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-10" transform="matrix(0 -1 1 0 292 422)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.796875" y="14.0432">S-10</tspan></text>
+<text id="IOMB_SLOT10Label" transform="matrix(0 1 -1 0 310 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 11">
+<rect id="Rectangle 723" x="312.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT11" x="312.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-11" transform="matrix(0 -1 1 0 315 422)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.796875" y="14.0432">S-11</tspan></text>
+<text id="IOMB_SLOT11Label" transform="matrix(0 1 -1 0 333 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 12">
+<rect id="Rectangle 724" x="335.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT12" x="335.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-12" transform="matrix(0 -1 1 0 338 422)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.796875" y="14.0432">S-12</tspan></text>
+<text id="IOMB_SLOT12Label" transform="matrix(0 1 -1 0 356 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 13">
+<rect id="Rectangle 725" x="358.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT13" x="358.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-13" transform="matrix(0 -1 1 0 361 422)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.796875" y="14.0432">S-13</tspan></text>
+<text id="IOMB_SLOT13Label" transform="matrix(0 1 -1 0 379 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 14">
+<rect id="Rectangle 726" x="381.5" y="387.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT14" x="381.5" y="430.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-14" transform="matrix(0 -1 1 0 384 422)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.796875" y="14.0432">S-14</tspan></text>
+<text id="IOMB_SLOT14Label" transform="matrix(0 1 -1 0 402 445)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 15">
+<rect id="Rectangle 727" x="417.5" y="387.5" width="47" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT15" x="417.5" y="485.5" width="47" height="148" fill="#F5F5F5" stroke="black"/>
+<text id="S-15" transform="translate(427 400)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.398438" y="14.0432">S-15</tspan></text>
+<text id="IOMB_SLOT15Label" transform="matrix(0 1 -1 0 450 498)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 16">
+<rect id="Rectangle 728" x="464.5" y="387.5" width="47" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMB_SLOT16" x="464.5" y="485.5" width="47" height="148" fill="#F5F5F5" stroke="black"/>
+<text id="S-16" transform="translate(474 400)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.398438" y="14.0432">S-16</tspan></text>
+<text id="IOMB_SLOT16Label" transform="matrix(0 1 -1 0 497 498)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<text id="IOMB-NUMBER" transform="matrix(0 1 -1 0 576 448)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="1.37695" y="14.0432">IOM-NUMBER</tspan></text>
+</g>
+</g>
+<g id="SINGLE-RACK-IOM_2">
+<g id="Group 912_2">
+<g id="NOT_TO_SET_2">
+<rect id="Rectangle 729_2" x="115.5" y="68.5" width="13" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 733_2" x="115.5" y="111.5" width="13" height="203" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 730_2" x="404.5" y="68.5" width="13" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 735_2" x="404.5" y="111.5" width="13" height="203" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 732_2" x="21.5" y="111.5" width="94" height="55" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 734_2" x="417.5" y="111.5" width="94" height="55" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 736_2" x="511.5" y="68.5" width="21" height="246" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 737_2" x="0.5" y="68.5" width="21" height="246" fill="#D9D9D9" stroke="black"/>
+<rect id="Rectangle 738_2" x="0.5" y="30.5" width="532" height="38" fill="#D9D9D9" stroke="black"/>
+<g id="Rectangle 739_2">
+<mask id="path-86-inside-2_1582_304" fill="white">
+<path d="M539 30H556V315H539V30Z"/>
+</mask>
+<path d="M556 30H557V29H556V30ZM556 315V316H557V315H556ZM539 31H556V29H539V31ZM555 30V315H557V30H555ZM556 314H539V316H556V314Z" fill="black" mask="url(#path-86-inside-2_1582_304)"/>
+</g>
+</g>
+<g id="SLOT 1_2">
+<rect id="Rectangle 713_2" x="21.5" y="68.5" width="47" height="43" fill="#D9D9D9" stroke="black"/>
+<text id="S-1_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="35.1182" y="95.0432">S-1</tspan></text>
+<rect id="IOMA_SLOT1" x="21.5" y="166.5" width="47" height="148" fill="#F5F5F5" stroke="black"/>
+<text id="IOMA_SLOT1Label" transform="matrix(0 1 -1 0 54 179)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 2_2">
+<rect id="Rectangle 714_2" x="68.5" y="68.5" width="47" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT2" x="68.5" y="166.5" width="47" height="148" fill="#F5F5F5" stroke="black"/>
+<text id="S-2_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="82.1182" y="95.0432">S-2</tspan></text>
+<text id="IOMA_SLOT2Label" transform="matrix(0 1 -1 0 100 179)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 3_2">
+<rect id="Rectangle 715_2" x="128.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT3" x="128.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-3_2" transform="matrix(0 -1 1 0 131 95)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-3</tspan></text>
+<text id="IOMA_SLOT3Label" transform="matrix(0 1 -1 0 149 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 4_2">
+<rect id="Rectangle 716_2" x="151.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT4" x="151.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-4_2" transform="matrix(0 -1 1 0 154 95)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-4</tspan></text>
+<text id="IOMA_SLOT4Label" transform="matrix(0 1 -1 0 172 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 5_2">
+<rect id="Rectangle 717_2" x="174.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT5" x="174.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-5_2" transform="matrix(0 -1 1 0 177 95)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-5</tspan></text>
+<text id="IOMA_SLOT5Label" transform="matrix(0 1 -1 0 195 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 6_2">
+<rect id="Rectangle 718_2" x="197.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT6" x="197.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-6_2" transform="matrix(0 -1 1 0 200 95)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-6</tspan></text>
+<text id="IOMA_SLOT6Label" transform="matrix(0 1 -1 0 218 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 7_2">
+<rect id="Rectangle 719_2" x="220.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT7" x="220.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-7_2" transform="matrix(0 -1 1 0 223 95)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-7</tspan></text>
+<text id="IOMA_SLOT7Label" transform="matrix(0 1 -1 0 241 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 8_2">
+<rect id="Rectangle 720_2" x="243.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT8" x="243.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-8_2" transform="matrix(0 -1 1 0 246 95)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-8</tspan></text>
+<text id="IOMA_SLOT8Label" transform="matrix(0 1 -1 0 264 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 9_2">
+<rect id="Rectangle 721_2" x="266.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT9" x="266.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-9_2" transform="matrix(0 -1 1 0 269 95)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.236328" y="14.0432">S-9</tspan></text>
+<text id="IOMA_SLOT9Label" transform="matrix(0 1 -1 0 286 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 10_2">
+<rect id="Rectangle 722_2" x="289.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT10" x="289.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-10_2" transform="matrix(0 -1 1 0 292 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.796875" y="14.0432">S-10</tspan></text>
+<text id="IOMA_SLOT10Label" transform="matrix(0 1 -1 0 310 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 11_2">
+<rect id="Rectangle 723_2" x="312.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT11" x="312.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-11_2" transform="matrix(0 -1 1 0 315 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.796875" y="14.0432">S-11</tspan></text>
+<text id="IOMA_SLOT11Label" transform="matrix(0 1 -1 0 333 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 12_2">
+<rect id="Rectangle 724_2" x="335.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT12" x="335.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-12_2" transform="matrix(0 -1 1 0 338 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.796875" y="14.0432">S-12</tspan></text>
+<text id="IOMA_SLOT12Label" transform="matrix(0 1 -1 0 356 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 13_2">
+<rect id="Rectangle 725_2" x="358.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT13" x="358.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-13_2" transform="matrix(0 -1 1 0 361 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.796875" y="14.0432">S-13</tspan></text>
+<text id="IOMA_SLOT13Label" transform="matrix(0 1 -1 0 379 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 14_2">
+<rect id="Rectangle 726_2" x="381.5" y="68.5" width="23" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT14" x="381.5" y="111.5" width="23" height="203" fill="#F5F5F5" stroke="black"/>
+<text id="S-14_2" transform="matrix(0 -1 1 0 384 103)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.796875" y="14.0432">S-14</tspan></text>
+<text id="IOMA_SLOT14Label" transform="matrix(0 1 -1 0 402 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 15_2">
+<rect id="Rectangle 727_2" x="417.5" y="68.5" width="47" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT15" x="417.5" y="166.5" width="47" height="148" fill="#F5F5F5" stroke="black"/>
+<text id="S-15_2" transform="translate(427 81)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.398438" y="14.0432">S-15</tspan></text>
+<text id="IOMA_SLOT15Label" transform="matrix(0 1 -1 0 450 179)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<g id="SLOT 16_2">
+<rect id="Rectangle 728_2" x="464.5" y="68.5" width="47" height="43" fill="#D9D9D9" stroke="black"/>
+<rect id="IOMA_SLOT16" x="464.5" y="166.5" width="47" height="148" fill="#F5F5F5" stroke="black"/>
+<text id="S-16_2" transform="translate(474 81)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.398438" y="14.0432">S-16</tspan></text>
+<text id="IOMA_SLOT16Label" transform="matrix(0 1 -1 0 497 179)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="0.280762" y="14.0432">LABEL</tspan></text>
+</g>
+<text id="IOMA-NUMBER" transform="matrix(0 1 -1 0 576 129)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="13" letter-spacing="0em"><tspan x="1.37695" y="14.0432">IOM-NUMBER</tspan></text>
+</g>
+<text id="RACK-NUMBER" fill="black" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="20" letter-spacing="0em"><tspan x="197.469" y="21.2588">RACK NUMBER</tspan></text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,1168 @@
+<svg id="main-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1856" height="820" viewBox="0 0 1856 820">
+	<defs>
+		<pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 320 106">
+			<g id="Bitcomm_logo-2" data-name="Bitcomm_logo" transform="translate(45 10)">
+				<g id="Rectangle_4" data-name="Rectangle 4" transform="translate(35.597 0.608) rotate(45)" fill="#0e86d4">
+					<path d="M 50.90496444702148 50.90496444702148 L 1.887659072875977 49.62485504150391 L 0.6075512766838074 0.6075512766838074 L 49.62485504150391 1.887659072875977 L 50.90496444702148 50.90496444702148 Z" stroke="none">
+					</path>
+					<path d="M 1.121135711669922 1.121135711669922 L 2.375099182128906 49.13741683959961 L 50.39138031005859 50.39138031005859 L 49.13741683959961 2.375099182128906 L 1.121135711669922 1.121135711669922 M 0.09396743774414062 0.09396743774414062 L 50.11229705810547 1.400218963623047 L 51.41854858398438 51.41854858398438 L 1.400218963623047 50.11229705810547 L 0.09396743774414062 0.09396743774414062 Z" stroke="none" fill="#0e86d4">
+					</path>
+				</g>
+				<g id="Ellipse_2" data-name="Ellipse 2" transform="translate(19.204 19.74)" fill="none" stroke="#fff" stroke-width="5">
+					<ellipse cx="17.799" cy="18.753" rx="17.799" ry="18.753" stroke="none">
+					</ellipse>
+					<ellipse cx="17.799" cy="18.753" rx="15.299" ry="16.253" fill="none">
+					</ellipse>
+				</g>
+				<path id="Path_1-2" data-name="Path 1" d="M.568-1.031h0s8.95,7.449,10.283,9.924a47.609,47.609,0,0,1,2.316,5.086" transform="translate(9.332 30.117)" fill="none" stroke="#fff" stroke-width="5">
+				</path>
+				<g id="Path_2" data-name="Path 2" transform="translate(16.001 22.307) rotate(45)">
+					<path id="Path_91" data-name="Path 91" d="M.143,5.135.455.013l14.3.812,2.286,4.348L15.152,5.2Z" transform="translate(0.54 0.509)" fill="#0e86d4">
+					</path>
+					<path id="Path_92" data-name="Path 92" d="M1.448,1.027,1.2,5.165l14.469.058L16.8,5.209,15,1.8,1.448,1.027M.542.015,15.58.869l2.778,5.284-2.639.033L.171,6.123Z" transform="translate(0 0)" fill="#0e86d4">
+					</path>
+				</g>
+				<g id="Path_3" data-name="Path 3" transform="matrix(0.616, -0.788, 0.788, 0.616, 7.56, 30.314)">
+					<path id="Path_93" data-name="Path 93" d="M3.893.459-.014.5,0,0,3.893.366Z" transform="translate(0.473 0.526)" fill="#fff">
+					</path>
+					<path id="Path_94" data-name="Path 94" d="M.013,0,4.85.455v1l-4.892.051Z" transform="translate(0 0)" fill="#fff">
+					</path>
+				</g>
+				<path id="Path_4" data-name="Path 4" d="M44,44" transform="translate(-3.719 31.506)" fill="none" stroke="#707070" stroke-width="1">
+				</path>
+				<g id="Group_2" data-name="Group 2" transform="translate(0 1.481)">
+					<line id="Line_2" data-name="Line 2" x2="3.747" y2="3.948" transform="translate(0 31.584)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3" data-name="Line 3" x2="3.747" y2="3.948" transform="translate(4.684 26.649)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4" data-name="Line 4" x2="3.747" y2="3.948" transform="translate(9.368 21.714)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5" data-name="Line 5" x2="3.747" y2="3.948" transform="translate(13.115 17.766)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6" data-name="Line 6" x2="3.747" y2="3.948" transform="translate(17.799 12.831)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_7" data-name="Line 7" x2="3.747" y2="3.948" transform="translate(22.482 7.896)" fill="none" stroke="#707070" stroke-width="1">
+					</line>
+					<line id="Line_8" data-name="Line 8" x2="3.747" y2="3.948" transform="translate(30.913)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9" data-name="Line 9" x2="3.747" y2="3.948" transform="translate(22.482 7.896)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10" data-name="Line 10" x2="3.747" y2="3.948" transform="translate(26.23 3.948)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+				<g id="Group_3" data-name="Group 3" transform="translate(69.789) rotate(90)">
+					<line id="Line_2-2" data-name="Line 2" x2="3.948" y2="3.747" transform="translate(0 29.977)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3-2" data-name="Line 3" x2="3.948" y2="3.747" transform="translate(4.935 25.293)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4-2" data-name="Line 4" x2="3.948" y2="3.747" transform="translate(9.87 20.609)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5-2" data-name="Line 5" x2="3.948" y2="3.747" transform="translate(13.818 16.862)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6-2" data-name="Line 6" x2="3.948" y2="3.747" transform="translate(18.753 12.178)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_7-2" data-name="Line 7" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#707070" stroke-width="1">
+					</line>
+					<line id="Line_8-2" data-name="Line 8" x2="3.948" y2="3.747" transform="translate(32.571 0)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9-2" data-name="Line 9" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10-2" data-name="Line 10" x2="3.948" y2="3.747" transform="translate(27.636 3.747)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+				<g id="Group_4" data-name="Group 4" transform="translate(70.258 73.532) rotate(180)">
+					<line id="Line_2-3" data-name="Line 2" x2="3.747" y2="3.948" transform="translate(0 32.571)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3-3" data-name="Line 3" x2="3.747" y2="3.948" transform="translate(4.684 27.636)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4-3" data-name="Line 4" x2="3.747" y2="3.948" transform="translate(8.431 22.701)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5-3" data-name="Line 5" x2="3.747" y2="3.948" transform="translate(13.115 17.766)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6-3" data-name="Line 6" x2="3.747" y2="3.948" transform="translate(17.799 12.831)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_8-3" data-name="Line 8" x2="3.747" y2="3.948" transform="translate(30.913)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9-3" data-name="Line 9" x2="3.747" y2="3.948" transform="translate(22.482 7.896)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10-3" data-name="Line 10" x2="3.747" y2="3.948" transform="translate(26.23 3.948)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+				<g id="Group_5" data-name="Group 5" transform="translate(34.192 37.506) rotate(90)">
+					<line id="Line_2-4" data-name="Line 2" x2="3.948" y2="3.747" transform="translate(0 29.977)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_3-4" data-name="Line 3" x2="3.948" y2="3.747" transform="translate(4.935 25.293)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_4-4" data-name="Line 4" x2="3.948" y2="3.747" transform="translate(9.87 20.609)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_5-4" data-name="Line 5" x2="3.948" y2="3.747" transform="translate(13.818 16.862)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_6-4" data-name="Line 6" x2="3.948" y2="3.747" transform="translate(18.753 12.178)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_7-3" data-name="Line 7" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#707070" stroke-width="1">
+					</line>
+					<line id="Line_8-4" data-name="Line 8" x2="3.948" y2="3.747" transform="translate(32.571 0)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_9-4" data-name="Line 9" x2="3.948" y2="3.747" transform="translate(23.688 7.494)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+					<line id="Line_10-4" data-name="Line 10" x2="3.948" y2="3.747" transform="translate(27.636 3.747)" fill="none" stroke="#0e86d4" stroke-width="1">
+					</line>
+				</g>
+			</g>
+		</pattern>
+		<clipPath id="clip-NHGJ">
+			<rect width="1856" height="820">
+			</rect>
+		</clipPath>
+	</defs>
+	<g id="NHGJ" clip-path="url(#clip-NHGJ)">
+		<rect width="1856" height="820" fill="#fff">
+		</rect>
+		<g id="YardLayout">
+			<rect id="BlackCanvas" width="1856" height="820">
+			</rect>
+			<g id="Stationinfo" transform="translate(838 29)">
+				<path id="Path_1" data-name="Path 1" d="M0,0H180" transform="translate(0 49.216)" fill="none" stroke="#fff" stroke-width="3">
+				</path>
+				<text id="\u0928\u0908_\u0939\u093E\u0930\u093E\u0902\u0917\u093E\u091C\u093E\u0913" data-name="\u0928\u0908 \u0939\u093E\u0930\u093E\u0902\u0917\u093E\u091C\u093E\u0913" transform="translate(90 31)" fill="#fff" font-size="30" font-family="NirmalaUI, Nirmala UI">
+					<tspan x="-90.447" y="0">
+						नई
+					</tspan>
+					<tspan y="0" font-family="SegoeUI, Segoe UI">
+					</tspan>
+					<tspan y="0">
+						हारांगाजाओ
+					</tspan>
+				</text>
+				<text id="New_Harangajao" data-name="New Harangajao" transform="translate(90 81)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI">
+					<tspan x="-110.149" y="0">
+						New Harangajao
+					</tspan>
+				</text>
+			</g>
+			<g id="Legend" transform="translate(1391.246 656.586)">
+				<g id="PMLegend" transform="translate(0 0.002)">
+					<text id="PMLegendLabel" transform="translate(11 19)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							POINT MACHINE
+						</tspan>
+					</text>
+					<g id="PMLegendNormal" transform="translate(11 25)">
+						<g id="PMLegendNormalIndicator" fill="none" stroke="#21e074" stroke-width="4">
+							<circle cx="10" cy="10" r="10" stroke="none">
+							</circle>
+							<circle cx="10" cy="10" r="8" fill="none">
+							</circle>
+						</g>
+						<text id="PMLegendNormalLabel" transform="translate(32 16)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								NORMAL
+							</tspan>
+						</text>
+					</g>
+					<g id="PMLegendReverse" transform="translate(11 49)">
+						<g id="PMLegendReverseIndicator" fill="none" stroke="#0088d1" stroke-width="4">
+							<circle cx="10" cy="10" r="10" stroke="none">
+							</circle>
+							<circle cx="10" cy="10" r="8" fill="none">
+							</circle>
+						</g>
+						<text id="PMLegendReverseLabel" transform="translate(30 15)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								REVERSE
+							</tspan>
+						</text>
+					</g>
+					<g id="PMLegendHr" transform="translate(11.929 69.572)">
+						<path id="PMLegendHr1" d="M10.433,19.646C4.823,15.724,1.881,12.155.675,9.168c-3.232-8,6-11.832,9.758-7.107,3.758-4.725,12.991-.9,9.758,7.107C18.985,12.155,16.043,15.724,10.433,19.646Z" transform="translate(0 3.457)" fill="red">
+						</path>
+						<path id="PMLegendHr2" d="M-.094.01H5.175L7.357-3.307l2.832,6.271L12.232.01,19.327,0" transform="translate(0.807 12.769)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.4">
+						</path>
+						<text id="PMLegendFailureLabel" transform="translate(28.702 15)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								FAILURE
+							</tspan>
+						</text>
+					</g>
+					<g id="PMLegendCanvas" fill="none" stroke="#fff" stroke-width="2">
+						<rect width="126" height="109" stroke="none">
+						</rect>
+						<rect x="1" y="1" width="124" height="107" fill="none">
+						</rect>
+					</g>
+				</g>
+				<g id="TCLegend" transform="translate(181)">
+					<text id="TCLegendLabel" transform="translate(22 19)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+						<tspan x="0" y="0">
+							TRACKCIRCUIT
+						</tspan>
+					</text>
+					<g id="TCFreeLegendGroup" transform="translate(10.5 28.494)">
+						<line id="TCFreeLegendIndicator" x2="70" transform="translate(0 9.5)" fill="none" stroke="#fff" stroke-width="6">
+						</line>
+						<text id="TCFreeLegendLabel" transform="translate(77.5 15)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								FREE
+							</tspan>
+						</text>
+					</g>
+					<g id="TCOccupiedLegendGroup" transform="translate(10.5 51.439)">
+						<line id="TCOccupiedLegendIndicator" x2="70" transform="translate(0 9.5)" fill="none" stroke="#e77e00" stroke-width="6">
+						</line>
+						<text id="TCOccupiedLegendLabel" transform="translate(76.921 15)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								OCCUPIED
+							</tspan>
+						</text>
+					</g>
+					<g id="TCFailureLLegendGroup" transform="translate(10.5 72.539)">
+						<line id="TCFailureLegendIndicator" x2="70" transform="translate(0 9.5)" fill="none" stroke="red" stroke-width="6">
+						</line>
+						<text id="TCFailureLLegendLabel" transform="translate(79 15)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI">
+							<tspan x="0" y="0">
+								FAILURE
+							</tspan>
+						</text>
+					</g>
+					<g id="TCLegendCanvas" fill="none" stroke="#fff" stroke-width="2">
+						<rect width="159" height="109" stroke="none">
+						</rect>
+						<rect x="1" y="1" width="157" height="107" fill="none">
+						</rect>
+					</g>
+				</g>
+			</g>
+			<g id="Signal">
+				<g id="SGS3" class="tooltip" transform="translate(201.266 262.889) rotate(-0.3)" edge-id="NHGJ_SG_S3">
+					<text id="SGS3Label" transform="translate(15.866 -5.686)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_S3Label">
+						<tspan x="0" y="0">
+							S-3
+						</tspan>
+					</text>
+					<g id="SGS3Aspect2" transform="translate(7.753 -3.65)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S3Aspect2">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="6.75" fill="none">
+						</circle>
+					</g>
+					<g id="SGS3Aspect1" transform="translate(22.753 -3.572)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S3Aspect1">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="6.75" fill="none">
+						</circle>
+					</g>
+				</g>
+				<g id="SGS37" class="tooltip" transform="translate(912.339 356.763) rotate(179.7)" edge-id="NHGJ_SG_S37">
+					<text id="SGS37Label" transform="translate(48.548 23.097) rotate(180)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_S37Label">
+						<tspan x="0" y="0">
+							S-37
+						</tspan>
+					</text>
+					<g id="SGS37Aspect2" transform="translate(22.078 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S37Aspect2">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS37Aspect1" transform="translate(37.156 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S37Aspect1">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+				</g>
+				<g id="SGS35" class="tooltip" transform="translate(980.339 281.724) rotate(179.7)" edge-id="NHGJ_SG_S35">
+					<text id="SGS35Label" transform="translate(48.548 23.097) rotate(180)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_S35Label">
+						<tspan x="0" y="0">
+							S-35
+						</tspan>
+					</text>
+					<g id="SGS35Aspect2" transform="translate(22.078 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S35Aspect2">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS35Aspect1" transform="translate(37.156 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S35Aspect1">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+				</g>
+				<g id="SGS14" class="tooltip" transform="translate(655.429 354.724) rotate(179.7)" edge-id="NHGJ_SG_S14">
+					<text id="SGS14Label" transform="translate(48.548 23.097) rotate(180)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_S14Label">
+						<tspan x="0" y="0">
+							S-14
+						</tspan>
+					</text>
+					<g id="SGS14Aspect2" transform="translate(22.078 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S14Aspect2">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS14Aspect1" transform="translate(37.156 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S14Aspect1">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+				</g>
+				<g id="SGS39" class="tooltip" transform="translate(965.227 210.186) rotate(179.7)" edge-id="NHGJ_SG_S39">
+					<text id="SGS39Label" transform="translate(48.548 23.097) rotate(180)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_S39Label">
+						<tspan x="0" y="0">
+							S-39
+						</tspan>
+					</text>
+					<g id="SGS39Aspect2" transform="translate(22.078 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S39Aspect2">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS39Aspect1" transform="translate(37.156 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S39Aspect1">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+				</g>
+				<g id="SGS2" class="tooltip" transform="translate(351.085 284.397) rotate(179.7)" edge-id="NHGJ_SG_S2">
+					<text id="SGS2Label" transform="translate(45.543 24.082) rotate(180)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_S2Label">
+						<tspan x="0" y="0">
+							S-2
+						</tspan>
+					</text>
+					<g id="SGS2Aspect2" transform="translate(22.078 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S2Aspect2">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS2Aspect1" transform="translate(37.156 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S2Aspect1">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="POLES" transform="translate(51.42 0)">
+						<line id="POLES1" y2="13.952" transform="translate(7.972 0)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</line>
+						<line id="POLES2" x2="7.851" transform="translate(0 13.883)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+				</g>
+				<g id="SGS12" class="tooltip" transform="translate(702.864 283.186) rotate(179.7)" edge-id="NHGJ_SG_S12">
+					<text id="SGS12Label" transform="translate(48.548 23.097) rotate(180)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_S12Label">
+						<tspan x="0" y="0">
+							S-12
+						</tspan>
+					</text>
+					<g id="SGS12Aspect2" transform="translate(22.078 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S12Aspect2">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS12Aspect1" transform="translate(37.156 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S12Aspect1">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+				</g>
+				<g id="SGC3" class="tooltip" transform="translate(217.995 283.823) rotate(179.7)" edge-id="NHGJ_SG_C3">
+					<text id="SGC3abel" transform="translate(28.057 35.463) rotate(180)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_C3abel">
+						<tspan x="0" y="12">
+							C-3
+						</tspan>
+					</text>
+					<g id="SGC3Aspect" transform="translate(14.117 11.39)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_C3Aspect">
+						<ellipse cx="5" cy="5" rx="5" ry="5" stroke="none">
+						</ellipse>
+						<ellipse cx="5" cy="5" rx="4.25" ry="4.25" fill="none">
+						</ellipse>
+					</g>
+					<g id="POLES-2" data-name="POLES" transform="translate(9.146 0)">
+						<line id="POLES1-2" data-name="POLES1" y2="16.333" transform="translate(24.585 0)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</line>
+						<line id="POLES2-2" data-name="POLES2" x2="10" transform="translate(14.5 16.28)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+						<line id="POLES3" x2="5" transform="translate(0 16.23)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+				</g>
+				<g id="SGS16" class="tooltip" transform="translate(680.147 210.186) rotate(179.7)" edge-id="NHGJ_SG_S16">
+					<text id="SGS16Label" transform="translate(48.548 23.097) rotate(180)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_S16Label">
+						<tspan x="0" y="0">
+							S-16
+						</tspan>
+					</text>
+					<g id="SGS16Aspect1" transform="translate(37.156 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S16Aspect1">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS16Aspect2" transform="translate(22.078 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S16Aspect2">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+				</g>
+				<g id="SGS46" class="tooltip" transform="translate(1345.177 274.57) rotate(179.7)" edge-id="NHGJ_SG_S46">
+					<text id="SGS46Label" transform="translate(24.968 17.131) rotate(180)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_S46Label">
+						<tspan x="0" y="0">
+							S-46
+						</tspan>
+					</text>
+					<g id="SGS46Aspect2" transform="translate(0 0)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S46Aspect2">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS46Aspect1" transform="translate(15.078 0.079)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S46Aspect1">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+				</g>
+				<g id="SGC46" class="tooltip" transform="translate(1314.942 283.247) rotate(179.7)" edge-id="NHGJ_SG_C46">
+					<text id="SGC46Label" transform="translate(24.964 35.542) rotate(180)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_C46Label">
+						<tspan x="0" y="12">
+							C-46
+						</tspan>
+					</text>
+					<g id="SGC46Aspect" transform="translate(2.012 11.422)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_C46Aspect">
+						<ellipse cx="5" cy="5" rx="5" ry="5" stroke="none">
+						</ellipse>
+						<ellipse cx="5" cy="5" rx="4.25" ry="4.25" fill="none">
+						</ellipse>
+					</g>
+					<g id="POLES-3" data-name="POLES" transform="translate(0 0)">
+						<line id="POLES1-3" data-name="POLES1" y2="16.333" transform="translate(16.585 0)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</line>
+						<line id="POLES2-3" data-name="POLES2" x2="5" transform="translate(11.585 16.307)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+						<line id="POLES3-2" data-name="POLES3" x2="2" transform="translate(0 16.22)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+				</g>
+				<g id="SGS47" class="tooltip" transform="translate(1287.011 282.689) rotate(179.7)" edge-id="NHGJ_SG_S47">
+					<text id="SGS47Label" transform="translate(48.926 24.099) rotate(180)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_S47Label">
+						<tspan x="0" y="0">
+							S-47
+						</tspan>
+					</text>
+					<g id="SGS47Aspect2" transform="translate(22.078 6.959)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S47Aspect2">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="SGS47Aspect1" transform="translate(37.156 7.038)" fill="none" stroke="#6c7091" stroke-width="1.5" edge-id-selector="NHGJ_SG_S47Aspect1">
+						<ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" stroke="none">
+						</ellipse>
+						<ellipse cx="7.5" cy="7.5" rx="6.75" ry="6.75" fill="none">
+						</ellipse>
+					</g>
+					<g id="POLES-4" data-name="POLES" transform="translate(51.42 0)">
+						<line id="POLES1-4" data-name="POLES1" y2="13.952" transform="translate(7.972 0)" fill="none" stroke="#6c7091" stroke-width="1.5">
+						</line>
+						<line id="POLES2-4" data-name="POLES2" x2="7.851" transform="translate(0 13.883)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+				</g>
+			</g>
+			<g id="Shunt">
+				<g id="SH44" class="tooltip" transform="translate(1142 249.781)" edge-id="NHGJ_SG_SH44">
+					<g id="Pole" transform="translate(0 20.219)">
+						<line id="SH44Pole1" y1="15" transform="translate(0)" fill="none" stroke="#6c7091" stroke-width="2" edge-id-selector="NHGJ_SG_SH44Pole1">
+						</line>
+						<line id="SH44Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2" edge-id-selector="NHGJ_SG_SH44Pole2">
+						</line>
+					</g>
+					<g id="SH44Aspect1" transform="translate(5 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH44Aspect1">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH44Aspect2" transform="translate(16 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH44Aspect2">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH44Aspect3" transform="translate(27 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH44Aspect3">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<text id="SH44Label" transform="translate(4.5 13)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_SH44Label">
+						<tspan x="0" y="0">
+							SH-44
+						</tspan>
+					</text>
+				</g>
+				<g id="SH37" class="tooltip" transform="translate(819.819 321.781)" edge-id="NHGJ_SG_SH37">
+					<g id="Pole-2" data-name="Pole" transform="translate(0 20.187)">
+						<line id="SH37Pole1" y1="15.032" fill="none" stroke="#6c7091" stroke-width="2" edge-id-selector="NHGJ_SG_SH37Pole1">
+						</line>
+						<line id="SH37Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2" edge-id-selector="NHGJ_SG_SH37Pole2">
+						</line>
+						<line id="POLES3-3" data-name="POLES3" x2="2" transform="translate(40.181 -0.402) rotate(179.7)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<g id="SH37Aspect1" transform="translate(5 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH37Aspect1">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH37Aspect2" transform="translate(16 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH37Aspect2">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH37Aspect3" transform="translate(27 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH37Aspect3">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<text id="SH37Label" transform="translate(1.5 12)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_SH37Label">
+						<tspan x="0" y="0">
+							SH-37
+						</tspan>
+					</text>
+				</g>
+				<g id="SH35" class="tooltip" transform="translate(887.819 248.781)" edge-id="NHGJ_SG_SH35">
+					<g id="Pole-3" data-name="Pole" transform="translate(0 20.187)">
+						<line id="SH35Pole1" y1="15.032" fill="none" stroke="#6c7091" stroke-width="2" edge-id-selector="NHGJ_SG_SH35Pole1">
+						</line>
+						<line id="SH35Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2" edge-id-selector="NHGJ_SG_SH35Pole2">
+						</line>
+						<line id="POLES3-4" data-name="POLES3" x2="2" transform="translate(40.181 -0.402) rotate(179.7)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<g id="SH35Aspect1" transform="translate(5 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH35Aspect1">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH35Aspect2" transform="translate(16 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH35Aspect2">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH35Aspect3" transform="translate(27 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH35Aspect3">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<text id="SH35Label" transform="translate(1.5 12)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_SH35Label">
+						<tspan x="0" y="0">
+							SH-35
+						</tspan>
+					</text>
+				</g>
+				<g id="SH39" class="tooltip" transform="translate(872.91 175.204)" edge-id="NHGJ_SG_SH39">
+					<g id="Pole-4" data-name="Pole" transform="translate(0 20.187)">
+						<line id="SH39Pole1" y1="15.032" fill="none" stroke="#6c7091" stroke-width="2" edge-id-selector="NHGJ_SG_SH39Pole1">
+						</line>
+						<line id="SH39Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2" edge-id-selector="NHGJ_SG_SH39Pole2">
+						</line>
+						<line id="POLES3-5" data-name="POLES3" x2="2" transform="translate(40.181 -0.402) rotate(179.7)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<g id="SH39Aspect1" transform="translate(5 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH39Aspect1">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH39Aspect2" transform="translate(16 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH39Aspect2">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH39Aspect3" transform="translate(27 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH39Aspect3">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<text id="SH39Label" transform="translate(1.5 12)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_SH39Label">
+						<tspan x="0" y="0">
+							SH-39
+						</tspan>
+					</text>
+				</g>
+				<g id="SH14" class="tooltip" transform="translate(562.91 320.673)" edge-id="NHGJ_SG_SH14">
+					<g id="Pole-5" data-name="Pole" transform="translate(0 20.187)">
+						<line id="SH14Pole1" y1="15.032" fill="none" stroke="#6c7091" stroke-width="2" edge-id-selector="NHGJ_SG_SH14Pole1">
+						</line>
+						<line id="SH14Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2" edge-id-selector="NHGJ_SG_SH14Pole2">
+						</line>
+						<line id="POLES3-6" data-name="POLES3" x2="2" transform="translate(40.181 -0.402) rotate(179.7)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<g id="SH14Aspect1" transform="translate(5 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH14Aspect1">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH14Aspect2" transform="translate(16 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH14Aspect2">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH14Aspect3" transform="translate(27 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH14Aspect3">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<text id="SH14Label" transform="translate(1.5 12)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_SH14Label">
+						<tspan x="0" y="0">
+							SH-14
+						</tspan>
+					</text>
+				</g>
+				<g id="SH7" class="tooltip" transform="translate(413 248.781)" edge-id="NHGJ_SG_SH7">
+					<g id="Pole-6" data-name="Pole" transform="translate(0 20.219)">
+						<line id="SH7Pole1" y1="15" transform="translate(0)" fill="none" stroke="#6c7091" stroke-width="2" edge-id-selector="NHGJ_SG_SH7Pole1">
+						</line>
+						<line id="SH7Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2" edge-id-selector="NHGJ_SG_SH7Pole2">
+						</line>
+					</g>
+					<g id="SH7Aspect1" transform="translate(5 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH7Aspect1">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH7Aspect2" transform="translate(16 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH7Aspect2">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH7Aspect3" transform="translate(27 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH7Aspect3">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<text id="SH7Label" transform="translate(7.5 13)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_SH7Label">
+						<tspan x="0" y="0">
+							SH-7
+						</tspan>
+					</text>
+				</g>
+				<g id="SH12" class="tooltip" transform="translate(610.344 248.781)" edge-id="NHGJ_SG_SH12">
+					<g id="Pole-7" data-name="Pole" transform="translate(0 20.187)">
+						<line id="SH12Pole1" y1="15.032" fill="none" stroke="#6c7091" stroke-width="2" edge-id-selector="NHGJ_SG_SH12Pole1">
+						</line>
+						<line id="SH12Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2" edge-id-selector="NHGJ_SG_SH12Pole2">
+						</line>
+						<line id="POLES3-7" data-name="POLES3" x2="2" transform="translate(40.181 -0.402) rotate(179.7)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<g id="SH12Aspect1" transform="translate(5 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH12Aspect1">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH12Aspect2" transform="translate(16 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH12Aspect2">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH12Aspect3" transform="translate(27 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH12Aspect3">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<text id="SH12Label" transform="translate(1.5 12)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_SH12Label">
+						<tspan x="0" y="0">
+							SH-12
+						</tspan>
+					</text>
+				</g>
+				<g id="SH16" class="tooltip" transform="translate(587.344 175.781)" edge-id="NHGJ_SG_SH16">
+					<g id="Pole-8" data-name="Pole" transform="translate(0 20.187)">
+						<line id="SH16Pole1" y1="15.032" fill="none" stroke="#6c7091" stroke-width="2" edge-id-selector="NHGJ_SG_SH16Pole1">
+						</line>
+						<line id="SH16Pole2" y2="5" transform="translate(0 0.281) rotate(-90)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="2" edge-id-selector="NHGJ_SG_SH16Pole2">
+						</line>
+						<line id="POLES3-8" data-name="POLES3" x2="2" transform="translate(40.181 -0.402) rotate(179.7)" fill="none" stroke="#6c7091" stroke-linecap="round" stroke-width="1.5">
+						</line>
+					</g>
+					<g id="SH16Aspect1" transform="translate(5 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH16Aspect1">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH16Aspect2" transform="translate(16 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH16Aspect2">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<g id="SH16Aspect3" transform="translate(27 15)" fill="none" stroke="#6c7091" stroke-linecap="square" stroke-width="1" edge-id-selector="NHGJ_SG_SH16Aspect3">
+						<circle cx="5.5" cy="5.5" r="5.5" stroke="none">
+						</circle>
+						<circle cx="5.5" cy="5.5" r="5" fill="none">
+						</circle>
+					</g>
+					<text id="SH16Label" transform="translate(1.5 12)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_SG_SH16Label">
+						<tspan x="0" y="0">
+							SH-16
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="TrackCircuit">
+				<g id="TC112T" class="tooltip" edge-id="NHGJ_TC_112T">
+					<line id="TC112TLine" x1="267" transform="translate(923 357)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_112TLine">
+					</line>
+					<text id="TC112TLabel" transform="translate(1033 369)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_112TLabel">
+						<tspan x="-12.477" y="0">
+							112T
+						</tspan>
+					</text>
+					<line id="TC112TPOLES" y1="10" transform="translate(1190 352)" fill="none" stroke="#fff" stroke-width="3" edge-id-selector="NHGJ_TC_112TPOLES">
+					</line>
+				</g>
+				<g id="TC102T" class="tooltip" edge-id="NHGJ_TC_102T">
+					<line id="TC102TLine" x1="239" transform="translate(429 211)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_102TLine">
+					</line>
+					<text id="TC102TLabel" transform="translate(534 206)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_102TLabel">
+						<tspan x="-12.477" y="0">
+							102T
+						</tspan>
+					</text>
+					<line id="TC102TPOLES" y1="10" transform="translate(429 206)" fill="none" stroke="#fff" stroke-width="3" edge-id-selector="NHGJ_TC_102TPOLES">
+					</line>
+				</g>
+				<g id="TCC46T" class="tooltip" edge-id="NHGJ_TC_C46T">
+					<line id="TCC46TLine" x1="162" transform="translate(1324 284)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_C46TLine">
+					</line>
+					<text id="TCC46TLabel" transform="translate(1408 296)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_C46TLabel">
+						<tspan x="-12.802" y="0">
+							C46T
+						</tspan>
+					</text>
+					<line id="TCC46TPOLES" y1="10" transform="translate(1486 279)" fill="none" stroke="#fff" stroke-width="3" edge-id-selector="NHGJ_TC_C46TPOLES">
+					</line>
+				</g>
+				<g id="TC47AT" class="tooltip" edge-id="NHGJ_TC_47AT">
+					<line id="TC47ATLine" x1="48" transform="translate(1190 284)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_47ATLine">
+					</line>
+					<text id="TC47ATLabel" transform="translate(1210 281)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_47ATLabel">
+						<tspan x="-12.813" y="0">
+							47AT
+						</tspan>
+					</text>
+					<line id="TC111TLine" x1="129" transform="translate(1058 284)" fill="none" stroke="#6c7091" stroke-width="3">
+					</line>
+				</g>
+				<g id="TC46T" class="tooltip" edge-id="NHGJ_TC_46T">
+					<line id="TC46TLine" x1="80" transform="translate(1241 284)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_46TLine">
+					</line>
+					<text id="TC46TLabel" transform="translate(1265 295)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_46TLabel">
+						<tspan x="-9.332" y="0">
+							46T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC111T" class="tooltip" edge-id="NHGJ_TC_111T">
+					<text id="TC111TLabel" transform="translate(1116 281)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_111TLabel">
+						<tspan x="-12.477" y="0">
+							111T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC113T" class="tooltip" edge-id="NHGJ_TC_113T">
+					<line id="TC113TLine" x1="129" transform="translate(926 284)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_113TLine">
+					</line>
+					<text id="TC113TLabel" transform="translate(994 281)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_113TLabel">
+						<tspan x="-12.477" y="0">
+							113T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC114T" class="tooltip" edge-id="NHGJ_TC_114T">
+					<line id="TC114TLine" x1="171" transform="translate(923 211)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_114TLine">
+					</line>
+					<text id="TC114TLabel" transform="translate(979 208)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_114TLabel">
+						<tspan x="-12.477" y="0">
+							114T
+						</tspan>
+					</text>
+					<line id="TC114TPOLES" y1="10" transform="translate(1095 206)" fill="none" stroke="#fff" stroke-width="3" edge-id-selector="NHGJ_TC_114TPOLES">
+					</line>
+				</g>
+				<g id="TCOB2T" class="tooltip" edge-id="NHGJ_TC_OB2T">
+					<line id="TCOB2TLine" x1="129" transform="translate(791 211)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_OB2TLine">
+					</line>
+					<text id="TCOB2TLabel" transform="translate(833 208)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_OB2TLabel">
+						<tspan x="-14.035" y="0">
+							OB2T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCOA1T" class="tooltip" edge-id="NHGJ_TC_OA1T">
+					<line id="TCOA1TLine" x1="129" transform="translate(662 284)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_OA1TLine">
+					</line>
+					<text id="TCOA1TLabel" transform="translate(713 281)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_OA1TLabel">
+						<tspan x="-13.951" y="0">
+							OA1T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCOA2T" class="tooltip" edge-id="NHGJ_TC_OA2T">
+					<line id="TCOA2TLine" x1="129" transform="translate(794 284)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_OA2TLine">
+					</line>
+					<text id="TCOA2TLabel" transform="translate(848 281)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_OA2TLabel">
+						<tspan x="-13.951" y="0">
+							OA2T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCOC1T" class="tooltip" edge-id="NHGJ_TC_OC1T">
+					<line id="TCOC1TLine" x1="80" transform="translate(730 357)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_OC1TLine">
+					</line>
+					<text id="TCOC1TLabel" transform="translate(762 354)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_OC1TLabel">
+						<tspan x="-13.941" y="0">
+							OC1T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCOC2T" class="tooltip" edge-id="NHGJ_TC_OC2T">
+					<line id="TCOC2TLine" x1="107" transform="translate(813 357)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_OC2TLine">
+					</line>
+					<text id="TCOC2TLabel" transform="translate(846 369)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_OC2TLabel">
+						<tspan x="-13.941" y="0">
+							OC2T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCOB1T" class="tooltip" edge-id="NHGJ_TC_OB1T">
+					<line id="TCOBITLine" x1="117" transform="translate(671 211)" fill="none" stroke="#6c7091" stroke-width="3">
+					</line>
+					<text id="TCOB1TLabel" transform="translate(716 208)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_OB1TLabel">
+						<tspan x="-14.035" y="0">
+							OB1T
+						</tspan>
+					</text>
+				</g>
+				<g id="TCC3T" class="tooltip" edge-id="NHGJ_TC_C3T">
+					<line id="TCC3TLine" x1="124" transform="translate(100 284)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_C3TLine">
+					</line>
+					<text id="TCC3TLabel" transform="translate(178 296)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_C3TLabel">
+						<tspan x="-9.657" y="0">
+							C3T
+						</tspan>
+					</text>
+					<line id="TCC3TPOLES" y1="10" transform="translate(100 279)" fill="none" stroke="#fff" stroke-width="3" edge-id-selector="NHGJ_TC_C3TPOLES">
+					</line>
+				</g>
+				<g id="TC3T" class="tooltip" edge-id="NHGJ_TC_3T">
+					<line id="TC3TLine" x1="129" transform="translate(227 284)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_3TLine">
+					</line>
+					<text id="TC3TLabel" transform="translate(279 296)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_3TLabel">
+						<tspan x="-6.188" y="0">
+							3T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC2AT" class="tooltip" edge-id="NHGJ_TC_2AT">
+					<line id="TC2ATLine" x1="36" transform="translate(359 284)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_2ATLine">
+					</line>
+					<text id="TC2ATLabel" transform="translate(373 281)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_2ATLabel">
+						<tspan x="-9.668" y="0">
+							2AT
+						</tspan>
+					</text>
+				</g>
+				<g id="TC101T" class="tooltip" edge-id="NHGJ_TC_101T">
+					<line id="TC101TLine" x1="129" transform="translate(398 284)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_101TLine">
+					</line>
+					<text id="TC101TLabel" transform="translate(451 296)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_101TLabel">
+						<tspan x="-12.477" y="0">
+							101T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC103T" class="tooltip" edge-id="NHGJ_TC_103T">
+					<line id="TC103TLine" x1="129" transform="translate(530 284)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_103TLine">
+					</line>
+					<text id="TC103TLabel" transform="translate(590 281)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_103TLabel">
+						<tspan x="-12.477" y="0">
+							103T
+						</tspan>
+					</text>
+				</g>
+				<g id="TC104T" class="tooltip" edge-id="NHGJ_TC_104T">
+					<line id="TC104TLine" x1="178" transform="translate(549 357)" fill="none" stroke="#6c7091" stroke-width="3" edge-id-selector="NHGJ_TC_104TLine">
+					</line>
+					<text id="TC104TLabel" transform="translate(595 369)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_TC_104TLabel">
+						<tspan x="-12.477" y="0">
+							104T
+						</tspan>
+					</text>
+					<line id="TC104TPOLES" y1="10" transform="translate(549 352)" fill="none" stroke="#fff" stroke-width="3" edge-id-selector="NHGJ_TC_104TPOLES">
+					</line>
+				</g>
+				<path id="TCTONGUER1Line" d="M134.059-2.449H122.295L-7.3,58.9H-20.148" transform="translate(533.941 219.193)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="TCTONGUER3Line" d="M129.213,53.264h-9.65L8.72-9.674H-2.63" transform="translate(925.63 225.185)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="TCTONGUER4Line" d="M111.969-2.449H101.891L-9.137,60.71h-11.01" transform="translate(943.148 291.543)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+				<path id="TCTONGUER2Line" d="M-5.991-2.779H8.7L63.56,60.98H77.284" transform="translate(649.716 291.273)" fill="none" stroke="#6c7091" stroke-width="3">
+				</path>
+			</g>
+			<g id="PointMachine">
+				<g id="PM101" class="tooltip" transform="translate(511.518 238.597)" edge-id="NHGJ_PM_101">
+					<g id="PM101Hr" transform="translate(-8.054 23.266) rotate(-0.3)" edge-id-selector="NHGJ_PM_101Hr">
+						<path id="PM101Hr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" edge-id-selector="NHGJ_PM_101Hr1">
+						</path>
+						<path id="PM101Hr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="NHGJ_PM_101Hr2">
+						</path>
+					</g>
+					<g id="PM101Icon" transform="translate(3.482 21.146)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="NHGJ_PM_101Icon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM101Label" transform="translate(2.482 19.146)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_PM_101Label">
+						<tspan x="0" y="0">
+							101
+						</tspan>
+					</text>
+				</g>
+				<g id="PM102" class="tooltip" transform="translate(649.99 195.27)" edge-id="NHGJ_PM_102">
+					<g id="PM102Hr" transform="translate(19.278 26.266) rotate(-0.3)" edge-id-selector="NHGJ_PM_102Hr">
+						<path id="PM102Hr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" edge-id-selector="NHGJ_PM_102Hr1">
+						</path>
+						<path id="PM102Hr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="NHGJ_PM_102Hr2">
+						</path>
+					</g>
+					<g id="PM102Icon" transform="translate(3.482 24.146)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="NHGJ_PM_102Icon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM102Label" transform="translate(2.482 49.146)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_PM_102Label">
+						<tspan x="0" y="0">
+							102
+						</tspan>
+					</text>
+				</g>
+				<g id="PM104" class="tooltip" transform="translate(710.185 313.354)" edge-id="NHGJ_PM_104">
+					<g id="PM104Hr" transform="translate(19.944 23.266) rotate(-0.3)" edge-id-selector="NHGJ_PM_104Hr">
+						<path id="PM104Hr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" edge-id-selector="NHGJ_PM_104Hr1">
+						</path>
+						<path id="PM104Hr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="NHGJ_PM_104Hr2">
+						</path>
+					</g>
+					<g id="PM104Icon" transform="translate(3.482 21.146)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="NHGJ_PM_104Icon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM104Label" transform="translate(1.482 19.146)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_PM_104Label">
+						<tspan x="0" y="0">
+							104
+						</tspan>
+					</text>
+				</g>
+				<g id="PM103" class="tooltip" transform="translate(641.243 267.596)" edge-id="NHGJ_PM_103">
+					<g id="PM103Hr" transform="translate(-7.722 26.266) rotate(-0.3)" edge-id-selector="NHGJ_PM_103Hr">
+						<path id="PM103Hr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" edge-id-selector="NHGJ_PM_103Hr1">
+						</path>
+						<path id="PM103Hr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="NHGJ_PM_103Hr2">
+						</path>
+					</g>
+					<g id="PM103Icon" transform="translate(3.482 24.146)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="NHGJ_PM_103Icon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM103Label" transform="translate(2.482 48.146)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_PM_103Label">
+						<tspan x="0" y="0">
+							103
+						</tspan>
+					</text>
+				</g>
+				<g id="PM114" class="tooltip" transform="translate(918.518 194.354)" edge-id="NHGJ_PM_114">
+					<g id="PM114Hr" transform="translate(-7.054 26.266) rotate(-0.3)" edge-id-selector="NHGJ_PM_114Hr">
+						<path id="PM114Hr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" edge-id-selector="NHGJ_PM_114Hr1">
+						</path>
+						<path id="PM114Hr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="NHGJ_PM_114Hr2">
+						</path>
+					</g>
+					<g id="PM114Icon" transform="translate(3.482 24.146)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="NHGJ_PM_114Icon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM114Label" transform="translate(2.482 48.146)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_PM_114Label">
+						<tspan x="0" y="0">
+							114
+						</tspan>
+					</text>
+				</g>
+				<g id="PM113" class="tooltip" transform="translate(1037.718 239.892)">
+					<g id="PM113Hr" transform="translate(19.944 23.266) rotate(-0.3)">
+						<path id="PM113Hr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)">
+						</path>
+						<path id="PM113Hr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3">
+						</path>
+					</g>
+					<g id="PM113Icon" transform="translate(3.482 21.146)" fill="#fff" stroke="#6c7091" stroke-width="4">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM113Label" transform="translate(2.482 19.146)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans">
+						<tspan x="0" y="0">
+							113
+						</tspan>
+					</text>
+				</g>
+				<g id="PM111" class="tooltip" transform="translate(1039.384 267.527)" edge-id="NHGJ_PM_111">
+					<g id="PM111Hr" transform="translate(19.278 26.266) rotate(-0.3)" edge-id-selector="NHGJ_PM_111Hr">
+						<path id="PM111Hr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" edge-id-selector="NHGJ_PM_111Hr1">
+						</path>
+						<path id="PM111Hr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="NHGJ_PM_111Hr2">
+						</path>
+					</g>
+					<g id="PM111Icon" transform="translate(3.482 24.146)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="NHGJ_PM_111Icon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM111Label" transform="translate(3.482 48.146)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_PM_111Label">
+						<tspan x="0" y="0">
+							111
+						</tspan>
+					</text>
+				</g>
+				<g id="PM112" class="tooltip" transform="translate(918.852 313.597)" edge-id="NHGJ_PM_112">
+					<g id="PM112Hr" transform="translate(-7.056 23.266) rotate(-0.3)" edge-id-selector="NHGJ_PM_112Hr">
+						<path id="PM112Hr1" d="M4.643,8.7C2.147,6.961.837,5.381.3,4.059-1.138.515,2.971-1.179,4.643.913c1.673-2.092,5.782-.4,4.343,3.146C8.449,5.381,7.14,6.961,4.643,8.7Z" transform="translate(0.199 1.057)" edge-id-selector="NHGJ_PM_112Hr1">
+						</path>
+						<path id="PM112Hr2" d="M0,1.239H0l2.707.014L3.082.012l1.69,2.663L5.39,1.124l3.331.116" transform="translate(0.499 3.194)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.3" edge-id-selector="NHGJ_PM_112Hr2">
+						</path>
+					</g>
+					<g id="PM112Icon" transform="translate(3.482 21.146)" fill="#fff" stroke="#6c7091" stroke-width="4" edge-id-selector="NHGJ_PM_112Icon">
+						<circle cx="7.5" cy="7.5" r="7.5" stroke="none">
+						</circle>
+						<circle cx="7.5" cy="7.5" r="5.5" fill="none">
+						</circle>
+					</g>
+					<text id="PM112Label" transform="translate(1.482 19.146)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_PM_112Label">
+						<tspan x="0" y="0">
+							112
+						</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="AXL" transform="translate(-170 -42)">
+				<g id="AXLBPCBPB2" class="tooltip" transform="translate(48 -10)" edge-id="NHGJ_AC_BPCBPB2">
+					<text id="AXLBPCBPB2Label" transform="translate(1352 593)" fill="#fff" font-size="14" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_AC_BPCBPB2Label">
+						<tspan x="-30.454" y="0">
+							BPCBPB2
+						</tspan>
+					</text>
+					<g id="AXLBPCBPB2Icon" transform="translate(1336 552)" fill="#fff" stroke="#707070" stroke-width="1" edge-id-selector="NHGJ_AC_BPCBPB2Icon">
+						<rect width="32" height="26" stroke="none">
+						</rect>
+						<rect x="0.5" y="0.5" width="31" height="25" fill="none">
+						</rect>
+					</g>
+				</g>
+				<g id="AXLBPCBPB1" class="tooltip" transform="translate(105 -6)" edge-id="NHGJ_AC_BPCBPB1">
+					<text id="AXLBPCBPB1Label" transform="translate(1399 591)" fill="#fff" font-size="14" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_AC_BPCBPB1Label">
+						<tspan x="-30.454" y="0">
+							BPCBPB1
+						</tspan>
+					</text>
+					<g id="AXLBPCBPB1Icon" transform="translate(1389 552)" fill="#fff" stroke="#707070" stroke-width="1" edge-id-selector="NHGJ_AC_BPCBPB1Icon">
+						<rect width="31" height="26" stroke="none">
+						</rect>
+						<rect x="0.5" y="0.5" width="30" height="25" fill="none">
+						</rect>
+					</g>
+				</g>
+				<g id="AXLBPCLMG2" class="tooltip" transform="translate(164 -6)" edge-id="NHGJ_AC_BPCLMG2">
+					<text id="AXLBPCLMG2Label" transform="translate(1452 592)" fill="#fff" font-size="14" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_AC_BPCLMG2Label">
+						<tspan x="-32.218" y="0">
+							BPCLMG2
+						</tspan>
+					</text>
+					<g id="AXLBPCLMG2Icon" transform="translate(1444 552)" fill="#fff" stroke="#707070" stroke-width="1" edge-id-selector="NHGJ_AC_BPCLMG2Icon">
+						<rect width="31" height="27" stroke="none">
+						</rect>
+						<rect x="0.5" y="0.5" width="30" height="26" fill="none">
+						</rect>
+					</g>
+				</g>
+				<g id="AXLBPCLMG1" class="tooltip" transform="translate(220 -5)" edge-id="NHGJ_AC_BPCLMG1">
+					<text id="AXLBPCLMG1Label" transform="translate(1510 591)" fill="#fff" font-size="15" font-family="OpenSans, Open Sans" edge-id-selector="NHGJ_AC_BPCLMG1Label">
+						<tspan x="-34.519" y="0">
+							BPCLMG1
+						</tspan>
+					</text>
+					<g id="AXLBPCLMG1Icon" transform="translate(1502 552)" fill="#fff" stroke="#707070" stroke-width="1" edge-id-selector="NHGJ_AC_BPCLMG1Icon">
+						<rect width="34" height="24" stroke="none">
+						</rect>
+						<rect x="0.5" y="0.5" width="33" height="23" fill="none">
+						</rect>
+					</g>
+				</g>
+				<text id="AXLE_COUNTER" data-name="AXLE COUNTER" transform="translate(1534 537)" fill="#fff" font-size="18" font-family="OpenSans, Open Sans">
+					<tspan x="-64.477" y="0">
+						AXLE COUNTER
+					</tspan>
+				</text>
+				<g id="AXLRectangle" transform="translate(1307 507)" fill="none" stroke="#fff" stroke-width="3">
+					<rect width="483" height="109" stroke="none">
+					</rect>
+					<rect x="1.5" y="1.5" width="480" height="106" fill="none">
+					</rect>
+				</g>
+			</g>
+			<rect id="BITCOMM_LOGO" data-name="BITCOMM LOGO" width="296" height="98" transform="translate(24 20)" fill="url(#pattern)">
+			</rect>
+		</g>
+	</g>
+</svg>
